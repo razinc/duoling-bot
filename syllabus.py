@@ -16,6 +16,10 @@ syllabus = {
             "english": "I want to travel and relax a bit",
             "chinese": "我想去旅游轻松一下",
             "pinyin" : "Wǒ xiǎng qù lǚyóu qīngsōng yīxià"
+        }, {
+            "english": "This is too expensive so I'm not buying it",
+            "chinese": "这个太贵，所以我不买",
+            "pinyin" : "Zhège tài guì, suǒyǐ wǒ bú mǎi"
         }]
     }
 }
