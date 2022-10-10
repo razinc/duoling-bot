@@ -20,6 +20,10 @@ syllabus = {
             "english": "This is too expensive so I'm not buying it",
             "chinese": "这个太贵，所以我不买",
             "pinyin" : "Zhège tài guì, suǒyǐ wǒ bú mǎi"
+        }, {
+            "english": "We will travel to India in March next year",
+            "chinese": "明年三月我们会去印度旅游",
+            "pinyin" : "Míngnián sān yuè wǒmen huì qù yìndù lǚyóu"
         }]
     }
 }
