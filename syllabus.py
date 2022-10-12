@@ -28,6 +28,10 @@ syllabus = {
             "english": "I like taking pictures with the phone the most",
             "chinese": "我最喜欢用手机拍照",
             "pinyin" : "Wǒ zuì xǐhuān yòng shǒujī pāizhào"
+        }, {
+            "english": "This is our Spanish teacher",
+            "chinese": "这是我们的西班牙语老师",
+            "pinyin" : "Zhè shì wǒmen de xībānyá yǔ lǎoshī"
         }]
     }
 }
