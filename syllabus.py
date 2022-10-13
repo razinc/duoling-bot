@@ -32,6 +32,10 @@ syllabus = {
             "english": "This is our Spanish teacher",
             "chinese": "这是我们的西班牙语老师",
             "pinyin" : "Zhè shì wǒmen de xībānyá yǔ lǎoshī"
+        }, {
+            "english": "What are your hobbies?",
+            "chinese": "你的爱好是什么?",
+            "pinyin" : "Nǐ de àihào shì shénme?"
         }]
     }
 }
