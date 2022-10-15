@@ -36,6 +36,10 @@ syllabus = {
             "english": "What are your hobbies?",
             "chinese": "你的爱好是什么?",
             "pinyin" : "Nǐ de àihào shì shénme?"
+        }, {
+            "english": "She is an Indian",
+            "chinese": "她是印度人",
+            "pinyin" : "Tā shì yìn duó rén"
         }]
     }
 }
