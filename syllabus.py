@@ -40,6 +40,10 @@ syllabus = {
             "english": "She is an Indian",
             "chinese": "她是印度人",
             "pinyin" : "Tā shì yìn duó rén"
+        }, {
+            "english": "My hobby is photography",
+            "chinese": "我的爱好是拍照",
+            "pinyin" : "Wǒ de àihào shì pāizhào"
         }]
     }
 }
