@@ -44,6 +44,10 @@ syllabus = {
             "english": "My hobby is photography",
             "chinese": "我的爱好是拍照",
             "pinyin" : "Wǒ de àihào shì pāizhào"
+        }, {
+            "english": "I am learning Chinese because I need to go to China",
+            "chinese": "我学习中文，因为我要去中国",
+            "pinyin" : "Wǒ xuéxí zhōngwén, yīnwèi wǒ yào qù zhōngguó"
         }]
     }
 }
