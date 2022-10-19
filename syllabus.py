@@ -52,6 +52,10 @@ syllabus = {
             "english": "He wants to live in Spain because his girlfriend is Spanish.",
             "chinese": "他想住在西班牙，因为他的女朋友是西班牙人.",
             "pinyin" : "Tā xiǎng zhù zài xībānyá, yīnwèi tā de nǚ péngyǒu shì xībānyá rén."
+        }, {
+            "english": "They enjoy using a camera to take pictures.",
+            "chinese": "他们喜欢用照相机拍照",
+            "pinyin" : "Tāmen xǐhuān yòng zhàoxiàngjī pāizhào."
         }]
     }
 }
