@@ -54,8 +54,12 @@ syllabus = {
             "pinyin" : "Tā xiǎng zhù zài xībānyá, yīnwèi tā de nǚ péngyǒu shì xībānyá rén."
         }, {
             "english": "They enjoy using a camera to take pictures.",
-            "chinese": "他们喜欢用照相机拍照",
+            "chinese": "他们喜欢用照相机拍照.",
             "pinyin" : "Tāmen xǐhuān yòng zhàoxiàngjī pāizhào."
+        }, {
+            "english": "I learn Chinese using a computer.",
+            "chinese": "我用电脑学习中文.",
+            "pinyin" : "Wǒ yòng diànnǎo xuéxí zhōngwén."
         }]
     }
 }
