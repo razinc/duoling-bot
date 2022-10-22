@@ -60,6 +60,10 @@ syllabus = {
             "english": "I learn Chinese using a computer.",
             "chinese": "我用电脑学习中文.",
             "pinyin" : "Wǒ yòng diànnǎo xuéxí zhōngwén."
+        }, {
+            "english": "I want to go to China.",
+            "chinese": "我想去中国.",
+            "pinyin" : "Wǒ xiǎng qù zhōngguó."
         }]
     }
 }
