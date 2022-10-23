@@ -64,6 +64,10 @@ syllabus = {
             "english": "I want to go to China.",
             "chinese": "我想去中国.",
             "pinyin" : "Wǒ xiǎng qù zhōngguó."
+        }, {
+            "english": "Why do you study Chinese?",
+            "chinese": "为什么你学习中文?",
+            "pinyin" : "Wèishéme nǐ xuéxí zhōngwén?"
         }]
     }
 }
