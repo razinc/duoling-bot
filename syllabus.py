@@ -68,6 +68,10 @@ syllabus = {
             "english": "Why do you study Chinese?",
             "chinese": "为什么你学习中文?",
             "pinyin" : "Wèishéme nǐ xuéxí zhōngwén?"
+        }, {
+            "english": "Can you speak Chinese?",
+            "chinese": "你会说中文吗?",
+            "pinyin" : "Nǐ huì shuō zhōngwén ma?"
         }]
     }
 }
