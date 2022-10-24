@@ -72,6 +72,10 @@ syllabus = {
             "english": "Can you speak Chinese?",
             "chinese": "你会说中文吗?",
             "pinyin" : "Nǐ huì shuō zhōngwén ma?"
+        }, {
+            "english": "How are you feeling now?",
+            "chinese": "你现在感觉如何?",
+            "pinyin" : "Nǐ xiànzài gǎnjué rúhé?",
         }]
     }
 }
