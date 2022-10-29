@@ -80,6 +80,10 @@ syllabus = {
             "english": "Do you want to go to New York?",
             "chinese": "你想不想去纽约?",
             "pinyin" : "Nǐ xiǎng bù xiǎng qù niǔyuē?"
+        }, {
+            "english": "Where are your friends going?",
+            "chinese": "你的朋友去哪儿?",
+            "pinyin" : "Nǐ de péngyǒu qù nǎ'er?"
         }]
     }
 }
