@@ -84,6 +84,10 @@ syllabus = {
             "english": "Where are your friends going?",
             "chinese": "你的朋友去哪儿?",
             "pinyin" : "Nǐ de péngyǒu qù nǎ'er?"
+        }, {
+            "english": "Why is he not happy?",
+            "chinese": "为什么他不高兴?",
+            "pinyin" : "Wèishéme tā bù gāoxìng?"
         }]
     }
 }
