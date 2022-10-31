@@ -88,6 +88,10 @@ syllabus = {
             "english": "Why is he not happy?",
             "chinese": "为什么他不高兴?",
             "pinyin" : "Wèishéme tā bù gāoxìng?"
+        }, {
+            "english": "Do you love listening to Spanish music?",
+            "chinese": "你爱听西班牙音乐吗?",
+            "pinyin" : "Nǐ ài tīng xībānyá yīnyuè ma?"
         }]
     }
 }
