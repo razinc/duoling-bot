@@ -92,6 +92,10 @@ syllabus = {
             "english": "Do you love listening to Spanish music?",
             "chinese": "你爱听西班牙音乐吗?",
             "pinyin" : "Nǐ ài tīng xībānyá yīnyuè ma?"
+        }, {
+            "english": "Why do you want to go to Spain?",
+            "chinese": "为什么你想去西班牙?",
+            "pinyin" : "Wèishéme nǐ xiǎng qù xībānyá?"
         }]
     }
 }
