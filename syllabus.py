@@ -96,6 +96,10 @@ syllabus = {
             "english": "Why do you want to go to Spain?",
             "chinese": "为什么你想去西班牙?",
             "pinyin" : "Wèishéme nǐ xiǎng qù xībānyá?"
+        }, {
+            "english": "He speaks so fast, so I don't understand.",
+            "chinese": "他说得很快，所以我不明白.",
+            "pinyin" : "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái."
         }]
     }
 }
