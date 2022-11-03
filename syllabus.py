@@ -100,6 +100,10 @@ syllabus = {
             "english": "He speaks so fast, so I don't understand.",
             "chinese": "他说得很快，所以我不明白.",
             "pinyin" : "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái."
+        }, {
+            "english": "That is our Spanish teacher.",
+            "chinese": "那是我们的西班牙语老师.",
+            "pinyin" : "Nà shì wǒmen de xībānyá yǔ lǎoshī."
         }]
     }
 }
