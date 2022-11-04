@@ -104,6 +104,10 @@ syllabus = {
             "english": "That is our Spanish teacher.",
             "chinese": "那是我们的西班牙语老师.",
             "pinyin" : "Nà shì wǒmen de xībānyá yǔ lǎoshī."
+        }, {
+            "english": "I'm learning Spanish at school.",
+            "chinese": "我在学校学习西班牙语.",
+            "pinyin" : "Wǒ zài xuéxiào xuéxí xībānyá yǔ."
         }]
     }
 }
