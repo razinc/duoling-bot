@@ -112,6 +112,14 @@ syllabus = {
             "english": "I bought a new phone.",
             "chinese": "我买了一个新手机.",
             "pinyin" : "Wǒ mǎile yīgè xīn shǒujī."
+        }, {
+            "english": "Traveling is my new hobby.",
+            "chinese": "我的新爱好是旅游.",
+            "pinyin" : "Wǒ de xīn àihào shì lǚyóu."
+        }, {
+            "english": "I want to go traveling in Spain.",
+            "chinese": "我想去西班牙旅游.",
+            "pinyin" : "Wǒ xiǎng qù xībānyá lǚyóu."
         }]
     }
 }
