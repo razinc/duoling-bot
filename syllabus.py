@@ -120,6 +120,10 @@ syllabus = {
             "english": "I want to go traveling in Spain.",
             "chinese": "我想去西班牙旅游.",
             "pinyin" : "Wǒ xiǎng qù xībānyá lǚyóu."
+        }, {
+            "english": "Your camera is inside the room.",
+            "chinese": "你的照相机在房间里.",
+            "pinyin" : "Nǐ de zhàoxiàngjī zài fángjiān lǐ."
         }]
     }
 }
