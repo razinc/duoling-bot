@@ -124,6 +124,10 @@ syllabus = {
             "english": "Your camera is inside the room.",
             "chinese": "你的照相机在房间里.",
             "pinyin" : "Nǐ de zhàoxiàngjī zài fángjiān lǐ."
+        }, {
+            "english": "He is not busy today, he is relaxed.",
+            "chinese": "他今天不忙，他很轻松.",
+            "pinyin" : "Tā jīntiān bù máng, tā hěn qīngsōng.."
         }]
     }
 }
