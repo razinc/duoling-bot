@@ -127,7 +127,11 @@ syllabus = {
         }, {
             "english": "He is not busy today, he is relaxed.",
             "chinese": "他今天不忙，他很轻松.",
-            "pinyin" : "Tā jīntiān bù máng, tā hěn qīngsōng.."
+            "pinyin" : "Tā jīntiān bù máng, tā hěn qīngsōng."
+        }, {
+            "english": "I want to go traveling because I like making new friends.",
+            "chinese": "我想旅游，因为我喜欢认识新朋友.",
+            "pinyin" : "Wǒ xiǎng lǚyóu, yīnwèi wǒ xǐhuān rènshí xīn péngyǒu."
         }]
     }
 }
