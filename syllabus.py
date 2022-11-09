@@ -132,6 +132,14 @@ syllabus = {
             "english": "I want to go traveling because I like making new friends.",
             "chinese": "我想旅游，因为我喜欢认识新朋友.",
             "pinyin" : "Wǒ xiǎng lǚyóu, yīnwèi wǒ xǐhuān rènshí xīn péngyǒu."
+        }, {
+            "english": "My home is in India.",
+            "chinese": "我的家在印度.",
+            "pinyin" : "Wǒ de jiā zài yìndù."
+        }, {
+            "english": "Did you see my camera?",
+            "chinese": "你看见我的照相机了吗?",
+            "pinyin" : "Nǐ kànjiàn wǒ de zhàoxiàngjī le ma?"
         }]
     }
 }
