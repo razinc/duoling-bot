@@ -140,6 +140,11 @@ syllabus = {
             "english": "Did you see my camera?",
             "chinese": "你看见我的照相机了吗?",
             "pinyin" : "Nǐ kànjiàn wǒ de zhàoxiàngjī le ma?"
+        }],
+        "Dining 1" : [{
+            "english": "My friend and I ate lamb for dinner yesterday.",
+            "chinese": "昨天晚饭我和朋友吃了羊肉.",
+            "pinyin" : "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu."
         }]
-    }
+    },
 }
