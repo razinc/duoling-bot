@@ -145,6 +145,10 @@ syllabus = {
             "english": "My friend and I ate lamb for dinner yesterday.",
             "chinese": "昨天晚饭我和朋友吃了羊肉.",
             "pinyin" : "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu."
+        }, {
+            "english": "Would you like to travel to Spain or Japan?",
+            "chinese": "你想去西班牙旅游还是日本旅游?",
+            "pinyin" : "Nǐ xiǎng qù xībānyá lǚyóu háishì rìběn lǚyóu?"
         }]
     },
 }
