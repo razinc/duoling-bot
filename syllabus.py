@@ -1,158 +1,90 @@
 syllabus = {
-    "Unit 2": {
-        "Hobbies 2": [{
-            "english": "His hobby is listening to music.",
-            "chinese": "他的爱好是听音乐.",
-            "pinyin" : "Tā de àihào shì tīng yīnyuè."
-        }, {
-            "english": "I can't speak Spanish.",
-            "chinese": "我不会说西班牙语.",
-            "pinyin" : "Wǒ bù huì shuō xībānyá yǔ."
-        }, {
-            "english": "I am too busy, I just want to relax a bit.",
-            "chinese": "我太忙了，我只想轻松一下.",
-            "pinyin" : "Wǒ tài mángle, wǒ zhǐ xiǎng qīngsōng yīxià."
-        }, {
-            "english": "I want to travel and relax a bit.",
-            "chinese": "我想去旅游轻松一下.",
-            "pinyin" : "Wǒ xiǎng qù lǚyóu qīngsōng yīxià."
-        }, {
-            "english": "This is too expensive so I'm not buying it.",
-            "chinese": "这个太贵，所以我不买.",
-            "pinyin" : "Zhège tài guì, suǒyǐ wǒ bú mǎi."
-        }, {
-            "english": "We will travel to India in March next year.",
-            "chinese": "明年三月我们会去印度旅游.",
-            "pinyin" : "Míngnián sān yuè wǒmen huì qù yìndù lǚyóu."
-        }, {
-            "english": "I like taking pictures with the phone the most.",
-            "chinese": "我最喜欢用手机拍照.",
-            "pinyin" : "Wǒ zuì xǐhuān yòng shǒujī pāizhào."
-        }, {
-            "english": "This is our Spanish teacher.",
-            "chinese": "这是我们的西班牙语老师.",
-            "pinyin" : "Zhè shì wǒmen de xībānyá yǔ lǎoshī."
-        }, {
-            "english": "What are your hobbies?",
-            "chinese": "你的爱好是什么?",
-            "pinyin" : "Nǐ de àihào shì shénme?"
-        }, {
-            "english": "She is an Indian.",
-            "chinese": "她是印度人.",
-            "pinyin" : "Tā shì yìn duó rén."
-        }, {
-            "english": "My hobby is photography.",
-            "chinese": "我的爱好是拍照.",
-            "pinyin" : "Wǒ de àihào shì pāizhào."
-        }, {
-            "english": "I am learning Chinese because I need to go to China.",
-            "chinese": "我学习中文，因为我要去中国.",
-            "pinyin" : "Wǒ xuéxí zhōngwén, yīnwèi wǒ yào qù zhōngguó."
-        }, {
-            "english": "He wants to live in Spain because his girlfriend is Spanish.",
-            "chinese": "他想住在西班牙，因为他的女朋友是西班牙人.",
-            "pinyin" : "Tā xiǎng zhù zài xībānyá, yīnwèi tā de nǚ péngyǒu shì xībānyá rén."
-        }, {
-            "english": "They enjoy using a camera to take pictures.",
-            "chinese": "他们喜欢用照相机拍照.",
-            "pinyin" : "Tāmen xǐhuān yòng zhàoxiàngjī pāizhào."
-        }, {
-            "english": "I learn Chinese using a computer.",
-            "chinese": "我用电脑学习中文.",
-            "pinyin" : "Wǒ yòng diànnǎo xuéxí zhōngwén."
-        }, {
-            "english": "I want to go to China.",
-            "chinese": "我想去中国.",
-            "pinyin" : "Wǒ xiǎng qù zhōngguó."
-        }, {
-            "english": "Why do you study Chinese?",
-            "chinese": "为什么你学习中文?",
-            "pinyin" : "Wèishéme nǐ xuéxí zhōngwén?"
-        }, {
-            "english": "Can you speak Chinese?",
-            "chinese": "你会说中文吗?",
-            "pinyin" : "Nǐ huì shuō zhōngwén ma?"
-        }, {
-            "english": "She enjoys learning English.",
-            "chinese": "她喜欢学习英语.",
-            "pinyin" : "Tā xǐhuān xuéxí yīngyǔ."
-        }, {
-            "english": "Do you want to go to New York?",
-            "chinese": "你想不想去纽约?",
-            "pinyin" : "Nǐ xiǎng bù xiǎng qù niǔyuē?"
-        }, {
-            "english": "Where are your friends going?",
-            "chinese": "你的朋友去哪儿?",
-            "pinyin" : "Nǐ de péngyǒu qù nǎ'er?"
-        }, {
-            "english": "Why is he not happy?",
-            "chinese": "为什么他不高兴?",
-            "pinyin" : "Wèishéme tā bù gāoxìng?"
-        }, {
-            "english": "Do you love listening to Spanish music?",
-            "chinese": "你爱听西班牙音乐吗?",
-            "pinyin" : "Nǐ ài tīng xībānyá yīnyuè ma?"
-        }, {
-            "english": "Why do you want to go to Spain?",
-            "chinese": "为什么你想去西班牙?",
-            "pinyin" : "Wèishéme nǐ xiǎng qù xībānyá?"
-        }, {
-            "english": "He speaks so fast, so I don't understand.",
-            "chinese": "他说得很快，所以我不明白.",
-            "pinyin" : "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái."
-        }, {
-            "english": "That is our Spanish teacher.",
-            "chinese": "那是我们的西班牙语老师.",
-            "pinyin" : "Nà shì wǒmen de xībānyá yǔ lǎoshī."
-        }, {
-            "english": "I'm learning Spanish at school.",
-            "chinese": "我在学校学习西班牙语.",
-            "pinyin" : "Wǒ zài xuéxiào xuéxí xībānyá yǔ."
-        }, {
-            "english": "I bought a new phone.",
-            "chinese": "我买了一个新手机.",
-            "pinyin" : "Wǒ mǎile yīgè xīn shǒujī."
-        }, {
-            "english": "Traveling is my new hobby.",
-            "chinese": "我的新爱好是旅游.",
-            "pinyin" : "Wǒ de xīn àihào shì lǚyóu."
-        }, {
-            "english": "I want to go traveling in Spain.",
-            "chinese": "我想去西班牙旅游.",
-            "pinyin" : "Wǒ xiǎng qù xībānyá lǚyóu."
-        }, {
-            "english": "Your camera is inside the room.",
-            "chinese": "你的照相机在房间里.",
-            "pinyin" : "Nǐ de zhàoxiàngjī zài fángjiān lǐ."
-        }, {
-            "english": "He is not busy today, he is relaxed.",
-            "chinese": "他今天不忙，他很轻松.",
-            "pinyin" : "Tā jīntiān bù máng, tā hěn qīngsōng."
-        }, {
-            "english": "I want to go traveling because I like making new friends.",
-            "chinese": "我想旅游，因为我喜欢认识新朋友.",
-            "pinyin" : "Wǒ xiǎng lǚyóu, yīnwèi wǒ xǐhuān rènshí xīn péngyǒu."
-        }, {
-            "english": "My home is in India.",
-            "chinese": "我的家在印度.",
-            "pinyin" : "Wǒ de jiā zài yìndù."
-        }, {
-            "english": "Did you see my camera?",
-            "chinese": "你看见我的照相机了吗?",
-            "pinyin" : "Nǐ kànjiàn wǒ de zhàoxiàngjī le ma?"
-        }],
-        "Dining 1" : [{
-            "english": "My friend and I ate lamb for dinner yesterday.",
-            "chinese": "昨天晚饭我和朋友吃了羊肉.",
-            "pinyin" : "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu."
-        }, {
-            "english": "Would you like to travel to Spain or Japan?",
-            "chinese": "你想去西班牙旅游还是日本旅游?",
-            "pinyin" : "Nǐ xiǎng qù xībānyá lǚyóu háishì rìběn lǚyóu?"
-        }, {
-            "english": "Will we eat Japanese food tonight?",
-            "chinese": "今天晚上我们会吃日本菜吗?",
-            "pinyin" : "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?"
-        }]
-    },
+    "unit 1":{"description": "Say hello and goodbye, use numbers",
+              "phrases": [
+                  {"english": "Hello.",
+                   "chinese": "你好.",
+                   "pinyin" : "Nǐ hǎo."},
+                  {"english": "Goodbye.",
+                   "chinese": "再见.",
+                   "pinyin" : "Zàijiàn."},
+                  {"english": "One, two, three, four, five, six, seven, eight, nine, ten.",
+                   "chinese": "一, 二, 三, 四, 五, 六, 七, 八, 九, 十.",
+                   "pinyin" : "Yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí."},
+                  {"english": "Twelve.",
+                   "chinese": "十二.",
+                   "pinyin" : "Shíèr."},
+                  {"english": "Sixty seven.",
+                   "chinese": "六十七.",
+                   "pinyin" : "Liùshíqī."},
+                  {"english": "One hundred.",
+                   "chinese": "一百.",
+                   "pinyin" : "Yībǎi."}
+                         ]
+             },
+    "unit 2":{"description": "",
+              "phrases": []
+             },
+    "unit 3":{"description": "",
+              "phrases": []
+             },
+    "unit 4":{"description": "",
+              "phrases": []
+             },
+    "unit 5":{"description": "",
+              "phrases": []
+             },
+    "unit 6":{"description": "",
+              "phrases": []
+             },
+    "unit 7":{"description": "",
+              "phrases": []
+             },
+    "unit 8":{"description": "",
+              "phrases": []
+             },
+    "unit 9":{"description": "",
+              "phrases": []
+             },
+    "unit 10":{"description": "",
+              "phrases": []
+             },
+    "unit 11":{"description": "",
+              "phrases": []
+             },
+    "unit 12":{"description": "",
+              "phrases": []
+             },
+    "unit 13":{"description": "",
+              "phrases": []
+             },
+    "unit 14":{"description": "",
+              "phrases": []
+             },
+    "unit 15":{"description": "",
+              "phrases": []
+             },
+    "unit 16":{"description": "",
+              "phrases": []
+             },
+    "unit 17":{"description": "",
+              "phrases": []
+             },
+    "unit 18":{"description": "",
+              "phrases": []
+             },
+    "unit 19":{"description": "",
+              "phrases": []
+             },
+    "unit 20":{"description": "",
+              "phrases": []
+             },
+    "unit 21":{"description": "",
+              "phrases": []
+             },
+    "unit 22":{"description": "",
+              "phrases": []
+             },
+    "unit 23":{"description": "",
+              "phrases": []
+             },
 }
