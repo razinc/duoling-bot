@@ -149,6 +149,10 @@ syllabus = {
             "english": "Would you like to travel to Spain or Japan?",
             "chinese": "你想去西班牙旅游还是日本旅游?",
             "pinyin" : "Nǐ xiǎng qù xībānyá lǚyóu háishì rìběn lǚyóu?"
+        }, {
+            "english": "Will we eat Japanese food tonight?",
+            "chinese": "今天晚上我们会吃日本菜吗?",
+            "pinyin" : "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?"
         }]
     },
 }
