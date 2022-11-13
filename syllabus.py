@@ -22,7 +22,11 @@ syllabus = {
                          ]
              },
     "unit 2":{"description": "",
-              "phrases": []
+              "phrases": [
+                  {"english": "Hello, what's your name?",
+                   "chinese": "你好你叫什么名字?",
+                   "pinyin" : "Nǐ hǎo nǐ jiào shénme míngzì?"}
+              ]
              },
     "unit 3":{"description": "",
               "phrases": []
