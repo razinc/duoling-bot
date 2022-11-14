@@ -25,7 +25,10 @@ syllabus = {
               "phrases": [
                   {"english": "Hello, what's your name?",
                    "chinese": "你好你叫什么名字?",
-                   "pinyin" : "Nǐ hǎo nǐ jiào shénme míngzì?"}
+                   "pinyin" : "Nǐ hǎo nǐ jiào shénme míngzì?"},
+                  {"english": "My name is Wang Ming, what's yours?",
+                   "chinese": "我叫王明, 你呢?",
+                   "pinyin" : "Wǒ jiào wáng míng, nǐ ne?"}
               ]
              },
     "unit 3":{"description": "",
