@@ -28,7 +28,10 @@ syllabus = {
                    "pinyin" : "Nǐ hǎo nǐ jiào shénme míngzì?"},
                   {"english": "My name is Wang Ming, what's yours?",
                    "chinese": "我叫王明, 你呢?",
-                   "pinyin" : "Wǒ jiào wáng míng, nǐ ne?"}
+                   "pinyin" : "Wǒ jiào wáng míng, nǐ ne?"},
+                  {"english": "My name is Li Ming.",
+                   "chinese": "我叫李明.",
+                   "pinyin" : "Wǒ jiào lǐ míng."}
               ]
              },
     "unit 3":{"description": "",
