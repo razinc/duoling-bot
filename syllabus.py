@@ -1,5 +1,5 @@
 syllabus = {
-    "unit 1":{"description": "Say hello and goodbye, use numbers",
+    "unit 1":{"description": "Say hello and goodbye, use numbers.",
               "phrases": [
                   {"english": "Hello.",
                    "chinese": "你好.",
@@ -21,7 +21,7 @@ syllabus = {
                    "pinyin" : "Yībǎi."}
                          ]
              },
-    "unit 2":{"description": "",
+    "unit 2":{"description": "Ask someone's name, greet people.",
               "phrases": [
                   {"english": "Hello, what's your name?",
                    "chinese": "你好你叫什么名字?",
@@ -31,7 +31,10 @@ syllabus = {
                    "pinyin" : "Wǒ jiào wáng míng, nǐ ne?"},
                   {"english": "My name is Li Ming.",
                    "chinese": "我叫李明.",
-                   "pinyin" : "Wǒ jiào lǐ míng."}
+                   "pinyin" : "Wǒ jiào lǐ míng."},
+                  {"english": "My last name is Li, what's your last name?",
+                   "chinese": "我姓李, 你姓什么?",
+                   "pinyin" : "Wǒ xìng lǐ, nǐ xìng shénme?"}
               ]
              },
     "unit 3":{"description": "",
