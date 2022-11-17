@@ -18,8 +18,7 @@ syllabus = {
                    "pinyin" : "Liùshíqī."},
                   {"english": "One hundred.",
                    "chinese": "一百.",
-                   "pinyin" : "Yībǎi."}
-                         ]
+                   "pinyin" : "Yībǎi."}]
              },
     "unit 2":{"description": "Ask someone's name, greet people.",
               "phrases": [
@@ -34,8 +33,19 @@ syllabus = {
                    "pinyin" : "Wǒ jiào lǐ míng."},
                   {"english": "My last name is Li, what's your last name?",
                    "chinese": "我姓李, 你姓什么?",
-                   "pinyin" : "Wǒ xìng lǐ, nǐ xìng shénme?"}
-              ]
+                   "pinyin" : "Wǒ xìng lǐ, nǐ xìng shénme?"},
+                  {"english": "Nice to meet you.",
+                   "chinese": "很高兴认识你.",
+                   "pinyin" : "Hěn gāoxìng rènshí nǐ."},
+                  {"english": "Nice to meet you too.",
+                   "chinese": "我也很高兴认识你.",
+                   "pinyin" : "Wǒ yě hěn gāoxìng rènshí nǐ."},
+                  {"english": "I am happy.",
+                   "chinese": "我很高兴.",
+                   "pinyin" : "Wǒ hěn gāoxìng."},
+                  {"english": "I know Zhang Ming.",
+                   "chinese": "我认识张明.",
+                   "pinyin" : "Wǒ rènshí zhāng míng."}]
              },
     "unit 3":{"description": "",
               "phrases": []
