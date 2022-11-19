@@ -47,8 +47,11 @@ syllabus = {
                    "chinese": "我认识张明.",
                    "pinyin" : "Wǒ rènshí zhāng míng."}]
              },
-    "unit 3":{"description": "",
-              "phrases": []
+    "unit 3":{"description": "Discuss food choices, talk about occupations.",
+              "phrases": [
+                  {"english": "You eat noodles.",
+                   "chinese": "你吃面.",
+                   "pinyin" : "Nǐ chī miàn."}]
              },
     "unit 4":{"description": "",
               "phrases": []
