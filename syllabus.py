@@ -51,7 +51,10 @@ syllabus = {
               "phrases": [
                   {"english": "You eat noodles.",
                    "chinese": "你吃面.",
-                   "pinyin" : "Nǐ chī miàn."}]
+                   "pinyin" : "Nǐ chī miàn."},
+                  {"english": "I drink tea.",
+                   "chinese": "我喝茶.",
+                   "pinyin" : "Wǒ hē chá."}]
              },
     "unit 4":{"description": "",
               "phrases": []
