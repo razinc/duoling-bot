@@ -54,7 +54,10 @@ syllabus = {
                    "pinyin" : "Nǐ chī miàn."},
                   {"english": "I drink tea.",
                    "chinese": "我喝茶.",
-                   "pinyin" : "Wǒ hē chá."}]
+                   "pinyin" : "Wǒ hē chá."},
+                  {"english": "I don't eat noodle and also don't eat rice.",
+                   "chinese": "我不吃面也不吃饭.",
+                   "pinyin" : "Wǒ bù chī miàn yě bù chī fàn."}]
              },
     "unit 4":{"description": "",
               "phrases": []
