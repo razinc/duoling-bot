@@ -73,6 +73,31 @@ syllabus = {
                 "english": "You drink water.",
                 "chinese": "你喝水.",
                 "pinyin": "Nǐ hē shuǐ.",
+            },
+            {
+                "english": "You also drink tea.",
+                "chinese": "你也喝茶.",
+                "pinyin": "Nǐ yě hē chá.",
+            },
+            {
+                "english": "She is a doctor.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "He is a teacher.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Are you students?.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Do you drink tea?",
+                "chinese": "",
+                "pinyin": "",
             }
         ],
     },
