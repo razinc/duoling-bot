@@ -81,23 +81,23 @@ syllabus = {
             },
             {
                 "english": "She is a doctor.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "她是医生.",
+                "pinyin": "Tā shì yīshēng.",
             },
             {
                 "english": "He is a teacher.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "他是个老师.",
+                "pinyin": "Tā shì lǎoshī.",
             },
             {
                 "english": "Are you students?.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "你们是学生吗?",
+                "pinyin": "Nǐmen shì xuéshēng ma?",
             },
             {
                 "english": "Do you drink tea?",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "你喝茶吗?",
+                "pinyin": "Nǐ hē chá ma?",
             }
         ],
     },
