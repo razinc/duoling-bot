@@ -98,10 +98,54 @@ syllabus = {
                 "english": "Do you drink tea?",
                 "chinese": "你喝茶吗?",
                 "pinyin": "Nǐ hē chá ma?",
-            }
+            },
         ],
     },
-    "unit 4": {"description": "", "phrases": []},
+    "unit 4": {
+        "description": "Exchange phone numbers, discuss nationalities.",
+        "phrases": [
+            {
+                "english": "What is your phone numbers?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "My phone number is 2341.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is his telephone number 8765?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "Are you Chinese?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "Yes, I'm Chinese.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "You are all American, right?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "They are Americans.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Which country are you from?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+        ],
+    },
     "unit 5": {"description": "", "phrases": []},
     "unit 6": {"description": "", "phrases": []},
     "unit 7": {"description": "", "phrases": []},
