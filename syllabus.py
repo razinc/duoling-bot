@@ -106,18 +106,18 @@ syllabus = {
         "phrases": [
             {
                 "english": "What is your phone numbers?",
-                "chinese": "?",
-                "pinyin": "?",
+                "chinese": "你的电话号码是多少?",
+                "pinyin": "Nǐ de diànhuà hàomǎ shì duōshǎo?",
             },
             {
                 "english": "My phone number is 2341.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "我的电话号码是 二三四一.",
+                "pinyin": "Wǒ de diànhuà hàomǎ shì èrsānsìyī.",
             },
             {
                 "english": "Is his telephone number 8765?",
-                "chinese": "?",
-                "pinyin": "?",
+                "chinese": "他的电话号码是八七六五吗?",
+                "pinyin": "Tā de diànhuà hàomǎ shì bāqīliùwǔ ma?",
             },
             {
                 "english": "Are you Chinese?",
