@@ -69,11 +69,7 @@ syllabus = {
                 "chinese": "我不吃面也不吃饭.",
                 "pinyin": "Wǒ bù chī miàn yě bù chī fàn.",
             },
-            {
-                "english": "You drink water.",
-                "chinese": "你喝水.",
-                "pinyin": "Nǐ hē shuǐ.",
-            },
+            {"english": "You drink water.", "chinese": "你喝水.", "pinyin": "Nǐ hē shuǐ."},
             {
                 "english": "You also drink tea.",
                 "chinese": "你也喝茶.",
@@ -146,7 +142,17 @@ syllabus = {
             },
         ],
     },
-    "unit 5": {"description": "", "phrases": []},
+    "unit 5": {
+        "description": "Greet people, talk about your hometown.",
+        "phrases": [
+            {"english": "Good morning!", "chinese": "早上好!", "pinyin": "Zǎoshang hǎo!"},
+            {
+                "english": "How was your day?",
+                "chinese": "你今天怎么样?",
+                "pinyin": "Nǐ jīntiān zěnme yàng?",
+            },
+        ],
+    },
     "unit 6": {"description": "", "phrases": []},
     "unit 7": {"description": "", "phrases": []},
     "unit 8": {"description": "", "phrases": []},
