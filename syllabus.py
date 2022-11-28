@@ -151,6 +151,66 @@ syllabus = {
                 "chinese": "你今天怎么样?",
                 "pinyin": "Nǐ jīntiān zěnme yàng?",
             },
+            {
+                "english": "How is he?",
+                "chinese": "他怎么样?",
+                "pinyin": "Tā zěnme yàng?",
+            },
+            {
+                "english": "Are you busy?",
+                "chinese": "你忙吗?",
+                "pinyin": "Nǐ máng ma?",
+            },
+            {
+                "english": "I'm not busy.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Where do you live?",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "My doctor is from New York.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Where's your home?",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "My home is in Beijing.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "She lives in Taiwan.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "London isn't in the USA.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "They are at school.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "The student lives in Canada.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Do you live in China?",
+                "chinese": "",
+                "pinyin": "",
+            },
         ],
     },
     "unit 6": {"description": "", "phrases": []},
