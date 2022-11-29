@@ -163,13 +163,13 @@ syllabus = {
             },
             {
                 "english": "I'm not busy.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "我不忙.",
+                "pinyin": "Wǒ bù máng.",
             },
             {
                 "english": "Where do you live?",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "你住在哪儿?",
+                "pinyin": "Nǐ zhù zài nǎ'er?",
             },
             {
                 "english": "My doctor is from New York.",
