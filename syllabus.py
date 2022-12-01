@@ -173,18 +173,18 @@ syllabus = {
             },
             {
                 "english": "My doctor is from New York.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "我的医生是纽约人.",
+                "pinyin": "Wǒ de yīshēng shì niǔyuē rén.",
             },
             {
                 "english": "Where's your home?",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "你的家在哪儿?",
+                "pinyin": "Nǐ de jiā zài nǎ'er?",
             },
             {
                 "english": "My home is in Beijing.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "我的家在北京.",
+                "pinyin": "Wǒ de jiā zài běijīng.",
             },
             {
                 "english": "She lives in Taiwan.",
