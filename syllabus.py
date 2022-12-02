@@ -188,8 +188,8 @@ syllabus = {
             },
             {
                 "english": "She lives in Taiwan.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "她住在台湾.",
+                "pinyin": "Tā zhù zài táiwān.",
             },
             {
                 "english": "London isn't in the USA.",
