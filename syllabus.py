@@ -193,8 +193,8 @@ syllabus = {
             },
             {
                 "english": "London isn't in the USA.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "伦敦不在美国",
+                "pinyin": "Lúndūn bùzài měiguó",
             },
             {
                 "english": "They are at school.",
