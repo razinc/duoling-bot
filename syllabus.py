@@ -193,13 +193,13 @@ syllabus = {
             },
             {
                 "english": "London isn't in the USA.",
-                "chinese": "伦敦不在美国",
-                "pinyin": "Lúndūn bùzài měiguó",
+                "chinese": "伦敦不在美国.",
+                "pinyin": "Lúndūn bùzài měiguó.",
             },
             {
                 "english": "They are at school.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "他们在学校.",
+                "pinyin": "Tāmen zài xuéxiào.",
             },
             {
                 "english": "The student lives in Canada.",
