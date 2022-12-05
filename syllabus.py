@@ -203,13 +203,13 @@ syllabus = {
             },
             {
                 "english": "The student lives in Canada.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "学生住在加拿大.",
+                "pinyin": "Xuéshēng zhù zài jiānádà.",
             },
             {
                 "english": "Do you live in China?",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "你住在中国吗?",
+                "pinyin": "Nǐ zhù zài zhōngguó ma?",
             },
         ],
     },
