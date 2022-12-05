@@ -213,7 +213,61 @@ syllabus = {
             },
         ],
     },
-    "unit 6": {"description": "", "phrases": []},
+    "unit 6": {
+        "description": "Express gratitude, refer to family members.",
+        "phrases": [
+            {
+                "english": "Thank you.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "You're welcome.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Goodbye.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "No problem.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "I am busy, sorry.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Who is this person?",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "I love my family.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Does she have an older sister?",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "She has four older sisters.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "Which teacher?",
+                "chinese": "",
+                "pinyin": "",
+            },  
+        ],
+    },
     "unit 7": {"description": "", "phrases": []},
     "unit 8": {"description": "", "phrases": []},
     "unit 9": {"description": "", "phrases": []},
