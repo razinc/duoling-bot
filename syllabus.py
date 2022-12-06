@@ -218,18 +218,18 @@ syllabus = {
         "phrases": [
             {
                 "english": "Thank you.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "谢谢.",
+                "pinyin": "Xièxiè.",
             },
             {
                 "english": "You're welcome.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "不客气.",
+                "pinyin": "Bù kèqì.",
             },
             {
                 "english": "Goodbye.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "再见.",
+                "pinyin": "Zàijiàn.",
             },
             {
                 "english": "No problem.",
