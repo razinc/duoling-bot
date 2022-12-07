@@ -233,8 +233,8 @@ syllabus = {
             },
             {
                 "english": "No problem.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "没关系.",
+                "pinyin": "Méiguānxì.",
             },
             {
                 "english": "I am busy, sorry.",
