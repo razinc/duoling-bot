@@ -238,13 +238,13 @@ syllabus = {
             },
             {
                 "english": "I am busy, sorry.",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "我很忙, 对不起.",
+                "pinyin": "Wǒ hěn máng, duìbùqǐ.",
             },
             {
                 "english": "Who is this person?",
-                "chinese": "",
-                "pinyin": "",
+                "chinese": "这个人是谁?",
+                "pinyin": "Zhège rén shì shéi.",
             },
             {
                 "english": "I love my family.",
@@ -268,10 +268,266 @@ syllabus = {
             },  
         ],
     },
-    "unit 7": {"description": "", "phrases": []},
-    "unit 8": {"description": "", "phrases": []},
-    "unit 9": {"description": "", "phrases": []},
-    "unit 10": {"description": "", "phrases": []},
+    "unit 7": {
+        "description": "Ask for help, greet people you know.",
+        "phrases": [
+            {
+                "english": "Do you speak English?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Please help me.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Do you know?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I don't know.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "He does not speak Chinese.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Excuse me, what is your name?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "She knows me.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I know her.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Long time no see! How are you doing?.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I am not bad, what about you?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I have been busy recently.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Good morning.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Good night.",
+                "chinese": ".",
+                "pinyin": ".",
+            },    
+        ]
+    },
+    "unit 8": {
+        "description": "Order a drink, find a bathroom.",
+        "phrases": [
+            {
+                "english": "She drinks iced tea.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "We drink coffee in the morning.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Do you want iced coffee?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I want hot water, and you?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I want hot milk.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Excuse me, where is the bathroom?.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Sorry, we do not have a bathroom/",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is the restaurant there?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "The restaurant is not there.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is the bathroom here?",
+                "chinese": ".",
+                "pinyin": ".",
+            },    
+        ]
+    },
+    "unit 9": {
+        "description": "Talk about days and dates.",
+        "phrases": [
+            {
+                "english": "What day is it today?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Today is Saturday.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "What is tomorrow's date?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Tomorrow is the 18th.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "What time is it now?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "It is one o'clock now.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "November 30, 2011.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I have 3 children.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "My daugther is 17 years old.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "This is our cat.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "How old is he?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is that your wife?",
+                "chinese": ".",
+                "pinyin": ".",
+            },    
+        ]
+    },
+    "unit 10": {
+        "description": "Call someone on the phone, describe people.",
+        "phrases": [
+            {
+                "english": "Hello, are you Doctor Li?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Slow down, please.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I don't understand.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "You speak very fast.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I eat slowly.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "He speaks well.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is he tall?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "My older brother's girlfriend is very pretty.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "My boyfriend loves cat.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is your younger brother short?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "That is our friend.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Are you happy?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Is he busy?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+        ]
+    },
     "unit 11": {"description": "", "phrases": []},
     "unit 12": {"description": "", "phrases": []},
     "unit 13": {"description": "", "phrases": []},
