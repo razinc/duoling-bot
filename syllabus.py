@@ -343,23 +343,23 @@ syllabus = {
         "phrases": [
             {
                 "english": "She drinks iced tea.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "她喝冰茶.",
+                "pinyin": "Tā hē bīng chá.",
             },
             {
                 "english": "We drink coffee in the morning.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "我们早上喝咖啡.",
+                "pinyin": "Wǒmen zǎoshang hē kāfēi.",
             },
             {
                 "english": "Do you want iced coffee?",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "你要冰咖啡吗?",
+                "pinyin": "Nǐ yào bīng kāfēi ma?",
             },
             {
                 "english": "I want hot water, and you?",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "我要热水, 你呢?",
+                "pinyin": "Wǒ yào rè shuǐ,nǐ ne?",
             },
             {
                 "english": "I want hot milk.",
