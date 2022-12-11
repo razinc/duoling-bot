@@ -363,8 +363,8 @@ syllabus = {
             },
             {
                 "english": "I want hot milk.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "我要热牛奶.",
+                "pinyin": "Wǒ yào rè niúnǎi.",
             },
             {
                 "english": "Excuse me, where is the bathroom?.",
