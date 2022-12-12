@@ -368,11 +368,11 @@ syllabus = {
             },
             {
                 "english": "Excuse me, where is the bathroom?.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "请问，洗手间在哪儿?",
+                "pinyin": "Qǐngwèn, xǐshǒujiān zài nǎ'er?",
             },
             {
-                "english": "Sorry, we do not have a bathroom/",
+                "english": "Sorry, we do not have a bathroom.",
                 "chinese": ".",
                 "pinyin": ".",
             },
