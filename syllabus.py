@@ -373,23 +373,23 @@ syllabus = {
             },
             {
                 "english": "Sorry, we do not have a bathroom.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "对不起, 我们没有洗手间.",
+                "pinyin": "Duìbùqǐ, wǒmen méiyǒu xǐshǒujiān.",
             },
             {
                 "english": "Is the restaurant there?",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "饭馆在那儿吗?",
+                "pinyin": "Fànguǎn zài nà'er ma?",
             },
             {
                 "english": "The restaurant is not there.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "饭馆不在那儿.",
+                "pinyin": "Fànguǎn bùzài nà'er.",
             },
             {
                 "english": "Is the bathroom here?",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "洗手间在这儿吗?",
+                "pinyin": "Xǐshǒujiān zài zhè'er ma?",
             },    
         ]
     },
