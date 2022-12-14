@@ -398,8 +398,8 @@ syllabus = {
         "phrases": [
             {
                 "english": "What day is it today?",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "今天星期几?",
+                "pinyin": "Jīntiān xīngqí jǐ?",
             },
             {
                 "english": "Today is Saturday.",
