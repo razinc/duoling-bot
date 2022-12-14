@@ -403,8 +403,8 @@ syllabus = {
             },
             {
                 "english": "Today is Saturday.",
-                "chinese": ".",
-                "pinyin": ".",
+                "chinese": "今天星期六.",
+                "pinyin": "Jīntiān xīngqíliù.",
             },
             {
                 "english": "What is tomorrow's date?",
