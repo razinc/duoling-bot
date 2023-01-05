@@ -533,7 +533,87 @@ syllabus = {
             },
         ]
     },
-    "unit 11": {"description": "", "phrases": []},
+    "unit 11": {
+        "description": "Talk about past events, ask for directions.",
+        "phrases": [
+            {
+                "english": "What did you do last weekend?",
+                "chinese": "你上个周末做了什么?",
+                "pinyin": "Nǐ shàng gè zhōumò zuòle shénme?",
+            },
+            {
+                "english": "I saw my girlfriend last weekend.",
+                "chinese": "我上个周末见了女朋友.",
+                "pinyin": "Wǒ shàng gè zhōumò jiànle nǚ péngyǒu.",
+            },
+            {
+                "english": "She lived in New York last year.",
+                "chinese": "她去年住在纽约.",
+                "pinyin": "Tā qùnián zhù zài niǔyuē.",
+            },
+            {
+                "english": "My teacher was in Beijing last year.",
+                "chinese": "我的老师去年在北京.",
+                "pinyin": "Wǒ de lǎoshī qùnián zài běijīng.",
+            },
+            {
+                "english": "Where were you yesterday afternoon?",
+                "chinese": "你昨天下午在哪儿?",
+                "pinyin": "Nǐ zuótiān xiàwǔ zài nǎ'er?",
+            },
+            {
+                "english": "He drank coffee.",
+                "chinese": "他喝了咖啡.",
+                "pinyin": "Tā hēle kāfēi.",
+            },{
+                "english": "I saw my doctor yesterday.",
+                "chinese": "我昨天见了我的医生.",
+                "pinyin": "Wǒ zuótiān jiànle wǒ de yīshēng.",
+            },
+            {
+                "english": "Every day, last week, next month, every year.",
+                "chinese": "每天, 上个星期, 下个月, 每个人.",
+                "pinyin": "Měitiān, shàng gè xīngqí, xià gè yuè, měi gèrén.",
+            },
+            {
+                "english": "Walk towards the front.",
+                "chinese": "往前面走.",
+                "pinyin": "Wǎng qiánmiàn zǒu.",
+            },{
+                "english": "Where are you?",
+                "chinese": "你在哪里?",
+                "pinyin": "Nǐ zài nǎlǐ?",
+            },
+            {
+                "english": "Please walk towards the right side.",
+                "chinese": "请往右边走.",
+                "pinyin": "Qǐng wǎng yòubiān zǒu.",
+            },
+            {
+                "english": "She is next to her younger sister.",
+                "chinese": "她在她的妹妹的旁边.",
+                "pinyin": "Tā zài tā de mèimei de pángbiān.",
+            },{
+                "english": "Do you know the way?",
+                "chinese": "你认识路吗?",
+                "pinyin": "Nǐ rènshí lù ma?",
+            },
+            {
+                "english": "Who's behind me?",
+                "chinese": "谁在我的后面?",
+                "pinyin": "Shéi zài wǒ de hòumiàn?",
+            },
+            {
+                "english": "Front, back, left, right, side.",
+                "chinese": "前面, 后面, 左边, 右边, 旁边.",
+                "pinyin": "Qiánmiàn, hòumiàn, zuǒbiān, yòubiān, pángbiān.",
+            },{
+                "english": "The cat is behind you.",
+                "chinese": "猫在你的后面.",
+                "pinyin": "Māo zài nǐ de hòumiàn.",
+            },
+        ]
+    },
     "unit 12": {"description": "", "phrases": []},
     "unit 13": {"description": "", "phrases": []},
     "unit 14": {"description": "", "phrases": []},
