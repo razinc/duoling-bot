@@ -614,7 +614,86 @@ syllabus = {
             },
         ]
     },
-    "unit 12": {"description": "", "phrases": []},
+    "unit 12": {
+        "description": "Talk about hobbies, describe routines.",
+        "phrases":[
+            {
+                "english": "Do you like reading?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "What music does she like listening to the most?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "His mother loves reading English books the most.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Do you love dancing?",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "I like to listen to songs, I can't sing.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "My child loves English songs.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Do you like dogs? Yes.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "Are you going to the US? No",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "What time do you get up in the morning?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "Where do we go for dinner?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "We finish school at 3 tomorrow.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "We go to work at 9 o'clock in the morning.",
+                "chinese": ".",
+                "pinyin": ".",
+            },
+            {
+                "english": "What time do you go to sleep?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "Do you cook every day?",
+                "chinese": "?",
+                "pinyin": "?",
+            },
+            {
+                "english": "From the May to June.",
+                "chinese": ".",
+                "pinyin": ".",
+            },    
+        ]
+    },
     "unit 13": {"description": "", "phrases": []},
     "unit 14": {"description": "", "phrases": []},
     "unit 15": {"description": "", "phrases": []},
