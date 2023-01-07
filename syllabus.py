@@ -82,7 +82,7 @@ syllabus = {
             },
             {
                 "english": "He is a teacher.",
-                "chinese": "他是个老师.",
+                "chinese": "他是老师.",
                 "pinyin": "Tā shì lǎoshī.",
             },
             {
