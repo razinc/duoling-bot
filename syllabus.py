@@ -616,7 +616,7 @@ syllabus = {
     },
     "unit 12": {
         "description": "Talk about hobbies, describe routines.",
-        "phrases":[
+        "phrases": [
             {
                 "english": "Do you like reading?",
                 "chinese": "你喜欢看书吗?",
@@ -694,7 +694,66 @@ syllabus = {
             },    
         ]
     },
-    "unit 13": {"description": "", "phrases": []},
+    "unit 13": {
+        "description": "Talk about payments, discuss TV and films.",
+        "phrases": [
+            {
+                "english": "How much does this cost? This is 9.99 yuan.",
+                "chinese": "这个多少钱? 这个九块九毛九分.",
+                "pinyin": "Zhège duōshǎo qián?. Zhège jiǔ kuài jiǔ máo jiǔ fēn",
+            },
+            {
+                "english": "Do you take credit cards? Sorry, we don't take credit cards, we only take cash.",
+                "chinese": "你们收信用卡吗? 对不起，我们不收信用卡，只收现金.",
+                "pinyin": "Nǐmen shōu xìnyòngkǎ ma? Duìbùqǐ, wǒmen bù shōu xìnyòngkǎ, zhǐ shōu xiànjīn.",
+            },
+            {
+                "english": "Altogether it's 500 yuan. Can this be a bit cheaper",
+                "chinese": "一共五百块. 便宜一点儿，行不行",
+                "pinyin": "Yīgòng wǔbǎi kuài. Piányí yīdiǎn er, xíng bùxíng",
+            },
+            {
+                "english": "53,649.",
+                "chinese": "五万三千六百四十九.",
+                "pinyin": "Wǔwàn sānqiān liùbǎi sìshíjiǔ.",
+            },
+            {
+                "english": "Do you like to watch TV?",
+                "chinese": "你喜欢看电视吗?",
+                "pinyin": "Nǐ xǐhuān kàn diànshì ma?",
+            },
+            {
+                "english": "They want to watch a movie tomorrow.",
+                "chinese": "他们想明天看电影.",
+                "pinyin": "Tāmen xiǎng míngtiān kàn diànyǐng.",
+            },
+            {
+                "english": "What do you want to do this afternoon?",
+                "chinese": "今天下午你们想干什么?",
+                "pinyin": "Jīntiān xiàwǔ nǐmen xiǎng gànshénme?",
+            },
+            {
+                "english": "She is a celebrity in China.",
+                "chinese": "她在中国是一个明星.",
+                "pinyin": "Tā zài zhōngguó shì yīgè míngxīng.",
+            },
+            {
+                "english": "I want to use my phone to play games..",
+                "chinese": "我想用手机玩游戏.",
+                "pinyin": "Wǒ xiǎng yòng shǒujī wán yóuxì.",
+            },
+            {
+                "english": "I am watching the news on the TV.",
+                "chinese": "我在看电视新闻.",
+                "pinyin": "Wǒ zài kàn diànshì xīnwén.",
+            },
+            {
+                "english": "I dance in the bathroom.",
+                "chinese": "我在洗手间跳舞.",
+                "pinyin": "Wǒ zài xǐshǒujiān tiàowǔ.",
+            },    
+        ]
+    },
     "unit 14": {"description": "", "phrases": []},
     "unit 15": {"description": "", "phrases": []},
     "unit 16": {"description": "", "phrases": []},
