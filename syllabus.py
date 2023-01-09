@@ -754,7 +754,81 @@ syllabus = {
             },    
         ]
     },
-    "unit 14": {"description": "", "phrases": []},
+    "unit 14": {
+        "description": "Describe locations, go to a restaurant.",
+        "phrases": [
+            {
+                "english": "What are you looking for? I am looking for my cell phone.",
+                "chinese": "你在找什么? 我在找我的手机.",
+                "pinyin": "Nǐ zài zhǎo shénme? Wǒ zài zhǎo wǒ de shǒujī.",
+            },
+            {
+                "english": "Your cell phone is on the table.",
+                "chinese": "你的手机在桌子上.",
+                "pinyin": "Nǐ de shǒujī zài zhuōzi shàng.",
+            },
+            {
+                "english": "The cat is on the chair.",
+                "chinese": "猫在椅子上.",
+                "pinyin": "Māo zài yǐzi shàng.",
+            },
+            {
+                "english": "Is the milk in the fridge?",
+                "chinese": "牛奶在冰箱里吗?",
+                "pinyin": "Niúnǎi zài bīngxiāng lǐ ma?",
+            },
+            {
+                "english": "The dog is under the table.",
+                "chinese": "狗在桌子下.",
+                "pinyin": "Gǒu zài zhuōzi xià.",
+            },
+            {
+                "english": "The dog is on the table.",
+                "chinese": "狗在桌子上.",
+                "pinyin": "Gǒu zài zhuōzi shàng.",
+            },
+            {
+                "english": "The dog is inside the fridge.",
+                "chinese": "狗在冰箱里.",
+                "pinyin": "Gǒu zài bīngxiāng lǐ.",
+            },
+            {
+                "english": "The dog is outside the fridge.",
+                "chinese": "狗在冰箱外.",
+                "pinyin": "Gǒu zài bīngxiāng wài.",
+            },
+            {
+                "english": "Where do you want to sit? We want to sit here.",
+                "chinese": "你们想坐在哪里? 我们想坐在这里.",
+                "pinyin": "Nǐmen xiǎng zuò zài nǎlǐ? Wǒmen xiǎng zuò zài zhèlǐ.",
+            },
+            {
+                "english": "Please wait for a moment.",
+                "chinese": "请等一下.",
+                "pinyin": "Qǐng děng yīxià.",
+            },
+            {
+                "english": "Please take a look at the menu.",
+                "chinese": "请看一下菜单.",
+                "pinyin": "Qǐng kàn yīxià càidān.",
+            },
+            {
+                "english": "Do you have an English menu? Sorry, we don't have an English menu.",
+                "chinese": "你们有英文菜单吗? 对不起, 我们没有英文菜单.",
+                "pinyin": "Nǐmen yǒu yīngwén càidān ma? Duìbùqǐ, wǒmen méiyǒu yīngwén càidān.",
+            },
+            {
+                "english": "Excuse me, how many of you?",
+                "chinese": "请问, 几位?",
+                "pinyin": "Qǐngwèn, jǐ wèi?",
+            },
+            {
+                "english": "How many children do they have?",
+                "chinese": "他们有几个孩子?",
+                "pinyin": "Tāmen yǒu jǐ ge háizi?",
+            },
+        ]
+    },
     "unit 15": {"description": "", "phrases": []},
     "unit 16": {"description": "", "phrases": []},
     "unit 17": {"description": "", "phrases": []},
