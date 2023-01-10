@@ -829,7 +829,71 @@ syllabus = {
             },
         ]
     },
-    "unit 15": {"description": "", "phrases": []},
+    "unit 15": {
+        "description": "Shop at a market, talk about hobbies.",
+        "phrases": [
+            {
+                "english": "Please help me buy some things.",
+                "chinese": "请帮我买一些东西.",
+                "pinyin": "Qǐng bāng wǒ mǎi yīxiē dōngxī.",
+            },
+            {
+                "english": "How much are these apples?",
+                "chinese": "这些苹果多少钱?",
+                "pinyin": "Zhèxiē píngguǒ duōshǎo qián?",
+            },
+            {
+                "english": "Excuse me, where is the supermarket?",
+                "chinese": "请问, 超市在哪里?",
+                "pinyin": "Qǐngwèn, chāoshì zài nǎlǐ?.",
+            },
+            {
+                "english": "What do you want to buy? I want to buy vegetables and fruit.",
+                "chinese": "你想买什么东西? 我想买蔬菜和水果.",
+                "pinyin": "Nǐ xiǎng mǎi shénme dōngxī? Wǒ xiǎng mǎi shūcài hé shuǐguǒ.",
+            },
+            {
+                "english": "How much are these watermelons?",
+                "chinese": "这些西瓜多少钱.",
+                "pinyin": "Zhèxiē xīguā duōshǎo qián.",
+            },
+            {
+                "english": "I want to buy some apples.",
+                "chinese": "我想买一些苹果.",
+                "pinyin": "Wǒ xiǎng mǎi yīxiē píngguǒ.",
+            },
+            {
+                "english": "What are your hobbies? My hobby is photography.",
+                "chinese": "你的爱好是什么? 我的爱好是拍照",
+                "pinyin": "Nǐ de àihào shì shénme? Wǒ de àihào shì pāizhào.",
+            },
+            {
+                "english": "Traveling is my new hobby.",
+                "chinese": "旅游是我的新爱好.",
+                "pinyin": "Lǚyóu shì wǒ de xīn àihào.",
+            },
+            {
+                "english": "Why do you study Chinese? I am learning Chinese because I need to go to China.",
+                "chinese": "你为什么学习中文? 我学习中文, 因为我要去中国.",
+                "pinyin": "Nǐ wèishéme xuéxí zhōngwén? Wǒ xuéxí zhōngwén, yīnwèi wǒ yào qù zhōngguó.",
+            },
+            {
+                "english": "Do you love listening to Spanish music?",
+                "chinese": "你爱听西班牙音乐吗?",
+                "pinyin": "Nǐ ài tīng xībānyá yīnyuè ma?",
+            },
+            {
+                "english": "Because this is too expensive, so I won’t buy it.",
+                "chinese": "因为这个太贵, 所以我不买.",
+                "pinyin": "Yīnwèi zhège tài guì, suǒyǐ wǒ bú mǎi.",
+            },
+            {
+                "english": "Because I want to go to to China, so I’m learning Chinese.",
+                "chinese": "因为我要去中国, 所以我学习中文.",
+                "pinyin": "Yīnwèi wǒ yào qù zhōngguó, suǒyǐ wǒ xuéxí zhōngwén.",
+            },
+        ]
+    },
     "unit 16": {"description": "", "phrases": []},
     "unit 17": {"description": "", "phrases": []},
     "unit 18": {"description": "", "phrases": []},
