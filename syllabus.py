@@ -738,7 +738,7 @@ syllabus = {
                 "pinyin": "Tā zài zhōngguó shì yīgè míngxīng.",
             },
             {
-                "english": "I want to use my phone to play games..",
+                "english": "I want to use my phone to play games.",
                 "chinese": "我想用手机玩游戏.",
                 "pinyin": "Wǒ xiǎng yòng shǒujī wán yóuxì.",
             },
@@ -894,7 +894,76 @@ syllabus = {
             },
         ]
     },
-    "unit 16": {"description": "", "phrases": []},
+    "unit 16": {
+        "description": "Discuss food preferences, talk about health.",
+        "phrases": [
+            {
+                "english": "I don't eat meat.",
+                "chinese": "我不吃肉.",
+                "pinyin": "Wǒ bù chī ròu.",
+            },
+            {
+                "english": "Do you want noodles or rice?",
+                "chinese": "你要面条还是米饭?",
+                "pinyin": "Nǐ yào miàntiáo háishì mǐfàn?",
+            },
+            {
+                "english": "What would you like to drink?",
+                "chinese": "你想要什么饮料?",
+                "pinyin": "Nǐ xiǎng yào shénme yǐnliào?",
+            },
+            {
+                "english": "Do you eat pork or chicken?",
+                "chinese": "你吃猪肉还是鸡肉?",
+                "pinyin": "Nǐ chī zhūròu háishì jīròu?",
+            },
+            {
+                "english": "I like eating noodles with chicken.",
+                "chinese": "我喜欢吃鸡肉面条.",
+                "pinyin": "Wǒ xǐhuān chī jīròu miàntiáo.",
+            },
+            {
+                "english": "Does she want to eat lamb or beef?",
+                "chinese": "她想吃羊肉还是牛肉?",
+                "pinyin": "Tā xiǎng chī yángròu háishì niúròu?",
+            },
+            {
+                "english": "I work out every single day.",
+                "chinese": "我每天都锻炼.",
+                "pinyin": "Wǒ měitiān dū duànliàn.",
+            },
+            {
+                "english": "How do you feel?",
+                "chinese": "你觉得怎么样?",
+                "pinyin": "Nǐ juédé zěnme yàng?",
+            },
+            {
+                "english": "Don't eat unhealthy food.",
+                "chinese": "不要吃不健康的东西.",
+                "pinyin": "Bùyào chī bùjiànkāng de dōngxī.",
+            },
+            {
+                "english": "Our cat is fat.",
+                "chinese": "我们的猫很胖.",
+                "pinyin": "Wǒmen de māo hěn pàng.",
+            },
+            {
+                "english": "I'll pay attention to my health.",
+                "chinese": "我会注意身体.",
+                "pinyin": "Wǒ huì zhùyì shēntǐ.",
+            },
+            {
+                "english": "Are you tired?",
+                "chinese": "你累吗?",
+                "pinyin": "Nǐ lèi ma?",
+            },
+            {
+                "english": "These things are healthy. I want to eat healthy things.",
+                "chinese": "这些东西很健康. 我想吃健康的东西.",
+                "pinyin": "Zhèxiē dōngxi hěn jiànkāng. Wǒ xiǎng chī jiànkāng de dōngxi.",
+            },
+        ]
+    },
     "unit 17": {"description": "", "phrases": []},
     "unit 18": {"description": "", "phrases": []},
     "unit 19": {"description": "", "phrases": []},
