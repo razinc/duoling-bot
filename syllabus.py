@@ -964,7 +964,76 @@ syllabus = {
             },
         ]
     },
-    "unit 17": {"description": "", "phrases": []},
+    "unit 17": {
+        "description": "Get around in a city, chat in a shop.",
+        "phrases": [
+            {
+                "english": "At which stop do we get off?",
+                "chinese": "我们在哪个站下车?",
+                "pinyin": "Wǒmen zài nǎge zhàn xià chē?",
+            },
+            {
+                "english": "Is it expensive to take a taxi there?",
+                "chinese": "坐出租车去那里贵不贵?",
+                "pinyin": "Zuò chūzū chē qù nàlǐ guì bù guì?",
+            },
+            {
+                "english": "Excuse me, where is the subway station? The subway station is next to the hotel.",
+                "chinese": "请问, 地铁站在哪儿? 地铁站在酒店的旁边.",
+                "pinyin": "Qǐngwèn, dìtiě zhàn zài nǎ'er? Dìtiě zhàn zài jiǔdiàn de pángbiān.",
+            },
+            {
+                "english": "They do not like taking boats.",
+                "chinese": "他们不喜欢坐船.",
+                "pinyin": "Tāmen bù xǐhuān zuò chuán.",
+            },
+            {
+                "english": "Can we take a bus to the school?",
+                "chinese": "我们可以坐公共汽车去学校吗?",
+                "pinyin": "Wǒmen kěyǐ zuò gōnggòng qìchē qù xuéxiào ma?",
+            },
+            {
+                "english": "I get off the boat here.",
+                "chinese": "我在这儿下船.",
+                "pinyin": "Wǒ zài zhèr xià chuán.",
+            },
+            {
+                "english": "Do you need help? I am just looking.",
+                "chinese": "您需要帮忙吗? 我只是随便看看.",
+                "pinyin": "Nín xūyào bāngmáng ma? Wǒ zhǐshì suíbiàn kàn kàn.",
+            },
+            {
+                "english": "They open at 11.",
+                "chinese": "他们十一点开门.",
+                "pinyin": "Tāmen shíyī diǎn kāimén.",
+            },
+            {
+                "english": "Sorry, we are closed on weekends.",
+                "chinese": "对不起, 我们周末关门.",
+                "pinyin": "Duìbùqǐ, wǒmen zhōumò guānmén.",
+            },
+            {
+                "english": "Are the clothes at this store expensive?",
+                "chinese": "这个商店的衣服贵不贵?",
+                "pinyin": "Zhège shāngdiàn de yīfú guì bù guì.",
+            },
+            {
+                "english": "What would you like to buy?",
+                "chinese": "您想买什么?",
+                "pinyin": "Nín xiǎng mǎi shénme?",
+            },
+            {
+                "english": "Please sit wherever you like!",
+                "chinese": "请随便坐!",
+                "pinyin": "Qǐng suíbiàn zuò!",
+            },
+            {
+                "english": "It's up to you.",
+                "chinese": "随便你.",
+                "pinyin": "Suíbiàn nǐ.",
+            },
+        ]
+    },
     "unit 18": {"description": "", "phrases": []},
     "unit 19": {"description": "", "phrases": []},
     "unit 20": {"description": "", "phrases": []},
