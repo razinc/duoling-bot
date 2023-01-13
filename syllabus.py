@@ -1034,7 +1034,71 @@ syllabus = {
             },
         ]
     },
-    "unit 18": {"description": "", "phrases": []},
+    "unit 18": {
+        "description": "Ask how to read a word, tell time.",
+        "phrases": [
+            {
+                "english": "I can speak a little bit of Chinese.",
+                "chinese": "我会说一点儿汉语.",
+                "pinyin": "Wǒ huì shuō yīdiǎn er hànyǔ.",
+            },
+            {
+                "english": "Excuse me, what does this mean?",
+                "chinese": "请问, 这是什么意思?",
+                "pinyin": "Qǐngwèn, zhè shì shénme yìsi?",
+            },
+            {
+                "english": "How do you write this character?",
+                "chinese": "这个字怎么写?",
+                "pinyin": "Zhège zì zěnme xiě?",
+            },
+            {
+                "english": "Is it difficult to learn Chinese?",
+                "chinese": "学习汉语难吗?",
+                "pinyin": "Xuéxí hànyǔ nán ma?",
+            },
+            {
+                "english": "Can you read this word?",
+                "chinese": "你会读这个字吗?",
+                "pinyin": "Nǐ huì dú zhège zì ma?",
+            },
+            {
+                "english": "Teacher, I don't know this character.",
+                "chinese": "老师, 我不认识这个字.",
+                "pinyin": "Lǎoshī, wǒ bù rènshí zhège zì.",
+            },
+            {
+                "english": "We will see a friend at three in the afternoon.",
+                "chinese": "我们下午三点钟会见朋友.",
+                "pinyin": "Wǒmen xiàwǔ sān diǎn zhōng huìjiàn péngyǒu.",
+            },
+            {
+                "english": "I will go to work at a quarter past ten tomorrow morning.",
+                "chinese": "明天早上十点一刻我会去工作.",
+                "pinyin": "Míngtiān zǎoshang shí diǎn yī kè wǒ huì qù gōngzuò.",
+            },
+            {
+                "english": "He went to sleep late last night.",
+                "chinese": "昨天晚上他很晚睡觉.",
+                "pinyin": "Zuótiān wǎnshàng tā hěn wǎn shuìjiào.",
+            },
+            {
+                "english": "We have thirty seconds.",
+                "chinese": "我们有三十秒.",
+                "pinyin": "Wǒmen yǒu sānshí miǎo.",
+            },
+            {
+                "english": "It's a quarter to five now.",
+                "chinese": "现在差一刻五点.",
+                "pinyin": "Xiànzài chà yīkè wǔ diǎn.",
+            },
+            {
+                "english": "How many hours do you spend on the computer every day?",
+                "chinese": "你每天用几个小时电脑?",
+                "pinyin": "Nǐ měitiān yòng jǐ gè xiǎoshí diànnǎo?",
+            },
+        ]
+    },
     "unit 19": {"description": "", "phrases": []},
     "unit 20": {"description": "", "phrases": []},
     "unit 21": {"description": "", "phrases": []},
