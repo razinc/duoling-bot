@@ -1099,9 +1099,73 @@ syllabus = {
             },
         ]
     },
-    "unit 19": {"description": "", "phrases": []},
-    "unit 20": {"description": "", "phrases": []},
-    "unit 21": {"description": "", "phrases": []},
-    "unit 22": {"description": "", "phrases": []},
-    "unit 23": {"description": "", "phrases": []},
+    "unit 19": {
+        "description": "Identify tableware, describe things around you.",
+        "phrases": [
+            {
+                "english": "Please give us five glasses.",
+                "chinese": "请给我们五个杯子.",
+                "pinyin": "Qǐng gěi wǒmen wǔ gè bēizi.",
+            },
+            {
+                "english": "Can you give me a bowl?",
+                "chinese": "可以给我一个碗吗?",
+                "pinyin": "Kěyǐ gěi wǒ yīgè wǎn ma?",
+            },
+            {
+                "english": "Can you use chopsticks? No. Please give me a knife.",
+                "chinese": "你会用筷子吗? 不会. 请给我刀.",
+                "pinyin": "Nǐ huì yòng kuàizi ma? Bù huì. Qǐng gěi wǒ dāo.",
+            },
+            {
+                "english": "What juice do you want?",
+                "chinese": "你想要什么果汁?",
+                "pinyin": "Nǐ xiǎng yào shénme guǒzhī?",
+            },
+            {
+                "english": "Your plate is on the table.",
+                "chinese": "你的盘子在桌子上?",
+                "pinyin": "Nǐ de pánzi zài zhuōzi shàng?",
+            },
+            {
+                "english": "Three glass of beer, half piece of cake, a bowl of beef noodles.",
+                "chinese": "三杯啤酒, 半块蛋糕, 一碗牛肉面.",
+                "pinyin": "Sān bēi píjiǔ, bàn kuài dàngāo, yì wǎn niúròu miàn.",
+            },
+            {
+                "english": "There are two bottles on the table.",
+                "chinese": "桌子上有两个瓶子.",
+                "pinyin": "Zhuōzi shàng yǒu liǎng gè píngzi.",
+            },
+            {
+                "english": "There is a car next to her house.",
+                "chinese": "她的家旁边有一辆汽车.",
+                "pinyin": "Tā de jiā pángbiān yǒuyī liàng qìchē.",
+            },
+            {
+                "english": "Our photos are on the computer.",
+                "chinese": "电脑里有我们的照片.",
+                "pinyin": "Diànnǎo li yǒu wǒmen de zhàopiàn.",
+            },
+            {
+                "english": "There are no people in the office right now.",
+                "chinese": "现在办公室里没有人.",
+                "pinyin": "Xiànzài bàngōngshì lǐ méiyǒu rén.",
+            },
+            {
+                "english": "There are six birds in the tree.",
+                "chinese": "树上有六只鸟.",
+                "pinyin": "Shù shàng yǒu liù zhǐ niǎo.",
+            },
+            {
+                "english": "Nine books, one table, ten birds.",
+                "chinese": "九本书, 一张桌子, 十只鸟.",
+                "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
+            },    
+        ]
+    },
+    "unit 20": {"description": ".", "phrases": []},
+    "unit 21": {"description": ".", "phrases": []},
+    "unit 22": {"description": ".", "phrases": []},
+    "unit 23": {"description": ".", "phrases": []},
 }
