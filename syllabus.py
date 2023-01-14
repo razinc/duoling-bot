@@ -265,7 +265,7 @@ syllabus = {
                 "english": "Which teacher?",
                 "chinese": "哪个老师?",
                 "pinyin": "Nǎge lǎoshī?",
-            },  
+            },
         ],
     },
     "unit 7": {
@@ -335,8 +335,8 @@ syllabus = {
                 "english": "Good night.",
                 "chinese": "晚安",
                 "pinyin": "Wǎn ān.",
-            },    
-        ]
+            },
+        ],
     },
     "unit 8": {
         "description": "Order a drink, find a bathroom.",
@@ -390,8 +390,8 @@ syllabus = {
                 "english": "Is the bathroom here?",
                 "chinese": "洗手间在这儿吗?",
                 "pinyin": "Xǐshǒujiān zài zhè'er ma?",
-            },    
-        ]
+            },
+        ],
     },
     "unit 9": {
         "description": "Talk about days and dates.",
@@ -455,8 +455,8 @@ syllabus = {
                 "english": "Is that your wife?",
                 "chinese": "那是不是你的妻子?",
                 "pinyin": "Nà shì bùshì nǐ de qīzi?",
-            },    
-        ]
+            },
+        ],
     },
     "unit 10": {
         "description": "Call someone on the phone, describe people.",
@@ -531,7 +531,7 @@ syllabus = {
                 "chinese": "他忙不忙?",
                 "pinyin": "Tā máng bù máng?",
             },
-        ]
+        ],
     },
     "unit 11": {
         "description": "Talk about past events, ask for directions.",
@@ -565,7 +565,8 @@ syllabus = {
                 "english": "He drank coffee.",
                 "chinese": "他喝了咖啡.",
                 "pinyin": "Tā hēle kāfēi.",
-            },{
+            },
+            {
                 "english": "I saw my doctor yesterday.",
                 "chinese": "我昨天见了我的医生.",
                 "pinyin": "Wǒ zuótiān jiànle wǒ de yīshēng.",
@@ -579,7 +580,8 @@ syllabus = {
                 "english": "Walk towards the front.",
                 "chinese": "往前面走.",
                 "pinyin": "Wǎng qiánmiàn zǒu.",
-            },{
+            },
+            {
                 "english": "Where are you?",
                 "chinese": "你在哪里?",
                 "pinyin": "Nǐ zài nǎlǐ?",
@@ -593,7 +595,8 @@ syllabus = {
                 "english": "She is next to her younger sister.",
                 "chinese": "她在她的妹妹的旁边.",
                 "pinyin": "Tā zài tā de mèimei de pángbiān.",
-            },{
+            },
+            {
                 "english": "Do you know the way?",
                 "chinese": "你认识路吗?",
                 "pinyin": "Nǐ rènshí lù ma?",
@@ -607,12 +610,13 @@ syllabus = {
                 "english": "Front, back, left, right, side.",
                 "chinese": "前面, 后面, 左边, 右边, 旁边.",
                 "pinyin": "Qiánmiàn, hòumiàn, zuǒbiān, yòubiān, pángbiān.",
-            },{
+            },
+            {
                 "english": "The cat is behind you.",
                 "chinese": "猫在你的后面.",
                 "pinyin": "Māo zài nǐ de hòumiàn.",
             },
-        ]
+        ],
     },
     "unit 12": {
         "description": "Talk about hobbies, describe routines.",
@@ -691,8 +695,8 @@ syllabus = {
                 "english": "From the May to June.",
                 "chinese": "从五月到六月.",
                 "pinyin": "Cóng wǔ yuè dào liù yuè.",
-            },    
-        ]
+            },
+        ],
     },
     "unit 13": {
         "description": "Talk about payments, discuss TV and films.",
@@ -751,8 +755,8 @@ syllabus = {
                 "english": "I dance in the bathroom.",
                 "chinese": "我在洗手间跳舞.",
                 "pinyin": "Wǒ zài xǐshǒujiān tiàowǔ.",
-            },    
-        ]
+            },
+        ],
     },
     "unit 14": {
         "description": "Describe locations, go to a restaurant.",
@@ -827,7 +831,7 @@ syllabus = {
                 "chinese": "他们有几个孩子?",
                 "pinyin": "Tāmen yǒu jǐ ge háizi?",
             },
-        ]
+        ],
     },
     "unit 15": {
         "description": "Shop at a market, talk about hobbies.",
@@ -892,7 +896,7 @@ syllabus = {
                 "chinese": "因为我要去中国, 所以我学习中文.",
                 "pinyin": "Yīnwèi wǒ yào qù zhōngguó, suǒyǐ wǒ xuéxí zhōngwén.",
             },
-        ]
+        ],
     },
     "unit 16": {
         "description": "Discuss food preferences, talk about health.",
@@ -962,7 +966,7 @@ syllabus = {
                 "chinese": "这些东西很健康. 我想吃健康的东西.",
                 "pinyin": "Zhèxiē dōngxi hěn jiànkāng. Wǒ xiǎng chī jiànkāng de dōngxi.",
             },
-        ]
+        ],
     },
     "unit 17": {
         "description": "Get around in a city, chat in a shop.",
@@ -1032,7 +1036,7 @@ syllabus = {
                 "chinese": "随便你.",
                 "pinyin": "Suíbiàn nǐ.",
             },
-        ]
+        ],
     },
     "unit 18": {
         "description": "Ask how to read a word, tell time.",
@@ -1097,7 +1101,7 @@ syllabus = {
                 "chinese": "你每天用几个小时电脑?",
                 "pinyin": "Nǐ měitiān yòng jǐ gè xiǎoshí diànnǎo?",
             },
-        ]
+        ],
     },
     "unit 19": {
         "description": "Identify tableware, describe things around you.",
@@ -1161,10 +1165,84 @@ syllabus = {
                 "english": "Nine books, one table, ten birds.",
                 "chinese": "九本书, 一张桌子, 十只鸟.",
                 "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
-            },    
-        ]
+            },
+        ],
     },
-    "unit 20": {"description": ".", "phrases": []},
+    "unit 20": {
+        "description": "Discuss sports, ask someone out.",
+        "phrases": [
+            {
+                "english": "Do you like swimming?",
+                "chinese": "你喜欢游泳吗?",
+                "pinyin": "Nǐ xǐhuān yóuyǒng ma?",
+            },
+            {
+                "english": "My father and I play soccer on the weekend.",
+                "chinese": "周末我和爸爸踢足球.",
+                "pinyin": "Zhōumò wǒ hé bàba tī zúqiú.",
+            },
+            {
+                "english": "My older brother plays basketball pretty well.",
+                "chinese": "我的哥哥打篮球打得不错.",
+                "pinyin": "Wǒ dí gēgē dǎ lánqiú dǎ dé bùcuò.",
+            },
+            {
+                "english": "What sport do you like the most?",
+                "chinese": "你最喜欢做什么运动?",
+                "pinyin": "Nǐ zuì xǐhuān zuò shénme yùndòng?",
+            },
+            {
+                "english": "I really like riding horses.",
+                "chinese": "我很喜欢骑马.",
+                "pinyin": "Wǒ hěn xǐhuān qímǎ.",
+            },
+            {
+                "english": "What day of the week do you go running?",
+                "chinese": "你星期几去跑步?",
+                "pinyin": "Nǐ xīngqí jǐ qù pǎobù?",
+            },
+            {
+                "english": "Every Friday, I play soccer for two hours.",
+                "chinese": "每星期五我踢两个小时的足球.",
+                "pinyin": "Měi xīngqíwǔ wǒ tī liǎng ge xiǎoshí de zúqiú.",
+            },
+            {
+                "english": "This morning, I ran for thirty minutes.",
+                "chinese": "早上我跑了三十分钟的步.",
+                "pinyin": "Zǎoshang wǒ pǎo le sānshí fēnzhōng de bù.",
+            },
+            {
+                "english": "Today, he swam for one hour.",
+                "chinese": "今天他游了一个小时的泳.",
+                "pinyin": "Jīntiān tā yóu le yígè xiǎoshí de yǒng.",
+            },
+            {
+                "english": "Let's go out and drink coffee on the weekend! I don't want to go out this weekend.",
+                "chinese": "我们周末出去喝咖啡吧! 我这个周末不想出去.",
+                "pinyin": "Wǒmen zhōumò chūqù hē kāfēi ba! Wǒ zhège zhōumò bùxiǎng chūqù!",
+            },
+            {
+                "english": "Are you free on Saturday?",
+                "chinese": "你星期六有空吗?",
+                "pinyin": "Nǐ xīngqíliù yǒu kòng ma?",
+            },
+            {
+                "english": "Do you have an appointment on Friday? I'm sorry, I have an appointment.",
+                "chinese": "星期五你有约会吗? 不好意思, 我有一个约会.",
+                "pinyin": "Xīngqíwǔ nǐ yǒu yuēhuì ma? Bù hǎoyìsi, wǒ yǒu yīgè yuēhuì.",
+            },
+            {
+                "english": "Why didn't you tell me?",
+                "chinese": "为什么你没有告诉我?",
+                "pinyin": "Wèishéme nǐ méiyǒu gàosu wǒ?",
+            },
+            {
+                "english": "Have you been to our shop? I have not been to your shop.",
+                "chinese": "你来过我们的商店吗? 我没去过你们的商店.",
+                "pinyin": "Nǐ lái guo wǒmen de shāngdiàn ma? Wǒ méi qù guo nǐmen de shāngdiàn.",
+            },
+        ],
+    },
     "unit 21": {"description": ".", "phrases": []},
     "unit 22": {"description": ".", "phrases": []},
     "unit 23": {"description": ".", "phrases": []},
