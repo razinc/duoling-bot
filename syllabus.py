@@ -1,6 +1,7 @@
 syllabus = {
     "unit 1": {
         "description": "Say hello and goodbye, use numbers.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/1",
         "phrases": [
             {"english": "Hello.", "chinese": "你好.", "pinyin": "Nǐ hǎo."},
             {"english": "Goodbye.", "chinese": "再见.", "pinyin": "Zàijiàn."},
@@ -16,6 +17,7 @@ syllabus = {
     },
     "unit 2": {
         "description": "Ask someone's name, greet people.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/2",
         "phrases": [
             {
                 "english": "Hello, what's your name?",
@@ -57,6 +59,7 @@ syllabus = {
     },
     "unit 3": {
         "description": "Discuss food choices, talk about occupations.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/3",
         "phrases": [
             {
                 "english": "You eat noodles.",
@@ -99,6 +102,7 @@ syllabus = {
     },
     "unit 4": {
         "description": "Exchange phone numbers, discuss nationalities.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/4",
         "phrases": [
             {
                 "english": "What is your phone numbers?",
@@ -144,6 +148,7 @@ syllabus = {
     },
     "unit 5": {
         "description": "Greet people, talk about your hometown.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/5",
         "phrases": [
             {"english": "Good morning!", "chinese": "早上好!", "pinyin": "Zǎoshang hǎo!"},
             {
@@ -215,6 +220,7 @@ syllabus = {
     },
     "unit 6": {
         "description": "Express gratitude, refer to family members.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/6",
         "phrases": [
             {
                 "english": "Thank you.",
@@ -270,6 +276,7 @@ syllabus = {
     },
     "unit 7": {
         "description": "Ask for help, greet people you know.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/7",
         "phrases": [
             {
                 "english": "Do you speak English?",
@@ -340,6 +347,7 @@ syllabus = {
     },
     "unit 8": {
         "description": "Order a drink, find a bathroom.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/8",
         "phrases": [
             {
                 "english": "She drinks iced tea.",
@@ -395,6 +403,7 @@ syllabus = {
     },
     "unit 9": {
         "description": "Talk about days and dates.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/9",
         "phrases": [
             {
                 "english": "What day is it today?",
@@ -460,6 +469,7 @@ syllabus = {
     },
     "unit 10": {
         "description": "Call someone on the phone, describe people.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/10",
         "phrases": [
             {
                 "english": "Hello, are you Doctor Li?",
@@ -535,6 +545,7 @@ syllabus = {
     },
     "unit 11": {
         "description": "Talk about past events, ask for directions.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/11",
         "phrases": [
             {
                 "english": "What did you do last weekend?",
@@ -620,6 +631,7 @@ syllabus = {
     },
     "unit 12": {
         "description": "Talk about hobbies, describe routines.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/12",
         "phrases": [
             {
                 "english": "Do you like reading?",
@@ -700,6 +712,7 @@ syllabus = {
     },
     "unit 13": {
         "description": "Talk about payments, discuss TV and films.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/13",
         "phrases": [
             {
                 "english": "How much does this cost? This is 9.99 yuan.",
@@ -760,6 +773,7 @@ syllabus = {
     },
     "unit 14": {
         "description": "Describe locations, go to a restaurant.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/14",
         "phrases": [
             {
                 "english": "What are you looking for? I am looking for my cell phone.",
@@ -835,6 +849,7 @@ syllabus = {
     },
     "unit 15": {
         "description": "Shop at a market, talk about hobbies.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/15",
         "phrases": [
             {
                 "english": "Please help me buy some things.",
@@ -900,6 +915,7 @@ syllabus = {
     },
     "unit 16": {
         "description": "Discuss food preferences, talk about health.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/16",
         "phrases": [
             {
                 "english": "I don't eat meat.",
@@ -970,6 +986,7 @@ syllabus = {
     },
     "unit 17": {
         "description": "Get around in a city, chat in a shop.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/17",
         "phrases": [
             {
                 "english": "At which stop do we get off?",
@@ -1040,6 +1057,7 @@ syllabus = {
     },
     "unit 18": {
         "description": "Ask how to read a word, tell time.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/18",
         "phrases": [
             {
                 "english": "I can speak a little bit of Chinese.",
@@ -1105,6 +1123,7 @@ syllabus = {
     },
     "unit 19": {
         "description": "Identify tableware, describe things around you.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/19",
         "phrases": [
             {
                 "english": "Please give us five glasses.",
@@ -1170,6 +1189,7 @@ syllabus = {
     },
     "unit 20": {
         "description": "Discuss sports, ask someone out.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/20",
         "phrases": [
             {
                 "english": "Do you like swimming?",
@@ -1243,7 +1263,126 @@ syllabus = {
             },
         ],
     },
-    "unit 21": {"description": ".", "phrases": []},
-    "unit 22": {"description": ".", "phrases": []},
-    "unit 23": {"description": ".", "phrases": []},
+    "unit 21": {
+        "description": "Describe health issues, invite friends over.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/",
+        "phrases": [
+            {
+                "english": "I am sick today.",
+                "chinese": "我今天生病了.",
+                "pinyin": "Wǒ jīntiān shēngbìngle.",
+            },
+            {
+                "english": "You should go to the doctor.",
+                "chinese": "你应该去看医生.",
+                "pinyin": "Nǐ yīnggāi qù kàn yīshēng.",
+            },
+            {
+                "english": "He has a headache and he needs to rest.",
+                "chinese": "他的头很疼, 需要休息.",
+                "pinyin": "Tā de tóu hěn téng, xūyào xiūxí.",
+            },
+            {
+                "english": "He caught a cold last week.",
+                "chinese": "上星期他感冒了.",
+                "pinyin": "Shàng xīngqí tā gǎnmàole.",
+            },
+            {
+                "english": "Do you need to take medicine? Yes, I need to take medicine three times a day.",
+                "chinese": "你需要吃药吗? 是的, 我一天需要吃三次药.",
+                "pinyin": "Nǐ xūyào chī yào ma? Shì de, wǒ yītiān xūyào chī sāncì yào.",
+            },
+            {
+                "english": "We have a party this Saturday. Is everyone going to this party?",
+                "chinese": "这个星期六我们有派对. 大家都会去这个派对吗?",
+                "pinyin": "Zhège xīngqíliù wǒmen yǒu pàiduì. Dàjiā dūhuì qù zhège pàiduì ma?",
+            },
+            {
+                "english": "Hope you can come with your wife.",
+                "chinese": "希望你能跟妻子一起来.",
+                "pinyin": "Xīwàng nǐ néng gēn qīzi yī qǐlái.",
+            },
+            {
+                "english": "Can you come to my birthday party? Yes, and can I come with my friend?",
+                "chinese": "你能来我的生日派对吗? 好, 我可以跟我的朋友一起来吗?",
+                "pinyin": "Nǐ néng lái wǒ de shēngrì pàiduì ma? Hǎo, wǒ kěyǐ gēn wǒ de péngyǒu yī qǐlái ma?",
+            },
+            {
+                "english": "We didn’t eat lunch until 4 p.m. in the afternoon.",
+                "chinese": "我们下午四点才吃午饭.",
+                "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
+            },
+        ]
+    },
+    "unit 22": {
+        "description": "Chat over dinner, shop for clothes.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/22",
+        "phrases": [
+            {
+                "english": "What's your favorite dessert?",
+                "chinese": "你最喜欢的甜点是什么.",
+                "pinyin": "Nǐ zuì xǐhuān de tiándiǎn shì shénme.",
+            },
+            {
+                "english": "This watermelon is very tasty!",
+                "chinese": "这个西瓜真好吃!",
+                "pinyin": "Zhège xīguā zhēn hào chī!",
+            },
+            {
+                "english": "Today's dessert is chocolate.",
+                "chinese": "今天的甜点是巧克力.",
+                "pinyin": "Jīntiān de tiándiǎn shì qiǎokèlì.",
+            },
+            {
+                "english": "Do we give a tip?",
+                "chinese": "我们给不给小费?",
+                "pinyin": "Wǒmen gěi bù gěi xiǎofèi?",
+            },
+            {
+                "english": "Are you not hungry? No, I am very thirsty now!",
+                "chinese": "你不饿吗? 不, 我现在非常渴!",
+                "pinyin": "Nǐ bù è ma? Bù, wǒ xiànzài fēicháng kě.",
+            },
+            {
+                "english": "Please finish drinking your coffee.",
+                "chinese": "请喝完你的咖啡.",
+                "pinyin": "Qǐng hē wán nǐ de kāfēi.",
+            },
+            {
+                "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
+                "chinese": "你想买哪双鞋子? 我想买那双意大利鞋子.",
+                "pinyin": "Nǐ xiǎng mǎi nǎ shuāng xiézi?Wǒ xiǎng mǎi nà shuāng yìdàlì xiézi.",
+            },
+            {
+                "english": "Your shirt is very beautiful!",
+                "chinese": "你的衬衫非常漂亮.",
+                "pinyin": "Nǐ de chènshān fēicháng piàoliang.",
+            },
+            {
+                "english": "She wants to try on this blue skirt.",
+                "chinese": "她想试试这条蓝裙子.",
+                "pinyin": "Tā xiǎng shì shì zhè tiáo lán qúnzi.",
+            },
+            {
+                "english": "This pair is smaller than that pair.",
+                "chinese": "这双比那双小.",
+                "pinyin": "Zhè shuāng bǐ nà shuāng xiǎo.",
+            },
+            {
+                "english": "These shoes are too small!",
+                "chinese": "这双鞋子太小了!",
+                "pinyin": "Zhè shuāng xiézi tài xiǎole!",
+            },
+            {
+                "english": "Two shirts, that dress, this pair of shoes.",
+                "chinese": "两件衬衫, 那条裙子, 这双鞋子.",
+                "pinyin": "Liǎng jiàn chènshān, nà tiáo qúnzi, zhè shuāng xiézi.",
+            },
+            {
+                "english": "Your dress is prettier than mine.",
+                "chinese": "你的裙子比我的漂亮.",
+                "pinyin": "Nǐ de qúnzi bǐ wǒ de piàoliang.",
+            },
+        ]
+    },
 }
