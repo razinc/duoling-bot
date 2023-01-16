@@ -887,9 +887,24 @@ syllabus = {
                 "pinyin": "Nǐ de àihào shì shénme? Wǒ de àihào shì pāizhào.",
             },
             {
+                "english": "I like taking pictures with the phone the most.",
+                "chinese": "我最喜欢用手机拍照.",
+                "pinyin" : "Wǒ zuì xǐhuān yòng shǒujī pāizhào."
+            },
+            {
                 "english": "Traveling is my new hobby.",
                 "chinese": "旅游是我的新爱好.",
                 "pinyin": "Lǚyóu shì wǒ de xīn àihào.",
+            },
+            {
+                "english": "I want to travel and relax a bit.",
+                "chinese": "我想去旅游轻松一下.",
+                "pinyin" : "Wǒ xiǎng qù lǚyóu qīngsōng yīxià."
+            },
+            {
+                "english": "We will travel to India in March next year.",
+                "chinese": "明年三月我们会去印度旅游.",
+                "pinyin" : "Míngnián sān yuè wǒmen huì qù yìndù lǚyóu."
             },
             {
                 "english": "Why do you study Chinese? I am learning Chinese because I need to go to China.",
