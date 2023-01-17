@@ -889,7 +889,17 @@ syllabus = {
             {
                 "english": "I like taking pictures with the phone the most.",
                 "chinese": "我最喜欢用手机拍照.",
-                "pinyin" : "Wǒ zuì xǐhuān yòng shǒujī pāizhào."
+                "pinyin": "Wǒ zuì xǐhuān yòng shǒujī pāizhào.",
+            },
+            {
+                "english": "They enjoy using a camera to take pictures.",
+                "chinese": "他们喜欢用照相机拍照.",
+                "pinyin": "Tāmen xǐhuān yòng zhàoxiàngjī pāizhào.",
+            },
+            {
+                "english": "Did you see my camera? Your camera is inside the room.",
+                "chinese": "你看见我的照相机了吗? 你的照相机在房间里.",
+                "pinyin": "Nǐ kànjiàn wǒ de zhàoxiàngjī le ma? Nǐ de zhàoxiàngjī zài fángjiān lǐ.",
             },
             {
                 "english": "Traveling is my new hobby.",
@@ -899,12 +909,32 @@ syllabus = {
             {
                 "english": "I want to travel and relax a bit.",
                 "chinese": "我想去旅游轻松一下.",
-                "pinyin" : "Wǒ xiǎng qù lǚyóu qīngsōng yīxià."
+                "pinyin": "Wǒ xiǎng qù lǚyóu qīngsōng yīxià.",
+            },
+            {
+                "english": "He is not busy today, he is relaxed.",
+                "chinese": "他今天不忙，他很轻松.",
+                "pinyin": "Tā jīntiān bù máng, tā hěn qīngsōng.",
+            },
+            {
+                "english": "I want to go traveling because I like making new friends.",
+                "chinese": "我想旅游，因为我喜欢认识新朋友.",
+                "pinyin": "Wǒ xiǎng lǚyóu, yīnwèi wǒ xǐhuān rènshí xīn péngyǒu.",
             },
             {
                 "english": "We will travel to India in March next year.",
                 "chinese": "明年三月我们会去印度旅游.",
-                "pinyin" : "Míngnián sān yuè wǒmen huì qù yìndù lǚyóu."
+                "pinyin": "Míngnián sān yuè wǒmen huì qù yìndù lǚyóu.",
+            },
+            {
+                "english": "Would you like to travel to Spain or Japan? I want to go traveling in Spain.",
+                "chinese": "你想去西班牙旅游还是日本旅游? 我想去西班牙旅游.",
+                "pinyin": "Nǐ xiǎng qù xībānyá lǚyóu háishì rìběn lǚyóu? Wǒ xiǎng qù xībānyá lǚyóu.",
+            },
+            {
+                "english": "He wants to live in Spain because his girlfriend is Spanish.",
+                "chinese": "他想住在西班牙，因为他的女朋友是西班牙人.",
+                "pinyin": "Tā xiǎng zhù zài xībānyá, yīnwèi tā de nǚ péngyǒu shì xībānyá rén.",
             },
             {
                 "english": "Why do you study Chinese? I am learning Chinese because I need to go to China.",
@@ -915,6 +945,16 @@ syllabus = {
                 "english": "Do you love listening to Spanish music?",
                 "chinese": "你爱听西班牙音乐吗?",
                 "pinyin": "Nǐ ài tīng xībānyá yīnyuè ma?",
+            },
+            {
+                "english": "That is our Spanish teacher.",
+                "chinese": "那是我们的西班牙语老师.",
+                "pinyin": "Nà shì wǒmen de xībānyá yǔ lǎoshī.",
+            },
+            {
+                "english": "I'm learning Spanish at school.",
+                "chinese": "我在学校学习西班牙语.",
+                "pinyin": "Wǒ zài xuéxiào xuéxí xībānyá yǔ.",
             },
             {
                 "english": "Because this is too expensive, so I won’t buy it.",
@@ -963,6 +1003,11 @@ syllabus = {
                 "pinyin": "Tā xiǎng chī yángròu háishì niúròu?",
             },
             {
+                "english": "My friend and I ate lamb for dinner yesterday.",
+                "chinese": "昨天晚饭我和朋友吃了羊肉.",
+                "pinyin": "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu.",
+            },
+            {
                 "english": "I work out every single day.",
                 "chinese": "我每天都锻炼.",
                 "pinyin": "Wǒ měitiān dū duànliàn.",
@@ -996,6 +1041,11 @@ syllabus = {
                 "english": "These things are healthy. I want to eat healthy things.",
                 "chinese": "这些东西很健康. 我想吃健康的东西.",
                 "pinyin": "Zhèxiē dōngxi hěn jiànkāng. Wǒ xiǎng chī jiànkāng de dōngxi.",
+            },
+            {
+                "english": "Will we eat Japanese food tonight?",
+                "chinese": "今天晚上我们会吃日本菜吗?",
+                "pinyin": "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?",
             },
         ],
     },
@@ -1327,7 +1377,7 @@ syllabus = {
                 "chinese": "我们下午四点才吃午饭.",
                 "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
             },
-        ]
+        ],
     },
     "unit 22": {
         "description": "Chat over dinner, shop for clothes.",
@@ -1398,6 +1448,6 @@ syllabus = {
                 "chinese": "你的裙子比我的漂亮.",
                 "pinyin": "Nǐ de qúnzi bǐ wǒ de piàoliang.",
             },
-        ]
+        ],
     },
 }
