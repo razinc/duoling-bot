@@ -497,6 +497,11 @@ syllabus = {
                 "pinyin": "Nǐ shuō dé hěn kuài.",
             },
             {
+                "english": "He speaks so fast, so I don't understand.",
+                "chinese": "他说得很快，所以我不明白.",
+                "pinyin" : "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái."
+            },
+            {
                 "english": "I eat slowly.",
                 "chinese": "我吃得很慢.",
                 "pinyin": "Wǒ chī dé hěn màn.",
@@ -930,6 +935,11 @@ syllabus = {
                 "english": "Would you like to travel to Spain or Japan? I want to go traveling in Spain.",
                 "chinese": "你想去西班牙旅游还是日本旅游? 我想去西班牙旅游.",
                 "pinyin": "Nǐ xiǎng qù xībānyá lǚyóu háishì rìběn lǚyóu? Wǒ xiǎng qù xībānyá lǚyóu.",
+            },
+            {
+                "english": "Why do you want to go to Spain?",
+                "chinese": "为什么你想去西班牙?",
+                "pinyin" : "Wèishéme nǐ xiǎng qù xībānyá?"
             },
             {
                 "english": "He wants to live in Spain because his girlfriend is Spanish.",
