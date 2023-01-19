@@ -499,7 +499,7 @@ syllabus = {
             {
                 "english": "He speaks so fast, so I don't understand.",
                 "chinese": "他说得很快，所以我不明白.",
-                "pinyin" : "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái."
+                "pinyin": "Tā shuō dé hěn kuài, suǒyǐ wǒ bù míngbái.",
             },
             {
                 "english": "I eat slowly.",
@@ -892,6 +892,11 @@ syllabus = {
                 "pinyin": "Nǐ de àihào shì shénme? Wǒ de àihào shì pāizhào.",
             },
             {
+                "english": "I bought a new phone.",
+                "chinese": "我买了一个新手机.",
+                "pinyin": "Wǒ mǎile yīgè xīn shǒujī.",
+            },
+            {
                 "english": "I like taking pictures with the phone the most.",
                 "chinese": "我最喜欢用手机拍照.",
                 "pinyin": "Wǒ zuì xǐhuān yòng shǒujī pāizhào.",
@@ -939,7 +944,7 @@ syllabus = {
             {
                 "english": "Why do you want to go to Spain?",
                 "chinese": "为什么你想去西班牙?",
-                "pinyin" : "Wèishéme nǐ xiǎng qù xībānyá?"
+                "pinyin": "Wèishéme nǐ xiǎng qù xībānyá?",
             },
             {
                 "english": "He wants to live in Spain because his girlfriend is Spanish.",
@@ -965,6 +970,11 @@ syllabus = {
                 "english": "I'm learning Spanish at school.",
                 "chinese": "我在学校学习西班牙语.",
                 "pinyin": "Wǒ zài xuéxiào xuéxí xībānyá yǔ.",
+            },
+            {
+                "english": "She enjoys learning English.",
+                "chinese": "她喜欢学习英语.",
+                "pinyin": "Tā xǐhuān xuéxí yīngyǔ.",
             },
             {
                 "english": "Because this is too expensive, so I won’t buy it.",
