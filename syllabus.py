@@ -1013,6 +1013,11 @@ syllabus = {
                 "pinyin": "Nǐ chī zhūròu háishì jīròu?",
             },
             {
+                "english": "She doesn't eat pork.",
+                "chinese": "她不吃猪肉.",
+                "pinyin": "Tā bù chī zhūròu.",
+            },
+            {
                 "english": "I like eating noodles with chicken.",
                 "chinese": "我喜欢吃鸡肉面条.",
                 "pinyin": "Wǒ xǐhuān chī jīròu miàntiáo.",
@@ -1026,6 +1031,16 @@ syllabus = {
                 "english": "My friend and I ate lamb for dinner yesterday.",
                 "chinese": "昨天晚饭我和朋友吃了羊肉.",
                 "pinyin": "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu.",
+            },
+            {
+                "english": "Would you like to eat Chinese food or British food?",
+                "chinese": "你想吃中国菜还是英国菜?",
+                "pinyin": "Nǐ xiǎng chī zhōngguó cài háishì yīngguó cài?",
+            },
+            {
+                "english": "We are going to eat lamb at a restaurant tomorrow.",
+                "chinese": "明天我们要去饭馆吃羊肉.",
+                "pinyin": "Míngtiān wǒmen yào qù fànguǎn chī yángròu.",
             },
             {
                 "english": "I work out every single day.",
@@ -1066,6 +1081,16 @@ syllabus = {
                 "english": "Will we eat Japanese food tonight?",
                 "chinese": "今天晚上我们会吃日本菜吗?",
                 "pinyin": "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?",
+            },
+            {
+                "english": "Do you like to eat Korean food or Japanese food?",
+                "chinese": "你喜欢吃韩国菜还是日本菜?",
+                "pinyin": "Nǐ xǐhuān chī hánguó cài háishì rìběn cài?",
+            },
+            {
+                "english": "I like to eat this rice pork.",
+                "chinese": "我喜欢吃这个猪肉饭.",
+                "pinyin": "Wǒ xǐhuān chī zhège zhūròu fàn.",
             },
         ],
     },
