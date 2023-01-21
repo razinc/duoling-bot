@@ -1013,6 +1013,11 @@ syllabus = {
                 "pinyin": "Yīgè fèn mǐfàn duōshǎo qián?",
             },
             {
+                "english": "We would like two servings of beef noodles?",
+                "chinese": "我们想要两个牛肉面?",
+                "pinyin": "Wǒmen xiǎng yào liǎng gè niúròu miàn?",
+            },
+            {
                 "english": "What would you like to drink?",
                 "chinese": "你想要什么饮料?",
                 "pinyin": "Nǐ xiǎng yào shénme yǐnliào?",
@@ -1046,6 +1051,16 @@ syllabus = {
                 "english": "Does she want to eat lamb or beef?",
                 "chinese": "她想吃羊肉还是牛肉?",
                 "pinyin": "Tā xiǎng chī yángròu háishì niúròu?",
+            },
+            {
+                "english": "The beef here is not bad.",
+                "chinese": "这里的牛肉不错.",
+                "pinyin": "Zhèlǐ de niúròu bùcuò.",
+            },
+            {
+                "english": "Do you want to eat fish or meat?",
+                "chinese": "你想吃鱼还是吃肉?",
+                "pinyin": "Nǐ xiǎng chī yú háishì chīròu?",
             },
             {
                 "english": "My friend and I ate lamb for dinner yesterday.",
