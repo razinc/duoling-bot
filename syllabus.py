@@ -998,9 +998,19 @@ syllabus = {
                 "pinyin": "Wǒ bù chī ròu.",
             },
             {
+                "english": "What meat do you like to eat the most?",
+                "chinese": "你最喜欢吃什么肉?",
+                "pinyin": "Nǐ zuì xǐhuān chī shénme ròu?",
+            },
+            {
                 "english": "Do you want noodles or rice?",
                 "chinese": "你要面条还是米饭?",
                 "pinyin": "Nǐ yào miàntiáo háishì mǐfàn?",
+            },
+            {
+                "english": "How much does a serving of rice cost?",
+                "chinese": "一个米饭多少钱?",
+                "pinyin": "Yīgè fèn mǐfàn duōshǎo qián?",
             },
             {
                 "english": "What would you like to drink?",
@@ -1008,9 +1018,19 @@ syllabus = {
                 "pinyin": "Nǐ xiǎng yào shénme yǐnliào?",
             },
             {
+                "english": "The drinks here are expensive.",
+                "chinese": "这里的饮料很贵.",
+                "pinyin": "Zhèlǐ de yǐnliào hěn guì.",
+            },
+            {
                 "english": "Do you eat pork or chicken?",
                 "chinese": "你吃猪肉还是鸡肉?",
                 "pinyin": "Nǐ chī zhūròu háishì jīròu?",
+            },
+            {
+                "english": "The teacher doesn't want to eat chicken.",
+                "chinese": "老师不想吃鸡肉.",
+                "pinyin": "Lǎoshī bùxiǎng chī jīròu.",
             },
             {
                 "english": "She doesn't eat pork.",
@@ -1031,6 +1051,11 @@ syllabus = {
                 "english": "My friend and I ate lamb for dinner yesterday.",
                 "chinese": "昨天晚饭我和朋友吃了羊肉.",
                 "pinyin": "Zuótiān wǎnfàn wǒ hé péngyǒu chīle yángròu.",
+            },
+            {
+                "english": "I like to eat Shanghai cuisine.",
+                "chinese": "我喜欢吃上海菜.",
+                "pinyin": "Wǒ xǐhuān chī shànghǎi cài.",
             },
             {
                 "english": "Would you like to eat Chinese food or British food?",
