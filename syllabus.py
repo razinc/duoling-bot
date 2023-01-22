@@ -532,6 +532,11 @@ syllabus = {
                 "pinyin": "Nǐ de dìdì ǎi bù ǎi?",
             },
             {
+                "english": "She is a bit short.",
+                "chinese": "她有点儿矮",
+                "pinyin": "Tā yǒudiǎner ǎi",
+            },
+            {
                 "english": "That is our friend.",
                 "chinese": "那是我们的朋友.",
                 "pinyin": "Nà shì wǒmen de péngyǒu.",
@@ -748,6 +753,11 @@ syllabus = {
                 "english": "They want to watch a movie tomorrow.",
                 "chinese": "他们想明天看电影.",
                 "pinyin": "Tāmen xiǎng míngtiān kàn diànyǐng.",
+            },
+            {
+                "english": "What time do the movie start? The movie starts at five o'clock.",
+                "chinese": "电影几点开始? 电影五点开始.",
+                "pinyin": "Diànyǐng jǐ diǎn kāishǐ? Diànyǐng wǔ diǎn kāishǐ.",
             },
             {
                 "english": "What do you want to do this afternoon?",
@@ -1111,6 +1121,16 @@ syllabus = {
                 "english": "Are you tired?",
                 "chinese": "你累吗?",
                 "pinyin": "Nǐ lèi ma?",
+            },
+            {
+                "english": "They are too tired.",
+                "chinese": "他们太累了.",
+                "pinyin": "Tāmen tài lèile.",
+            },
+            {
+                "english": "We all feel a little tired.",
+                "chinese": "我们都觉得有点儿累.",
+                "pinyin": "Wǒmen dōu juédé yǒudiǎner lèi.",
             },
             {
                 "english": "These things are healthy. I want to eat healthy things.",
