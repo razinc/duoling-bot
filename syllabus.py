@@ -1098,6 +1098,16 @@ syllabus = {
                 "pinyin": "Wǒ měitiān dū duànliàn.",
             },
             {
+                "english": "He goes to work out every single Sunday.",
+                "chinese": "他每个星期日都去锻炼.",
+                "pinyin": "Tā měi gè xīngqírì dū qù duànliàn.",
+            },
+            {
+                "english": "Are you busy at work?.",
+                "chinese": "工作忙不忙?",
+                "pinyin": "Gōngzuò máng bù máng?",
+            },
+            {
                 "english": "How do you feel?",
                 "chinese": "你觉得怎么样?",
                 "pinyin": "Nǐ juédé zěnme yàng?",
@@ -1118,6 +1128,11 @@ syllabus = {
                 "pinyin": "Wǒ huì zhùyì shēntǐ.",
             },
             {
+                "english": "Don't go online.",
+                "chinese": "不要上网.",
+                "pinyin": "Bùyào shàngwǎng.",
+            },
+            {
                 "english": "Are you tired?",
                 "chinese": "你累吗?",
                 "pinyin": "Nǐ lèi ma?",
@@ -1126,6 +1141,11 @@ syllabus = {
                 "english": "They are too tired.",
                 "chinese": "他们太累了.",
                 "pinyin": "Tāmen tài lèile.",
+            },
+            {
+                "english": "She feels alright.",
+                "chinese": "她觉得不错.",
+                "pinyin": "Tā juédé bù cuò",
             },
             {
                 "english": "We all feel a little tired.",
