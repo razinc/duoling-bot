@@ -1093,6 +1093,21 @@ syllabus = {
                 "pinyin": "Míngtiān wǒmen yào qù fànguǎn chī yángròu.",
             },
             {
+                "english": "Will we eat Japanese food tonight?",
+                "chinese": "今天晚上我们会吃日本菜吗?",
+                "pinyin": "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?",
+            },
+            {
+                "english": "Do you like to eat Korean food or Japanese food?",
+                "chinese": "你喜欢吃韩国菜还是日本菜?",
+                "pinyin": "Nǐ xǐhuān chī hánguó cài háishì rìběn cài?",
+            },
+            {
+                "english": "I like to eat this rice pork.",
+                "chinese": "我喜欢吃这个猪肉饭.",
+                "pinyin": "Wǒ xǐhuān chī zhège zhūròu fàn.",
+            },
+            {
                 "english": "I work out every single day.",
                 "chinese": "我每天都锻炼.",
                 "pinyin": "Wǒ měitiān dū duànliàn.",
@@ -1158,19 +1173,14 @@ syllabus = {
                 "pinyin": "Zhèxiē dōngxi hěn jiànkāng. Wǒ xiǎng chī jiànkāng de dōngxi.",
             },
             {
-                "english": "Will we eat Japanese food tonight?",
-                "chinese": "今天晚上我们会吃日本菜吗?",
-                "pinyin": "Jīntiān wǎnshàng wǒmen huì chī rìběn cài ma?",
+                "english": "Dont' sleep.",
+                "chinese": "不要睡觉.",
+                "pinyin": "Bùyào shuìjiào.",
             },
             {
-                "english": "Do you like to eat Korean food or Japanese food?",
-                "chinese": "你喜欢吃韩国菜还是日本菜?",
-                "pinyin": "Nǐ xǐhuān chī hánguó cài háishì rìběn cài?",
-            },
-            {
-                "english": "I like to eat this rice pork.",
-                "chinese": "我喜欢吃这个猪肉饭.",
-                "pinyin": "Wǒ xǐhuān chī zhège zhūròu fàn.",
+                "english": "He doesn't have a job.",
+                "chinese": "他没有工作.",
+                "pinyin": "Tā méiyǒu gōngzuò.",
             },
         ],
     },
