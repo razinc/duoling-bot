@@ -517,6 +517,11 @@ syllabus = {
                 "pinyin": "Tā gāo ma?",
             },
             {
+                "english": "You are a bit tall.",
+                "chinese": "你有点儿高.",
+                "pinyin": "Nǐ yǒudiǎn er gāo",
+            },
+            {
                 "english": "My older brother's girlfriend is very pretty.",
                 "chinese": "我的哥哥的女朋友很漂亮.",
                 "pinyin": "Wǒ dí gēgē de nǚ péngyǒu hěn piàoliang.",
@@ -1136,6 +1141,16 @@ syllabus = {
                 "english": "Our cat is fat.",
                 "chinese": "我们的猫很胖.",
                 "pinyin": "Wǒmen de māo hěn pàng.",
+            },
+            {
+                "english": "Please pay attention to your health.",
+                "chinese": "请注意健康.",
+                "pinyin": "Qǐng zhùyì jiànkāng.",
+            },
+            {
+                "english": "You are too busy at work, you need to pay attention to your health.",
+                "chinese": "你的工作太忙，要注意身体健康.",
+                "pinyin": "Nǐ de gōngzuò tài máng, yào zhùyì shēntǐ jiànkāng.",
             },
             {
                 "english": "I'll pay attention to my health.",
