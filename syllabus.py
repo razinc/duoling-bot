@@ -1123,6 +1123,11 @@ syllabus = {
                 "pinyin": "Tā měi gè xīngqírì dū qù duànliàn.",
             },
             {
+                "english": "Where do you go to work out?",
+                "chinese": "你去哪儿锻炼?",
+                "pinyin": "Nǐ qù nǎer duànliàn?",
+            },
+            {
                 "english": "Are you busy at work?.",
                 "chinese": "工作忙不忙?",
                 "pinyin": "Gōngzuò máng bù máng?",
@@ -1268,6 +1273,26 @@ syllabus = {
                 "chinese": "随便你.",
                 "pinyin": "Suíbiàn nǐ.",
             },
+            {
+                "english": "She wants to buy two pieces of clothing.",
+                "chinese": "她想买两件衣服.",
+                "pinyin": "Tā xiǎng mǎi liǎng jiàn yīfú.",
+            },
+            {
+                "english": "Welcome.",
+                "chinese": "欢迎.",
+                "pinyin": "Huānyíng.",
+            },
+            {
+                "english": "Don't close the door.",
+                "chinese": "不要关门.",
+                "pinyin": "Bùyào guānmén.",
+            },
+            {
+                "english": "What time do you open tomorrow?",
+                "chinese": "明天几点开门?",
+                "pinyin": "Míngtiān jǐ diǎn kāimén?",
+            },
         ],
     },
     "unit 18": {
@@ -1278,6 +1303,16 @@ syllabus = {
                 "english": "I can speak a little bit of Chinese.",
                 "chinese": "我会说一点儿汉语.",
                 "pinyin": "Wǒ huì shuō yīdiǎn er hànyǔ.",
+            },
+            {
+                "english": "My girlfriend can read a little bit of Chinese.",
+                "chinese": "我的女朋友会读一点儿中文.",
+                "pinyin": "Wǒ de nǚ péngyǒu huì dú yīdiǎn er zhōngwén.",
+            },
+            {
+                "english": "None of my friends can read Chinese.",
+                "chinese": "我的朋友都不会读中文.",
+                "pinyin": "Wǒ de péngyǒu dōu bù huì dú zhòng wén.",
             },
             {
                 "english": "Excuse me, what does this mean?",
@@ -1295,6 +1330,21 @@ syllabus = {
                 "pinyin": "Xuéxí hànyǔ nán ma?",
             },
             {
+                "english": "You wrote this character incorrectly.",
+                "chinese": "这个字你写错了.",
+                "pinyin": "Zhège zì nǐ xiě cuòle.",
+            },
+            {
+                "english": "What are you writing?",
+                "chinese": "你在写什么?",
+                "pinyin": "Nǐ zài xiě shénme?",
+            },
+            {
+                "english": "How do you say this character in Chinese?",
+                "chinese": "这个字中文怎么说?",
+                "pinyin": "Zhège zì zhōngwén zěnme shuō?",
+            },
+            {
                 "english": "Can you read this word?",
                 "chinese": "你会读这个字吗?",
                 "pinyin": "Nǐ huì dú zhège zì ma?",
@@ -1303,6 +1353,16 @@ syllabus = {
                 "english": "Teacher, I don't know this character.",
                 "chinese": "老师, 我不认识这个字.",
                 "pinyin": "Lǎoshī, wǒ bù rènshí zhège zì.",
+            },
+            {
+                "english": "We are reading the newspaper.",
+                "chinese": "我们在读报纸.",
+                "pinyin": "Wǒmen zài dú bàozhǐ.",
+            },
+            {
+                "english": "I don't understand what you mean.",
+                "chinese": "我不明白你的意思.",
+                "pinyin": "Wǒ bù míngbái nǐ de yìsi.",
             },
             {
                 "english": "We will see a friend at three in the afternoon.",
