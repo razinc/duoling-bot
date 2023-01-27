@@ -882,9 +882,9 @@ syllabus = {
                 "pinyin": "Zhèxiē píngguǒ duōshǎo qián?",
             },
             {
-                "english": "Excuse me, where is the supermarket?",
-                "chinese": "请问, 超市在哪里?",
-                "pinyin": "Qǐngwèn, chāoshì zài nǎlǐ?.",
+                "english": "Excuse me, where is the supermarket? The shop is next to the supermarket.",
+                "chinese": "请问, 超市在哪里? 商店在超市的旁边.",
+                "pinyin": "Qǐngwèn, chāoshì zài nǎlǐ?. Shāngdiàn zài chāoshì de pángbiān.",
             },
             {
                 "english": "What do you want to buy? I want to buy vegetables and fruit.",
@@ -1277,6 +1277,11 @@ syllabus = {
                 "english": "She wants to buy two pieces of clothing.",
                 "chinese": "她想买两件衣服.",
                 "pinyin": "Tā xiǎng mǎi liǎng jiàn yīfú.",
+            },
+            {
+                "english": "Which piece of clothing will you buy?",
+                "chinese": "你会买哪件衣服?",
+                "pinyin": "Nǐ huì mǎi nǎ jiàn yīfú?",
             },
             {
                 "english": "Welcome.",
