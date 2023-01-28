@@ -1219,9 +1219,19 @@ syllabus = {
                 "pinyin": "Zuò chūzū chē qù nàlǐ guì bù guì?",
             },
             {
+                "english": "Excuse me, is there a taxi stand here?",
+                "chinese": "请问这里有出租车站吗?",
+                "pinyin": "Qǐngwèn zhè li yǒu chūzū chē zhàn ma?",
+            },
+            {
                 "english": "Excuse me, where is the subway station? The subway station is next to the hotel.",
                 "chinese": "请问, 地铁站在哪儿? 地铁站在酒店的旁边.",
                 "pinyin": "Qǐngwèn, dìtiě zhàn zài nǎ'er? Dìtiě zhàn zài jiǔdiàn de pángbiān.",
+            },
+            {
+                "english": "He does not like to take the subway.",
+                "chinese": "他不喜欢坐地铁.",
+                "pinyin": "Tā bù xǐhuān zuò dìtiě.",
             },
             {
                 "english": "They do not like taking boats.",
@@ -1237,6 +1247,11 @@ syllabus = {
                 "english": "I get off the boat here.",
                 "chinese": "我在这儿下船.",
                 "pinyin": "Wǒ zài zhèr xià chuán.",
+            },
+            {
+                "english": "You can also take a boat there.",
+                "chinese": "你也可以坐船去那里.",
+                "pinyin": "Nǐ yě kěyǐ zuò chuán qù nàlǐ.",
             },
             {
                 "english": "Do you need help? I am just looking.",
