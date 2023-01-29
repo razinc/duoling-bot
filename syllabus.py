@@ -1214,6 +1214,11 @@ syllabus = {
                 "pinyin": "Wǒmen zài nǎge zhàn xià chē?",
             },
             {
+                "english": "You have to get off at the front.",
+                "chinese": "你要在前面下车.",
+                "pinyin": "Nǐ yào zài qiánmiàn xià chē.",
+            },
+            {
                 "english": "Is it expensive to take a taxi there?",
                 "chinese": "坐出租车去那里贵不贵?",
                 "pinyin": "Zuò chūzū chē qù nàlǐ guì bù guì?",
@@ -1224,9 +1229,24 @@ syllabus = {
                 "pinyin": "Qǐngwèn zhè li yǒu chūzū chē zhàn ma?",
             },
             {
+                "english": "They want to take a taxi to our house.",
+                "chinese": "他们想坐出租车我们的家.",
+                "pinyin": "Tāmen xiǎng zuò chūzū chē wǒmen de jiā.",
+            },
+            {
+                "english": "Where is our hotel?",
+                "chinese": "我们的酒店在哪儿?",
+                "pinyin": "Wǒmen de jiǔdiàn zài nǎ'er?",
+            },
+            {
                 "english": "Excuse me, where is the subway station? The subway station is next to the hotel.",
                 "chinese": "请问, 地铁站在哪儿? 地铁站在酒店的旁边.",
                 "pinyin": "Qǐngwèn, dìtiě zhàn zài nǎ'er? Dìtiě zhàn zài jiǔdiàn de pángbiān.",
+            },
+            {
+                "english": "How do I get to my hotel from here?",
+                "chinese": "从这里到我的酒店怎么走?",
+                "pinyin": "Cóng zhèlǐ dào wǒ de jiǔdiàn zěnmezǒu?",
             },
             {
                 "english": "He does not like to take the subway.",
