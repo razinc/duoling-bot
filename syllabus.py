@@ -1461,6 +1461,11 @@ syllabus = {
                 "pinyin": "Nǐ xiǎng yào shénme guǒzhī?",
             },
             {
+                "english": "My little sister really likes to drink juice.",
+                "chinese": "我的妹妹很喜欢喝果汁",
+                "pinyin": "Wǒ de mèimei hěn xǐhuān hē guǒzhī",
+            },
+            {
                 "english": "Your plate is on the table.",
                 "chinese": "你的盘子在桌子上?",
                 "pinyin": "Nǐ de pánzi zài zhuōzi shàng?",
@@ -1471,9 +1476,24 @@ syllabus = {
                 "pinyin": "Sān bēi píjiǔ, bàn kuài dàngāo, yì wǎn niúròu miàn.",
             },
             {
+                "english": "Give us three glasses of beer.",
+                "chinese": "给我们三杯啤酒.",
+                "pinyin": "Gěi wǒmen sān bēi píjiǔ.",
+            },
+            {
+                "english": "She only wants half a piece of cake.",
+                "chinese": "她只要半块蛋糕.",
+                "pinyin": "Tā zhǐ yào bàn kuài dàngāo.",
+            },
+            {
                 "english": "There are two bottles on the table.",
                 "chinese": "桌子上有两个瓶子.",
                 "pinyin": "Zhuōzi shàng yǒu liǎng gè píngzi.",
+            },
+            {
+                "english": "Teacher Wang only wants a cup of coffee.",
+                "chinese": "王老师只要一杯咖啡.",
+                "pinyin": "Wáng lǎoshī zhǐyào yībēi kāfēi.",
             },
             {
                 "english": "There is a car next to her house.",
@@ -1499,6 +1519,11 @@ syllabus = {
                 "english": "Nine books, one table, ten birds.",
                 "chinese": "九本书, 一张桌子, 十只鸟.",
                 "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
+            },
+            {
+                "english": "His dad is German.",
+                "chinese": "他爸爸是德国人.",
+                "pinyin": "Tā bàba shì déguó rén.",
             },
         ],
     },
