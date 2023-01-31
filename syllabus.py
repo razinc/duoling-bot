@@ -1446,6 +1446,11 @@ syllabus = {
                 "pinyin": "Qǐng gěi wǒmen wǔ gè bēizi.",
             },
             {
+                "english": "We don't have knives and forks.",
+                "chinese": "我们没有刀和叉.",
+                "pinyin": "Wǒmen méiyǒu dāo hé chā.",
+            },
+            {
                 "english": "Can you give me a bowl?",
                 "chinese": "可以给我一个碗吗?",
                 "pinyin": "Kěyǐ gěi wǒ yīgè wǎn ma?",
@@ -1476,6 +1481,11 @@ syllabus = {
                 "pinyin": "Sān bēi píjiǔ, bàn kuài dàngāo, yì wǎn niúròu miàn.",
             },
             {
+                "english": "Waiter! Please give us two bowls of rice.",
+                "chinese": "服务员! 请给我们两碗米饭.",
+                "pinyin": "Fúwùyuán! Qǐng gěi wǒmen liǎng wǎn mǐfàn.",
+            },
+            {
                 "english": "Give us three glasses of beer.",
                 "chinese": "给我们三杯啤酒.",
                 "pinyin": "Gěi wǒmen sān bēi píjiǔ.",
@@ -1484,6 +1494,11 @@ syllabus = {
                 "english": "She only wants half a piece of cake.",
                 "chinese": "她只要半块蛋糕.",
                 "pinyin": "Tā zhǐ yào bàn kuài dàngāo.",
+            },
+            {
+                "english": "They want one glass and three plates.",
+                "chinese": "他们要一个杯子和三个盘子.",
+                "pinyin": "Tāmen yào yīgè bēizi hé sān gè pánzi.",
             },
             {
                 "english": "There are two bottles on the table.",
@@ -1524,6 +1539,16 @@ syllabus = {
                 "english": "His dad is German.",
                 "chinese": "他爸爸是德国人.",
                 "pinyin": "Tā bàba shì déguó rén.",
+            },
+            {
+                "english": "We went traveling in Germany in July last year.",
+                "chinese": "去年七月我们去了德国旅游.",
+                "pinyin": "Qùnián qī yuè wǒmen qùle déguó lǚyóu.",
+            },
+            {
+                "english": "His cat ate your banana.",
+                "chinese": "他的猫吃了你的香蕉.",
+                "pinyin": "Tā de māo chīle nǐ de xiāngjiāo.",
             },
         ],
     },
