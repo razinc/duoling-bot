@@ -1461,6 +1461,11 @@ syllabus = {
                 "pinyin": "Nǐ huì yòng kuàizi ma? Bù huì. Qǐng gěi wǒ dāo.",
             },
             {
+                "english": "None of them know how to use chopsticks.",
+                "chinese": "他们都不会用筷子.",
+                "pinyin": "Tāmen dōu bù huì yòng kuàizi.",
+            },
+            {
                 "english": "What juice do you want?",
                 "chinese": "你想要什么果汁?",
                 "pinyin": "Nǐ xiǎng yào shénme guǒzhī?",
