@@ -1451,6 +1451,11 @@ syllabus = {
                 "pinyin": "Wǒmen méiyǒu dāo hé chā.",
             },
             {
+                "english": "Is this your spoon?",
+                "chinese": "这是你的勺子吗?",
+                "pinyin": "Zhè shì nǐ de sháozi ma?",
+            },
+            {
                 "english": "Can you give me a bowl?",
                 "chinese": "可以给我一个碗吗?",
                 "pinyin": "Kěyǐ gěi wǒ yīgè wǎn ma?",
