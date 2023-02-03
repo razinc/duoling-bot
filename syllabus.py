@@ -1501,6 +1501,11 @@ syllabus = {
                 "pinyin": "Gěi wǒmen sān bēi píjiǔ.",
             },
             {
+                "english": "How many beers did she drink?",
+                "chinese": "她喝了几杯啤酒?",
+                "pinyin": "Tā hēle jǐ bēi píjiǔ?",
+            },
+            {
                 "english": "She only wants half a piece of cake.",
                 "chinese": "她只要半块蛋糕.",
                 "pinyin": "Tā zhǐ yào bàn kuài dàngāo.",
