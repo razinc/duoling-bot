@@ -1476,6 +1476,11 @@ syllabus = {
                 "pinyin": "Nǐ xiǎng yào shénme guǒzhī?",
             },
             {
+                "english": "Whose glass of juice is this?",
+                "chinese": "这杯果汁是谁的?",
+                "pinyin": "Zhè bēi guǒzhī shì shéi de?",
+            },
+            {
                 "english": "My little sister really likes to drink juice.",
                 "chinese": "我的妹妹很喜欢喝果汁",
                 "pinyin": "Wǒ de mèimei hěn xǐhuān hē guǒzhī",
@@ -1521,6 +1526,16 @@ syllabus = {
                 "pinyin": "Zhuōzi shàng yǒu liǎng gè píngzi.",
             },
             {
+                "english": "There is no water in the bottle.",
+                "chinese": "瓶子里没有水.",
+                "pinyin": "Píngzi lǐ méiyǒu shuǐ.",
+            },
+            {
+                "english": "What is in the bottle?.",
+                "chinese": "瓶子里有什么?",
+                "pinyin": "Píngzi lǐ yǒu shénme?",
+            },
+            {
                 "english": "Teacher Wang only wants a cup of coffee.",
                 "chinese": "王老师只要一杯咖啡.",
                 "pinyin": "Wáng lǎoshī zhǐyào yībēi kāfēi.",
@@ -1549,6 +1564,21 @@ syllabus = {
                 "english": "Nine books, one table, ten birds.",
                 "chinese": "九本书, 一张桌子, 十只鸟.",
                 "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
+            },
+            {
+                "english": "There are two books on the table.",
+                "chinese": "桌子上有两本书.",
+                "pinyin": "Zhuōzi shàng yǒu liǎng běn shū.",
+            },
+            {
+                "english": "There is a taxi outside the hotel.",
+                "chinese": "酒店外有一辆出租车.",
+                "pinyin": "Jiǔdiàn wài yǒuyī liàng chūzū chē.",
+            },
+            {
+                "english": "There are one hundered books in our office.",
+                "chinese": "我们的办公室里有一百本书.",
+                "pinyin": "Wǒmen de bàngōngshì li yǒu yībǎi běn shū.",
             },
             {
                 "english": "His dad is German.",
