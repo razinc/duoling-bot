@@ -1733,9 +1733,44 @@ syllabus = {
                 "pinyin": "Tā de tóu hěn téng, xūyào xiūxí.",
             },
             {
+                "english": "I have a headache.",
+                "chinese": "我觉得头疼.",
+                "pinyin": "Wǒ juédé tóuténg.",
+            },
+            {
+                "english": "His stomach hurts, I don't know what he ate.",
+                "chinese": "他的肚子很疼, 我不知道他吃了什么.",
+                "pinyin": "Tā de dùzi hěn téng, wǒ bù zhīdào tā chīle shénme.",
+            },
+            {
+                "english": "I would like to take a break.",
+                "chinese": "我想休息一下.",
+                "pinyin": "Wǒ xiǎng xiūxí yīxià.",
+            },
+            {
+                "english": "You should go home and rest.",
+                "chinese": "你应该回家休息.",
+                "pinyin": "Nǐ yīnggāi huí jiā xiūxí.",
+            },
+            {
                 "english": "He caught a cold last week.",
                 "chinese": "上星期他感冒了.",
                 "pinyin": "Shàng xīngqí tā gǎnmàole.",
+            },
+            {
+                "english": "I have a cold.",
+                "chinese": "我感冒了.",
+                "pinyin": "Wǒ gǎnmàole.",
+            },
+            {
+                "english": "You must help me.",
+                "chinese": "你一定要帮我.",
+                "pinyin": "Nǐ yīdìng yào bāng wǒ.",
+            },
+            {
+                "english": "My older sister does not want to stay at home.",
+                "chinese": "我的姐姐不要留在家里.",
+                "pinyin": "Wǒ de jiějiě bù yào liú zài jiālǐ.",
             },
             {
                 "english": "Do you need to take medicine? Yes, I need to take medicine three times a day.",
@@ -1761,6 +1796,11 @@ syllabus = {
                 "english": "We didn’t eat lunch until 4 p.m. in the afternoon.",
                 "chinese": "我们下午四点才吃午饭.",
                 "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
+            },
+            {
+                "english": "Do not look.",
+                "chinese": "别看.",
+                "pinyin": "Bié kàn.",
             },
         ],
     },
