@@ -1561,6 +1561,21 @@ syllabus = {
                 "pinyin": "Shù shàng yǒu liù zhǐ niǎo.",
             },
             {
+                "english": "There are ten birds on top of the car right now.",
+                "chinese": "现在汽车上有十只鸟.",
+                "pinyin": "Xiànzài qìchē dǐng shàng yǒu shí zhǐ niǎo.",
+            },
+            {
+                "english": "There are also seven cats in the tree.",
+                "chinese": "树上也有七只猫.",
+                "pinyin": "Shù shàng yě yǒu qī zhǐ māo.",
+            },
+            {
+                "english": "There is a cute bird behind you.",
+                "chinese": "你的后面有一只可爱的鸟.",
+                "pinyin": "Nǐ de hòumiàn yǒu yī zhǐ kě ài de niǎo.",
+            },
+            {
                 "english": "Nine books, one table, ten birds.",
                 "chinese": "九本书, 一张桌子, 十只鸟.",
                 "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
@@ -1579,6 +1594,11 @@ syllabus = {
                 "english": "There are one hundered books in our office.",
                 "chinese": "我们的办公室里有一百本书.",
                 "pinyin": "Wǒmen de bàngōngshì li yǒu yībǎi běn shū.",
+            },
+            {
+                "english": "There is a table in the room.",
+                "chinese": "在房间里有一张桌子.",
+                "pinyin": "Zài fángjiān li yǒuyī zhāng zhuōzi.",
             },
             {
                 "english": "His dad is German.",
@@ -1678,14 +1698,34 @@ syllabus = {
         "guide_book": "https://www.duolingo.com/guidebook/zh/",
         "phrases": [
             {
+                "english": "Living here is comfortable.",
+                "chinese": "住在这里很舒服.",
+                "pinyin": "Zhù zài zhèlǐ hěn shūfú.",
+            },
+            {
+                "english": "I feel uncomfortable.",
+                "chinese": "我觉得不舒服.",
+                "pinyin": "Wǒ juédé bú shūfú.",
+            },
+            {
                 "english": "I am sick today.",
                 "chinese": "我今天生病了.",
                 "pinyin": "Wǒ jīntiān shēngbìngle.",
             },
             {
+                "english": "My daughter is feeling not so well.",
+                "chinese": "我的女儿觉得不太舒服.",
+                "pinyin": "Wǒ de nǚ'ér juédé bù tài shūfú.",
+            },
+            {
                 "english": "You should go to the doctor.",
                 "chinese": "你应该去看医生.",
                 "pinyin": "Nǐ yīnggāi qù kàn yīshēng.",
+            },
+            {
+                "english": "You should go home.",
+                "chinese": "你应该回家.",
+                "pinyin": "Nǐ yīnggāi huí jiā.",
             },
             {
                 "english": "He has a headache and he needs to rest.",
