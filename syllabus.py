@@ -1758,6 +1758,26 @@ syllabus = {
                 "pinyin": "Shàng xīngqí tā gǎnmàole.",
             },
             {
+                "english": "My older brother has a fever.",
+                "chinese": "我的哥哥发烧.",
+                "pinyin": "Wǒ dí gēgē fāshāo.",
+            },
+            {
+                "english": "He has a fever and is resting at home.",
+                "chinese": "他发烧了, 在家休息.",
+                "pinyin": "Tā fāshāole, zàijiā xiūxí.",
+            },
+            {
+                "english": "Do you have a fever?",
+                "chinese": "你有没有发烧?",
+                "pinyin": "Nǐ yǒu méi yǒu fāshāo?",
+            },
+            {
+                "english": "You should take a day off tomorrow.",
+                "chinese": "你明天应该请假.",
+                "pinyin": "Nǐ míngtiān yìng gāi qǐngjià.",
+            },
+            {
                 "english": "I have a cold.",
                 "chinese": "我感冒了.",
                 "pinyin": "Wǒ gǎnmàole.",
@@ -1801,6 +1821,11 @@ syllabus = {
                 "english": "Do not look.",
                 "chinese": "别看.",
                 "pinyin": "Bié kàn.",
+            },
+            {
+                "english": "Do not speak English.",
+                "chinese": "别说英语.",
+                "pinyin": "Bié shuō yīngyǔ.",
             },
         ],
     },
