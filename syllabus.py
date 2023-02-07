@@ -1713,6 +1713,11 @@ syllabus = {
                 "pinyin": "Wǒ jīntiān shēngbìngle.",
             },
             {
+                "english": "You are sick, do not go to work tomorrow.",
+                "chinese": "你生病了, 明天别去上班.",
+                "pinyin": "Nǐ shēngbìngle, míngtiān bié qù shàngbān.",
+            },
+            {
                 "english": "My daughter is feeling not so well.",
                 "chinese": "我的女儿觉得不太舒服.",
                 "pinyin": "Wǒ de nǚ'ér juédé bù tài shūfú.",
@@ -1736,6 +1741,11 @@ syllabus = {
                 "english": "I have a headache.",
                 "chinese": "我觉得头疼.",
                 "pinyin": "Wǒ juédé tóuténg.",
+            },
+            {
+                "english": "I have a headache now, it must be a cold.",
+                "chinese": "现在我的头很疼，一定是感冒了.",
+                "pinyin": "Xiànzài wǒ de tóu hěn téng, yīdìng shì gǎnmàole.",
             },
             {
                 "english": "His stomach hurts, I don't know what he ate.",
@@ -1776,6 +1786,16 @@ syllabus = {
                 "english": "You should take a day off tomorrow.",
                 "chinese": "你明天应该请假.",
                 "pinyin": "Nǐ míngtiān yìng gāi qǐngjià.",
+            },
+            {
+                "english": "My mom is going to ask for leave next week.",
+                "chinese": "我的妈妈下个星期会请假.",
+                "pinyin": "Wǒ de māmā xià gè xīngqí huì qǐngjià.",
+            },
+            {
+                "english": "I need to take a day off today.",
+                "chinese": "我今天要请假.",
+                "pinyin": "Wǒ jīntiān yào qǐngjià.",
             },
             {
                 "english": "I have a cold.",
