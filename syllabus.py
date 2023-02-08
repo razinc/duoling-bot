@@ -1733,6 +1733,11 @@ syllabus = {
                 "pinyin": "Nǐ yīnggāi huí jiā.",
             },
             {
+                "english": "Will you stay here?",
+                "chinese": "你会留在这里吗?",
+                "pinyin": "Nǐ huì liú zài zhèlǐ ma?",
+            },
+            {
                 "english": "He has a headache and he needs to rest.",
                 "chinese": "他的头很疼, 需要休息.",
                 "pinyin": "Tā de tóu hěn téng, xūyào xiūxí.",
