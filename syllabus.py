@@ -1738,6 +1738,11 @@ syllabus = {
                 "pinyin": "Nǐ huì liú zài zhèlǐ ma?",
             },
             {
+                "english": "Tomorrow I want to stay home and work.",
+                "chinese": "我明天想留在家工作.",
+                "pinyin": "Wǒ míngtiān xiǎng liú zài jiā gōngzuò.",
+            },
+            {
                 "english": "He has a headache and he needs to rest.",
                 "chinese": "他的头很疼, 需要休息.",
                 "pinyin": "Tā de tóu hěn téng, xūyào xiūxí.",
