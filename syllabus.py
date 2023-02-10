@@ -1677,6 +1677,11 @@ syllabus = {
                 "pinyin": "Nǐ xīngqíliù yǒu kòng ma?",
             },
             {
+                "english": "Sorry, we don't have time.",
+                "chinese": "对不起, 我们没有空.",
+                "pinyin": "Duìbùqǐ, wǒmen méiyǒu kōng.",
+            },
+            {
                 "english": "Do you have an appointment on Friday? I'm sorry, I have an appointment.",
                 "chinese": "星期五你有约会吗? 不好意思, 我有一个约会.",
                 "pinyin": "Xīngqíwǔ nǐ yǒu yuēhuì ma? Bù hǎoyìsi, wǒ yǒu yīgè yuēhuì.",
