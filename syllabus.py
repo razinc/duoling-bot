@@ -1848,6 +1848,46 @@ syllabus = {
                 "pinyin": "Nǐ néng lái wǒ de shēngrì pàiduì ma? Hǎo, wǒ kěyǐ gēn wǒ de péngyǒu yī qǐlái ma?",
             },
             {
+                "english": "I do not want to invite them to ride horses.",
+                "chinese": "我不想邀请他们去骑马.",
+                "pinyin": "Wǒ bùxiǎng yāoqǐng tāmen qù qímǎ.",
+            },
+            {
+                "english": "He invited me to dance last night.",
+                "chinese": "昨天晚上他请了我跳舞.",
+                "pinyin": "Zuótiān wǎnshàng tā qǐng le wǒ tiàowǔ.",
+            },
+            {
+                "english": "Sorry, I can't go to the U.S with you.",
+                "chinese": "对不起, 我不能一起去美国跟你.",
+                "pinyin": "Duìbùqǐ, wǒ bùnéng yīqǐ qù měiguó gēn nǐ.",
+            },
+            {
+                "english": "Why didn't you come to work yesterday?",
+                "chinese": "昨天为什么你没有来工作?",
+                "pinyin": "Zuótiān wèishéme nǐ méi yǒu lái gōngzuò?",
+            },
+            {
+                "english": "Would you be free tomorrow night to come to my home for dinner?",
+                "chinese": "明天晚上你有空来我家吃晚饭吗?",
+                "pinyin": "Míngtiān wǎnshàng nǐ yǒu kòng lái wǒjiā chī wǎnfàn ma?",
+            },
+            {
+                "english": "When will we go out to eat?",
+                "chinese": "我们什么时候出去吃饭?",
+                "pinyin": "Wǒmen shénme shíhòu chūqù chīfàn?",
+            },
+            {
+                "english": "I'd like to invite you to come to my place to eat lunch.",
+                "chinese": "我想请你们来我的家吃午饭.",
+                "pinyin": "Wǒ xiǎng qǐng nǐmen lái wǒ de jiā chī wǔfàn.",
+            },
+            {
+                "english": "When are we going to drink beer?",
+                "chinese": "我们什么时候去喝啤酒?",
+                "pinyin": "Wǒmen shénme shíhòu qù hē píjiǔ?",
+            },
+            {
                 "english": "We didn’t eat lunch until 4 p.m. in the afternoon.",
                 "chinese": "我们下午四点才吃午饭.",
                 "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
@@ -1861,6 +1901,11 @@ syllabus = {
                 "english": "Do not speak English.",
                 "chinese": "别说英语.",
                 "pinyin": "Bié shuō yīngyǔ.",
+            },
+            {
+                "english": "When are you going to call me?",
+                "chinese": "你什么时候给我打电话?",
+                "pinyin": "Nǐ shénme shíhòu gěi wǒ dǎ diànhuà?",
             },
         ],
     },
