@@ -1687,6 +1687,11 @@ syllabus = {
                 "pinyin": "Xīngqíwǔ nǐ yǒu yuēhuì ma? Bù hǎoyìsi, wǒ yǒu yīgè yuēhuì.",
             },
             {
+                "english": "Let's watch a movie together next week.",
+                "chinese": "下个星期我们一起看电影吧.",
+                "pinyin": "Xià gè xīngqí wǒmen yīqǐ kàn diànyǐng ba.",
+            },
+            {
                 "english": "Why didn't you tell me?",
                 "chinese": "为什么你没有告诉我?",
                 "pinyin": "Wèishéme nǐ méiyǒu gàosu wǒ?",
@@ -1893,6 +1898,11 @@ syllabus = {
                 "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
             },
             {
+                "english": "Let's go have lunch together.",
+                "chinese": "我们一起去吃午饭吧.",
+                "pinyin": "Wǒmen yīqǐ qù chī wǔfàn ba.",
+            },
+            {
                 "english": "Do not look.",
                 "chinese": "别看.",
                 "pinyin": "Bié kàn.",
@@ -1906,6 +1916,21 @@ syllabus = {
                 "english": "When are you going to call me?",
                 "chinese": "你什么时候给我打电话?",
                 "pinyin": "Nǐ shénme shíhòu gěi wǒ dǎ diànhuà?",
+            },
+            {
+                "english": "Have you read that book?",
+                "chinese": "你们看过那本书吗?",
+                "pinyin": "Nǐmen kàn guò nà běn shū ma?",
+            },
+            {
+                "english": "That hospital is not good, do not go.",
+                "chinese": "那家医院不好，不要去.",
+                "pinyin": "Nà jiā yīyuàn bù hǎo, bù yào qù.",
+            },
+            {
+                "english": "Do you have time to get a beer together?",
+                "chinese": "你有空一起去喝一杯啤酒吗?",
+                "pinyin": "Nǐ yǒu kōng yīqǐ qù hē yībēi píjiǔ ma?",
             },
         ],
     },
