@@ -1918,6 +1918,11 @@ syllabus = {
                 "pinyin": "Nǐ shénme shíhòu gěi wǒ dǎ diànhuà?",
             },
             {
+                "english": "You won't call me.",
+                "chinese": "你们不会给我打电话.",
+                "pinyin": "Nǐmen bù huì gěi wǒ dǎ diànhuà.",
+            },
+            {
                 "english": "Have you read that book?",
                 "chinese": "你们看过那本书吗?",
                 "pinyin": "Nǐmen kàn guò nà běn shū ma?",
@@ -1931,6 +1936,11 @@ syllabus = {
                 "english": "Do you have time to get a beer together?",
                 "chinese": "你有空一起去喝一杯啤酒吗?",
                 "pinyin": "Nǐ yǒu kōng yīqǐ qù hē yībēi píjiǔ ma?",
+            },
+            {
+                "english": "Do you have time this weekend?",
+                "chinese": "这个周末你有没有时间?",
+                "pinyin": "Zhège zhōumò nǐ yǒu méiyǒu shíjiān?",
             },
         ],
     },
