@@ -1701,6 +1701,11 @@ syllabus = {
                 "chinese": "你来过我们的商店吗? 我没去过你们的商店.",
                 "pinyin": "Nǐ lái guo wǒmen de shāngdiàn ma? Wǒ méi qù guo nǐmen de shāngdiàn.",
             },
+            {
+                "english": "Let's go travelling in Spain next year.",
+                "chinese": "我们明年去西班牙旅游吧.",
+                "pinyin": "Wǒmen míngnián qù xībānyá lǚyóu ba.",
+            },
         ],
     },
     "unit 21": {
@@ -1883,6 +1888,11 @@ syllabus = {
                 "pinyin": "Wǒmen shénme shíhòu chūqù chīfàn?",
             },
             {
+                "english": "He didn't go out last Friday.",
+                "chinese": "上个星期五他没有出去.",
+                "pinyin": " Shàng gè xīngqíwǔ tā méiyǒu chūqù.",
+            },
+            {
                 "english": "I'd like to invite you to come to my place to eat lunch.",
                 "chinese": "我想请你们来我的家吃午饭.",
                 "pinyin": "Wǒ xiǎng qǐng nǐmen lái wǒ de jiā chī wǔfàn.",
@@ -1941,6 +1951,11 @@ syllabus = {
                 "english": "Do you have time this weekend?",
                 "chinese": "这个周末你有没有时间?",
                 "pinyin": "Zhège zhōumò nǐ yǒu méiyǒu shíjiān?",
+            },
+            {
+                "english": "Do you have time this afternoon?",
+                "chinese": "你今天下午有时间吗?",
+                "pinyin": "Nǐ jīntiān xiàwǔ yǒu shíjiān ma?",
             },
         ],
     },
