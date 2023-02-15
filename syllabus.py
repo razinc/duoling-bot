@@ -1888,6 +1888,11 @@ syllabus = {
                 "pinyin": "Wǒmen shénme shíhòu chūqù chīfàn?",
             },
             {
+                "english": "When will they go to school?",
+                "chinese": "他们什么时候去上学?",
+                "pinyin": "Tāmen shénme shíhòu qù shàngxué?",
+            },
+            {
                 "english": "He didn't go out last Friday.",
                 "chinese": "上个星期五他没有出去.",
                 "pinyin": " Shàng gè xīngqíwǔ tā méiyǒu chūqù.",
