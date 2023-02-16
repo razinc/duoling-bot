@@ -1702,6 +1702,11 @@ syllabus = {
                 "pinyin": "Nǐ lái guo wǒmen de shāngdiàn ma? Wǒ méi qù guo nǐmen de shāngdiàn.",
             },
             {
+                "english": "I have not been to that Chinese restaurant.",
+                "chinese": "我没去过那家中国饭馆.",
+                "pinyin": "Wǒ méi qùguò nà jiā zhōngguó fànguǎn.",
+            },
+            {
                 "english": "Let's go travelling in Spain next year.",
                 "chinese": "我们明年去西班牙旅游吧.",
                 "pinyin": "Wǒmen míngnián qù xībānyá lǚyóu ba.",
