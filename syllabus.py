@@ -40,6 +40,11 @@ syllabus = {
                 "pinyin": "Wǒ xìng lǐ, nǐ xìng shénme?",
             },
             {
+                "english": "I know Zhang Ming.",
+                "chinese": "我认识张明.",
+                "pinyin": "Wǒ rènshí zhāng míng.",
+            },
+            {
                 "english": "Nice to meet you.",
                 "chinese": "很高兴认识你.",
                 "pinyin": "Hěn gāoxìng rènshí nǐ.",
@@ -50,11 +55,6 @@ syllabus = {
                 "pinyin": "Wǒ yě hěn gāoxìng rènshí nǐ.",
             },
             {"english": "I am happy.", "chinese": "我很高兴.", "pinyin": "Wǒ hěn gāoxìng."},
-            {
-                "english": "I know Zhang Ming.",
-                "chinese": "我认识张明.",
-                "pinyin": "Wǒ rènshí zhāng míng.",
-            },
         ],
     },
     "unit 3": {
@@ -74,6 +74,11 @@ syllabus = {
             },
             {"english": "You drink water.", "chinese": "你喝水.", "pinyin": "Nǐ hē shuǐ."},
             {
+                "english": "Do you drink tea?",
+                "chinese": "你喝茶吗?",
+                "pinyin": "Nǐ hē chá ma?",
+            },
+            {
                 "english": "You also drink tea.",
                 "chinese": "你也喝茶.",
                 "pinyin": "Nǐ yě hē chá.",
@@ -92,11 +97,6 @@ syllabus = {
                 "english": "Are you students?.",
                 "chinese": "你们是学生吗?",
                 "pinyin": "Nǐmen shì xuéshēng ma?",
-            },
-            {
-                "english": "Do you drink tea?",
-                "chinese": "你喝茶吗?",
-                "pinyin": "Nǐ hē chá ma?",
             },
         ],
     },
@@ -402,7 +402,7 @@ syllabus = {
         ],
     },
     "unit 9": {
-        "description": "Talk about days and dates.",
+        "description": "Talk about days and dates, describe your family.",
         "guide_book": "https://www.duolingo.com/guidebook/zh/9",
         "phrases": [
             {
@@ -902,6 +902,11 @@ syllabus = {
                 "pinyin": "Wǒ xiǎng mǎi yīxiē píngguǒ.",
             },
             {
+                "english": "Because this is too expensive, so I won’t buy it.",
+                "chinese": "因为这个太贵, 所以我不买.",
+                "pinyin": "Yīnwèi zhège tài guì, suǒyǐ wǒ bú mǎi.",
+            },
+            {
                 "english": "What are your hobbies? My hobby is photography.",
                 "chinese": "你的爱好是什么? 我的爱好是拍照",
                 "pinyin": "Nǐ de àihào shì shénme? Wǒ de àihào shì pāizhào.",
@@ -990,11 +995,6 @@ syllabus = {
                 "english": "She enjoys learning English.",
                 "chinese": "她喜欢学习英语.",
                 "pinyin": "Tā xǐhuān xuéxí yīngyǔ.",
-            },
-            {
-                "english": "Because this is too expensive, so I won’t buy it.",
-                "chinese": "因为这个太贵, 所以我不买.",
-                "pinyin": "Yīnwèi zhège tài guì, suǒyǐ wǒ bú mǎi.",
             },
             {
                 "english": "Because I want to go to to China, so I’m learning Chinese.",
@@ -1163,11 +1163,6 @@ syllabus = {
                 "pinyin": "Wǒ huì zhùyì shēntǐ.",
             },
             {
-                "english": "Don't go online.",
-                "chinese": "不要上网.",
-                "pinyin": "Bùyào shàngwǎng.",
-            },
-            {
                 "english": "Are you tired?",
                 "chinese": "你累吗?",
                 "pinyin": "Nǐ lèi ma?",
@@ -1196,6 +1191,11 @@ syllabus = {
                 "english": "Dont' sleep.",
                 "chinese": "不要睡觉.",
                 "pinyin": "Bùyào shuìjiào.",
+            },
+            {
+                "english": "Don't go online.",
+                "chinese": "不要上网.",
+                "pinyin": "Bùyào shàngwǎng.",
             },
             {
                 "english": "He doesn't have a job.",
@@ -1682,6 +1682,16 @@ syllabus = {
                 "pinyin": "Duìbùqǐ, wǒmen méiyǒu kōng.",
             },
             {
+                "english": "I'll tell you when I will be free.",
+                "chinese": "我会告诉你什么时候有空.",
+                "pinyin": "Wǒ huì gàosù nǐ shénme shíhòu yǒu kòng.",
+            },
+            {
+                "english": "I'm sorry, I need to go to the restroom.",
+                "chinese": "对不起，我需要去洗手间.",
+                "pinyin": "Duìbùqǐ, wǒ xūyào qù xǐshǒujiān.",
+            },
+            {
                 "english": "Do you have an appointment on Friday? I'm sorry, I have an appointment.",
                 "chinese": "星期五你有约会吗? 不好意思, 我有一个约会.",
                 "pinyin": "Xīngqíwǔ nǐ yǒu yuēhuì ma? Bù hǎoyìsi, wǒ yǒu yīgè yuēhuì.",
@@ -1700,6 +1710,31 @@ syllabus = {
                 "english": "Have you been to our shop? I have not been to your shop.",
                 "chinese": "你来过我们的商店吗? 我没去过你们的商店.",
                 "pinyin": "Nǐ lái guo wǒmen de shāngdiàn ma? Wǒ méi qù guo nǐmen de shāngdiàn.",
+            },
+            {
+                "english": "Have you been to his house?",
+                "chinese": "你去过他的家吗?",
+                "pinyin": "Nǐ qùguò tā de jiā ma?",
+            },
+            {
+                "english": "Have you been to this shop?",
+                "chinese": "你来过这家商店吗?",
+                "pinyin": "Nǐ lái guo zhè jiā shāngdiàn ma?",
+            },
+            {
+                "english": "That restaurant is romantic.",
+                "chinese": "那家饭馆很浪漫.",
+                "pinyin": "Nà jiā fànguǎn hěn làngmàn.",
+            },
+            {
+                "english": "I like romantic movies.",
+                "chinese": "我喜欢浪漫的电影.",
+                "pinyin": "Wǒ xǐhuān làngmàn de diànyǐng.",
+            },
+            {
+                "english": "I will call you.",
+                "chinese": "我会给你打电话.",
+                "pinyin": "Wǒ huì gěi nǐ dǎ diànhuà.",
             },
             {
                 "english": "I have not been to that Chinese restaurant.",
@@ -1833,6 +1868,11 @@ syllabus = {
                 "pinyin": "Wǒ gǎnmàole.",
             },
             {
+                "english": "That hospital is not good, do not go.",
+                "chinese": "那家医院不好，不要去.",
+                "pinyin": "Nà jiā yīyuàn bù hǎo, bù yào qù.",
+            },
+            {
                 "english": "You must help me.",
                 "chinese": "你一定要帮我.",
                 "pinyin": "Nǐ yīdìng yào bāng wǒ.",
@@ -1946,11 +1986,6 @@ syllabus = {
                 "english": "Have you read that book?",
                 "chinese": "你们看过那本书吗?",
                 "pinyin": "Nǐmen kàn guò nà běn shū ma?",
-            },
-            {
-                "english": "That hospital is not good, do not go.",
-                "chinese": "那家医院不好，不要去.",
-                "pinyin": "Nà jiā yīyuàn bù hǎo, bù yào qù.",
             },
             {
                 "english": "Do you have time to get a beer together?",
