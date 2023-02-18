@@ -1425,9 +1425,29 @@ syllabus = {
                 "pinyin": "Wǒmen yǒu sānshí miǎo.",
             },
             {
+                "english": "One second.",
+                "chinese": "一秒.",
+                "pinyin": "Yī miǎo.",
+            },
+            {
+                "english": "Give me ten seconds.",
+                "chinese": "给我十秒.",
+                "pinyin": "Gěi wǒ shí miǎo.",
+            },
+            {
                 "english": "It's a quarter to five now.",
                 "chinese": "现在差一刻五点.",
                 "pinyin": "Xiànzài chà yīkè wǔ diǎn.",
+            },
+            {
+                "english": "A quarter to nine.",
+                "chinese": "九点差一刻.",
+                "pinyin": "Jiǔ diǎn chà yīkè.",
+            },
+            {
+                "english": "Ten minutes to seven o'clock.",
+                "chinese": "七点差十分.",
+                "pinyin": "Qī diǎn shí fēn.",
             },
             {
                 "english": "How many hours do you spend on the computer every day?",
