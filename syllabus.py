@@ -1410,6 +1410,11 @@ syllabus = {
                 "pinyin": "Wǒmen xiàwǔ sān diǎn zhōng huìjiàn péngyǒu.",
             },
             {
+                "english": "Please arrive earlier.",
+                "chinese": "请早一点儿到.",
+                "pinyin": "Qǐng zǎo yī er diǎn dào.",
+            },
+            {
                 "english": "I will go to work at a quarter past ten tomorrow morning.",
                 "chinese": "明天早上十点一刻我会去工作.",
                 "pinyin": "Míngtiān zǎoshang shí diǎn yī kè wǒ huì qù gōngzuò.",
@@ -1418,6 +1423,11 @@ syllabus = {
                 "english": "He went to sleep late last night.",
                 "chinese": "昨天晚上他很晚睡觉.",
                 "pinyin": "Zuótiān wǎnshàng tā hěn wǎn shuìjiào.",
+            },
+            {
+                "english": "I went home late yesterday.",
+                "chinese": "我昨天很晚回家.",
+                "pinyin": "Wǒ zuótiān hěn wǎn cái huí jiā.",
             },
             {
                 "english": "We have thirty seconds.",
@@ -1453,6 +1463,11 @@ syllabus = {
                 "english": "How many hours do you spend on the computer every day?",
                 "chinese": "你每天用几个小时电脑?",
                 "pinyin": "Nǐ měitiān yòng jǐ gè xiǎoshí diànnǎo?",
+            },
+            {
+                "english": "We have to be at the school by nine o'clock sharp.",
+                "chinese": "九点整我们要到学校.",
+                "pinyin": "Jiǔ diǎn zhěng wǒmen yào dào xuéxiào.",
             },
         ],
     },
