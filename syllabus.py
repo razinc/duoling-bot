@@ -1469,6 +1469,16 @@ syllabus = {
                 "chinese": "九点整我们要到学校.",
                 "pinyin": "Jiǔ diǎn zhěng wǒmen yào dào xuéxiào.",
             },
+            {
+                "english": "Please wait for me for twenty minutes.",
+                "chinese": "请等我二十分钟.",
+                "pinyin": "Qǐng děng wǒ èrshí fēnzhōng.",
+            },
+            {
+                "english": "I need to be at the hospital by four o'clock sharp.",
+                "chinese": "四点整我要到医院.",
+                "pinyin": "Sì diǎn zhěng wǒ yào dào yīyuàn.",
+            },
         ],
     },
     "unit 19": {
