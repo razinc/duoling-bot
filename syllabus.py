@@ -1697,6 +1697,11 @@ syllabus = {
                 "pinyin": "Nǐ xīngqí jǐ qù pǎobù?",
             },
             {
+                "english": "Last Wednesday, I went running with my girlfriend.",
+                "chinese": "上个星期三, 我和女朋友跑步.",
+                "pinyin": "Shàng ge xīngqísān, wǒ hé nǚ péngyǒu pǎobù.",
+            },
+            {
                 "english": "Every Friday, I play soccer for two hours.",
                 "chinese": "每星期五我踢两个小时的足球.",
                 "pinyin": "Měi xīngqíwǔ wǒ tī liǎng ge xiǎoshí de zúqiú.",
@@ -1710,6 +1715,11 @@ syllabus = {
                 "english": "Today, he swam for one hour.",
                 "chinese": "今天他游了一个小时的泳.",
                 "pinyin": "Jīntiān tā yóu le yígè xiǎoshí de yǒng.",
+            },
+            {
+                "english": "He swims fast and runs slow.",
+                "chinese": "他游泳游得很快跑步很慢.",
+                "pinyin": "Tā yóuyǒng yóu dé hěn kuài pǎobù hěn màn.",
             },
             {
                 "english": "Let's go out and drink coffee on the weekend! I don't want to go out this weekend.",
