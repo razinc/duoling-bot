@@ -1712,6 +1712,11 @@ syllabus = {
                 "pinyin": "Zǎoshang wǒ pǎo le sānshí fēnzhōng de bù.",
             },
             {
+                "english": "She likes to run for half an hour every day.",
+                "chinese": "每天她喜欢跑半小时个的步.",
+                "pinyin": "Měitiān tā xǐhuān pǎo bàn gè xiǎoshí de bù.",
+            },
+            {
                 "english": "Today, he swam for one hour.",
                 "chinese": "今天他游了一个小时的泳.",
                 "pinyin": "Jīntiān tā yóu le yígè xiǎoshí de yǒng.",
