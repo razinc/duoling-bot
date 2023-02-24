@@ -1682,6 +1682,11 @@ syllabus = {
                 "pinyin": "Wǒ dí gēgē dǎ lánqiú dǎ dé bùcuò.",
             },
             {
+                "english": "Would you like to play basketball now?.",
+                "chinese": "你现在想不想打篮球?",
+                "pinyin": "Nǐ xiànzài xiǎng bù xiǎng dǎ lánqiú ma.",
+            },
+            {
                 "english": "What sport do you like the most?",
                 "chinese": "你最喜欢做什么运动?",
                 "pinyin": "Nǐ zuì xǐhuān zuò shénme yùndòng?",
@@ -1690,6 +1695,16 @@ syllabus = {
                 "english": "I really like riding horses.",
                 "chinese": "我很喜欢骑马.",
                 "pinyin": "Wǒ hěn xǐhuān qímǎ.",
+            },
+            {
+                "english": "My younger sister enjoys horse riding.",
+                "chinese": "我的妹妹喜欢骑马.",
+                "pinyin": "Wǒ de mèimei xǐhuān qímǎ.",
+            },
+            {
+                "english": "They go riding for three hours every Wednesday.",
+                "chinese": "他们每星期三骑三个小时的马.",
+                "pinyin": "Tāmen měi xīngqísān qí sān gè xiǎoshí de mǎ",
             },
             {
                 "english": "What day of the week do you go running?",
@@ -1705,6 +1720,11 @@ syllabus = {
                 "english": "Every Friday, I play soccer for two hours.",
                 "chinese": "每星期五我踢两个小时的足球.",
                 "pinyin": "Měi xīngqíwǔ wǒ tī liǎng ge xiǎoshí de zúqiú.",
+            },
+            {
+                "english": "Who plays soccer the best?",
+                "chinese": "谁踢足球最好?",
+                "pinyin": "Shéi tī zúqiú zuì hǎo?",
             },
             {
                 "english": "This morning, I ran for thirty minutes.",
