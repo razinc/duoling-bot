@@ -1682,9 +1682,14 @@ syllabus = {
                 "pinyin": "Wǒ dí gēgē dǎ lánqiú dǎ dé bùcuò.",
             },
             {
-                "english": "Would you like to play basketball now?.",
+                "english": "Would you like to play basketball now?",
                 "chinese": "你现在想不想打篮球?",
-                "pinyin": "Nǐ xiànzài xiǎng bù xiǎng dǎ lánqiú ma.",
+                "pinyin": "Nǐ xiànzài xiǎng bù xiǎng dǎ lánqiú ma?",
+            },
+            {
+                "english": "I played basketball with my teacher yesterday afternoon.",
+                "chinese": "昨天下午我和老师打篮球.",
+                "pinyin": "Zuótiān xiàwǔ wǒ hé lǎoshī dǎ lánqiú.",
             },
             {
                 "english": "What sport do you like the most?",
@@ -1745,6 +1750,16 @@ syllabus = {
                 "english": "He swims fast and runs slow.",
                 "chinese": "他游泳游得很快跑步很慢.",
                 "pinyin": "Tā yóuyǒng yóu dé hěn kuài pǎobù hěn màn.",
+            },
+            {
+                "english": "We swim for half an hour every day.",
+                "chinese": "每天我们游半个小时的泳.",
+                "pinyin": "Měitiān wǒmen yóu bàn gè xiǎoshí de yǒng.",
+            },
+            {
+                "english": "He doesn't play sports, he only likes to sleep.",
+                "chinese": "他不做运动, 只喜欢睡觉.",
+                "pinyin": "Tā bù zuò yùndòng, zhǐ xǐhuān shuìjiào.",
             },
             {
                 "english": "Let's go out and drink coffee on the weekend! I don't want to go out this weekend.",
