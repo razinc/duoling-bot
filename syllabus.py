@@ -1988,14 +1988,64 @@ syllabus = {
                 "pinyin": "Zhège xīngqíliù wǒmen yǒu pàiduì. Dàjiā dūhuì qù zhège pàiduì ma?",
             },
             {
+                "english": "Hello everyone.",
+                "chinese": "大家好.",
+                "pinyin": "Dàjiā hǎo.",
+            },
+            {
+                "english": "Everyone has arrived, where are you now? I am working right now.",
+                "chinese": "大家都到了, 你现在在哪儿? 我正在工作.",
+                "pinyin": "Dàjiā dōu dàole, nǐ xiànzài zài nǎ'er? Wǒ zhèngzài gōngzuò.",
+            },
+            {
+                "english": "What are you doing right now?",
+                "chinese": "你正在做什么?",
+                "pinyin": "Nǐ zhèngzài zuò shénme?",
+            },
+            {
+                "english": "When is their party?",
+                "chinese": "他们的派对是什么时候?",
+                "pinyin": "Tāmen de pàiduì shì shénme shíhòu?",
+            },
+            {
+                "english": "I am going to a party so I need to dress up a bit.",
+                "chinese": "我会去一个派对, 所以我要打扮一下.",
+                "pinyin": "Wǒ huì qù yīgè pàiduì, suǒyǐ wǒ yào dǎbàn yīxià.",
+            },
+            {
+                "english": "She dressed up beautifully.",
+                "chinese": "她打扮得很漂亮.",
+                "pinyin": "Tā dǎbàn dé hěn piàoliang.",
+            },
+            {
                 "english": "Hope you can come with your wife.",
                 "chinese": "希望你能跟妻子一起来.",
                 "pinyin": "Xīwàng nǐ néng gēn qīzi yī qǐlái.",
             },
             {
+                "english": "Hope we can see each other soon.",
+                "chinese": "希望我们很快可以再见.",
+                "pinyin": "Xīwàng wǒmen hěn kuài kěyǐ zàijiàn.",
+            },
+            {
+                "english": "Hope you all can come to my party.",
+                "chinese": "希望你们都能来我的派对.",
+                "pinyin": "Xīwàng nǐmen dōu néng lái wǒ de pàiduì.",
+            },
+            {
                 "english": "Can you come to my birthday party? Yes, and can I come with my friend?",
                 "chinese": "你能来我的生日派对吗? 好, 我可以跟我的朋友一起来吗?",
                 "pinyin": "Nǐ néng lái wǒ de shēngrì pàiduì ma? Hǎo, wǒ kěyǐ gēn wǒ de péngyǒu yī qǐlái ma?",
+            },
+            {
+                "english": "When is his birthday?",
+                "chinese": "他的生日是什么时候?",
+                "pinyin": "Tā de shēngrì shì shénme shíhòu?",
+            },
+            {
+                "english": "My birthday is nineteenth June.",
+                "chinese": "我的生日是六月十九号.",
+                "pinyin": "Wǒ de shēngrì shì liù yuè shíjiǔ hào.",
             },
             {
                 "english": "I do not want to invite them to ride horses.",
@@ -2119,6 +2169,11 @@ syllabus = {
                 "pinyin": "Jīntiān de tiándiǎn shì qiǎokèlì.",
             },
             {
+                "english": "We already finished the dessert.",
+                "chinese": "我们已经吃完了甜点.",
+                "pinyin": "Wǒmen yǐjīng chī wánliǎo tiándiǎn.",
+            },
+            {
                 "english": "Do we give a tip?",
                 "chinese": "我们给不给小费?",
                 "pinyin": "Wǒmen gěi bù gěi xiǎofèi?",
@@ -2132,6 +2187,16 @@ syllabus = {
                 "english": "Please finish drinking your coffee.",
                 "chinese": "请喝完你的咖啡.",
                 "pinyin": "Qǐng hē wán nǐ de kāfēi.",
+            },
+            {
+                "english": "They are already full.",
+                "chinese": "他们都已经很饱了.",
+                "pinyin": "Tāmen dōu yǐjīng hěn bǎole.",
+            },
+            {
+                "english": "What kind of alcohol is this? It's very tasty.",
+                "chinese": "这是什么酒? 真好喝!.",
+                "pinyin": "Zhè shì shénme jiǔ? Zhēn hǎo hē!",
             },
             {
                 "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
