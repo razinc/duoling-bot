@@ -2189,14 +2189,39 @@ syllabus = {
                 "pinyin": "Qǐng hē wán nǐ de kāfēi.",
             },
             {
+                "english": "There is very little food at dinner.",
+                "chinese": "晚饭的菜真少.",
+                "pinyin": "Wǎnfàn de cài zhēn shǎo.",
+            },
+            {
+                "english": "Let us treat you!",
+                "chinese": "我们请你吧!",
+                "pinyin": "Wǒmen qǐng nǐ ba!",
+            },
+            {
                 "english": "They are already full.",
                 "chinese": "他们都已经很饱了.",
                 "pinyin": "Tāmen dōu yǐjīng hěn bǎole.",
             },
             {
-                "english": "What kind of alcohol is this? It's very tasty.",
-                "chinese": "这是什么酒? 真好喝!.",
+                "english": "I think the coffee there is the tastiest.",
+                "chinese": "我觉得那里的咖啡最好喝.",
+                "pinyin": "Wǒ juédé nàlǐ de kāfēi zuì hǎo hē.",
+            },
+            {
+                "english": "What kind of alcohol is this? It's very tasty!",
+                "chinese": "这是什么酒? 真好喝!",
                 "pinyin": "Zhè shì shénme jiǔ? Zhēn hǎo hē!",
+            },
+            {
+                "english": "I like the taste of alcohol very much!",
+                "chinese": "我太喜欢酒的味道了!",
+                "pinyin": "Wǒ tài xǐhuān jiǔ de wèidàole!",
+            },
+            {
+                "english": "I think Beijing food is delicious.",
+                "chinese": "我觉得北京菜很好吃.",
+                "pinyin": "Wǒ juédé běijīng cài hěn hào chī.",
             },
             {
                 "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
@@ -2204,14 +2229,34 @@ syllabus = {
                 "pinyin": "Nǐ xiǎng mǎi nǎ shuāng xiézi?Wǒ xiǎng mǎi nà shuāng yìdàlì xiézi.",
             },
             {
+                "english": "How many pairs of shoes do you have?",
+                "chinese": "你有几双鞋子?",
+                "pinyin": "Nǐ yǒu jǐ shuāng xiézi?",
+            },
+            {
+                "english": "Have you been to Italy?",
+                "chinese": "你去过意大利吗?",
+                "pinyin": "Nǐ qùguò yìdàlì ma?",
+            },
+            {
                 "english": "Your shirt is very beautiful!",
-                "chinese": "你的衬衫非常漂亮.",
-                "pinyin": "Nǐ de chènshān fēicháng piàoliang.",
+                "chinese": "你的衬衫非常漂亮!",
+                "pinyin": "Nǐ de chènshān fēicháng piàoliang!",
             },
             {
                 "english": "She wants to try on this blue skirt.",
                 "chinese": "她想试试这条蓝裙子.",
                 "pinyin": "Tā xiǎng shì shì zhè tiáo lán qúnzi.",
+            },
+            {
+                "english": "I will try on that dress.",
+                "chinese": "我会试试那条裙子.",
+                "pinyin": "Wǒ huì shì shì nà tiáo qúnzi.",
+            },
+            {
+                "english": "What do you still want to buy?",
+                "chinese": "你还想买什么?",
+                "pinyin": "Nǐ hái xiǎng mǎi shénme?",
             },
             {
                 "english": "This pair is smaller than that pair.",
@@ -2232,6 +2277,16 @@ syllabus = {
                 "english": "Your dress is prettier than mine.",
                 "chinese": "你的裙子比我的漂亮.",
                 "pinyin": "Nǐ de qúnzi bǐ wǒ de piàoliang.",
+            },
+            {
+                "english": "She likes that blue dress.",
+                "chinese": "她喜欢那条蓝裙子.",
+                "pinyin": "Tā xǐhuān nà tiáo lán qúnzi.",
+            },
+            {
+                "english": "I just want this blue dress.",
+                "chinese": "我只要这条蓝裙子.",
+                "pinyin": "Wǒ zhǐyào zhè tiáo lán qúnzi.",
             },
         ],
     },
