@@ -2239,6 +2239,11 @@ syllabus = {
                 "pinyin": "Nǐ qùguò yìdàlì ma?",
             },
             {
+                "english": "My friend is Italian.",
+                "chinese": "我的朋友是意大利人.",
+                "pinyin": "Wǒ de péngyǒu shì yìdàlì rén.",
+            },
+            {
                 "english": "Your shirt is very beautiful!",
                 "chinese": "你的衬衫非常漂亮!",
                 "pinyin": "Nǐ de chènshān fēicháng piàoliang!",
