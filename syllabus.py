@@ -2264,6 +2264,11 @@ syllabus = {
                 "pinyin": "Nǐ hái xiǎng mǎi shénme?",
             },
             {
+                "english": "I still want to see that store.",
+                "chinese": "我还想看那家商店.",
+                "pinyin": "Wǒ hái xiǎng kàn nà jiā shāngdiàn.",
+            },
+            {
                 "english": "This pair is smaller than that pair.",
                 "chinese": "这双比那双小.",
                 "pinyin": "Zhè shuāng bǐ nà shuāng xiǎo.",
