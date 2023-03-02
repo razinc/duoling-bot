@@ -2249,6 +2249,11 @@ syllabus = {
                 "pinyin": "Nǐ de chènshān fēicháng piàoliang!",
             },
             {
+                "english": "You should buy this shirt.",
+                "chinese": "你应该买这件衬衫.",
+                "pinyin": "Nǐ yīnggāi mǎi zhè jiàn chènshān.",
+            },
+            {
                 "english": "She wants to try on this blue skirt.",
                 "chinese": "她想试试这条蓝裙子.",
                 "pinyin": "Tā xiǎng shì shì zhè tiáo lán qúnzi.",
