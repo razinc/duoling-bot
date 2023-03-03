@@ -1294,6 +1294,11 @@ syllabus = {
                 "pinyin": "Zhège shāngdiàn de yīfú guì bù guì.",
             },
             {
+                "english": "Her boyfriend wants to buy clothes and shoes.",
+                "chinese": "她的男朋友要买衣服, 还要买鞋子.",
+                "pinyin": "Tā de nán péngyǒu yāomǎi yīfú, hái yāomǎi xiézi.",
+            },
+            {
                 "english": "What would you like to buy?",
                 "chinese": "您想买什么?",
                 "pinyin": "Nín xiǎng mǎi shénme?",
@@ -2249,9 +2254,34 @@ syllabus = {
                 "pinyin": "Nǐ de chènshān fēicháng piàoliang!",
             },
             {
+                "english": "This shirt is more expensive than that shirt.",
+                "chinese": "这件衬衫比那件衬衫贵.",
+                "pinyin": "Zhè jiàn chènshān bǐ nà jiàn chènshān guì.",
+            },
+            {
                 "english": "You should buy this shirt.",
                 "chinese": "你应该买这件衬衫.",
                 "pinyin": "Nǐ yīnggāi mǎi zhè jiàn chènshān.",
+            },
+            {
+                "english": "This pair of pants isn't comfortable.",
+                "chinese": "这条裤子不舒服.",
+                "pinyin": "Zhè tiáo kùzi bú shūfú.",
+            },
+            {
+                "english": "This pair of blue pants looks good.",
+                "chinese": "这条蓝色的裤子很好看.",
+                "pinyin": "Zhè tiáo lán sè de kùzi hěn hǎokàn.",
+            },
+            {
+                "english": "She thinks thats store's clothes are not good quality.",
+                "chinese": "她觉得那家商店的衣服质量不好.",
+                "pinyin": "Tā juédé nà jiā shāngdiàn de yīfú zhìliàng bù hǎo.",
+            },
+            {
+                "english": "The shirt is good quality.",
+                "chinese": "这件衬衫的质量很好.",
+                "pinyin": "Zhè jiàn chènshān de zhìliàng hěn hǎo.",
             },
             {
                 "english": "She wants to try on this blue skirt.",
@@ -2279,6 +2309,16 @@ syllabus = {
                 "pinyin": "Zhè shuāng bǐ nà shuāng xiǎo.",
             },
             {
+                "english": "I think your shirt is too small.",
+                "chinese": "我觉得你的衬衫太小了.",
+                "pinyin": "Wǒ juédé nǐ de chènshān tài xiǎole.",
+            },
+            {
+                "english": "This shirt is too big.",
+                "chinese": "这件衬衫太大了.",
+                "pinyin": "Zhè jiàn chènshān tài dàle.",
+            },
+            {
                 "english": "These shoes are too small!",
                 "chinese": "这双鞋子太小了!",
                 "pinyin": "Zhè shuāng xiézi tài xiǎole!",
@@ -2302,6 +2342,11 @@ syllabus = {
                 "english": "I just want this blue dress.",
                 "chinese": "我只要这条蓝裙子.",
                 "pinyin": "Wǒ zhǐyào zhè tiáo lán qúnzi.",
+            },
+            {
+                "english": "Excuse me, do you have a bigger one?",
+                "chinese": "请问, 你们有大一点儿的吗?",
+                "pinyin": "Qǐngwèn, nǐmen yǒu dà yīdiǎn er de ma?",
             },
         ],
     },
