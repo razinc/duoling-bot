@@ -2043,6 +2043,11 @@ syllabus = {
                 "pinyin": "Nǐ néng lái wǒ de shēngrì pàiduì ma? Hǎo, wǒ kěyǐ gēn wǒ de péngyǒu yī qǐlái ma?",
             },
             {
+                "english": "There are too many people at the party.",
+                "chinese": "派对里有太多人了.",
+                "pinyin": "Pàiduì li yǒu tài duō rénle.",
+            },
+            {
                 "english": "When is his birthday?",
                 "chinese": "他的生日是什么时候?",
                 "pinyin": "Tā de shēngrì shì shénme shíhòu?",
