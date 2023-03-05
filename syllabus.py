@@ -2209,6 +2209,11 @@ syllabus = {
                 "pinyin": "Wǒmen qǐng nǐ ba!",
             },
             {
+                "english": "He wants to treat us to dinner.",
+                "chinese": "他想请我们吃晚饭.",
+                "pinyin": "Tā xiǎng qǐng wǒmen chī wǎnfàn.",
+            },
+            {
                 "english": "They are already full.",
                 "chinese": "他们都已经很饱了.",
                 "pinyin": "Tāmen dōu yǐjīng hěn bǎole.",
@@ -2232,6 +2237,11 @@ syllabus = {
                 "english": "I think Beijing food is delicious.",
                 "chinese": "我觉得北京菜很好吃.",
                 "pinyin": "Wǒ juédé běijīng cài hěn hào chī.",
+            },
+            {
+                "english": "The cakes my mother makes are delicious.",
+                "chinese": "我妈妈做的蛋糕很好吃.",
+                "pinyin": "Wǒ māmā zuò de dàngāo hěn hào chī.",
             },
             {
                 "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
