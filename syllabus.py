@@ -2363,6 +2363,11 @@ syllabus = {
                 "chinese": "请问, 你们有大一点儿的吗?",
                 "pinyin": "Qǐngwèn, nǐmen yǒu dà yīdiǎn er de ma?",
             },
+            {
+                "english": "This tea is good.",
+                "chinese": "这杯茶很好喝.",
+                "pinyin": "Zhè bēi chá hěn hǎo hē.",
+            },
         ],
     },
 }
