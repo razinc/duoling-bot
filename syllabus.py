@@ -2368,6 +2368,11 @@ syllabus = {
                 "chinese": "这杯茶很好喝.",
                 "pinyin": "Zhè bēi chá hěn hǎo hē.",
             },
+            {
+                "english": "I did not eat any food today, now I'm hungry.",
+                "chinese": "我今天没有吃饭, 现在很饿.",
+                "pinyin": "Wǒ jīntiān méiyǒu chīfàn, xiànzài hěn è.",
+            },
         ],
     },
 }
