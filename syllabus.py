@@ -1868,6 +1868,11 @@ syllabus = {
                 "pinyin": "Wǒ jīntiān shēngbìngle.",
             },
             {
+                "english": "She is sick, so she eats little.",
+                "chinese": "她因为生病了, 所以吃得很少.",
+                "pinyin": "Tā yīn wéi shēngbìngle, suǒyǐ chī dé hěn shǎo.",
+            },
+            {
                 "english": "You are sick, do not go to work tomorrow.",
                 "chinese": "你生病了, 明天别去上班.",
                 "pinyin": "Nǐ shēngbìngle, míngtiān bié qù shàngbān.",
