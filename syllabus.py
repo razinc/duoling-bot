@@ -2194,6 +2194,11 @@ syllabus = {
                 "pinyin": "Wǒmen gěi bù gěi xiǎofèi?",
             },
             {
+                "english": "How much should we tip?",
+                "chinese": "我们要给多少小费?",
+                "pinyin": "Wǒmen yào gěi duōshǎo xiǎofèi?",
+            },
+            {
                 "english": "Are you not hungry? No, I am very thirsty now!",
                 "chinese": "你不饿吗? 不, 我现在非常渴!",
                 "pinyin": "Nǐ bù è ma? Bù, wǒ xiànzài fēicháng kě.",
