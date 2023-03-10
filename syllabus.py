@@ -2184,6 +2184,11 @@ syllabus = {
                 "pinyin": "Jīntiān de tiándiǎn shì qiǎokèlì.",
             },
             {
+                "english": "Do you like the taste of chocolate?",
+                "chinese": "你喜欢巧克力的味道吗?",
+                "pinyin": "Nǐ xǐhuān qiǎokèlì de wèidào ma?",
+            },
+            {
                 "english": "We already finished the dessert.",
                 "chinese": "我们已经吃完了甜点.",
                 "pinyin": "Wǒmen yǐjīng chī wánliǎo tiándiǎn.",
@@ -2234,6 +2239,11 @@ syllabus = {
                 "pinyin": "Wǒ juédé nàlǐ de kāfēi zuì hǎo hē.",
             },
             {
+                "english": "I don't know what flavor that is.",
+                "chinese": "我不知道那是什么味道.",
+                "pinyin": "Wǒ bù zhīdào nà shì shénme wèidào.",
+            },
+            {
                 "english": "What kind of alcohol is this? It's very tasty!",
                 "chinese": "这是什么酒? 真好喝!",
                 "pinyin": "Zhè shì shénme jiǔ? Zhēn hǎo hē!",
@@ -2244,6 +2254,11 @@ syllabus = {
                 "pinyin": "Wǒ tài xǐhuān jiǔ de wèidàole!",
             },
             {
+                "english": "I would like to drink some alcohol.",
+                "chinese": "我想喝一点儿酒.",
+                "pinyin": "Wǒ xiǎng hè yīdiǎn er jiǔ.",
+            },
+            {
                 "english": "I think Beijing food is delicious.",
                 "chinese": "我觉得北京菜很好吃.",
                 "pinyin": "Wǒ juédé běijīng cài hěn hào chī.",
@@ -2252,6 +2267,21 @@ syllabus = {
                 "english": "The cakes my mother makes are delicious.",
                 "chinese": "我妈妈做的蛋糕很好吃.",
                 "pinyin": "Wǒ māmā zuò de dàngāo hěn hào chī.",
+            },
+            {
+                "english": "This tea is good.",
+                "chinese": "这杯茶很好喝.",
+                "pinyin": "Zhè bēi chá hěn hǎo hē.",
+            },
+            {
+                "english": "I did not eat any food today, now I'm hungry.",
+                "chinese": "我今天没有吃饭, 现在很饿.",
+                "pinyin": "Wǒ jīntiān méiyǒu chīfàn, xiànzài hěn è.",
+            },
+            {
+                "english": "She is full, so she eats very little.",
+                "chinese": "她很饱,所以吃得非常少.",
+                "pinyin": "Tā hěn bǎo, suǒyǐ chī dé fēicháng shǎo.",
             },
             {
                 "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
@@ -2372,16 +2402,6 @@ syllabus = {
                 "english": "Excuse me, do you have a bigger one?",
                 "chinese": "请问, 你们有大一点儿的吗?",
                 "pinyin": "Qǐngwèn, nǐmen yǒu dà yīdiǎn er de ma?",
-            },
-            {
-                "english": "This tea is good.",
-                "chinese": "这杯茶很好喝.",
-                "pinyin": "Zhè bēi chá hěn hǎo hē.",
-            },
-            {
-                "english": "I did not eat any food today, now I'm hungry.",
-                "chinese": "我今天没有吃饭, 现在很饿.",
-                "pinyin": "Wǒ jīntiān méiyǒu chīfàn, xiànzài hěn è.",
             },
         ],
     },
