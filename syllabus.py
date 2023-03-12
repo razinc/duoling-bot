@@ -2008,9 +2008,9 @@ syllabus = {
                 "pinyin": "Dàjiā dōu dàole, nǐ xiànzài zài nǎ'er? Wǒ zhèngzài gōngzuò.",
             },
             {
-                "english": "What are you doing right now?",
-                "chinese": "你正在做什么?",
-                "pinyin": "Nǐ zhèngzài zuò shénme?",
+                "english": "What are you doing right now? I am eating lunch right now.",
+                "chinese": "你正在做什么? 我正在吃午饭",
+                "pinyin": "Nǐ zhèngzài zuò shénme? Wǒ zhèngzài chī wǔfàn.",
             },
             {
                 "english": "When is their party?",
