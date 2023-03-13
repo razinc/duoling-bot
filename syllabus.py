@@ -2405,4 +2405,15 @@ syllabus = {
             },
         ],
     },
+    "unit 23": {
+        "description": "Refer to body parts, discuss travel plans.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/23",
+        "phrases": [
+            {
+                "english": "She has blue eyes.",
+                "chinese": "她有蓝色的眼睛.",
+                "pinyin": "Tā yǒu lán sè de yǎnjīng.",
+            },
+        ],
+    },
 }
