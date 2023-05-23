@@ -2414,6 +2414,76 @@ syllabus = {
                 "chinese": "她有蓝色的眼睛.",
                 "pinyin": "Tā yǒu lán sè de yǎnjīng.",
             },
+            {
+                "english": "There is something on your face.",
+                "chinese": "Nǐ de liǎn shàng yǒu dōngxī.",
+                "pinyin": "你的脸上有东西.",
+            },
+            {
+                "english": "My nose hurts.",
+                "chinese": "我的鼻子很疼.",
+                "pinyin": "Wǒ de bízi hěn téng.",
+            },
+            {
+                "english": "My hands are bigger than yours.",
+                "chinese": "我的手比你的大.",
+                "pinyin": "Wǒ de shǒu bǐ nǐ de dà.",
+            },
+            {
+                "english": "Her ears are small.",
+                "chinese": "她的耳朵很小.",
+                "pinyin": "Tā de ěrduǒ hěn xiǎo.",
+            },
+            {
+                "english": "Her hair is both black and nice.",
+                "chinese": "她的头发又黑又好看.",
+                "pinyin": "Tā de tóufǎ yòu hēi yòu hǎokàn.",
+            },
+            {
+                "english": "I will take the 9:30 p.m. flight to London.",
+                "chinese": "我会坐晚上九点半的飞机去伦敦.",
+                "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
+            },
+            {
+                "english": "Is the train station far away from the airport? It's not far, you can walk there.",
+                "chinese": "火车站离机场远不远? 不远，你可以走路去那里.",
+                "pinyin": "Huǒchē zhàn lí jīchǎng yuǎn bù yuǎn? Bù yuǎn, nǐ kěyǐ zǒulù qù nàlǐ.",
+            },
+            {
+                "english": "Have you bought the train ticket?",
+                "chinese": "你买了火车票吗?",
+                "pinyin": "Nǐ mǎile huǒchē piào ma?",
+            },
+            {
+                "english": "It only takes an hour and a half to drive there.",
+                "chinese": "开车去那儿只要一个半小时.",
+                "pinyin": "Kāichē qù nà'er zhǐyào yīgè bàn xiǎoshí.",
+            },
+            {
+                "english": "We need to get on the train now.",
+                "chinese": "我们现在要上火车.",
+                "pinyin": "Wǒmen xiànzài yào shàng huǒchē.",
+            },
+            {
+                "english": "Is the hospital far from here?",
+                "chinese": "医院离这里远吗?",
+                "pinyin": "Yīyuàn lí zhèlǐ yuǎn ma.",
+            },
+            {
+                "english": "His home is not close to the school.",
+                "chinese": "他的家离学校不近.",
+                "pinyin": "Tā de jiā lí xuéxiào bú jìn.",
+            },
+            {
+                "english": "Her office is very close to here.",
+                "chinese": "她的办公室离这里很近.",
+                "pinyin": "Tā de bàngōngshì lí zhèlǐ hěn jìn.",
+            },
+            {
+                "english": "The hotel is too far from the restaurant.",
+                "chinese": "酒店离饭馆太远了.",
+                "pinyin": "Jiǔdiàn lí fànguǎn tài yuǎn le.",
+            },
         ],
     },
 }
