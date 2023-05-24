@@ -2440,6 +2440,11 @@ syllabus = {
                 "pinyin": "Tā de tóufǎ yòu hēi yòu hǎokàn.",
             },
             {
+                "english": "He has a cute face.",
+                "chinese": "他的脸很可爱.",
+                "pinyin": "Tā de liǎn hěn kě'ài.",
+            },
+            {
                 "english": "I will take the 9:30 p.m. flight to London.",
                 "chinese": "我会坐晚上九点半的飞机去伦敦.",
                 "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
