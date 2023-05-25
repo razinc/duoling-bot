@@ -2445,6 +2445,11 @@ syllabus = {
                 "pinyin": "Tā de liǎn hěn kě'ài.",
             },
             {
+                "english": "My dad doesn't have hair.",
+                "chinese": "我的爸爸没有头发.",
+                "pinyin": "Wǒ de bàba méiyǒu tóufǎ.",
+            },
+            {
                 "english": "I will take the 9:30 p.m. flight to London.",
                 "chinese": "我会坐晚上九点半的飞机去伦敦.",
                 "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
