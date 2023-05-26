@@ -2450,6 +2450,31 @@ syllabus = {
                 "pinyin": "Wǒ de bàba méiyǒu tóufǎ.",
             },
             {
+                "english": "His doctor is both tall and fat.",
+                "chinese": "他的医生又高又胖.",
+                "pinyin": "Tā de yīshēng yòu gāo yòu pàng.",
+            },
+            {
+                "english": "My girlfriend's eyes are both black and beautiful.",
+                "chinese": "我的女朋友的眼睛又黑又漂亮.",
+                "pinyin": "Wǒ de nǚ péngyǒu de yǎnjīng yòu hēi yòu piàoliang.",
+            },
+            {
+                "english": "Dad's hands are big.",
+                "chinese": "爸爸的手很大.",
+                "pinyin": "Bàba de shǒu hěn dà.",
+            },
+            {
+                "english": "He has a pair of green eyes.",
+                "chinese": "他有一双绿眼睛.",
+                "pinyin": "Tā yǒu yīshuāng lǜ yǎnjīng.",
+            },
+            {
+                "english": "My hands and feet both hurt a lot.",
+                "chinese": "我的手和脚都很疼.",
+                "pinyin": "Wǒ de shǒu hé jiǎo dōu hěn téng.",
+            },
+            {
                 "english": "I will take the 9:30 p.m. flight to London.",
                 "chinese": "我会坐晚上九点半的飞机去伦敦.",
                 "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
