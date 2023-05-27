@@ -2475,6 +2475,41 @@ syllabus = {
                 "pinyin": "Wǒ de shǒu hé jiǎo dōu hěn téng.",
             },
             {
+                "english": "Our dog has only one ear.",
+                "chinese": "我们的狗只有一只耳朵.",
+                "pinyin": "Wǒmen de gǒu zhǐyǒu yī zhǐ ěrduǒ.",
+            },
+            {
+                "english": "My younger sister's face is small.",
+                "chinese": "我的妹妹的脸很小.",
+                "pinyin": "Wǒ de mèimei de liǎn hěn xiǎo.",
+            },
+            {
+                "english": "My older sister has green hair.",
+                "chinese": "我的姐姐有绿头发.",
+                "pinyin": "Wǒ de jiějiě yǒu lǜ tóufǎ.",
+            },
+            {
+                "english": "There is a fish inside the mouth of that cat.",
+                "chinese": "那只猫的嘴巴里有一条鱼.",
+                "pinyin": "Nà zhǐ māo de zuǐbā li yǒu yītiáo yú.",
+            },
+            {
+                "english": "Our dog has green eyes.",
+                "chinese": "我们的狗有绿眼睛.",
+                "pinyin": "Wǒmen de gǒu yǒu lǜ yǎnjīng.",
+            },
+            {
+                "english": "I think my ears are big.",
+                "chinese": "我觉得我的耳朵很大.",
+                "pinyin": "Wǒ juédé wǒ de ěrduǒ hěn dà.",
+            },
+            {
+                "english": "Her hair is both black and beautiful.",
+                "chinese": "她的头发又黑又好看.",
+                "pinyin": "Tā de tóufǎ yòu hēi yòu hǎokàn.",
+            },
+            {
                 "english": "I will take the 9:30 p.m. flight to London.",
                 "chinese": "我会坐晚上九点半的飞机去伦敦.",
                 "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
