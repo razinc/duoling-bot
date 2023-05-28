@@ -2554,6 +2554,91 @@ syllabus = {
                 "chinese": "酒店离饭馆太远了.",
                 "pinyin": "Jiǔdiàn lí fànguǎn tài yuǎn le.",
             },
+            {
+                "english": "Let's get in the car quickly.",
+                "chinese": "快一点儿上车吧.",
+                "pinyin": "Kuài yīdiǎn er shàng chē ba.",
+            },
+            {
+                "english": "Please let me go together with you.",
+                "chinese": "请让我跟你一起去.",
+                "pinyin": "Qǐng ràng wǒ gēn nǐ yīqǐ qù.",
+            },
+            {
+                "english": "My company doesn't allow me to take leave.",
+                "chinese": "我的公司不让我请假.",
+                "pinyin": "Wǒ de gōngsī bù ràng wǒ qǐngjià.",
+            },
+            {
+                "english": "We are now close to the hotel.",
+                "chinese": "我们现在离酒店很近.",
+                "pinyin": "Wǒmen xiànzài lí jiǔdiàn hěn jìn.",
+            },
+            {
+                "english": "Is the airport far from here?",
+                "chinese": "机场离这里远吗?",
+                "pinyin": "Jīchǎng lí zhèlǐ yuǎn ma?",
+            },
+            {
+                "english": "I didn't sleep on the plane.",
+                "chinese": "我在飞机上没有睡觉.",
+                "pinyin": "Wǒ zài fēijī shàng méiyǒu shuìjiào.",
+            },
+            {
+                "english": "Don't get close to me.",
+                "chinese": "别靠近我.",
+                "pinyin": "Bié kàojìn wǒ.",
+            },
+            {
+                "english": "I drive to the company every day.",
+                "chinese": "我每天开车去公司.",
+                "pinyin": "Wǒ měitiān kāichē qù gōngsī.",
+            },
+            {
+                "english": "Stop the car!",
+                "chinese": "停车!",
+                "pinyin": "Tíngchē!",
+            },
+            {
+                "english": "I am tired, I don't want to walk.",
+                "chinese": "我很累, 不想走路.",
+                "pinyin": "Wǒ hěn lèi, bùxiǎng zǒulù.",
+            },
+            {
+                "english": "She already bought the plane ticket.",
+                "chinese": "她已经买了机票.",
+                "pinyin": "Tā yǐjīng mǎile jīpiào.",
+            },
+            {
+                "english": "The plane ticket to Italy is too expensive!",
+                "chinese": "去意大利的机票太贵了!",
+                "pinyin": "Qù yìdàlì de jīpiào tài guìle!",
+            },
+            {
+                "english": "You need to walk to come here.",
+                "chinese": "你们得走路来这儿.",
+                "pinyin": "Nǐmen dé zǒulù lái zhè'er.",
+            },
+            {
+                "english": "I am going to Beijing next month, I need to buy the plane ticket now.",
+                "chinese": "下个月我要去北京, 现在得买机票.",
+                "pinyin": "Xià gè yuè wǒ yào qù běijīng, xiànzài dé mǎi jīpiào.",
+            },
+            {
+                "english": "We need to buy the train tickets.",
+                "chinese": "我们得买火车票.",
+                "pinyin": "Wǒmen dé mǎi huǒchē piào.",
+            },
+            {
+                "english": "You must not be late.",
+                "chinese": "你们一定不可以迟到.",
+                "pinyin": "Nǐmen yīdìng bù kěyǐ chídào.",
+            },
+            {
+                "english": "We are late, what should we do?",
+                "chinese": "我们迟到了, 怎么办?",
+                "pinyin": "Wǒmen chídàole, zěnme bàn?",
+            },
         ],
     },
 }
