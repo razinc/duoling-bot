@@ -2170,8 +2170,8 @@ syllabus = {
         "phrases": [
             {
                 "english": "What's your favorite dessert?",
-                "chinese": "你最喜欢的甜点是什么.",
-                "pinyin": "Nǐ zuì xǐhuān de tiándiǎn shì shénme.",
+                "chinese": "你最喜欢的甜点是什么?",
+                "pinyin": "Nǐ zuì xǐhuān de tiándiǎn shì shénme?",
             },
             {
                 "english": "This watermelon is very tasty!",
@@ -2638,6 +2638,11 @@ syllabus = {
                 "english": "We are late, what should we do?",
                 "chinese": "我们迟到了, 怎么办?",
                 "pinyin": "Wǒmen chídàole, zěnme bàn?",
+            },
+            {
+                "english": "We arrived late, they did not allow us to board the plane.",
+                "chinese": "我们迟到了, 他们不让我们上飞机.",
+                "pinyin": "我们迟到了, 他们不让我们上飞机.",
             },
         ],
     },
