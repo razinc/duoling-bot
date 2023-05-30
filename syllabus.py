@@ -2642,7 +2642,12 @@ syllabus = {
             {
                 "english": "We arrived late, they did not allow us to board the plane.",
                 "chinese": "我们迟到了, 他们不让我们上飞机.",
-                "pinyin": "我们迟到了, 他们不让我们上飞机.",
+                "pinyin": "Wǒmen chídàole, tāmen bù ràng wǒmen shàng fēijī.",
+            },
+            {
+                "english": "In China, car drive on the right side.",
+                "chinese": "在中国, 汽车靠右边开.",
+                "pinyin": "Zài zhōngguó, qìchē kào yòubiān kāi.",
             },
         ],
     },
