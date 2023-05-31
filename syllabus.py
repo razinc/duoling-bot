@@ -2649,6 +2649,11 @@ syllabus = {
                 "chinese": "在中国, 汽车靠右边开.",
                 "pinyin": "Zài zhōngguó, qìchē kào yòubiān kāi.",
             },
+            {
+                "english": "Is the train station far from the airport?",
+                "chinese": "火车站离机场远不远?",
+                "pinyin": "Huǒchē zhàn lí jīchǎng yuǎn bù yuǎn?",
+            },
         ],
     },
 }
