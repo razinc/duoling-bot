@@ -2656,4 +2656,15 @@ syllabus = {
             },
         ],
     },
+    "unit 24": {
+        "description": "Talk about the weather, refer to colors.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/24",
+        "phrases": [
+            {
+                "english": "上海的天气怎么样?",
+                "chinese": "上海的天气怎么样?",
+                "pinyin": "Shànghǎi de tiānqì zěnme yàng?",
+            },
+        ],
+    },
 }
