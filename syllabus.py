@@ -2661,9 +2661,29 @@ syllabus = {
         "guide_book": "https://www.duolingo.com/guidebook/zh/24",
         "phrases": [
             {
-                "english": "上海的天气怎么样?",
-                "chinese": "上海的天气怎么样?",
-                "pinyin": "Shànghǎi de tiānqì zěnme yàng?",
+                "english": "How is the weather in Shanghai? It never snows here.",
+                "chinese": "上海的天气怎么样? 这里从来不下雪.",
+                "pinyin": "Shànghǎi de tiānqì zěnme yàng? Zhèlǐ cónglái bu xià xuě.",
+            },
+            {
+                "english": "It's raining outside, take an umbrella when you go out.",
+                "chinese": "外面下着雨, 你出去要带伞.",
+                "pinyin": "Wàimiàn xiàzhe yǔ, nǐ chūqù yào dài sǎn.",
+            },
+            {
+                "english": "It is cold outside.",
+                "chinese": "外面很冷.",
+                "pinyin": "Wàimiàn hěn lěng.",
+            },
+            {
+                "english": "Tomorrow will be cloudy.",
+                "chinese": "明天是阴天.",
+                "pinyin": "Míngtiān shì yīn tiān.",
+            },
+            {
+                "english": "It's very windy now.",
+                "chinese": "现在的风很大.",
+                "pinyin": "Xiànzài de fēng hěn dà.",
             },
         ],
     },
