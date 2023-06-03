@@ -2685,6 +2685,26 @@ syllabus = {
                 "chinese": "现在的风很大.",
                 "pinyin": "Xiànzài de fēng hěn dà.",
             },
+            {
+                "english": "When it snows, it is beautiful here.",
+                "chinese": "下雪的时候, 这里很漂亮.",
+                "pinyin": "Xià xuě de shíhou, zhèlǐ hěn piàoliang.",
+            },
+            {
+                "english": "When it's cloudy, I like reading books at home.",
+                "chinese": "阴天的时候, 我喜欢在家看书.",
+                "pinyin": "Yīn tiān de shíhou, wǒ xǐhuān zàijiā kànshū.",
+            },
+            {
+                "english": "It's snowing outside. Don't go out to play.",
+                "chinese": "外面下着雪, 别出去玩.",
+                "pinyin": "Wàimiàn xià zhe xuě. bié chūqù wán.",
+            },
+            {
+                "english": "It's raining outside. Take an umbrella when you go out.",
+                "chinese": "外面下着雨, 你出去要带伞.",
+                "pinyin": "Wàimiàn xià zhe yǔ, nǐ chūqù yào dài sǎn.",
+            },
         ],
     },
 }
