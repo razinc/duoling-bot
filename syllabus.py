@@ -2705,6 +2705,26 @@ syllabus = {
                 "chinese": "外面下着雨, 你出去要带伞.",
                 "pinyin": "Wàimiàn xià zhe yǔ, nǐ chūqù yào dài sǎn.",
             },
+            {
+                "english": "How cold will it be tomorrow?",
+                "chinese": "明天会有多冷?",
+                "pinyin": "Míngtiān huì yǒu duō lěng?",
+            },
+            {
+                "english": "The weather here is nice.",
+                "chinese": "这里的天气很好.",
+                "pinyin": "Zhèlǐ de tiānqì hěn hǎo.",
+            },
+            {
+                "english": "Today's weather is not cold.",
+                "chinese": "今天的天气不冷.",
+                "pinyin": "Jīntiān de tiānqì bù lěng.",
+            },
+            {
+                "english": "It was sunny in Beijing yesterday.",
+                "chinese": "北京昨天是晴天.",
+                "pinyin": "Běijīng zuótiān shì qíngtiān.",
+            },
         ],
     },
 }
