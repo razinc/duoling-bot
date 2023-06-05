@@ -2701,11 +2701,6 @@ syllabus = {
                 "pinyin": "Wàimiàn xià zhe xuě. bié chūqù wán.",
             },
             {
-                "english": "It's raining outside. Take an umbrella when you go out.",
-                "chinese": "外面下着雨, 你出去要带伞.",
-                "pinyin": "Wàimiàn xià zhe yǔ, nǐ chūqù yào dài sǎn.",
-            },
-            {
                 "english": "How cold will it be tomorrow?",
                 "chinese": "明天会有多冷?",
                 "pinyin": "Míngtiān huì yǒu duō lěng?",
@@ -2724,6 +2719,81 @@ syllabus = {
                 "english": "It was sunny in Beijing yesterday.",
                 "chinese": "北京昨天是晴天.",
                 "pinyin": "Běijīng zuótiān shì qíngtiān.",
+            },
+            {
+                "english": "It's sunny today, let's go out to play!",
+                "chinese": "今天是晴天, 我们出去玩吧!",
+                "pinyin": "Jīntiān shì qíngtiān, wǒmen chūqù wán ba!",
+            },
+            {
+                "english": "Do you think tomorrow will be a sunny day?",
+                "chinese": "你觉得明天会是晴天吗?",
+                "pinyin": "Nǐ juédé míngtiān huì shì qíngtiān ma?",
+            },
+            {
+                "english": "He likes singing in the rain.",
+                "chinese": "他喜欢在雨里唱歌.",
+                "pinyin": "Tā xǐhuān zài yǔ lǐ chànggē.",
+            },
+            {
+                "english": "It's raining now!",
+                "chinese": "现在下雨了!",
+                "pinyin": "Xiànzài xià yǔle!",
+            },
+            {
+                "english": "We don't like cloudy days.",
+                "chinese": "我们不喜欢阴天.",
+                "pinyin": "Wǒmen bù xǐhuān yīn tiān.",
+            },
+            {
+                "english": "It didn't snow last week.",
+                "chinese": "上星期没有下雪.",
+                "pinyin": "Shàng xīngqí méiyǒu xià xuě.",
+            },
+            {
+                "english": "Did you bring an umbrella?",
+                "chinese": "你有带伞吗?",
+                "pinyin": "Nǐ yǒu dài sǎn ma?",
+            },
+            {
+                "english": "There is no rain right now, we don't need to bring an umbrella.",
+                "chinese": "现在没有雨, 我们不需要带伞.",
+                "pinyin": "Xiànzài méiyǒu yǔ, wǒmen bù xūyào dài sǎn.",
+            },
+            {
+                "english": "It is very windy outside.",
+                "chinese": "外面刮着风.",
+                "pinyin": "Wàimiàn guāzhe fēng.",
+            },
+            {
+                "english": "It will be windy this afternoon.",
+                "chinese": "今天下午会刮风.",
+                "pinyin": "Jīntiān xiàwǔ huì guā fēng.",
+            },
+            {
+                "english": "It may rain this weekend.",
+                "chinese": "周末可能下雨.",
+                "pinyin": "Zhōumò kěnéng xià yǔ.",
+            },
+            {
+                "english": "It will be very windy tomorrow.",
+                "chinese": "明天会刮大风.",
+                "pinyin": "Míngtiān huì guā dàfēng.",
+            },
+            {
+                "english": "It may snow tomorrow.",
+                "chinese": "明天可能会下雪.",
+                "pinyin": "Míngtiān kěnéng huì xià xuě.",
+            },
+            {
+                "english": "If it rains tomorrow, then we won't go out.",
+                "chinese": "如果明天下雨, 我们就不出去.",
+                "pinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bù chūqù..",
+            },
+            {
+                "english": "The weather is nice here.",
+                "chinese": "这里的天气很好.",
+                "pinyin": "Zhèlǐ de tiānqì hěn hǎo.",
             },
         ],
     },
