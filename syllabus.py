@@ -2795,6 +2795,11 @@ syllabus = {
                 "chinese": "这里的天气很好.",
                 "pinyin": "Zhèlǐ de tiānqì hěn hǎo.",
             },
+            {
+                "english": "If it snows on the weekend, then we watch a movie at home.",
+                "chinese": "如果周末下雪, 我们就在家看电影.",
+                "pinyin": "Rúguǒ zhōumò xià xuě, wǒmen jiù zàijiā kàn diànyǐng.",
+            },
         ],
     },
 }
