@@ -2800,6 +2800,16 @@ syllabus = {
                 "chinese": "如果周末下雪, 我们就在家看电影.",
                 "pinyin": "Rúguǒ zhōumò xià xuě, wǒmen jiù zàijiā kàn diànyǐng.",
             },
+            {
+                "english": "Is tomorrow going to be colder than today?",
+                "chinese": "明天比今天冷吗?",
+                "pinyin": "Míngtiān bǐ jīntiān lěng ma?",
+            },
+            {
+                "english": "It rained last week.",
+                "chinese": "上星期下了雨.",
+                "pinyin": "Shàng xīngqí xiàle yǔ.",
+            },
         ],
     },
 }
