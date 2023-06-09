@@ -524,7 +524,7 @@ syllabus = {
             {
                 "english": "My older brother's girlfriend is very pretty.",
                 "chinese": "我的哥哥的女朋友很漂亮.",
-                "pinyin": "Wǒ dí gēgē de nǚ péngyǒu hěn piàoliang.",
+                "pinyin": "Wǒ de gēgē de nǚ péngyǒu hěn piàoliang.",
             },
             {
                 "english": "My boyfriend loves cat.",
@@ -1532,13 +1532,13 @@ syllabus = {
             },
             {
                 "english": "My little sister really likes to drink juice.",
-                "chinese": "我的妹妹很喜欢喝果汁",
-                "pinyin": "Wǒ de mèimei hěn xǐhuān hē guǒzhī",
+                "chinese": "我的妹妹很喜欢喝果汁.",
+                "pinyin": "Wǒ de mèimei hěn xǐhuān hē guǒzhī.",
             },
             {
                 "english": "Your plate is on the table.",
-                "chinese": "你的盘子在桌子上?",
-                "pinyin": "Nǐ de pánzi zài zhuōzi shàng?",
+                "chinese": "你的盘子在桌子上.",
+                "pinyin": "Nǐ de pánzi zài zhuōzi shàng.",
             },
             {
                 "english": "Three glass of beer, half piece of cake, a bowl of beef noodles.",
@@ -1684,7 +1684,7 @@ syllabus = {
             {
                 "english": "My older brother plays basketball pretty well.",
                 "chinese": "我的哥哥打篮球打得不错.",
-                "pinyin": "Wǒ dí gēgē dǎ lánqiú dǎ dé bùcuò.",
+                "pinyin": "Wǒ de gēgē dǎ lánqiú dǎ dé bùcuò.",
             },
             {
                 "english": "Would you like to play basketball now?",
@@ -1940,7 +1940,7 @@ syllabus = {
             {
                 "english": "My older brother has a fever.",
                 "chinese": "我的哥哥发烧.",
-                "pinyin": "Wǒ dí gēgē fāshāo.",
+                "pinyin": "Wǒ de gēgē fāshāo.",
             },
             {
                 "english": "He has a fever and is resting at home.",
