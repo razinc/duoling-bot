@@ -2810,6 +2810,11 @@ syllabus = {
                 "chinese": "上星期下了雨.",
                 "pinyin": "Shàng xīngqí xiàle yǔ.",
             },
+            {
+                "english": "The snow yesterday was heavy, we both didn't not go to work.",
+                "chinese": "昨天的雪很大, 我们都没有上班.",
+                "pinyin": "Zuótiān de xuě hěn dà, wǒmen dōu méiyǒu shàngbān.",
+            },
         ],
     },
 }
