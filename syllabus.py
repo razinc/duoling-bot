@@ -2815,6 +2815,11 @@ syllabus = {
                 "chinese": "昨天的雪很大, 我们都没有上班.",
                 "pinyin": "Zuótiān de xuě hěn dà, wǒmen dōu méiyǒu shàngbān.",
             },
+            {
+                "english": "I don't like the yellow one, I like the white one..",
+                "chinese": "我不喜欢黄的, 我喜欢白的.",
+                "pinyin": "Wǒ bù xǐhuān huáng de, wǒ xǐhuān bái de.",
+            },
         ],
     },
 }
