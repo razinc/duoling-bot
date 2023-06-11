@@ -2816,9 +2816,39 @@ syllabus = {
                 "pinyin": "Zuótiān de xuě hěn dà, wǒmen dōu méiyǒu shàngbān.",
             },
             {
-                "english": "I don't like the yellow one, I like the white one..",
+                "english": "I don't like the yellow one, I like the white one.",
                 "chinese": "我不喜欢黄的, 我喜欢白的.",
                 "pinyin": "Wǒ bù xǐhuān huáng de, wǒ xǐhuān bái de.",
+            },
+            {
+                "english": "She likes this pair of red shoes.",
+                "chinese": "她喜欢这双红色的鞋子.",
+                "pinyin": "Tā xǐhuān zhè shuāng hóngsè de xiézi.",
+            },
+            {
+                "english": "He doesn't look good in yellow clothes.",
+                "chinese": "他穿黄色的衣服不好看.",
+                "pinyin": "Tā chuān huángsè de yīfú bù hǎokàn.",
+            },
+            {
+                "english": "What colors look good on me?",
+                "chinese": "我穿什么颜色好看?",
+                "pinyin": "Wǒ chuān shénme yánsè hǎokàn?",
+            },
+            {
+                "english": "White clothes are difficult to wash.",
+                "chinese": "白色的衣服很难洗.",
+                "pinyin": "Báisè de yīfú hěn nán xǐ.",
+            },
+            {
+                "english": "Your hat is really pretty!",
+                "chinese": "你的帽子真漂亮!",
+                "pinyin": "Nǐ de màozi zhēn piàoliang!",
+            },
+            {
+                "english": "Although that pair of pants is cheap, but they are not comfortable.",
+                "chinese": "虽然那条裤子很便宜, 但是不舒服.",
+                "pinyin": "Suīrán nà tiáo kùzi hěn piányí, dànshì bú shūfú.",
             },
         ],
     },
