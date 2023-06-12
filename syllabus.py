@@ -2850,6 +2850,11 @@ syllabus = {
                 "chinese": "虽然那条裤子很便宜, 但是不舒服.",
                 "pinyin": "Suīrán nà tiáo kùzi hěn piányí, dànshì bú shūfú.",
             },
+            {
+                "english": "His face turned red.",
+                "chinese": "他的脸红了.",
+                "pinyin": "Tā de liǎnhóngle.",
+            },
         ],
     },
 }
