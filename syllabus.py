@@ -2855,6 +2855,11 @@ syllabus = {
                 "chinese": "他的脸红了.",
                 "pinyin": "Tā de liǎnhóngle.",
             },
+            {
+                "english": "What is this color?",
+                "chinese": "这是什么颜色?",
+                "pinyin": "Zhè shì shénme yánsè?",
+            },
         ],
     },
 }
