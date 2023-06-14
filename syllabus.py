@@ -2860,6 +2860,11 @@ syllabus = {
                 "chinese": "这是什么颜色?",
                 "pinyin": "Zhè shì shénme yánsè?",
             },
+            {
+                "english": "You look the prettiest in red clothes.",
+                "chinese": "你穿红色的衣服最漂亮.",
+                "pinyin": "Nǐ chuān hóngsè de yīfú zuì piàoliang.",
+            },
         ],
     },
 }
