@@ -2865,6 +2865,11 @@ syllabus = {
                 "chinese": "你穿红色的衣服最漂亮.",
                 "pinyin": "Nǐ chuān hóngsè de yīfú zuì piàoliang.",
             },
+            {
+                "english": "This pair of white shoes is both beautiful and cheap.",
+                "chinese": "这双白色的鞋子又漂亮又便宜.",
+                "pinyin": "Zhè shuāng báisè de xiézi yòu piàoliang yòu piányí.",
+            },
         ],
     },
 }
