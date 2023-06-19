@@ -2870,6 +2870,11 @@ syllabus = {
                 "chinese": "这双白色的鞋子又漂亮又便宜.",
                 "pinyin": "Zhè shuāng báisè de xiézi yòu piàoliang yòu piányí.",
             },
+            {
+                "english": "That pair of yellow shoes is mine.",
+                "chinese": "那双黄色的鞋子是我的.",
+                "pinyin": "Nà shuāng huángsè de xiézi shì wǒ de.",
+            },
         ],
     },
 }
