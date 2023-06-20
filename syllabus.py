@@ -2875,6 +2875,11 @@ syllabus = {
                 "chinese": "那双黄色的鞋子是我的.",
                 "pinyin": "Nà shuāng huángsè de xiézi shì wǒ de.",
             },
+            {
+                "english": "This dress needs to be hand washed.",
+                "chinese": "这条裙子要用手洗.",
+                "pinyin": "Zhè tiáo qúnzi yào yòng shǒuxǐ.",
+            },
         ],
     },
 }
