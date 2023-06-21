@@ -2880,6 +2880,11 @@ syllabus = {
                 "chinese": "这条裙子要用手洗.",
                 "pinyin": "Zhè tiáo qúnzi yào yòng shǒuxǐ.",
             },
+            {
+                "english": "I don't want to wash clothes today.",
+                "chinese": "今天我不想洗衣服.",
+                "pinyin": "Jīntiān wǒ bùxiǎng xǐ yīfú.",
+            },
         ],
     },
 }
