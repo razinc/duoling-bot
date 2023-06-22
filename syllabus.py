@@ -1613,7 +1613,7 @@ syllabus = {
             {
                 "english": "There are ten birds on top of the car right now.",
                 "chinese": "现在汽车上有十只鸟.",
-                "pinyin": "Xiànzài qìchē dǐng shàng yǒu shí zhǐ niǎo.",
+                "pinyin": "Xiànzài qìchē shàng yǒu shí zhǐ niǎo.",
             },
             {
                 "english": "There are also seven cats in the tree.",
@@ -2884,6 +2884,11 @@ syllabus = {
                 "english": "I don't want to wash clothes today.",
                 "chinese": "今天我不想洗衣服.",
                 "pinyin": "Jīntiān wǒ bùxiǎng xǐ yīfú.",
+            },
+            {
+                "english": "I think purple looks the best.",
+                "chinese": "我觉得紫色最好看.",
+                "pinyin": "Wǒ juédé zǐsè zuì hǎo kàn.",
             },
         ],
     },
