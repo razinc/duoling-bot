@@ -2890,6 +2890,16 @@ syllabus = {
                 "chinese": "我觉得紫色最好看.",
                 "pinyin": "Wǒ juédé zǐsè zuì hǎo kàn.",
             },
+            {
+                "english": "I really like that purple dress!",
+                "chinese": "我真喜欢那条紫色的裙子!",
+                "pinyin": "Wǒ zhēn xǐhuān nà tiáo zǐsè de qúnzi!",
+            },
+            {
+                "english": "What is your favorite color?",
+                "chinese": "你最喜欢什么颜色?",
+                "pinyin": "Nǐ zuì xǐhuān shénme yánsè?",
+            },
         ],
     },
 }
