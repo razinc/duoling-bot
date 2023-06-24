@@ -2902,4 +2902,15 @@ syllabus = {
             },
         ],
     },
+    "unit 25": {
+        "description": "Describe people, talk about festivities.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/25",
+        "phrases": [
+            {
+                "english": "Let me introduce you, this is my best friend.",
+                "chinese": "我给你介绍, 这是我最好的朋友.",
+                "pinyin": "Wǒ gěi nǐ jièshào, zhè shì wǒ zuì hǎo de péngyǒu.",
+            },
+        ]
+    },
 }
