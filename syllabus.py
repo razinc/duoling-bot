@@ -2916,11 +2916,16 @@ syllabus = {
                 "chinese": "他又高又帅.",
                 "pinyin": "Tā yòu gāo yòu shuài.",
             },
-             {
+            {
                 "english": "My older sister is not only smart, but also beautiful.",
                 "chinese": "我的姐姐不但聪明, 而且漂亮.",
                 "pinyin": "Wǒ de jiějiě bùdàn cōngmíng, érqiě piàoliang.",
             },
-        ]
+            {
+                "english": "Although he doesn't like to talk, he likes to smile.",
+                "chinese": "虽然他不喜欢说话, 但是喜欢笑.",
+                "pinyin": "Suīrán tā bù xǐhuān shuōhuà, dànshì xǐhuān xiào.",
+            },
+        ],
     },
 }
