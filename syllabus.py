@@ -2926,6 +2926,11 @@ syllabus = {
                 "chinese": "虽然他不喜欢说话, 但是喜欢笑.",
                 "pinyin": "Suīrán tā bù xǐhuān shuōhuà, dànshì xǐhuān xiào.",
             },
+            {
+                "english": "What are you laughing at?",
+                "chinese": "你们在笑什么?",
+                "pinyin": "Nǐmen zài xiào shénme?",
+            },
         ],
     },
 }
