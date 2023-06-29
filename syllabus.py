@@ -2931,6 +2931,16 @@ syllabus = {
                 "chinese": "你们在笑什么?",
                 "pinyin": "Nǐmen zài xiào shénme?",
             },
+            {
+                "english": "Your friend is handsome. Can you introduce himto me?",
+                "chinese": "你的朋友很帅, 可以给我介绍吗?",
+                "pinyin": "Nǐ de péngyǒu hěn shuài, kěyǐ gěi wǒ jièshào ma?",
+            },
+            {
+                "english": "Let me introduce you to my best friend.",
+                "chinese": "我给你介绍, 这是我最好的朋友.",
+                "pinyin": "Wǒ gěi nǐ jièshào, zhè shì wǒ zuì hǎo de péngyǒu.",
+            },
         ],
     },
 }
