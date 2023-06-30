@@ -2941,6 +2941,11 @@ syllabus = {
                 "chinese": "我给你介绍, 这是我最好的朋友.",
                 "pinyin": "Wǒ gěi nǐ jièshào, zhè shì wǒ zuì hǎo de péngyǒu.",
             },
+            {
+                "english": "He is handsome, but not a good person.",
+                "chinese": "他很帅, 但是不是一个好人.",
+                "pinyin": "Tā hěn shuài, dànshì bùshì yīgè hǎorén.",
+            },
         ],
     },
 }
