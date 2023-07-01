@@ -2946,6 +2946,11 @@ syllabus = {
                 "chinese": "他很帅, 但是不是一个好人.",
                 "pinyin": "Tā hěn shuài, dànshì bùshì yīgè hǎorén.",
             },
+            {
+                "english": "You don't need to introduce us, I know her.",
+                "chinese": "你不需要介绍，我认识她.",
+                "pinyin": "Nǐ bù xūyào jièshào, wǒ rènshí tā.",
+            },
         ],
     },
 }
