@@ -2932,7 +2932,7 @@ syllabus = {
                 "pinyin": "Nǐmen zài xiào shénme?",
             },
             {
-                "english": "Your friend is handsome. Can you introduce himto me?",
+                "english": "Your friend is handsome. Can you introduce him to me?",
                 "chinese": "你的朋友很帅, 可以给我介绍吗?",
                 "pinyin": "Nǐ de péngyǒu hěn shuài, kěyǐ gěi wǒ jièshào ma?",
             },
@@ -2950,6 +2950,11 @@ syllabus = {
                 "english": "You don't need to introduce us, I know her.",
                 "chinese": "你不需要介绍，我认识她.",
                 "pinyin": "Nǐ bù xūyào jièshào, wǒ rènshí tā.",
+            },
+            {
+                "english": "They love talking.",
+                "chinese": "他们很喜欢说话.",
+                "pinyin": "Tāmen hěn xǐhuān shuōhuà.",
             },
         ],
     },
