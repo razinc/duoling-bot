@@ -2956,6 +2956,11 @@ syllabus = {
                 "chinese": "他们很喜欢说话.",
                 "pinyin": "Tāmen hěn xǐhuān shuōhuà.",
             },
+            {
+                "english": "She enjoys helping others.",
+                "chinese": "她喜欢帮助别人.",
+                "pinyin": "Tā xǐhuān bāngzhù biérén.",
+            },
         ],
     },
 }
