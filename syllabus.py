@@ -2961,6 +2961,11 @@ syllabus = {
                 "chinese": "她喜欢帮助别人.",
                 "pinyin": "Tā xǐhuān bāngzhù biérén.",
             },
+            {
+                "english": "How can we be better than other people?",
+                "chinese": "我们怎么样可以比别人好?",
+                "pinyin": "Wǒmen zěnme yàng kěyǐ bǐ biérén hǎo?",
+            },
         ],
     },
 }
