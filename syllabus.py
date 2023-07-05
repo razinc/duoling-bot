@@ -2966,6 +2966,11 @@ syllabus = {
                 "chinese": "我们怎么样可以比别人好?",
                 "pinyin": "Wǒmen zěnme yàng kěyǐ bǐ biérén hǎo?",
             },
+            {
+                "english": "He is not only handsome, but also smart.",
+                "chinese": "他不但帅，而且聪明.",
+                "pinyin": "Tā bùdàn shuài, érqiě cōngmíng.",
+            },
         ],
     },
 }
