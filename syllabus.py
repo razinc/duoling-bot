@@ -2971,6 +2971,11 @@ syllabus = {
                 "chinese": "他不但帅，而且聪明.",
                 "pinyin": "Tā bùdàn shuài, érqiě cōngmíng.",
             },
+            {
+                "english": "My younger brother is not only tall, but also handsome.",
+                "chinese": "我的弟弟不但高, 而且很帅.",
+                "pinyin": "我的弟弟不但高, 而且很帅.",
+            },
         ],
     },
 }
