@@ -2933,8 +2933,8 @@ syllabus = {
             },
             {
                 "english": "Your friend is handsome. Can you introduce him to me?",
-                "chinese": "你的朋友很帅, 可以给我介绍吗?",
-                "pinyin": "Nǐ de péngyǒu hěn shuài, kěyǐ gěi wǒ jièshào ma?",
+                "chinese": "你的朋友很帅. 可以给我介绍吗?",
+                "pinyin": "Nǐ de péngyǒu hěn shuài. Kěyǐ gěi wǒ jièshào ma?",
             },
             {
                 "english": "Let me introduce you to my best friend.",
@@ -2974,7 +2974,12 @@ syllabus = {
             {
                 "english": "My younger brother is not only tall, but also handsome.",
                 "chinese": "我的弟弟不但高, 而且很帅.",
-                "pinyin": "我的弟弟不但高, 而且很帅.",
+                "pinyin": "Wǒ de dìdì bùdàn gāo, érqiě hěn shuài.",
+            },
+            {
+                "english": "I have a smart little bird, it can dance.",
+                "chinese": "我有一只聪明的小鸟, 它会跳舞.",
+                "pinyin": "Wǒ yǒuyī zhǐ cōngmíng de xiǎo niǎo, tā huì tiàowǔ.",
             },
         ],
     },
