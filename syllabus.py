@@ -2981,6 +2981,41 @@ syllabus = {
                 "chinese": "我有一只聪明的小鸟, 它会跳舞.",
                 "pinyin": "Wǒ yǒuyī zhǐ cōngmíng de xiǎo niǎo, tā huì tiàowǔ.",
             },
+            {
+                "english": "Happy New Year!",
+                "chinese": "新年快乐!",
+                "pinyin": "Xīnnián kuàilè!",
+            },
+            {
+                "english": "Cheers! Happy birthday!",
+                "chinese": "干杯! 生日快乐!",
+                "pinyin": "Gānbēi! Shēngrì kuàilè!",
+            },
+            {
+                "english": "What gift should we give to her?",
+                "chinese": "我们要送什么礼物给她?",
+                "pinyin": "Wǒmen yào sòng shénme lǐwù gěi tā?",
+            },
+            {
+                "english": "Spring Festival is the biggest festival in China.",
+                "chinese": "春节是中国最大的节日.",
+                "pinyin": "Chūnjié shì zhōngguó zuìdà de jiérì.",
+            },
+            {
+                "english": "Will you come to our New Year's party?",
+                "chinese": "你会来我们的新年派对吗?",
+                "pinyin": "Nǐ huì lái wǒmen de xīnnián pàiduì ma?",
+            },
+            {
+                "english": "I want to buy a bottle of French red wine to give to him.",
+                "chinese": "我想买一瓶法国红酒送给他.",
+                "pinyin": "Wǒ xiǎng mǎi yì píng fǎguó hóngjiǔ sòng gěi tā.",
+            },
+            {
+                "english": "We gave a gift to her.",
+                "chinese": "我们送了礼物给她.",
+                "pinyin": "Wǒmen sòng le lǐwù gěi tā.",
+            },
         ],
     },
 }
