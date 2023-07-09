@@ -3016,6 +3016,106 @@ syllabus = {
                 "chinese": "我们送了礼物给她.",
                 "pinyin": "Wǒmen sòng le lǐwù gěi tā.",
             },
+            {
+                "english": "I think red wine is healthier than beer.",
+                "chinese": "我觉得红酒比啤酒健康.",
+                "pinyin": "Wǒ juédé hóngjiǔ bǐ píjiǔ jiànkāng.",
+            },
+            {
+                "english": "He drank three bottles of Baiju, and he is sleeping now.",
+                "chinese": "他喝了三瓶白酒, 现在正在睡觉.",
+                "pinyin": "Tā hēle sānpíng báijiǔ, xiànzài zhèngzài shuìjiào.",
+            },
+            {
+                "english": "I brought two bottles of Baiju.",
+                "chinese": "我带了两瓶中国白酒.",
+                "pinyin": "Wǒ dàile liǎng píng zhōngguó báijiǔ.",
+            },
+            {
+                "english": "Do you like drinking red wine?",
+                "chinese": "你喜欢喝红酒吗?",
+                "pinyin": "Nǐ xǐhuān hē hóngjiǔ ma?",
+            },
+            {
+                "english": "What is tomorrow festival?",
+                "chinese": "明天是什么节日?",
+                "pinyin": "明天是什么节日?",
+            },
+            {
+                "english": "Cheers! Happy New Year!",
+                "chinese": "干杯! 新年快乐!",
+                "pinyin": "Gānbēi! Xīnnián kuàilè!",
+            },
+            {
+                "english": "What is this year Spring Festival date?",
+                "chinese": "今年春节是几月几号?",
+                "pinyin": "Jīnnián chūnjié shì jǐ yuè jǐ hào?",
+            },
+            {
+                "english": "How do Chinese people spend New Year's?",
+                "chinese": "中国人怎么过新年?",
+                "pinyin": "Zhōngguó rén zěnmeguò xīnnián?",
+            },
+            {
+                "english": "What give cannot be given to Chinese people?",
+                "chinese": "什么礼物不能送给中国人?",
+                "pinyin": "Shénme lǐwù bùnéng sòng gěi zhōngguó rén?",
+            },
+            {
+                "english": "I cannot celebrate Chinese New Year with my family this year.",
+                "chinese": "今年春节我不能跟家人一起过.",
+                "pinyin": "Jīnnián chūnjié wǒ bùnéng gēn jiārén yīqǐguò.",
+            },
+            {
+                "english": "Cheers! Let's drink a little more!",
+                "chinese": "干杯! 多喝一点儿!",
+                "pinyin": "Gānbēi! Duō hè yīdiǎn er!",
+            },
+            {
+                "english": "Happy New Year everyone!",
+                "chinese": "祝大家新年快乐!",
+                "pinyin": "Zhù dàjiā xīnnián kuàilè!",
+            },
+            {
+                "english": "Happy birthday to you!",
+                "chinese": "祝你生日快乐!",
+                "pinyin": "Zhù nǐ shēngrì kuàilè!",
+            },
+            {
+                "english": "How will you celebrate your birthday this year?",
+                "chinese": "今年生日你会怎么过?",
+                "pinyin": "Jīnnián shēngrì nǐ huì zěnmeguò?",
+            },
+            {
+                "english": "Will you come to our New Year's party?",
+                "chinese": "你会来我们的新年派对吗?",
+                "pinyin": "Nǐ huì lái wǒmen de xīnnián pàiduì ma?",
+            },
+            {
+                "english": "In the afternoon we are going to the shop to buy a gift.",
+                "chinese": "下午我们去商店买礼物.",
+                "pinyin": "Xiàwǔ wǒmen qù shāngdiàn mǎi lǐwù.",
+            },
+            {
+                "english": "Chinese people like to wear red clothes during Spring Festival.",
+                "chinese": "中国人在春节喜欢穿红的衣服.",
+                "pinyin": "Zhōngguó rén zài chūnjié xǐhuān chuān hóng de yīfú.",
+            },
+            {
+                "english": "Happy holidays!",
+                "chinese": "节日快乐!",
+                "pinyin": "Jiérì kuàilè!",
+            },
+            {
+                "english": "Your birthday is coming up! What gift would you like?",
+                "chinese": "你的生日快到了! 你想要什么礼物?",
+                "pinyin": "Nǐ de shēngrì kuài dàole! Nǐ xiǎng yào shénme lǐwù?",
+            },
+            {
+                "english": "Happy birthday!",
+                "chinese": "生日快乐!",
+                "pinyin": "Shēngrì kuàilè!",
+            },
         ],
     },
 }
