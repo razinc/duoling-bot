@@ -3118,4 +3118,35 @@ syllabus = {
             },
         ],
     },
+    "unit 26": {
+        "description": "Discuss sport events, communicate at school.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/26",
+        "phrases": [
+            {
+                "english": "The game is about to start!",
+                "chinese": "比赛快要开始了!",
+                "pinyin": "Bǐsài kuàiyào kāishǐle!",
+            },
+            {
+                "english": "I know we won't lose!",
+                "chinese": "我知道我们不会输!",
+                "pinyin": "Wǒ zhīdào wǒmen bù huì shū!",
+            },
+            {
+                "english": "Come on! You need to be confident!",
+                "chinese": "加油! 你要有信心!",
+                "pinyin": "Jiāyóu! Nǐ yào yǒu xìnxīn!",
+            },
+            {
+                "english": "This weekend she has a table tennis match.",
+                "chinese": "这个周末她有乒乓球比赛.",
+                "pinyin": "Zhège zhōumò tā yǒu pīngpāng qiú bǐsài.",
+            },
+            {
+                "english": "He is going to take part in a basketball competition next year.",
+                "chinese": "他明年要参加篮球比赛.",
+                "pinyin": "Tā míngnián yào cānjiā lánqiú bǐsài.",
+            },
+        ],
+    },
 }
