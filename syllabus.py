@@ -3147,6 +3147,31 @@ syllabus = {
                 "chinese": "他明年要参加篮球比赛.",
                 "pinyin": "Tā míngnián yào cānjiā lánqiú bǐsài.",
             },
+            {
+                "english": "I want to play tennis, but I caught a cold.",
+                "chinese": "我要打网球, 但是我感冒了.",
+                "pinyin": "Wǒ yào dǎ wǎngqiú, dànshì wǒ gǎnmàole.",
+            },
+            {
+                "english": "My friend can play tennis and can also play volleyball.",
+                "chinese": "我的朋友会打网球, 也会打排球.",
+                "pinyin": "Wǒ de péngyǒu huì dǎ wǎngqiú, yě huì dǎ páiqiú.",
+            },
+            {
+                "english": "I hope you will not be disappointed.",
+                "chinese": "我希望你不会失望.",
+                "pinyin": "Wǒ xīwàng nǐ bù huì shīwàng.",
+            },
+            {
+                "english": "My little sister and I play table tennis every day.",
+                "chinese": "我和我的妹妹每天玩乒乓球.",
+                "pinyin": "Wǒ hé wǒ de mèimei měitiān wán pīngpāng qiú.",
+            },
+            {
+                "english": "We practiced for two months.",
+                "chinese": "我们练习了两个月.",
+                "pinyin": "Wǒmen liànxíle liǎng gè yuè.",
+            },
         ],
     },
 }
