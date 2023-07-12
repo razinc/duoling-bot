@@ -3172,6 +3172,26 @@ syllabus = {
                 "chinese": "我们练习了两个月.",
                 "pinyin": "Wǒmen liànxíle liǎng gè yuè.",
             },
+            {
+                "english": "We are confident we will win this game.",
+                "chinese": "我们有信心会赢这个比赛.",
+                "pinyin": "Wǒmen yǒu xìnxīn huì yíng zhège bǐsài.",
+            },
+            {
+                "english": "We have a match next month, we need to practice every day now.",
+                "chinese": "我们下个月有比赛, 现在每天要练习.",
+                "pinyin": "Wǒmen xià gè yuè yǒu bǐsài, xiànzài měitiān yào liànxí.",
+            },
+            {
+                "english": "Today we have a match, luckily it is not raining.",
+                "chinese": "今天我们有比赛, 好在没有下雨.",
+                "pinyin": "Jīntiān wǒmen yǒu bǐsài, hǎo zài méiyǒu xià yǔ",
+            },
+            {
+                "english": "I am tired because I played volleyball yesterday.",
+                "chinese": "我很累因为昨天我打了排球.",
+                "pinyin": "Wǒ hěn lèi yīnwèi zuótiān wǒ dǎle páiqiú.",
+            },
         ],
     },
 }
