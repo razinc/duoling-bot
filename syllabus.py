@@ -3192,6 +3192,31 @@ syllabus = {
                 "chinese": "我很累因为昨天我打了排球.",
                 "pinyin": "Wǒ hěn lèi yīnwèi zuótiān wǒ dǎle páiqiú.",
             },
+            {
+                "english": "This is my first time taking part in a soccer match.",
+                "chinese": "这是我第一次参加足球比赛.",
+                "pinyin": "Zhè shì wǒ dì yī cì cānjiā zúqiú bǐsài.",
+            },
+            {
+                "english": "Come on, faster!",
+                "chinese": "加油, 快一点儿!",
+                "pinyin": "Jiāyóu, kuài yīdiǎn er!",
+            },
+            {
+                "english": "Do you have time to play tennis?",
+                "chinese": "你有时间打网球吗?",
+                "pinyin": "Nǐ yǒu shíjiān dǎ wǎngqiú ma?",
+            },
+            {
+                "english": "Don't be disappointed, you will win next time!",
+                "chinese": "不要失望, 你下次会赢!",
+                "pinyin": "Bùyào shīwàng, nǐ xià cì huì yíng!",
+            },
+            {
+                "english": "Come on, there's a minute left!",
+                "chinese": "加油, 还有一分钟!",
+                "pinyin": "Jiāyóu, hái yǒu yī fēnzhōng!",
+            },
         ],
     },
 }
