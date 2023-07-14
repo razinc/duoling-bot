@@ -3217,6 +3217,31 @@ syllabus = {
                 "chinese": "加油, 还有一分钟!",
                 "pinyin": "Jiāyóu, hái yǒu yī fēnzhōng!",
             },
+            {
+                "english": "Come on!",
+                "chinese": "加油!",
+                "pinyin": "Jiāyóu!",
+            },
+            {
+                "english": "What time does the swimming competition begin?",
+                "chinese": "游泳比赛几点开始?",
+                "pinyin": "Yóuyǒng bǐsài jǐ diǎn kāishǐ?",
+            },
+            {
+                "english": "They lost, I am very disappointed.",
+                "chinese": "他们输了, 我非常失望.",
+                "pinyin": "Tāmen shūle, wǒ fēicháng shīwàng.",
+            },
+            {
+                "english": "My friend lost.",
+                "chinese": "我的朋友输了.",
+                "pinyin": "Wǒ de péngyǒu shūle.",
+            },
+            {
+                "english": "Playing volleyball is my favorite sport.",
+                "chinese": "打排球是我最喜欢的运动.",
+                "pinyin": "Dǎ páiqiú shì wǒ zuì xǐhuān de yùndòng.",
+            },
         ],
     },
 }
