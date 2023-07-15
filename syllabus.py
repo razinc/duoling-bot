@@ -3242,6 +3242,36 @@ syllabus = {
                 "chinese": "打排球是我最喜欢的运动.",
                 "pinyin": "Dǎ páiqiú shì wǒ zuì xǐhuān de yùndòng.",
             },
+            {
+                "english": "Excuse me, do you have a pen? I don't have a pen.",
+                "chinese": "请问, 你有没有笔? 我没有笔.",
+                "pinyin": "Qǐngwèn, nǐ yǒu méiyǒu bǐ? Wǒ méiyǒu bǐ.",
+            },
+            {
+                "english": "How many questions are there on the Chinese exam this time?",
+                "chinese": "这次中文考试有多少题?",
+                "pinyin": "Zhè cì zhōngwén kǎoshì yǒu duōshǎo tí?",
+            },
+            {
+                "english": "Excuse me, where's our classroom?",
+                "chinese": "请问, 我们的教室在哪儿?",
+                "pinyin": "Qǐngwèn, wǒmen de jiàoshì zài nǎ'er?",
+            },
+            {
+                "english": "Do you know those classmates?",
+                "chinese": "你认识那些同学吗?",
+                "pinyin": "Nǐ rènshí nàxiē tóngxué ma?",
+            },
+            {
+                "english": "Will you attend class tomorrow?",
+                "chinese": "你明天会上课吗?",
+                "pinyin": "Nǐ míngtiān huì shàngkè ma?",
+            },
+            {
+                "english": "What time does class end?",
+                "chinese": "什么时候下课?",
+                "pinyin": "Shénme shíhòu xiàkè?",
+            },
         ],
     },
 }
