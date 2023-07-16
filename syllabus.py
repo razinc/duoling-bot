@@ -3272,6 +3272,31 @@ syllabus = {
                 "chinese": "什么时候下课?",
                 "pinyin": "Shénme shíhòu xiàkè?",
             },
+            {
+                "english": "We have already finished class.",
+                "chinese": "我们已经下课了.",
+                "pinyin": "Wǒmen yǐjīng xiàkèle.",
+            },
+            {
+                "english": "Who is our science teacher this year?",
+                "chinese": "我们今年的科学老师是谁?",
+                "pinyin": "Wǒmen jīnnián de kēxué lǎoshī shì shéi?",
+            },
+            {
+                "english": "Geography is difficult, there are a lot of things I don't understand.",
+                "chinese": "地理很难, 我不明白的东西很多.",
+                "pinyin": "Dìlǐ hěn nán, wǒ bù míngbái de dōngxī hěnduō.",
+            },
+            {
+                "english": "We will have an English test next Friday.",
+                "chinese": "我们下星期五会有英语考试.",
+                "pinyin": "Wǒmen xià xīngqíwǔ huì yǒu yīngyǔ kǎoshì.",
+            },
+            {
+                "english": "I didn't prepare.",
+                "chinese": "我没有准备.",
+                "pinyin": "Wǒ méiyǒu zhǔnbèi.",
+            },
         ],
     },
 }
