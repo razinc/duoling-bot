@@ -3297,6 +3297,31 @@ syllabus = {
                 "chinese": "我没有准备.",
                 "pinyin": "Wǒ méiyǒu zhǔnbèi.",
             },
+            {
+                "english": "There are altogether fifteen questions on the test.",
+                "chinese": "考试一共有十五题.",
+                "pinyin": "Kǎoshì yīgòng yǒu shíwǔ tí.",
+            },
+            {
+                "english": "She is my Chinese class classmate.",
+                "chinese": "她是我的中文课的同学.",
+                "pinyin": "Tā shì wǒ de zhōngwén kè de tóngxué.",
+            },
+            {
+                "english": "Among my classmates, there are five boys and six girls.",
+                "chinese": "我的同学里有五个男孩子, 六个女孩子.",
+                "pinyin": "Wǒ de tóngxué li yǒu wǔ gè nán háizi, liù gè nǚ háizi.",
+            },
+            {
+                "english": "I am sick, so I cannot attend class.",
+                "chinese": "我生病了, 所以我不能上课.",
+                "pinyin": "Wǒ shēngbìngle, suǒyǐ wǒ bùnéng shàngkè.",
+            },
+            {
+                "english": "We don't understand what we read.",
+                "chinese": "我们看不懂.",
+                "pinyin": "Wǒmen kàn bù dǒng.",
+            },
         ],
     },
 }
