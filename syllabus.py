@@ -3322,6 +3322,51 @@ syllabus = {
                 "chinese": "我们看不懂.",
                 "pinyin": "Wǒmen kàn bù dǒng.",
             },
+            {
+                "english": "I don't have class tomorrow afternoon.",
+                "chinese": "明天下午我没有课.",
+                "pinyin": "Míngtiān xiàwǔ wǒ méiyǒu kè.",
+            },
+            {
+                "english": "Your classroom is next to mine.",
+                "chinese": "你的教室在我的旁边.",
+                "pinyin": "Nǐ de jiàoshì zài wǒ de pángbiān.",
+            },
+            {
+                "english": "Science tests are hard.",
+                "chinese": "科学考试很难.",
+                "pinyin": "Kēxué kǎoshì hěn nán.",
+            },
+            {
+                "english": "Tomorrow I have geography class.",
+                "chinese": "我明天有地理课.",
+                "pinyin": "Wǒ míngtiān yǒu dìlǐ kè.",
+            },
+            {
+                "english": "The exam is coming up! We need to start preparing.",
+                "chinese": "快要考试了! 我们要开始准备.",
+                "pinyin": "Kuàiyào kǎoshìle! Wǒmen yào kāishǐ zhǔnbèi.",
+            },
+            {
+                "english": "Sorry, I have a question.",
+                "chinese": "对不起, 我有问题.",
+                "pinyin": "Duìbùqǐ, wǒ yǒu wèntí.",
+            },
+            {
+                "english": "I don't understand this question.",
+                "chinese": "我不明白这个问题.",
+                "pinyin": "Wǒ bù míngbái zhège wèntí.",
+            },
+            {
+                "english": "Whose pen is this?",
+                "chinese": "这是谁的笔?",
+                "pinyin": "Zhè shì shéi de bǐ?",
+            },
+            {
+                "english": "This student really likes geography.",
+                "chinese": "这个学生很喜欢地理.",
+                "pinyin": "Zhège xuéshēng hěn xǐhuān dìlǐ.",
+            },
         ],
     },
 }
