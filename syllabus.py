@@ -3367,6 +3367,11 @@ syllabus = {
                 "chinese": "这个学生很喜欢地理.",
                 "pinyin": "Zhège xuéshēng hěn xǐhuān dìlǐ.",
             },
+            {
+                "english": "Teacher, what time does the class end?",
+                "chinese": "老师, 什么时候下课?",
+                "pinyin": "Lǎoshī, shénme shíhòu xiàkè",
+            },
         ],
     },
 }
