@@ -3372,6 +3372,11 @@ syllabus = {
                 "chinese": "老师, 什么时候下课?",
                 "pinyin": "Lǎoshī, shénme shíhòu xiàkè",
             },
+            {
+                "english": "Why is there nobody in the classroom?",
+                "chinese": "为什么教室里没有人?",
+                "pinyin": "Wèishéme jiàoshì lǐ méiyǒu rén?",
+            },
         ],
     },
 }
