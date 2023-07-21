@@ -3377,6 +3377,11 @@ syllabus = {
                 "chinese": "为什么教室里没有人?",
                 "pinyin": "Wèishéme jiàoshì lǐ méiyǒu rén?",
             },
+            {
+                "english": "I like art class the most.",
+                "chinese": "我最喜欢美术课.",
+                "pinyin": "Wǒ zuì xǐhuān měishù kè",
+            },
         ],
     },
 }
