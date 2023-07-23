@@ -3382,6 +3382,46 @@ syllabus = {
                 "chinese": "我最喜欢美术课.",
                 "pinyin": "Wǒ zuì xǐhuān měishù kè",
             },
+            {
+                "english": "Are you ready?",
+                "chinese": "你准备好了吗?",
+                "pinyin": "Nǐ zhǔnbèi hǎole ma?",
+            },
+            {
+                "english": "I want to go to the bathroom, I hope the class ends soon!",
+                "chinese": "我想去洗手间, 希望快一点儿下课!",
+                "pinyin": "Wǒ xiǎng qù xǐshǒujiān, xīwàng kuài yīdiǎn er xiàkè!",
+            },
+            {
+                "english": "If you have questions, please call me.",
+                "chinese": "如果你有问题, 请给我打电话.",
+                "pinyin": "Rúguǒ nǐ yǒu wèntí, qǐng gěi wǒ dǎ diànhuà.",
+            },
+            {
+                "english": "Every students needs to attend science class.",
+                "chinese": "每个学生需要上科学课.",
+                "pinyin": "Měi gè xuéshēng xūyào shàng kēxué kè.",
+            },
+            {
+                "english": "Do you understand what the teacher is saying?",
+                "chinese": "你懂老师在说什么吗?",
+                "pinyin": "Nǐ dǒng lǎoshī zài shuō shénme ma?",
+            },
+            {
+                "english": "I can't attend the art class tomorrow.",
+                "chinese": "我明天不能上美术课.",
+                "pinyin": "Wǒ míngtiān bùnéng shàng měishù kè.",
+            },
+            {
+                "english": "This question is difficult.",
+                "chinese": "这个问题很难.",
+                "pinyin": "Zhège wèntí hěn nán.",
+            },
+            {
+                "english": "What time is our Chinese class?",
+                "chinese": "我们几点有汉语课?",
+                "pinyin": "Wǒmen jǐ diǎn yǒu hànyǔ kè?",
+            },
         ],
     },
 }
