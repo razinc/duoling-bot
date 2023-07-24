@@ -3424,4 +3424,20 @@ syllabus = {
             },
         ],
     },
+    "unit 27": {
+        "description": "Refer to family members, discuss Chinese food.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/27",
+        "phrases": [
+            {
+                "english": "My grandpa and grandma live in Beijing.",
+                "chinese": "我爷爷和奶奶住在北京.",
+                "pinyin": "Wǒ yéyé hé nǎinai zhù zài běijīng.",
+            },
+            {
+                "english": "My aunt is smart, she is a teacher.",
+                "chinese": "我阿姨很聪明, 她是老师.",
+                "pinyin": "Wǒ āyí hěn cōngmíng, tā shì lǎoshī.",
+            },
+        ],
+    },
 }
