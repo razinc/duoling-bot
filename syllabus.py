@@ -3438,6 +3438,11 @@ syllabus = {
                 "chinese": "我阿姨很聪明, 她是老师.",
                 "pinyin": "Wǒ āyí hěn cōngmíng, tā shì lǎoshī.",
             },
+            {
+                "english": "How many siblings do you have?",
+                "chinese": "你有几个兄弟姐妹?",
+                "pinyin": "Nǐ yǒu jǐ gè xiōngdì jiěmèi?",
+            },
         ],
     },
 }
