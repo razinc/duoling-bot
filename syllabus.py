@@ -3453,6 +3453,11 @@ syllabus = {
                 "chinese": "今天是我叔叔的生日.",
                 "pinyin": "Jīntiān shì wǒ shūshu de shēngrì.",
             },
+            {
+                "english": "How is your relationship with your parents?",
+                "chinese": "你和你父母的关系怎么样?",
+                "pinyin": "Nǐ hé nǐ fùmǔ de guānxì zěnme yàng?",
+            },
         ],
     },
 }
