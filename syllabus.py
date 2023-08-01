@@ -3458,6 +3458,11 @@ syllabus = {
                 "chinese": "你和你父母的关系怎么样?",
                 "pinyin": "Nǐ hé nǐ fùmǔ de guānxì zěnme yàng?",
             },
+            {
+                "english": "We have many relatives.",
+                "chinese": "我们有很多亲戚.",
+                "pinyin": "Wǒmen yǒu hěnduō qīnqī.",
+            },
         ],
     },
 }
