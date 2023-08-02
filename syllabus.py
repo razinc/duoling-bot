@@ -3463,6 +3463,11 @@ syllabus = {
                 "chinese": "我们有很多亲戚.",
                 "pinyin": "Wǒmen yǒu hěnduō qīnqī.",
             },
+            {
+                "english": "My older brother's eyes are like our father's.",
+                "chinese": "我哥哥的眼睛像我们爸爸的一样.",
+                "pinyin": "Wǒ gēge de yǎnjīng xiàng wǒmen bàba de yíyàng.",
+            },
         ],
     },
 }
