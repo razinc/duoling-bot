@@ -3468,6 +3468,11 @@ syllabus = {
                 "chinese": "我哥哥的眼睛像我们爸爸的一样.",
                 "pinyin": "Wǒ gēge de yǎnjīng xiàng wǒmen bàba de yíyàng.",
             },
+            {
+                "english": "Is that person your uncle?",
+                "chinese": "那个人是不是你叔叔?",
+                "pinyin": "Nàgè rén shì bùshì nǐ shūshu?",
+            },
         ],
     },
 }
