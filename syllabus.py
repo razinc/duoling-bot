@@ -3473,6 +3473,36 @@ syllabus = {
                 "chinese": "那个人是不是你叔叔?",
                 "pinyin": "Nàgè rén shì bùshì nǐ shūshu?",
             },
+            {
+                "english": "My grandfather can speak English.",
+                "chinese": "我爷爷会说英语.",
+                "pinyin": "Wǒ yéyé huì shuō yīngyǔ.",
+            },
+            {
+                "english": "My uncle is a good doctor.",
+                "chinese": "我叔叔是一个很好的医生.",
+                "pinyin": "Wǒ shūshu shì yīgè hěn hǎo de yīshēng.",
+            },
+            {
+                "english": "I have three siblings altogether.",
+                "chinese": "我一共有三个兄弟姐妹.",
+                "pinyin": "Wǒ yīgòng yǒu sān gè xiōngdì jiěmèi.",
+            },
+            {
+                "english": "We will go home to see our parents next week.",
+                "chinese": "我们下星期回家看我们父母.",
+                "pinyin": "Wǒmen xià xīngqí huí jiā kàn wǒmen fùmǔ.",
+            },
+            {
+                "english": "My parents live in the US.",
+                "chinese": "我父母住在美国.",
+                "pinyin": "Wǒ fùmǔ zhù zài měiguó.",
+            },
+            {
+                "english": "My grandma reads the newspaper every day.",
+                "chinese": "我奶奶每天看报纸.",
+                "pinyin": "Wǒ nǎinai měitiān kàn bàozhǐ.",
+            },
         ],
     },
 }
