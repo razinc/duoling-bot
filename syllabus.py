@@ -3503,6 +3503,31 @@ syllabus = {
                 "chinese": "我奶奶每天看报纸.",
                 "pinyin": "Wǒ nǎinai měitiān kàn bàozhǐ.",
             },
+            {
+                "english": "My younger brother is like our mother, he likes wearing yellow clothes.",
+                "chinese": "我弟弟像妈妈一样, 喜欢穿黄衣服.",
+                "pinyin": "Wǒ dìdì xiàng māmā yīyàng, xǐhuān chuān huáng yīfú.",
+            },
+            {
+                "english": "My aunt is going to the US on Saturday evening.",
+                "chinese": "我阿姨星期六晚上会去美国.",
+                "pinyin": "Wǒ āyí xīngqíliù wǎnshàng huì qù měiguó.",
+            },
+            {
+                "english": "Do you have any siblings?",
+                "chinese": "你有没有兄弟姐妹?",
+                "pinyin": "Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+            },
+            {
+                "english": "All our relatives live in Canada.",
+                "chinese": "我们亲戚都住在加拿大.",
+                "pinyin": "Wǒmen qīnqī dōu zhù zài jiānádà.",
+            },
+            {
+                "english": "I ate dinner together with my aunt yesterday.",
+                "chinese": "昨天我和我阿姨一起吃晚饭.",
+                "pinyin": "Zuótiān wǒ hé wǒ āyí yīqǐ chī wǎnfàn.",
+            },
         ],
     },
 }
