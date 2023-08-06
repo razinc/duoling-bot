@@ -3528,6 +3528,31 @@ syllabus = {
                 "chinese": "昨天我和我阿姨一起吃晚饭.",
                 "pinyin": "Zuótiān wǒ hé wǒ āyí yīqǐ chī wǎnfàn.",
             },
+            {
+                "english": "Do you have a lot of relatives?",
+                "chinese": "你有很多亲戚吗?",
+                "pinyin": "Nǐ yǒu hěnduō qīnqī ma?",
+            },
+            {
+                "english": "My relationship with him is not very good now.",
+                "chinese": "我跟他的关系现在不太好.",
+                "pinyin": "Wǒ gēn tā de guānxì xiànzài bù tài hǎo.",
+            },
+            {
+                "english": "Grandma came to our house this weekend.",
+                "chinese": "奶奶这个周末来了我们家.",
+                "pinyin": "Nǎinai zhège zhōumò láile wǒmen jiā.",
+            },
+            {
+                "english": "I have a good relationship with my friend.",
+                "chinese": "我跟我朋友的关系很好.",
+                "pinyin": "Wǒ gēn wǒ péngyǒu de guānxì hěn hǎo.",
+            },
+            {
+                "english": "My grandpa doesn't have hair.",
+                "chinese": "我爷爷没有头发.",
+                "pinyin": "Wǒ yéyé méiyǒu tóufǎ.",
+            },
         ],
     },
 }
