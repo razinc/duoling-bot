@@ -3553,6 +3553,11 @@ syllabus = {
                 "chinese": "我爷爷没有头发.",
                 "pinyin": "Wǒ yéyé méiyǒu tóufǎ.",
             },
+            {
+                "english": "There are meat, vegetables, and fish in the hot pot.",
+                "chinese": "火锅里有肉, 菜和鱼.",
+                "pinyin": "Huǒguō li yǒu ròu, cài hé yú.",
+            },
         ],
     },
 }
