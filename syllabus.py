@@ -1225,8 +1225,8 @@ syllabus = {
             },
             {
                 "english": "Excuse me, is there a taxi stand here?",
-                "chinese": "请问这里有出租车站吗?",
-                "pinyin": "Qǐngwèn zhè li yǒu chūzū chē zhàn ma?",
+                "chinese": "请问, 这里有出租车站吗?",
+                "pinyin": "Qǐngwèn, zhè li yǒu chūzū chē zhàn ma?",
             },
             {
                 "english": "They want to take a taxi to our house.",
@@ -3557,6 +3557,11 @@ syllabus = {
                 "english": "There are meat, vegetables, and fish in the hot pot.",
                 "chinese": "火锅里有肉, 菜和鱼.",
                 "pinyin": "Huǒguō li yǒu ròu, cài hé yú.",
+            },
+            {
+                "english": "Is the dim sum in Hong Kong good?",
+                "chinese": "香港的点心好吃吗?",
+                "pinyin": "Xiānggǎng de diǎnxīn hào chī ma?",
             },
         ],
     },
