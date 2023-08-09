@@ -3563,6 +3563,11 @@ syllabus = {
                 "chinese": "香港的点心好吃吗?",
                 "pinyin": "Xiānggǎng de diǎnxīn hào chī ma?",
             },
+            {
+                "english": "Do you like to eat porridge in the morning?",
+                "chinese": "你早上喜欢吃粥吗?",
+                "pinyin": "Nǐ zǎoshang xǐhuān chī zhōu ma?",
+            },
         ],
     },
 }
