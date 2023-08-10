@@ -3568,6 +3568,11 @@ syllabus = {
                 "chinese": "你早上喜欢吃粥吗?",
                 "pinyin": "Nǐ zǎoshang xǐhuān chī zhōu ma?",
             },
+            {
+                "english": "Would you like to eat hot pot or fried rice?",
+                "chinese": "你想吃火锅还是炒饭?",
+                "pinyin": "Nǐ xiǎng chī huǒguō háishì chǎofàn?",
+            },
         ],
     },
 }
