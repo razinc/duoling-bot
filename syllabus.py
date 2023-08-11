@@ -3573,6 +3573,21 @@ syllabus = {
                 "chinese": "你想吃火锅还是炒饭?",
                 "pinyin": "Nǐ xiǎng chī huǒguō háishì chǎofàn?",
             },
+            {
+                "english": "What is inside this bun?",
+                "chinese": "这个包子里有什么?",
+                "pinyin": "Zhège bāozi li yǒu shé me?",
+            },
+            {
+                "english": "Is soy milk really healthy?",
+                "chinese": "豆浆真的健康吗?",
+                "pinyin": "Dòujiāng zhēn de jiànkāng ma?",
+            },
+            {
+                "english": "Which Shanghainese restaurant has the tastiest steamed pork dumplings?",
+                "chinese": "哪家上海饭馆的小笼包最好吃?",
+                "pinyin": "Nǎ jiā shànghǎi fànguǎn de xiǎolóngbāo zuì hào chī?",
+            },
         ],
     },
 }
