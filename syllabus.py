@@ -3588,6 +3588,11 @@ syllabus = {
                 "chinese": "哪家上海饭馆的小笼包最好吃?",
                 "pinyin": "Nǎ jiā shànghǎi fànguǎn de xiǎolóngbāo zuì hào chī?",
             },
+            {
+                "english": "I can't drink milk, but I can drink soy milk.",
+                "chinese": "我不可以喝牛奶, 但是可以喝豆浆.",
+                "pinyin": "Wǒ bù kěyǐ hē niúnǎi, dànshì kěyǐ hē dòujiāng.",
+            },
         ],
     },
 }
