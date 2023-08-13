@@ -3593,6 +3593,31 @@ syllabus = {
                 "chinese": "我不可以喝牛奶, 但是可以喝豆浆.",
                 "pinyin": "Wǒ bù kěyǐ hē niúnǎi, dànshì kěyǐ hē dòujiāng.",
             },
+            {
+                "english": "Have you eaten a deep-fried dough stick before?",
+                "chinese": "你吃过油条吗?",
+                "pinyin": "Nǐ chīguò yóutiáo ma?",
+            },
+            {
+                "english": "Do you know which restaurant sells soup dumplings?",
+                "chinese": "你知道哪家饭馆卖小笼包吗?",
+                "pinyin": "Nǐ zhīdào nǎ jiā fànguǎn mài xiǎo lóng bāo ma?",
+            },
+            {
+                "english": "The beef ramen here is the tastiest.",
+                "chinese": "这里的牛肉拉面最好吃.",
+                "pinyin": "Zhèlǐ de niúròu lāmiàn zuì hào chī.",
+            },
+            {
+                "english": "What kind of dim sum do you love?",
+                "chinese": "你爱吃什么点心?",
+                "pinyin": "Nǐ ài chī shénme diǎnxīn?",
+            },
+            {
+                "english": "It is cold, we want to eat hot pot.",
+                "chinese": "天气很冷, 我们想吃火锅.",
+                "pinyin": "Tiānqì hěn lěng, wǒmen xiǎng chī huǒguō.",
+            },
         ],
     },
 }
