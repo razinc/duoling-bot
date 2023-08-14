@@ -3618,6 +3618,11 @@ syllabus = {
                 "chinese": "天气很冷, 我们想吃火锅.",
                 "pinyin": "Tiānqì hěn lěng, wǒmen xiǎng chī huǒguō.",
             },
+            {
+                "english": "They love eating Japanese ramen.",
+                "chinese": "她们爱吃日本拉面.",
+                "pinyin": "Tāmen ài chī rìběn lāmiàn.",
+            },
         ],
     },
 }
