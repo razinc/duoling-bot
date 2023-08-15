@@ -3623,6 +3623,11 @@ syllabus = {
                 "chinese": "她们爱吃日本拉面.",
                 "pinyin": "Tāmen ài chī rìběn lāmiàn.",
             },
+            {
+                "english": "The bun is hot, I will eat it later.",
+                "chinese": "包子很热, 我等一会儿吃.",
+                "pinyin": "Bāozi hěn rè, wǒ děng yīhuǐ'er chī.",
+            },
         ],
     },
 }
