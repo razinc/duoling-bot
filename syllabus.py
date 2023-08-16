@@ -3628,6 +3628,11 @@ syllabus = {
                 "chinese": "包子很热, 我等一会儿吃.",
                 "pinyin": "Bāozi hěn rè, wǒ děng yīhuǐ'er chī.",
             },
+            {
+                "english": "The dim sum from that restaurant is not only tasty, but also inexpensive.",
+                "chinese": "那家饭馆的点心不但好吃, 而且不贵.",
+                "pinyin": "Nà jiā fànguǎn de diǎnxīn bùdàn hào chī, érqiě bù guì.",
+            },
         ],
     },
 }
