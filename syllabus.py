@@ -3633,6 +3633,11 @@ syllabus = {
                 "chinese": "那家饭馆的点心不但好吃, 而且不贵.",
                 "pinyin": "Nà jiā fànguǎn de diǎnxīn bùdàn hào chī, érqiě bù guì.",
             },
+            {
+                "english": "Can you make fried rice?",
+                "chinese": "你会做炒饭吗?",
+                "pinyin": "Nǐ huì zuò chǎofàn ma?",
+            },
         ],
     },
 }
