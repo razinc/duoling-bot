@@ -3638,6 +3638,11 @@ syllabus = {
                 "chinese": "你会做炒饭吗?",
                 "pinyin": "Nǐ huì zuò chǎofàn ma?",
             },
+            {
+                "english": "They have never eaten a deep-fried dough stick.",
+                "chinese": "他们没有吃过油条.",
+                "pinyin": "Tāmen méiyǒu chīguò yóutiáo.",
+            },
         ],
     },
 }
