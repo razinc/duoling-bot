@@ -3643,6 +3643,11 @@ syllabus = {
                 "chinese": "他们没有吃过油条.",
                 "pinyin": "Tāmen méiyǒu chīguò yóutiáo.",
             },
+            {
+                "english": "My dad has caught a cold, he wants to eat porridge.",
+                "chinese": "爸爸感冒了, 想吃粥.",
+                "pinyin": "Bàba gǎnmàole, xiǎng chī zhōu.",
+            },
         ],
     },
 }
