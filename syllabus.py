@@ -3648,6 +3648,26 @@ syllabus = {
                 "chinese": "爸爸感冒了, 想吃粥.",
                 "pinyin": "Bàba gǎnmàole, xiǎng chī zhōu.",
             },
+            {
+                "english": "This bowl of porridge is too hot.",
+                "chinese": "这碗粥太热了.",
+                "pinyin": "Zhè wǎn zhōu tài rèle.",
+            },
+            {
+                "english": "There is a meat in the bun.",
+                "chinese": "包子里有肉.",
+                "pinyin": "Bāozi li yǒu ròu.",
+            },
+            {
+                "english": "I would like to try the soy milk here.",
+                "chinese": "我想试试这里的豆浆.",
+                "pinyin": "Wǒ xiǎng shì shì zhèlǐ de dòujiāng.",
+            },
+            {
+                "english": "Did you know that Spanish cuisine also has deep fried dough sticks?",
+                "chinese": "你知道西班牙菜里也有油条吗?",
+                "pinyin": "Nǐ zhīdào xībānyá cài lǐ yěyǒu yóutiáo ma?",
+            },
         ],
     },
 }
