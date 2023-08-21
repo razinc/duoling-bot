@@ -3668,6 +3668,11 @@ syllabus = {
                 "chinese": "你知道西班牙菜里也有油条吗?",
                 "pinyin": "Nǐ zhīdào xībānyá cài lǐ yěyǒu yóutiáo ma?",
             },
+            {
+                "english": "You must try the fried rice here.",
+                "chinese": "你们一定要试试这里的炒饭.",
+                "pinyin": "Nǐmen yīdìng yào shì shì zhèlǐ de chǎofàn.",
+            },
         ],
     },
 }
