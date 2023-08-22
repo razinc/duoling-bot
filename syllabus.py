@@ -3673,6 +3673,11 @@ syllabus = {
                 "chinese": "你们一定要试试这里的炒饭.",
                 "pinyin": "Nǐmen yīdìng yào shì shì zhèlǐ de chǎofàn.",
             },
+            {
+                "english": "My little sister likes to eat soup dumplings.",
+                "chinese": "我的妹妹喜欢吃小笼包.",
+                "pinyin": "Wǒ de mèimei xǐhuān chī xiǎo lóng bāo.",
+            },
         ],
     },
 }
