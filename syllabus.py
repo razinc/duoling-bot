@@ -3678,6 +3678,11 @@ syllabus = {
                 "chinese": "我的妹妹喜欢吃小笼包.",
                 "pinyin": "Wǒ de mèimei xǐhuān chī xiǎo lóng bāo.",
             },
+            {
+                "english": "Do you like eating Chinese ramen or Japanese ramen?",
+                "chinese": "你喜欢吃中国拉面还是日本拉面?",
+                "pinyin": "Nǐ xǐhuān chī zhōngguó lāmiàn háishì rìběn lāmiàn?",
+            },
         ],
     },
 }
