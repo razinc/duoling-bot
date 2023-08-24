@@ -3685,4 +3685,15 @@ syllabus = {
             },
         ],
     },
+    "unit 28": {
+        "description": "Talk about seasons, describe places.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/28",
+        "phrases": [
+            {
+                "english": "Every year has four seasons.",
+                "chinese": "每年有四个季节.",
+                "pinyin": "Měinián yǒu sì gè jìjié.",
+            },
+        ],
+    },
 }
