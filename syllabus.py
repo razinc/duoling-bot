@@ -3694,6 +3694,21 @@ syllabus = {
                 "chinese": "每年有四个季节.",
                 "pinyin": "Měinián yǒu sì gè jìjié.",
             },
+            {
+                "english": "What's your favorite season?",
+                "chinese": "你最喜欢什么季节?",
+                "pinyin": "Nǐ zuì xǐhuān shénme jìjié?",
+            },
+            {
+                "english": "She came to Beijing last fall.",
+                "chinese": "她去年秋天来了北京.",
+                "pinyin": "Tā qùnián qiūtiān láile běijīng.",
+            },
+            {
+                "english": "December in Australia is summer.",
+                "chinese": "十二月在澳大利亚是夏天.",
+                "pinyin": "Shí'èr yuè zài àodàlìyǎ shì xiàtiān.",
+            },
         ],
     },
 }
