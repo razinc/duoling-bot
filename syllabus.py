@@ -3709,6 +3709,21 @@ syllabus = {
                 "chinese": "十二月在澳大利亚是夏天.",
                 "pinyin": "Shí'èr yuè zài àodàlìyǎ shì xiàtiān.",
             },
+            {
+                "english": "It is hot during the summer in Shanghai.",
+                "chinese": "上海的夏天很热.",
+                "pinyin": "Shànghǎi de xiàtiān hěn rè.",
+            },
+            {
+                "english": "He will go to Japan in two weeks..",
+                "chinese": "他两个星期后会去日本.",
+                "pinyin": "Tā liǎng gè xīngqí hòu huì qù rìběn.",
+            },
+            {
+                "english": "It was spring last year that they went to London.",
+                "chinese": "他们是去年春天去伦敦的.",
+                "pinyin": "Tāmen shì qùnián chūntiān qù lúndūn de.",
+            },
         ],
     },
 }
