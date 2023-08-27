@@ -3724,6 +3724,31 @@ syllabus = {
                 "chinese": "他们是去年春天去伦敦的.",
                 "pinyin": "Tāmen shì qùnián chūntiān qù lúndūn de.",
             },
+            {
+                "english": "Winter is arriving soon!",
+                "chinese": "冬天快到了!",
+                "pinyin": "Dōngtiān kuài dàole!",
+            },
+            {
+                "english": "Does it snow here in winter?",
+                "chinese": "这里在冬天下雪吗?",
+                "pinyin": "Zhèlǐ zài dōngtiān xià xuě ma?",
+            },
+            {
+                "english": "Spring is the prettiest.",
+                "chinese": "春天最漂亮.",
+                "pinyin": "Chūntiān zuì piàoliang.",
+            },
+            {
+                "english": "It is neither cold nor hot in fall.",
+                "chinese": "秋天不冷也不热.",
+                "pinyin": "Qiūtiān bù lěng yě bù rè.",
+            },
+            {
+                "english": "My family and I all like fall.",
+                "chinese": "我和我的家人都喜欢秋天.",
+                "pinyin": "Wǒ hé wǒ de jiārén dōu xǐhuān qiūtiān.",
+            },
         ],
     },
 }
