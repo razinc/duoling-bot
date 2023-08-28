@@ -3749,6 +3749,11 @@ syllabus = {
                 "chinese": "我和我的家人都喜欢秋天.",
                 "pinyin": "Wǒ hé wǒ de jiārén dōu xǐhuān qiūtiān.",
             },
+            {
+                "english": "Do you like winter?",
+                "chinese": "你喜欢冬天吗?",
+                "pinyin": "Nǐ xǐhuān dōngtiān ma?",
+            },
         ],
     },
 }
