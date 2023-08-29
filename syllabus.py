@@ -3754,6 +3754,11 @@ syllabus = {
                 "chinese": "你喜欢冬天吗?",
                 "pinyin": "Nǐ xǐhuān dōngtiān ma?",
             },
+            {
+                "english": "It's now getting colder, winter is here.",
+                "chinese": "现在越来越冷, 冬天来了.",
+                "pinyin": "Xiànzài yuè lái yuè lěng, dōngtiān láile.",
+            },
         ],
     },
 }
