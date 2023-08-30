@@ -3759,6 +3759,11 @@ syllabus = {
                 "chinese": "现在越来越冷, 冬天来了.",
                 "pinyin": "Xiànzài yuè lái yuè lěng, dōngtiān láile.",
             },
+            {
+                "english": "We do not go to school in the summer.",
+                "chinese": "我们夏天不上学.",
+                "pinyin": "Wǒmen xiàtiān bù shàngxué.",
+            },
         ],
     },
 }
