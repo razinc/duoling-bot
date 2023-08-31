@@ -3764,6 +3764,11 @@ syllabus = {
                 "chinese": "我们夏天不上学.",
                 "pinyin": "Wǒmen xiàtiān bù shàngxué.",
             },
+            {
+                "english": "What is the best season to go to Taiwan?",
+                "chinese": "哪个季节去台湾最好?",
+                "pinyin": "Nǎge jìjié qù táiwān zuì hǎo?",
+            },
         ],
     },
 }
