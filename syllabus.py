@@ -3769,6 +3769,11 @@ syllabus = {
                 "chinese": "哪个季节去台湾最好?",
                 "pinyin": "Nǎge jìjié qù táiwān zuì hǎo?",
             },
+            {
+                "english": "It will probably snow tomorrow.",
+                "chinese": "明天大概会下雪.",
+                "pinyin": "Míngtiān dàgài huì xià xuě.",
+            },
         ],
     },
 }
