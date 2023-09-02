@@ -3774,6 +3774,26 @@ syllabus = {
                 "chinese": "明天大概会下雪.",
                 "pinyin": "Míngtiān dàgài huì xià xuě.",
             },
+            {
+                "english": "Shanghai is a big city.",
+                "chinese": "上海是一个大城市.",
+                "pinyin": "Shànghǎi shì yīgè dà chéngshì.",
+            },
+            {
+                "english": "There is a park near my company.",
+                "chinese": "我公司附近有一个公园.",
+                "pinyin": "Wǒ gōngsī fùjìn yǒu yīgè gōngyuán.",
+            },
+            {
+                "english": "The park is between the library and the school.",
+                "chinese": "公园在图书馆和学校中间.",
+                "pinyin": "Gōngyuán zài túshū guǎn hé xuéxiào zhōngjiān.",
+            },
+            {
+                "english": "Your book is under the television.",
+                "chinese": "你的书在电视下面.",
+                "pinyin": "Nǐ de shū zài diànshì xiàmiàn.",
+            },
         ],
     },
 }
