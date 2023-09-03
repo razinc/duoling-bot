@@ -3794,6 +3794,21 @@ syllabus = {
                 "chinese": "你的书在电视下面.",
                 "pinyin": "Nǐ de shū zài diànshì xiàmiàn.",
             },
+            {
+                "english": "There are too many people here.",
+                "chinese": "这个地方有太多人.",
+                "pinyin": "Zhège dìfāng yǒu tài duō rén.",
+            },
+            {
+                "english": "Every day he runs in the park near his house.",
+                "chinese": "每天他在家附近的公园跑步.",
+                "pinyin": "Měitiān tā zài jiā fùjìn de gōngyuán pǎobù.",
+            },
+            {
+                "english": "The park is near their school.",
+                "chinese": "公园在他们的学校附近.",
+                "pinyin": "Gōngyuán zài tāmen de xuéxiào fùjìn.",
+            },
         ],
     },
 }
