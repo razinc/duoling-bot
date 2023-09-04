@@ -3809,6 +3809,11 @@ syllabus = {
                 "chinese": "公园在他们的学校附近.",
                 "pinyin": "Gōngyuán zài tāmen de xuéxiào fùjìn.",
             },
+            {
+                "english": "The tea from that coffee shop is the best.",
+                "chinese": "那家咖啡馆的茶最好.",
+                "pinyin": "Nà jiā kāfēi guǎn de chá zuì hǎo.",
+            },
         ],
     },
 }
