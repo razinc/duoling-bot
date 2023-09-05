@@ -3814,6 +3814,11 @@ syllabus = {
                 "chinese": "那家咖啡馆的茶最好.",
                 "pinyin": "Nà jiā kāfēi guǎn de chá zuì hǎo.",
             },
+            {
+                "english": "There is a bowl on the table.",
+                "chinese": "桌子上面有碗.",
+                "pinyin": "Zhuōzi shàngmiàn yǒu wǎn.",
+            },
         ],
     },
 }
