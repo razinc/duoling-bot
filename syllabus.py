@@ -3819,6 +3819,11 @@ syllabus = {
                 "chinese": "桌子上面有碗.",
                 "pinyin": "Zhuōzi shàngmiàn yǒu wǎn.",
             },
+            {
+                "english": "I am sitting between my father and mother.",
+                "chinese": "我坐在爸爸和妈妈中间.",
+                "pinyin": "Wǒ zuò zài bàba hé māmā zhōngjiān",
+            },
         ],
     },
 }
