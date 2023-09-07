@@ -3824,6 +3824,11 @@ syllabus = {
                 "chinese": "我坐在爸爸和妈妈中间.",
                 "pinyin": "Wǒ zuò zài bàba hé māmā zhōngjiān",
             },
+            {
+                "english": "I don't like big cities.",
+                "chinese": "",
+                "pinyin": "",
+            },
         ],
     },
 }
