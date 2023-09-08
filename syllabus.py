@@ -3829,6 +3829,11 @@ syllabus = {
                 "chinese": "",
                 "pinyin": "",
             },
+            {
+                "english": "There is a bird in the tree.",
+                "chinese": "树上面有一只鸟.",
+                "pinyin": "Shù shàngmiàn yǒuyī zhǐ niǎo.",
+            },
         ],
     },
 }
