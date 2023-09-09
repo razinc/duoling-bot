@@ -3834,6 +3834,11 @@ syllabus = {
                 "chinese": "树上面有一只鸟.",
                 "pinyin": "Shù shàngmiàn yǒuyī zhǐ niǎo.",
             },
+            {
+                "english": "What is under the table?",
+                "chinese": "在桌子下面是什么?",
+                "pinyin": "Zài zhuōzi xiàmiàn shì shénme?",
+            },
         ],
     },
 }
