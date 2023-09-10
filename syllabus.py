@@ -3839,6 +3839,11 @@ syllabus = {
                 "chinese": "在桌子下面是什么?",
                 "pinyin": "Zài zhuōzi xiàmiàn shì shénme?",
             },
+            {
+                "english": "This afternoon I will be preparing for the exam in the library.",
+                "chinese": "我今天下午会在图书馆准备考试.",
+                "pinyin": "Wǒ jīntiān xiàwǔ huì zài túshū guǎn zhǔnbèi kǎoshì.",
+            },
         ],
     },
 }
