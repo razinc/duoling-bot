@@ -3844,6 +3844,11 @@ syllabus = {
                 "chinese": "我今天下午会在图书馆准备考试.",
                 "pinyin": "Wǒ jīntiān xiàwǔ huì zài túshū guǎn zhǔnbèi kǎoshì.",
             },
+            {
+                "english": "Above the coffee shop there is a library.",
+                "chinese": "咖啡馆上面有图书馆.",
+                "pinyin": "Kāfēi guǎn shàngmiàn yǒu túshū guǎn.",
+            },
         ],
     },
 }
