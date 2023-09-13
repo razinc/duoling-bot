@@ -3854,6 +3854,11 @@ syllabus = {
                 "chinese": "今天晚上在一样的地方见!",
                 "pinyin": "Jīntiān wǎnshàng zài yīyàng dì dìfāng jiàn!",
             },
+            {
+                "english": "Who is the person standing between you?",
+                "chinese": "站在你们中间的人是谁?",
+                "pinyin": "Zhàn zài nǐmen zhōngjiān de rén shì shéi?",
+            },
         ],
     },
 }
