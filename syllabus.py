@@ -3859,6 +3859,11 @@ syllabus = {
                 "chinese": "站在你们中间的人是谁?",
                 "pinyin": "Zhàn zài nǐmen zhōngjiān de rén shì shéi?",
             },
+            {
+                "english": "Below the library is a coffee shop.",
+                "chinese": "图书馆下面有咖啡馆.",
+                "pinyin": "Túshū guǎn xiàmiàn yǒu kāfēi guǎn.",
+            },
         ],
     },
 }
