@@ -3864,6 +3864,11 @@ syllabus = {
                 "chinese": "图书馆下面有咖啡馆.",
                 "pinyin": "Túshū guǎn xiàmiàn yǒu kāfēi guǎn.",
             },
+            {
+                "english": "The teacher lives in the city.",
+                "chinese": "老师住在城市里.",
+                "pinyin": "Lǎoshī zhù zài chéngshì lǐ",
+            },
         ],
     },
 }
