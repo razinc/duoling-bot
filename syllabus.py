@@ -3871,4 +3871,35 @@ syllabus = {
             },
         ],
     },
+    "unit 29": {
+        "description": "Ask for a refund, talk about habits.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/29",
+        "phrases": [
+            {
+                "english": "You can come return this and get a refund within seven days.",
+                "chinese": "你七天里可以来退货和退款.",
+                "pinyin": "Nǐ qītiān lǐ kěyǐ lái tuìhuò hé tuì kuǎn.",
+            },
+            {
+                "english": "How much did you spend?",
+                "chinese": "你花了多少钱?",
+                "pinyin": "Nǐ huāle duōshǎo qián?",
+            },
+            {
+                "english": "Please give me a bag.",
+                "chinese": "请给我一个袋子.",
+                "pinyin": "Qǐng gěi wǒ yīgè dàizi.",
+            },
+            {
+                "english": "This pair of leather shoes is on sale.",
+                "chinese": "这双皮鞋打折.",
+                "pinyin": "Zhè shuāng píxié dǎzhé.",
+            },
+            {
+                "english": "I want a refund. Sorry, we can't refund it",
+                "chinese": "我要退款. 对不起, 我们不能退款",
+                "pinyin": "Wǒ yào tuì kuǎn. Duìbùqǐ, wǒmen bùnéng tuì kuǎn",
+            },
+        ],
+    },
 }
