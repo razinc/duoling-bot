@@ -3900,6 +3900,11 @@ syllabus = {
                 "chinese": "我要退款. 对不起, 我们不能退款",
                 "pinyin": "Wǒ yào tuì kuǎn. Duìbùqǐ, wǒmen bùnéng tuì kuǎn",
             },
+            {
+                "english": "We passed by there.",
+                "chinese": "我们经过了那里.",
+                "pinyin": "Wǒmen jīngguòle nàlǐ.",
+            },
         ],
     },
 }
