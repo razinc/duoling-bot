@@ -3905,6 +3905,16 @@ syllabus = {
                 "chinese": "我们经过了那里.",
                 "pinyin": "Wǒmen jīngguòle nàlǐ.",
             },
+            {
+                "english": "I spent too much time doing this task.",
+                "chinese": "我花了太多时间做这个事情.",
+                "pinyin": "Wǒ huāle tài duō shíjiān zuò zhège shìqíng.",
+            },
+            {
+                "english": "There is an apple in the bag.",
+                "chinese": "袋子里有一个苹果.",
+                "pinyin": "Dàizi li yǒu yīgè píngguǒ.",
+            },
         ],
     },
 }
