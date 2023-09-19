@@ -3915,6 +3915,26 @@ syllabus = {
                 "chinese": "袋子里有一个苹果.",
                 "pinyin": "Dàizi li yǒu yīgè píngguǒ.",
             },
+            {
+                "english": "My older sister spent too much money recently!",
+                "chinese": "我的姐姐最近花太多钱了!",
+                "pinyin": "Wǒ de jiějiě zuìjìn huā tài duō qiánle!",
+            },
+            {
+                "english": "Is this shirt discounted?",
+                "chinese": "这件衬衫打折吗?",
+                "pinyin": "Zhè jiàn chènshān dǎzhé ma?",
+            },
+            {
+                "english": "These shoes are too small, can I return them?",
+                "chinese": "这双鞋子太小，我可以退货吗?",
+                "pinyin": "Zhè shuāng xiézi tài xiǎo, wǒ kěyǐ tuìhuò ma?",
+            },
+            {
+                "english": "I like that pair of brown leather shoes.",
+                "chinese": "我喜欢那双咖啡色的皮鞋.",
+                "pinyin": "Wǒ xǐhuān nà shuāng kāfēisè de píxié.",
+            },
         ],
     },
 }
