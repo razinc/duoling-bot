@@ -3935,6 +3935,11 @@ syllabus = {
                 "chinese": "我喜欢那双咖啡色的皮鞋.",
                 "pinyin": "Wǒ xǐhuān nà shuāng kāfēisè de píxié.",
             },
+            {
+                "english": "Are these shoes discounted?",
+                "chinese": "这双鞋子打折吗?",
+                "pinyin": "Zhè shuāng xiézi dǎzhé ma?",
+            },
         ],
     },
 }
