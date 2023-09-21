@@ -3940,6 +3940,16 @@ syllabus = {
                 "chinese": "这双鞋子打折吗?",
                 "pinyin": "Zhè shuāng xiézi dǎzhé ma?",
             },
+            {
+                "english": "I am sorry, you can't return this.",
+                "chinese": "对不起, 你不可以退货.",
+                "pinyin": "Duìbùqǐ, nǐ bù kěyǐ tuìhuò.",
+            },
+            {
+                "english": "I don't have a bag.",
+                "chinese": "我没有袋子.",
+                "pinyin": "Wǒ méiyǒu dàizi.",
+            },
         ],
     },
 }
