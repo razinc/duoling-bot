@@ -3950,6 +3950,11 @@ syllabus = {
                 "chinese": "我没有袋子.",
                 "pinyin": "Wǒ méiyǒu dàizi.",
             },
+            {
+                "english": "If there is no discount, I won't buy it.",
+                "chinese": "如果没有打折我不会买.",
+                "pinyin": "Rúguǒ méiyǒu dǎzhé wǒ bù huì mǎi.",
+            },
         ],
     },
 }
