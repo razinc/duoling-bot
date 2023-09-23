@@ -3955,6 +3955,16 @@ syllabus = {
                 "chinese": "如果没有打折我不会买.",
                 "pinyin": "Rúguǒ méiyǒu dǎzhé wǒ bù huì mǎi.",
             },
+            {
+                "english": "Your phone is too old.",
+                "chinese": "你的手机太旧了.",
+                "pinyin": "Nǐ de shǒujī tài jiùle.",
+            },
+            {
+                "english": "He will not pass by here today.",
+                "chinese": "他今天不会经过这里.",
+                "pinyin": "Tā jīntiān bù huì jīngguò zhèlǐ.",
+            },
         ],
     },
 }
