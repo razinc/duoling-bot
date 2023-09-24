@@ -3965,6 +3965,21 @@ syllabus = {
                 "chinese": "他今天不会经过这里.",
                 "pinyin": "Tā jīntiān bù huì jīngguò zhèlǐ.",
             },
+            {
+                "english": "He changes girlfriends every year.",
+                "chinese": "他每年都会换女朋友.",
+                "pinyin": "Tā měinián dūhuì huàn nǚ péngyǒu.",
+            },
+            {
+                "english": "My leather shoes are old, I'd like to get a new pair.",
+                "chinese": "我的皮鞋旧了, 我想买一双新的.",
+                "pinyin": "",
+            },
+            {
+                "english": "He does not like the red one, he wants to swap with the white one.",
+                "chinese": "他不喜欢红色的, 他想换成白色的.",
+                "pinyin": "Tā bù xǐhuān hóngsè de, tā xiǎng huàn chéng báisè de.",
+            },
         ],
     },
 }
