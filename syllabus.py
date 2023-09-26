@@ -3980,10 +3980,15 @@ syllabus = {
                 "chinese": "他不喜欢红色的, 他想换成白色的.",
                 "pinyin": "Tā bù xǐhuān hóngsè de, tā xiǎng huàn chéng báisè de.",
             },
-             {
+            {
                 "english": "Sleeping late is not a good habit.",
                 "chinese": "很晚睡觉不是一个好习惯.",
                 "pinyin": "Hěn wǎn shuìjiào bùshì yīgè hǎo xíguàn.",
+            },
+            {
+                "english": "She is taking a shower now.",
+                "chinese": "她现在在洗澡.",
+                "pinyin": "Tā xiànzài zài xǐzǎo.",
             },
         ],
     },
