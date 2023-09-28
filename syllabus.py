@@ -3995,6 +3995,11 @@ syllabus = {
                 "chinese": "他总是在早上九点给我打电话.",
                 "pinyin": "Tā zǒng shì zài zǎoshang jiǔ diǎn gěi wǒ dǎ diànhuà.",
             },
+            {
+                "english": "Before eating, we have to wash our hands.",
+                "chinese": "我们吃饭以前, 要洗手.",
+                "pinyin": "Wǒmen chīfàn yǐqián, yào xǐshǒu.",
+            },
         ],
     },
 }
