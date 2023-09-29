@@ -4000,6 +4000,11 @@ syllabus = {
                 "chinese": "我们吃饭以前, 要洗手.",
                 "pinyin": "Wǒmen chīfàn yǐqián, yào xǐshǒu.",
             },
+            {
+                "english": "After he finishes eating, he will brush his teeth at once.",
+                "chinese": "他吃完饭, 会马上刷牙.",
+                "pinyin": "Tā chī wán fàn, huì mǎshàng shuāyá.",
+            },
         ],
     },
 }
