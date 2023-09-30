@@ -4005,6 +4005,11 @@ syllabus = {
                 "chinese": "他吃完饭, 会马上刷牙.",
                 "pinyin": "Tā chī wán fàn, huì mǎshàng shuāyá.",
             },
+            {
+                "english": "I like to sing and shower at the same time.",
+                "chinese": "我喜欢一边洗澡一边唱歌.",
+                "pinyin": "Wǒ xǐhuān yìbiān xǐzǎo yìbiān chànggē.",
+            },
         ],
     },
 }
