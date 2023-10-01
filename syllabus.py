@@ -4010,6 +4010,11 @@ syllabus = {
                 "chinese": "我喜欢一边洗澡一边唱歌.",
                 "pinyin": "Wǒ xǐhuān yìbiān xǐzǎo yìbiān chànggē.",
             },
+            {
+                "english": "She runs and listens to music at the same time.",
+                "chinese": "她一边跑步一边听音乐.",
+                "pinyin": "Tā yìbiān pǎobù yìbiān tīng yīnyuè.",
+            },
         ],
     },
 }
