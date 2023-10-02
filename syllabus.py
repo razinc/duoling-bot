@@ -4015,6 +4015,11 @@ syllabus = {
                 "chinese": "她一边跑步一边听音乐.",
                 "pinyin": "Tā yìbiān pǎobù yìbiān tīng yīnyuè.",
             },
+            {
+                "english": "My father brushes teeth and dances at the same time.",
+                "chinese": "我爸爸一边刷牙一边跳舞.",
+                "pinyin": "Wǒ bàba yìbiān shuāyá yìbiān tiàowǔ.",
+            },
         ],
     },
 }
