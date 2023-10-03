@@ -4020,6 +4020,11 @@ syllabus = {
                 "chinese": "我爸爸一边刷牙一边跳舞.",
                 "pinyin": "Wǒ bàba yìbiān shuāyá yìbiān tiàowǔ.",
             },
+            {
+                "english": "After eating, you must brush your teeth at once.",
+                "chinese": "吃完以后, 一定要马上刷牙.",
+                "pinyin": "Chī wán yǐhòu, yīdìng yào mǎshàng shuāyá.",
+            },
         ],
     },
 }
