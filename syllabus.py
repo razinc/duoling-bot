@@ -4025,6 +4025,11 @@ syllabus = {
                 "chinese": "吃完以后, 一定要马上刷牙.",
                 "pinyin": "Chī wán yǐhòu, yīdìng yào mǎshàng shuāyá.",
             },
+            {
+                "english": "I am not used to the weather here.",
+                "chinese": "我不习惯这里的天气.",
+                "pinyin": "Wǒ bù xíguàn zhèlǐ de tiānqì.",
+            },
         ],
     },
 }
