@@ -4030,6 +4030,11 @@ syllabus = {
                 "chinese": "我不习惯这里的天气.",
                 "pinyin": "Wǒ bù xíguàn zhèlǐ de tiānqì.",
             },
+            {
+                "english": "After we get off work tomorrow, let's watch a movie together.",
+                "chinese": "明天我们下班以后, 一起看电影吧.",
+                "pinyin": "Míngtiān wǒmen xiàbān yǐhòu, yīqǐ kàn diànyǐng ba.",
+            },
         ],
     },
 }
