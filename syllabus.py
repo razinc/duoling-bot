@@ -4035,6 +4035,11 @@ syllabus = {
                 "chinese": "明天我们下班以后, 一起看电影吧.",
                 "pinyin": "Míngtiān wǒmen xiàbān yǐhòu, yīqǐ kàn diànyǐng ba.",
             },
+            {
+                "english": "My habit is to brush my teeth three times a day.",
+                "chinese": "我的刷牙习惯是每天三次.",
+                "pinyin": "Wǒ de shuāyá xíguàn shì měitiān sāncì.",
+            },
         ],
     },
 }
