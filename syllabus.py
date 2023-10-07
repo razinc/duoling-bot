@@ -4040,6 +4040,11 @@ syllabus = {
                 "chinese": "我的刷牙习惯是每天三次.",
                 "pinyin": "Wǒ de shuāyá xíguàn shì měitiān sāncì.",
             },
+            {
+                "english": "I have not showered.",
+                "chinese": "我还没洗澡.",
+                "pinyin": "Wǒ hái méi xǐzǎo.",
+            },
         ],
     },
 }
