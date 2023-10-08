@@ -4045,6 +4045,11 @@ syllabus = {
                 "chinese": "我还没洗澡.",
                 "pinyin": "Wǒ hái méi xǐzǎo.",
             },
+            {
+                "english": "Why are you always looking at your phone?",
+                "chinese": "为什么你总是看手机?",
+                "pinyin": "Wèishéme nǐ zǒng shì kàn shǒujī?",
+            },
         ],
     },
 }
