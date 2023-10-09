@@ -4050,6 +4050,11 @@ syllabus = {
                 "chinese": "为什么你总是看手机?",
                 "pinyin": "Wèishéme nǐ zǒng shì kàn shǒujī?",
             },
+            {
+                "english": "I always go swimming on Saturdays.",
+                "chinese": "我总是在星期六去游泳",
+                "pinyin": "Wǒ zǒng shì zài xīngqíliù qù yóuyǒng.",
+            },
         ],
     },
 }
