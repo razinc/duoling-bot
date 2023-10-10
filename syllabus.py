@@ -4055,6 +4055,11 @@ syllabus = {
                 "chinese": "我总是在星期六去游泳",
                 "pinyin": "Wǒ zǒng shì zài xīngqíliù qù yóuyǒng.",
             },
+            {
+                "english": "My younger brother likes to shower and sing at the same time.",
+                "chinese": "我弟弟喜欢一边洗澡一边唱歌.",
+                "pinyin": "Wǒ dìdì xǐhuān yībiān xǐzǎo yībiān chànggē.",
+            },
         ],
     },
 }
