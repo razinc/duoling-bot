@@ -4060,6 +4060,11 @@ syllabus = {
                 "chinese": "我弟弟喜欢一边洗澡一边唱歌.",
                 "pinyin": "Wǒ dìdì xǐhuān yībiān xǐzǎo yībiān chànggē.",
             },
+            {
+                "english": "It is not a good habit to watch TV and eat at the same time.",
+                "chinese": "一边看电视一边吃饭不是好习惯.",
+                "pinyin": "Yībiān kàn diànshì yībiān chīfàn bùshì hǎo xíguàn.",
+            },
         ],
     },
 }
