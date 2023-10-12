@@ -4065,6 +4065,11 @@ syllabus = {
                 "chinese": "一边看电视一边吃饭不是好习惯.",
                 "pinyin": "Yībiān kàn diànshì yībiān chīfàn bùshì hǎo xíguàn.",
             },
+            {
+                "english": "I have a habit of running and listening to music at the same time.",
+                "chinese": "我习惯一边跑步一边听音乐.",
+                "pinyin": "Wǒ xíguàn yībiān pǎobù yībiān tīng yīnyuè.",
+            },
         ],
     },
 }
