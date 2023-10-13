@@ -4070,6 +4070,16 @@ syllabus = {
                 "chinese": "我习惯一边跑步一边听音乐.",
                 "pinyin": "Wǒ xíguàn yībiān pǎobù yībiān tīng yīnyuè.",
             },
+            {
+                "english": "Stop dreaming.",
+                "chinese": "别做梦了.",
+                "pinyin": "Bié zuòmèngle.",
+            },
+            {
+                "english": "Can dogs dream?",
+                "chinese": "狗会做梦吗?",
+                "pinyin": "Gǒu huì zuòmèng ma?",
+            },
         ],
     },
 }
