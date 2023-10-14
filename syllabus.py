@@ -4080,6 +4080,11 @@ syllabus = {
                 "chinese": "狗会做梦吗?",
                 "pinyin": "Gǒu huì zuòmèng ma?",
             },
+            {
+                "english": "I had a dream last night.",
+                "chinese": "我昨天晚上做梦了.",
+                "pinyin": "Wǒ zuótiān wǎnshàng zuòmèngle.",
+            },
         ],
     },
 }
