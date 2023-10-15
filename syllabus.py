@@ -4085,6 +4085,11 @@ syllabus = {
                 "chinese": "我昨天晚上做梦了.",
                 "pinyin": "Wǒ zuótiān wǎnshàng zuòmèngle.",
             },
+            {
+                "english": "What is she talking about?",
+                "chinese": "她在讲什么?",
+                "pinyin": "Tā zài jiǎng shénme?",
+            },
         ],
     },
 }
