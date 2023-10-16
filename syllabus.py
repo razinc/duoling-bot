@@ -4090,6 +4090,11 @@ syllabus = {
                 "chinese": "她在讲什么?",
                 "pinyin": "Tā zài jiǎng shénme?",
             },
+            {
+                "english": "This story isn't true.",
+                "chinese": "这个故事不是真的.",
+                "pinyin": "Zhège gùshì bùshì zhēn de.",
+            },
         ],
     },
 }
