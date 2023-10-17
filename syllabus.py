@@ -4095,6 +4095,11 @@ syllabus = {
                 "chinese": "这个故事不是真的.",
                 "pinyin": "Zhège gùshì bùshì zhēn de.",
             },
+            {
+                "english": "Can I tell you a story?",
+                "chinese": "我可以讲一个故事给你听吗?",
+                "pinyin": "Wǒ kěyǐ jiǎng yīgè gùshì gěi nǐ tīng ma?",
+            },
         ],
     },
 }
