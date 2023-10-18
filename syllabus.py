@@ -4100,6 +4100,11 @@ syllabus = {
                 "chinese": "我可以讲一个故事给你听吗?",
                 "pinyin": "Wǒ kěyǐ jiǎng yīgè gùshì gěi nǐ tīng ma?",
             },
+            {
+                "english": "Before the kids go to sleep, their father will tell them stories.",
+                "chinese": "孩子睡觉以前, 他们的爸爸会讲故事.",
+                "pinyin": "Háizi shuìjiào yǐqián, tāmen de bàba huì jiǎng gùshì.",
+            },
         ],
     },
 }
