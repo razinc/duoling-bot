@@ -4105,6 +4105,11 @@ syllabus = {
                 "chinese": "孩子睡觉以前, 他们的爸爸会讲故事.",
                 "pinyin": "Háizi shuìjiào yǐqián, tāmen de bàba huì jiǎng gùshì.",
             },
+            {
+                "english": "This is his previous girlfriend.",
+                "chinese": "这是他以前的女朋友.",
+                "pinyin": "Zhè shì tā yǐqián de nǚ péngyǒu.",
+            },
         ],
     },
 }
