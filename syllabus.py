@@ -4041,7 +4041,7 @@ syllabus = {
                 "pinyin": "Wǒ de shuāyá xíguàn shì měitiān sāncì.",
             },
             {
-                "english": "I have not showered.",
+                "english": "I still have not showered.",
                 "chinese": "我还没洗澡.",
                 "pinyin": "Wǒ hái méi xǐzǎo.",
             },
