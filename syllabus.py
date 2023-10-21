@@ -4110,6 +4110,16 @@ syllabus = {
                 "chinese": "这是他以前的女朋友.",
                 "pinyin": "Zhè shì tā yǐqián de nǚ péngyǒu.",
             },
+            {
+                "english": "You need to go to sleep at once.",
+                "chinese": "你需要马上睡觉.",
+                "pinyin": "Nǐ xūyào mǎshàng shuìjiào.",
+            },
+            {
+                "english": "I miss my older brother. I want to see him at once.",
+                "chinese": "我想我的哥哥, 想马上见他.",
+                "pinyin": "Wǒ xiǎng wǒ dí gēgē, xiǎng mǎshàng jiàn tā.",
+            },
         ],
     },
 }
