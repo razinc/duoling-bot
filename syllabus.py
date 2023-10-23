@@ -1572,4 +1572,200 @@ syllabus = {
             },
         ],
     },
+    "unit 20": {
+        "description": "Describe things around you, discuss sports.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/20",
+        "phrases": [
+            {
+                "english": "There are two bottles on the table.",
+                "chinese": "桌子上有两个瓶子.",
+                "pinyin": "Zhuōzi shàng yǒu liǎng gè píngzi.",
+            },
+            {
+                "english": "There is no water in the bottle.",
+                "chinese": "瓶子里没有水.",
+                "pinyin": "Píngzi lǐ méiyǒu shuǐ.",
+            },
+            {
+                "english": "What is in the bottle?.",
+                "chinese": "瓶子里有什么?",
+                "pinyin": "Píngzi lǐ yǒu shénme?",
+            },
+            {
+                "english": "Teacher Wang only wants a cup of coffee.",
+                "chinese": "王老师只要一杯咖啡.",
+                "pinyin": "Wáng lǎoshī zhǐyào yībēi kāfēi.",
+            },
+            {
+                "english": "There is a car next to her house.",
+                "chinese": "她的家旁边有一辆汽车.",
+                "pinyin": "Tā de jiā pángbiān yǒuyī liàng qìchē.",
+            },
+            {
+                "english": "Our photos are on the computer.",
+                "chinese": "电脑里有我们的照片.",
+                "pinyin": "Diànnǎo li yǒu wǒmen de zhàopiàn.",
+            },
+            {
+                "english": "There are no people in the office right now.",
+                "chinese": "现在办公室里没有人.",
+                "pinyin": "Xiànzài bàngōngshì lǐ méiyǒu rén.",
+            },
+            {
+                "english": "There are six birds in the tree.",
+                "chinese": "树上有六只鸟.",
+                "pinyin": "Shù shàng yǒu liù zhǐ niǎo.",
+            },
+            {
+                "english": "There are ten birds on top of the car right now.",
+                "chinese": "现在汽车上有十只鸟.",
+                "pinyin": "Xiànzài qìchē shàng yǒu shí zhǐ niǎo.",
+            },
+            {
+                "english": "There are also seven cats in the tree.",
+                "chinese": "树上也有七只猫.",
+                "pinyin": "Shù shàng yě yǒu qī zhǐ māo.",
+            },
+            {
+                "english": "There is a cute bird behind you.",
+                "chinese": "你的后面有一只可爱的鸟.",
+                "pinyin": "Nǐ de hòumiàn yǒu yī zhǐ kě ài de niǎo.",
+            },
+            {
+                "english": "Nine books, one table, ten birds.",
+                "chinese": "九本书, 一张桌子, 十只鸟.",
+                "pinyin": "Jiú běn shū, yì zhāng zhuōzi, shí zhī niǎo.",
+            },
+            {
+                "english": "There are two books on the table.",
+                "chinese": "桌子上有两本书.",
+                "pinyin": "Zhuōzi shàng yǒu liǎng běn shū.",
+            },
+            {
+                "english": "There is a taxi outside the hotel.",
+                "chinese": "酒店外有一辆出租车.",
+                "pinyin": "Jiǔdiàn wài yǒuyī liàng chūzū chē.",
+            },
+            {
+                "english": "There are one hundered books in our office.",
+                "chinese": "我们的办公室里有一百本书.",
+                "pinyin": "Wǒmen de bàngōngshì li yǒu yībǎi běn shū.",
+            },
+            {
+                "english": "There is a table in the room.",
+                "chinese": "在房间里有一张桌子.",
+                "pinyin": "Zài fángjiān li yǒuyī zhāng zhuōzi.",
+            },
+            {
+                "english": "His dad is German.",
+                "chinese": "他爸爸是德国人.",
+                "pinyin": "Tā bàba shì déguó rén.",
+            },
+            {
+                "english": "We went traveling in Germany in July last year.",
+                "chinese": "去年七月我们去了德国旅游.",
+                "pinyin": "Qùnián qī yuè wǒmen qùle déguó lǚyóu.",
+            },
+            {
+                "english": "His cat ate your banana.",
+                "chinese": "他的猫吃了你的香蕉.",
+                "pinyin": "Tā de māo chīle nǐ de xiāngjiāo.",
+            },
+            {
+                "english": "Do you like swimming?",
+                "chinese": "你喜欢游泳吗?",
+                "pinyin": "Nǐ xǐhuān yóuyǒng ma?",
+            },
+            {
+                "english": "My father and I play soccer on the weekend.",
+                "chinese": "周末我和爸爸踢足球.",
+                "pinyin": "Zhōumò wǒ hé bàba tī zúqiú.",
+            },
+            {
+                "english": "My older brother plays basketball pretty well.",
+                "chinese": "我的哥哥打篮球打得不错.",
+                "pinyin": "Wǒ de gēgē dǎ lánqiú dǎ dé bùcuò.",
+            },
+            {
+                "english": "Would you like to play basketball now?",
+                "chinese": "你现在想不想打篮球?",
+                "pinyin": "Nǐ xiànzài xiǎng bù xiǎng dǎ lánqiú ma?",
+            },
+            {
+                "english": "I played basketball with my teacher yesterday afternoon.",
+                "chinese": "昨天下午我和老师打篮球.",
+                "pinyin": "Zuótiān xiàwǔ wǒ hé lǎoshī dǎ lánqiú.",
+            },
+            {
+                "english": "What sport do you like the most?",
+                "chinese": "你最喜欢做什么运动?",
+                "pinyin": "Nǐ zuì xǐhuān zuò shénme yùndòng?",
+            },
+            {
+                "english": "I really like riding horses.",
+                "chinese": "我很喜欢骑马.",
+                "pinyin": "Wǒ hěn xǐhuān qímǎ.",
+            },
+            {
+                "english": "My younger sister enjoys horse riding.",
+                "chinese": "我的妹妹喜欢骑马.",
+                "pinyin": "Wǒ de mèimei xǐhuān qímǎ.",
+            },
+            {
+                "english": "They go riding for three hours every Wednesday.",
+                "chinese": "他们每星期三骑三个小时的马.",
+                "pinyin": "Tāmen měi xīngqísān qí sān gè xiǎoshí de mǎ",
+            },
+            {
+                "english": "What day of the week do you go running?",
+                "chinese": "你星期几去跑步?",
+                "pinyin": "Nǐ xīngqí jǐ qù pǎobù?",
+            },
+            {
+                "english": "Last Wednesday, I went running with my girlfriend.",
+                "chinese": "上个星期三, 我和女朋友跑步.",
+                "pinyin": "Shàng ge xīngqísān, wǒ hé nǚ péngyǒu pǎobù.",
+            },
+            {
+                "english": "Every Friday, I play soccer for two hours.",
+                "chinese": "每星期五我踢两个小时的足球.",
+                "pinyin": "Měi xīngqíwǔ wǒ tī liǎng ge xiǎoshí de zúqiú.",
+            },
+            {
+                "english": "Who plays soccer the best?",
+                "chinese": "谁踢足球最好?",
+                "pinyin": "Shéi tī zúqiú zuì hǎo?",
+            },
+            {
+                "english": "This morning, I ran for thirty minutes.",
+                "chinese": "早上我跑了三十分钟的步.",
+                "pinyin": "Zǎoshang wǒ pǎo le sānshí fēnzhōng de bù.",
+            },
+            {
+                "english": "She likes to run for half an hour every day.",
+                "chinese": "每天她喜欢跑半小时个的步.",
+                "pinyin": "Měitiān tā xǐhuān pǎo bàn gè xiǎoshí de bù.",
+            },
+            {
+                "english": "Today, he swam for one hour.",
+                "chinese": "今天他游了一个小时的泳.",
+                "pinyin": "Jīntiān tā yóu le yígè xiǎoshí de yǒng.",
+            },
+            {
+                "english": "He swims fast and runs slow.",
+                "chinese": "他游泳游得很快跑步很慢.",
+                "pinyin": "Tā yóuyǒng yóu dé hěn kuài pǎobù hěn màn.",
+            },
+            {
+                "english": "We swim for half an hour every day.",
+                "chinese": "每天我们游半个小时的泳.",
+                "pinyin": "Měitiān wǒmen yóu bàn gè xiǎoshí de yǒng.",
+            },
+            {
+                "english": "He doesn't play sports, he only likes to sleep.",
+                "chinese": "他不做运动, 只喜欢睡觉.",
+                "pinyin": "Tā bù zuò yùndòng, zhǐ xǐhuān shuìjiào.",
+            },
+        ],
+    },
 }
