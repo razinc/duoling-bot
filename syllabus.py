@@ -1768,4 +1768,230 @@ syllabus = {
             },
         ],
     },
+    "unit 21": {
+        "description": "Ask someone out, describe health issues.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/21",
+        "phrases": [
+            {
+                "english": "Let's go out and drink coffee on the weekend! I don't want to go out this weekend.",
+                "chinese": "我们周末出去喝咖啡吧! 我这个周末不想出去.",
+                "pinyin": "Wǒmen zhōumò chūqù hē kāfēi ba! Wǒ zhège zhōumò bùxiǎng chūqù!",
+            },
+            {
+                "english": "Are you free on Saturday?",
+                "chinese": "你星期六有空吗?",
+                "pinyin": "Nǐ xīngqíliù yǒu kòng ma?",
+            },
+            {
+                "english": "Sorry, we don't have time.",
+                "chinese": "对不起, 我们没有空.",
+                "pinyin": "Duìbùqǐ, wǒmen méiyǒu kōng.",
+            },
+            {
+                "english": "I'll tell you when I will be free.",
+                "chinese": "我会告诉你什么时候有空.",
+                "pinyin": "Wǒ huì gàosù nǐ shénme shíhòu yǒu kòng.",
+            },
+            {
+                "english": "I'm sorry, I need to go to the restroom.",
+                "chinese": "对不起，我需要去洗手间.",
+                "pinyin": "Duìbùqǐ, wǒ xūyào qù xǐshǒujiān.",
+            },
+            {
+                "english": "Do you have an appointment on Friday? I'm sorry, I have an appointment.",
+                "chinese": "星期五你有约会吗? 不好意思, 我有一个约会.",
+                "pinyin": "Xīngqíwǔ nǐ yǒu yuēhuì ma? Bù hǎoyìsi, wǒ yǒu yīgè yuēhuì.",
+            },
+            {
+                "english": "Let's watch a movie together next week.",
+                "chinese": "下个星期我们一起看电影吧.",
+                "pinyin": "Xià gè xīngqí wǒmen yīqǐ kàn diànyǐng ba.",
+            },
+            {
+                "english": "Why didn't you tell me?",
+                "chinese": "为什么你没有告诉我?",
+                "pinyin": "Wèishéme nǐ méiyǒu gàosu wǒ?",
+            },
+            {
+                "english": "Have you been to our shop? I have not been to your shop.",
+                "chinese": "你来过我们的商店吗? 我没去过你们的商店.",
+                "pinyin": "Nǐ lái guo wǒmen de shāngdiàn ma? Wǒ méi qù guo nǐmen de shāngdiàn.",
+            },
+            {
+                "english": "Have you been to his house?",
+                "chinese": "你去过他的家吗?",
+                "pinyin": "Nǐ qùguò tā de jiā ma?",
+            },
+            {
+                "english": "Have you been to this shop?",
+                "chinese": "你来过这家商店吗?",
+                "pinyin": "Nǐ lái guo zhè jiā shāngdiàn ma?",
+            },
+            {
+                "english": "That restaurant is romantic.",
+                "chinese": "那家饭馆很浪漫.",
+                "pinyin": "Nà jiā fànguǎn hěn làngmàn.",
+            },
+            {
+                "english": "I like romantic movies.",
+                "chinese": "我喜欢浪漫的电影.",
+                "pinyin": "Wǒ xǐhuān làngmàn de diànyǐng.",
+            },
+            {
+                "english": "I will call you.",
+                "chinese": "我会给你打电话.",
+                "pinyin": "Wǒ huì gěi nǐ dǎ diànhuà.",
+            },
+            {
+                "english": "I have not been to that Chinese restaurant.",
+                "chinese": "我没去过那家中国饭馆.",
+                "pinyin": "Wǒ méi qùguò nà jiā zhōngguó fànguǎn.",
+            },
+            {
+                "english": "Let's go travelling in Spain next year.",
+                "chinese": "我们明年去西班牙旅游吧.",
+                "pinyin": "Wǒmen míngnián qù xībānyá lǚyóu ba.",
+            },
+            {
+                "english": "Living here is comfortable.",
+                "chinese": "住在这里很舒服.",
+                "pinyin": "Zhù zài zhèlǐ hěn shūfú.",
+            },
+            {
+                "english": "I feel uncomfortable.",
+                "chinese": "我觉得不舒服.",
+                "pinyin": "Wǒ juédé bú shūfú.",
+            },
+            {
+                "english": "I am sick today.",
+                "chinese": "我今天生病了.",
+                "pinyin": "Wǒ jīntiān shēngbìngle.",
+            },
+            {
+                "english": "She is sick, so she eats little.",
+                "chinese": "她因为生病了, 所以吃得很少.",
+                "pinyin": "Tā yīn wéi shēngbìngle, suǒyǐ chī dé hěn shǎo.",
+            },
+            {
+                "english": "You are sick, do not go to work tomorrow.",
+                "chinese": "你生病了, 明天别去上班.",
+                "pinyin": "Nǐ shēngbìngle, míngtiān bié qù shàngbān.",
+            },
+            {
+                "english": "My daughter is feeling not so well.",
+                "chinese": "我的女儿觉得不太舒服.",
+                "pinyin": "Wǒ de nǚ'ér juédé bù tài shūfú.",
+            },
+            {
+                "english": "You should go to the doctor.",
+                "chinese": "你应该去看医生.",
+                "pinyin": "Nǐ yīnggāi qù kàn yīshēng.",
+            },
+            {
+                "english": "You should go home.",
+                "chinese": "你应该回家.",
+                "pinyin": "Nǐ yīnggāi huí jiā.",
+            },
+            {
+                "english": "Will you stay here?",
+                "chinese": "你会留在这里吗?",
+                "pinyin": "Nǐ huì liú zài zhèlǐ ma?",
+            },
+            {
+                "english": "Tomorrow I want to stay home and work.",
+                "chinese": "我明天想留在家工作.",
+                "pinyin": "Wǒ míngtiān xiǎng liú zài jiā gōngzuò.",
+            },
+            {
+                "english": "He has a headache and he needs to rest.",
+                "chinese": "他的头很疼, 需要休息.",
+                "pinyin": "Tā de tóu hěn téng, xūyào xiūxí.",
+            },
+            {
+                "english": "I have a headache.",
+                "chinese": "我觉得头疼.",
+                "pinyin": "Wǒ juédé tóuténg.",
+            },
+            {
+                "english": "I have a headache now, it must be a cold.",
+                "chinese": "现在我的头很疼，一定是感冒了.",
+                "pinyin": "Xiànzài wǒ de tóu hěn téng, yīdìng shì gǎnmàole.",
+            },
+            {
+                "english": "His stomach hurts, I don't know what he ate.",
+                "chinese": "他的肚子很疼, 我不知道他吃了什么.",
+                "pinyin": "Tā de dùzi hěn téng, wǒ bù zhīdào tā chīle shénme.",
+            },
+            {
+                "english": "I would like to take a break.",
+                "chinese": "我想休息一下.",
+                "pinyin": "Wǒ xiǎng xiūxí yīxià.",
+            },
+            {
+                "english": "You should go home and rest.",
+                "chinese": "你应该回家休息.",
+                "pinyin": "Nǐ yīnggāi huí jiā xiūxí.",
+            },
+            {
+                "english": "He caught a cold last week.",
+                "chinese": "上星期他感冒了.",
+                "pinyin": "Shàng xīngqí tā gǎnmàole.",
+            },
+            {
+                "english": "My older brother has a fever.",
+                "chinese": "我的哥哥发烧.",
+                "pinyin": "Wǒ de gēgē fāshāo.",
+            },
+            {
+                "english": "He has a fever and is resting at home.",
+                "chinese": "他发烧了, 在家休息.",
+                "pinyin": "Tā fāshāole, zàijiā xiūxí.",
+            },
+            {
+                "english": "Do you have a fever?",
+                "chinese": "你有没有发烧?",
+                "pinyin": "Nǐ yǒu méi yǒu fāshāo?",
+            },
+            {
+                "english": "You should take a day off tomorrow.",
+                "chinese": "你明天应该请假.",
+                "pinyin": "Nǐ míngtiān yìng gāi qǐngjià.",
+            },
+            {
+                "english": "My mom is going to ask for leave next week.",
+                "chinese": "我的妈妈下个星期会请假.",
+                "pinyin": "Wǒ de māmā xià gè xīngqí huì qǐngjià.",
+            },
+            {
+                "english": "I need to take a day off today.",
+                "chinese": "我今天要请假.",
+                "pinyin": "Wǒ jīntiān yào qǐngjià.",
+            },
+            {
+                "english": "I have a cold.",
+                "chinese": "我感冒了.",
+                "pinyin": "Wǒ gǎnmàole.",
+            },
+            {
+                "english": "That hospital is not good, do not go.",
+                "chinese": "那家医院不好，不要去.",
+                "pinyin": "Nà jiā yīyuàn bù hǎo, bù yào qù.",
+            },
+            {
+                "english": "You must help me.",
+                "chinese": "你一定要帮我.",
+                "pinyin": "Nǐ yīdìng yào bāng wǒ.",
+            },
+            {
+                "english": "My older sister does not want to stay at home.",
+                "chinese": "我的姐姐不要留在家里.",
+                "pinyin": "Wǒ de jiějiě bù yào liú zài jiālǐ.",
+            },
+            {
+                "english": "Do you need to take medicine? Yes, I need to take medicine three times a day.",
+                "chinese": "你需要吃药吗? 是的, 我一天需要吃三次药.",
+                "pinyin": "Nǐ xūyào chī yào ma? Shì de, wǒ yītiān xūyào chī sāncì yào.",
+            },
+        ],
+    },
 }
