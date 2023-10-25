@@ -1994,4 +1994,295 @@ syllabus = {
             },
         ],
     },
+    "unit 22": {
+        "description": "Invite friends over, chat over dinner.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/22",
+        "phrases": [
+            {
+                "english": "We have a party this Saturday. Is everyone going to this party?",
+                "chinese": "这个星期六我们有派对. 大家都会去这个派对吗?",
+                "pinyin": "Zhège xīngqíliù wǒmen yǒu pàiduì. Dàjiā dūhuì qù zhège pàiduì ma?",
+            },
+            {
+                "english": "Hello everyone.",
+                "chinese": "大家好.",
+                "pinyin": "Dàjiā hǎo.",
+            },
+            {
+                "english": "Everyone has arrived, where are you now? I am working right now.",
+                "chinese": "大家都到了, 你现在在哪儿? 我正在工作.",
+                "pinyin": "Dàjiā dōu dàole, nǐ xiànzài zài nǎ'er? Wǒ zhèngzài gōngzuò.",
+            },
+            {
+                "english": "What are you doing right now? I am eating lunch right now.",
+                "chinese": "你正在做什么? 我正在吃午饭",
+                "pinyin": "Nǐ zhèngzài zuò shénme? Wǒ zhèngzài chī wǔfàn.",
+            },
+            {
+                "english": "When is their party?",
+                "chinese": "他们的派对是什么时候?",
+                "pinyin": "Tāmen de pàiduì shì shénme shíhòu?",
+            },
+            {
+                "english": "I am going to a party so I need to dress up a bit.",
+                "chinese": "我会去一个派对, 所以我要打扮一下.",
+                "pinyin": "Wǒ huì qù yīgè pàiduì, suǒyǐ wǒ yào dǎbàn yīxià.",
+            },
+            {
+                "english": "She dressed up beautifully.",
+                "chinese": "她打扮得很漂亮.",
+                "pinyin": "Tā dǎbàn dé hěn piàoliang.",
+            },
+            {
+                "english": "Hope you can come with your wife.",
+                "chinese": "希望你能跟妻子一起来.",
+                "pinyin": "Xīwàng nǐ néng gēn qīzi yī qǐlái.",
+            },
+            {
+                "english": "Hope we can see each other soon.",
+                "chinese": "希望我们很快可以再见.",
+                "pinyin": "Xīwàng wǒmen hěn kuài kěyǐ zàijiàn.",
+            },
+            {
+                "english": "Hope you all can come to my party.",
+                "chinese": "希望你们都能来我的派对.",
+                "pinyin": "Xīwàng nǐmen dōu néng lái wǒ de pàiduì.",
+            },
+            {
+                "english": "Can you come to my birthday party? Yes, and can I come with my friend?",
+                "chinese": "你能来我的生日派对吗? 好, 我可以跟我的朋友一起来吗?",
+                "pinyin": "Nǐ néng lái wǒ de shēngrì pàiduì ma? Hǎo, wǒ kěyǐ gēn wǒ de péngyǒu yī qǐlái ma?",
+            },
+            {
+                "english": "There are too many people at the party.",
+                "chinese": "派对里有太多人了.",
+                "pinyin": "Pàiduì li yǒu tài duō rénle.",
+            },
+            {
+                "english": "When is his birthday?",
+                "chinese": "他的生日是什么时候?",
+                "pinyin": "Tā de shēngrì shì shénme shíhòu?",
+            },
+            {
+                "english": "My birthday is nineteenth June.",
+                "chinese": "我的生日是六月十九号.",
+                "pinyin": "Wǒ de shēngrì shì liù yuè shíjiǔ hào.",
+            },
+            {
+                "english": "I do not want to invite them to ride horses.",
+                "chinese": "我不想邀请他们去骑马.",
+                "pinyin": "Wǒ bùxiǎng yāoqǐng tāmen qù qímǎ.",
+            },
+            {
+                "english": "He invited me to dance last night.",
+                "chinese": "昨天晚上他请了我跳舞.",
+                "pinyin": "Zuótiān wǎnshàng tā qǐng le wǒ tiàowǔ.",
+            },
+            {
+                "english": "Sorry, I can't go to the U.S with you.",
+                "chinese": "对不起, 我不能一起去美国跟你.",
+                "pinyin": "Duìbùqǐ, wǒ bùnéng yīqǐ qù měiguó gēn nǐ.",
+            },
+            {
+                "english": "Why didn't you come to work yesterday?",
+                "chinese": "昨天为什么你没有来工作?",
+                "pinyin": "Zuótiān wèishéme nǐ méi yǒu lái gōngzuò?",
+            },
+            {
+                "english": "Would you be free tomorrow night to come to my home for dinner?",
+                "chinese": "明天晚上你有空来我家吃晚饭吗?",
+                "pinyin": "Míngtiān wǎnshàng nǐ yǒu kòng lái wǒjiā chī wǎnfàn ma?",
+            },
+            {
+                "english": "When will we go out to eat?",
+                "chinese": "我们什么时候出去吃饭?",
+                "pinyin": "Wǒmen shénme shíhòu chūqù chīfàn?",
+            },
+            {
+                "english": "When will they go to school?",
+                "chinese": "他们什么时候去上学?",
+                "pinyin": "Tāmen shénme shíhòu qù shàngxué?",
+            },
+            {
+                "english": "He didn't go out last Friday.",
+                "chinese": "上个星期五他没有出去.",
+                "pinyin": " Shàng gè xīngqíwǔ tā méiyǒu chūqù.",
+            },
+            {
+                "english": "I'd like to invite you to come to my place to eat lunch.",
+                "chinese": "我想请你们来我的家吃午饭.",
+                "pinyin": "Wǒ xiǎng qǐng nǐmen lái wǒ de jiā chī wǔfàn.",
+            },
+            {
+                "english": "When are we going to drink beer?",
+                "chinese": "我们什么时候去喝啤酒?",
+                "pinyin": "Wǒmen shénme shíhòu qù hē píjiǔ?",
+            },
+            {
+                "english": "We didn’t eat lunch until 4 p.m. in the afternoon.",
+                "chinese": "我们下午四点才吃午饭.",
+                "pinyin": "Wǒmen xiàwǔ sì diǎn cái chī wǔfàn.",
+            },
+            {
+                "english": "Let's go have lunch together.",
+                "chinese": "我们一起去吃午饭吧.",
+                "pinyin": "Wǒmen yīqǐ qù chī wǔfàn ba.",
+            },
+            {
+                "english": "Do not look.",
+                "chinese": "别看.",
+                "pinyin": "Bié kàn.",
+            },
+            {
+                "english": "Do not speak English.",
+                "chinese": "别说英语.",
+                "pinyin": "Bié shuō yīngyǔ.",
+            },
+            {
+                "english": "When are you going to call me?",
+                "chinese": "你什么时候给我打电话?",
+                "pinyin": "Nǐ shénme shíhòu gěi wǒ dǎ diànhuà?",
+            },
+            {
+                "english": "You won't call me.",
+                "chinese": "你们不会给我打电话.",
+                "pinyin": "Nǐmen bù huì gěi wǒ dǎ diànhuà.",
+            },
+            {
+                "english": "Have you read that book?",
+                "chinese": "你们看过那本书吗?",
+                "pinyin": "Nǐmen kàn guò nà běn shū ma?",
+            },
+            {
+                "english": "Do you have time to get a beer together?",
+                "chinese": "你有空一起去喝一杯啤酒吗?",
+                "pinyin": "Nǐ yǒu kōng yīqǐ qù hē yībēi píjiǔ ma?",
+            },
+            {
+                "english": "Do you have time this weekend?",
+                "chinese": "这个周末你有没有时间?",
+                "pinyin": "Zhège zhōumò nǐ yǒu méiyǒu shíjiān?",
+            },
+            {
+                "english": "Do you have time this afternoon?",
+                "chinese": "你今天下午有时间吗?",
+                "pinyin": "Nǐ jīntiān xiàwǔ yǒu shíjiān ma?",
+            },
+            {
+                "english": "What's your favorite dessert?",
+                "chinese": "你最喜欢的甜点是什么?",
+                "pinyin": "Nǐ zuì xǐhuān de tiándiǎn shì shénme?",
+            },
+            {
+                "english": "This watermelon is very tasty!",
+                "chinese": "这个西瓜真好吃!",
+                "pinyin": "Zhège xīguā zhēn hào chī!",
+            },
+            {
+                "english": "Today's dessert is chocolate.",
+                "chinese": "今天的甜点是巧克力.",
+                "pinyin": "Jīntiān de tiándiǎn shì qiǎokèlì.",
+            },
+            {
+                "english": "Do you like the taste of chocolate?",
+                "chinese": "你喜欢巧克力的味道吗?",
+                "pinyin": "Nǐ xǐhuān qiǎokèlì de wèidào ma?",
+            },
+            {
+                "english": "We already finished the dessert.",
+                "chinese": "我们已经吃完了甜点.",
+                "pinyin": "Wǒmen yǐjīng chī wánliǎo tiándiǎn.",
+            },
+            {
+                "english": "Do we give a tip?",
+                "chinese": "我们给不给小费?",
+                "pinyin": "Wǒmen gěi bù gěi xiǎofèi?",
+            },
+            {
+                "english": "How much should we tip?",
+                "chinese": "我们要给多少小费?",
+                "pinyin": "Wǒmen yào gěi duōshǎo xiǎofèi?",
+            },
+            {
+                "english": "Are you not hungry? No, I am very thirsty now!",
+                "chinese": "你不饿吗? 不, 我现在非常渴!",
+                "pinyin": "Nǐ bù è ma? Bù, wǒ xiànzài fēicháng kě.",
+            },
+            {
+                "english": "Please finish drinking your coffee.",
+                "chinese": "请喝完你的咖啡.",
+                "pinyin": "Qǐng hē wán nǐ de kāfēi.",
+            },
+            {
+                "english": "There is very little food at dinner.",
+                "chinese": "晚饭的菜真少.",
+                "pinyin": "Wǎnfàn de cài zhēn shǎo.",
+            },
+            {
+                "english": "Let us treat you!",
+                "chinese": "我们请你吧!",
+                "pinyin": "Wǒmen qǐng nǐ ba!",
+            },
+            {
+                "english": "He wants to treat us to dinner.",
+                "chinese": "他想请我们吃晚饭.",
+                "pinyin": "Tā xiǎng qǐng wǒmen chī wǎnfàn.",
+            },
+            {
+                "english": "They are already full.",
+                "chinese": "他们都已经很饱了.",
+                "pinyin": "Tāmen dōu yǐjīng hěn bǎole.",
+            },
+            {
+                "english": "I think the coffee there is the tastiest.",
+                "chinese": "我觉得那里的咖啡最好喝.",
+                "pinyin": "Wǒ juédé nàlǐ de kāfēi zuì hǎo hē.",
+            },
+            {
+                "english": "I don't know what flavor that is.",
+                "chinese": "我不知道那是什么味道.",
+                "pinyin": "Wǒ bù zhīdào nà shì shénme wèidào.",
+            },
+            {
+                "english": "What kind of alcohol is this? It's very tasty!",
+                "chinese": "这是什么酒? 真好喝!",
+                "pinyin": "Zhè shì shénme jiǔ? Zhēn hǎo hē!",
+            },
+            {
+                "english": "I like the taste of alcohol very much!",
+                "chinese": "我太喜欢酒的味道了!",
+                "pinyin": "Wǒ tài xǐhuān jiǔ de wèidàole!",
+            },
+            {
+                "english": "I would like to drink some alcohol.",
+                "chinese": "我想喝一点儿酒.",
+                "pinyin": "Wǒ xiǎng hè yīdiǎn er jiǔ.",
+            },
+            {
+                "english": "I think Beijing food is delicious.",
+                "chinese": "我觉得北京菜很好吃.",
+                "pinyin": "Wǒ juédé běijīng cài hěn hào chī.",
+            },
+            {
+                "english": "The cakes my mother makes are delicious.",
+                "chinese": "我妈妈做的蛋糕很好吃.",
+                "pinyin": "Wǒ māmā zuò de dàngāo hěn hào chī.",
+            },
+            {
+                "english": "This tea is good.",
+                "chinese": "这杯茶很好喝.",
+                "pinyin": "Zhè bēi chá hěn hǎo hē.",
+            },
+            {
+                "english": "I did not eat any food today, now I'm hungry.",
+                "chinese": "我今天没有吃饭, 现在很饿.",
+                "pinyin": "Wǒ jīntiān méiyǒu chīfàn, xiànzài hěn è.",
+            },
+            {
+                "english": "She is full, so she eats very little.",
+                "chinese": "她很饱,所以吃得非常少.",
+                "pinyin": "Tā hěn bǎo, suǒyǐ chī dé fēicháng shǎo.",
+            },
+        ],
+    },
 }
