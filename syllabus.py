@@ -2285,4 +2285,230 @@ syllabus = {
             },
         ],
     },
+    "unit 23": {
+        "description": "Shop for clothes, refer to body parts.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/23",
+        "phrases": [
+            {
+                "english": "Which pair of shoes would you like to buy? I want to buy that pair of Italian shoes.",
+                "chinese": "你想买哪双鞋子? 我想买那双意大利鞋子.",
+                "pinyin": "Nǐ xiǎng mǎi nǎ shuāng xiézi?Wǒ xiǎng mǎi nà shuāng yìdàlì xiézi.",
+            },
+            {
+                "english": "How many pairs of shoes do you have?",
+                "chinese": "你有几双鞋子?",
+                "pinyin": "Nǐ yǒu jǐ shuāng xiézi?",
+            },
+            {
+                "english": "Have you been to Italy?",
+                "chinese": "你去过意大利吗?",
+                "pinyin": "Nǐ qùguò yìdàlì ma?",
+            },
+            {
+                "english": "My friend is Italian.",
+                "chinese": "我的朋友是意大利人.",
+                "pinyin": "Wǒ de péngyǒu shì yìdàlì rén.",
+            },
+            {
+                "english": "Your shirt is very beautiful!",
+                "chinese": "你的衬衫非常漂亮!",
+                "pinyin": "Nǐ de chènshān fēicháng piàoliang!",
+            },
+            {
+                "english": "This shirt is more expensive than that shirt.",
+                "chinese": "这件衬衫比那件衬衫贵.",
+                "pinyin": "Zhè jiàn chènshān bǐ nà jiàn chènshān guì.",
+            },
+            {
+                "english": "You should buy this shirt.",
+                "chinese": "你应该买这件衬衫.",
+                "pinyin": "Nǐ yīnggāi mǎi zhè jiàn chènshān.",
+            },
+            {
+                "english": "This pair of pants isn't comfortable.",
+                "chinese": "这条裤子不舒服.",
+                "pinyin": "Zhè tiáo kùzi bú shūfú.",
+            },
+            {
+                "english": "This pair of blue pants looks good.",
+                "chinese": "这条蓝色的裤子很好看.",
+                "pinyin": "Zhè tiáo lán sè de kùzi hěn hǎokàn.",
+            },
+            {
+                "english": "She thinks thats store's clothes are not good quality.",
+                "chinese": "她觉得那家商店的衣服质量不好.",
+                "pinyin": "Tā juédé nà jiā shāngdiàn de yīfú zhìliàng bù hǎo.",
+            },
+            {
+                "english": "The shirt is good quality.",
+                "chinese": "这件衬衫的质量很好.",
+                "pinyin": "Zhè jiàn chènshān de zhìliàng hěn hǎo.",
+            },
+            {
+                "english": "She wants to try on this blue skirt.",
+                "chinese": "她想试试这条蓝裙子.",
+                "pinyin": "Tā xiǎng shì shì zhè tiáo lán qúnzi.",
+            },
+            {
+                "english": "I will try on that dress.",
+                "chinese": "我会试试那条裙子.",
+                "pinyin": "Wǒ huì shì shì nà tiáo qúnzi.",
+            },
+            {
+                "english": "What do you still want to buy?",
+                "chinese": "你还想买什么?",
+                "pinyin": "Nǐ hái xiǎng mǎi shénme?",
+            },
+            {
+                "english": "I still want to see that store.",
+                "chinese": "我还想看那家商店.",
+                "pinyin": "Wǒ hái xiǎng kàn nà jiā shāngdiàn.",
+            },
+            {
+                "english": "This pair is smaller than that pair.",
+                "chinese": "这双比那双小.",
+                "pinyin": "Zhè shuāng bǐ nà shuāng xiǎo.",
+            },
+            {
+                "english": "I think your shirt is too small.",
+                "chinese": "我觉得你的衬衫太小了.",
+                "pinyin": "Wǒ juédé nǐ de chènshān tài xiǎole.",
+            },
+            {
+                "english": "This shirt is too big.",
+                "chinese": "这件衬衫太大了.",
+                "pinyin": "Zhè jiàn chènshān tài dàle.",
+            },
+            {
+                "english": "These shoes are too small!",
+                "chinese": "这双鞋子太小了!",
+                "pinyin": "Zhè shuāng xiézi tài xiǎole!",
+            },
+            {
+                "english": "Two shirts, that dress, this pair of shoes.",
+                "chinese": "两件衬衫, 那条裙子, 这双鞋子.",
+                "pinyin": "Liǎng jiàn chènshān, nà tiáo qúnzi, zhè shuāng xiézi.",
+            },
+            {
+                "english": "Your dress is prettier than mine.",
+                "chinese": "你的裙子比我的漂亮.",
+                "pinyin": "Nǐ de qúnzi bǐ wǒ de piàoliang.",
+            },
+            {
+                "english": "She likes that blue dress.",
+                "chinese": "她喜欢那条蓝裙子.",
+                "pinyin": "Tā xǐhuān nà tiáo lán qúnzi.",
+            },
+            {
+                "english": "I just want this blue dress.",
+                "chinese": "我只要这条蓝裙子.",
+                "pinyin": "Wǒ zhǐyào zhè tiáo lán qúnzi.",
+            },
+            {
+                "english": "Excuse me, do you have a bigger one?",
+                "chinese": "请问, 你们有大一点儿的吗?",
+                "pinyin": "Qǐngwèn, nǐmen yǒu dà yīdiǎn er de ma?",
+            },
+            {
+                "english": "She has blue eyes.",
+                "chinese": "她有蓝色的眼睛.",
+                "pinyin": "Tā yǒu lán sè de yǎnjīng.",
+            },
+            {
+                "english": "There is something on your face.",
+                "chinese": "Nǐ de liǎn shàng yǒu dōngxī.",
+                "pinyin": "你的脸上有东西.",
+            },
+            {
+                "english": "My nose hurts.",
+                "chinese": "我的鼻子很疼.",
+                "pinyin": "Wǒ de bízi hěn téng.",
+            },
+            {
+                "english": "My hands are bigger than yours.",
+                "chinese": "我的手比你的大.",
+                "pinyin": "Wǒ de shǒu bǐ nǐ de dà.",
+            },
+            {
+                "english": "Her ears are small.",
+                "chinese": "她的耳朵很小.",
+                "pinyin": "Tā de ěrduǒ hěn xiǎo.",
+            },
+            {
+                "english": "Her hair is both black and nice.",
+                "chinese": "她的头发又黑又好看.",
+                "pinyin": "Tā de tóufǎ yòu hēi yòu hǎokàn.",
+            },
+            {
+                "english": "He has a cute face.",
+                "chinese": "他的脸很可爱.",
+                "pinyin": "Tā de liǎn hěn kě'ài.",
+            },
+            {
+                "english": "My dad doesn't have hair.",
+                "chinese": "我的爸爸没有头发.",
+                "pinyin": "Wǒ de bàba méiyǒu tóufǎ.",
+            },
+            {
+                "english": "His doctor is both tall and fat.",
+                "chinese": "他的医生又高又胖.",
+                "pinyin": "Tā de yīshēng yòu gāo yòu pàng.",
+            },
+            {
+                "english": "My girlfriend's eyes are both black and beautiful.",
+                "chinese": "我的女朋友的眼睛又黑又漂亮.",
+                "pinyin": "Wǒ de nǚ péngyǒu de yǎnjīng yòu hēi yòu piàoliang.",
+            },
+            {
+                "english": "Dad's hands are big.",
+                "chinese": "爸爸的手很大.",
+                "pinyin": "Bàba de shǒu hěn dà.",
+            },
+            {
+                "english": "He has a pair of green eyes.",
+                "chinese": "他有一双绿眼睛.",
+                "pinyin": "Tā yǒu yīshuāng lǜ yǎnjīng.",
+            },
+            {
+                "english": "My hands and feet both hurt a lot.",
+                "chinese": "我的手和脚都很疼.",
+                "pinyin": "Wǒ de shǒu hé jiǎo dōu hěn téng.",
+            },
+            {
+                "english": "Our dog has only one ear.",
+                "chinese": "我们的狗只有一只耳朵.",
+                "pinyin": "Wǒmen de gǒu zhǐyǒu yī zhǐ ěrduǒ.",
+            },
+            {
+                "english": "My younger sister's face is small.",
+                "chinese": "我的妹妹的脸很小.",
+                "pinyin": "Wǒ de mèimei de liǎn hěn xiǎo.",
+            },
+            {
+                "english": "My older sister has green hair.",
+                "chinese": "我的姐姐有绿头发.",
+                "pinyin": "Wǒ de jiějiě yǒu lǜ tóufǎ.",
+            },
+            {
+                "english": "There is a fish inside the mouth of that cat.",
+                "chinese": "那只猫的嘴巴里有一条鱼.",
+                "pinyin": "Nà zhǐ māo de zuǐbā li yǒu yītiáo yú.",
+            },
+            {
+                "english": "Our dog has green eyes.",
+                "chinese": "我们的狗有绿眼睛.",
+                "pinyin": "Wǒmen de gǒu yǒu lǜ yǎnjīng.",
+            },
+            {
+                "english": "I think my ears are big.",
+                "chinese": "我觉得我的耳朵很大.",
+                "pinyin": "Wǒ juédé wǒ de ěrduǒ hěn dà.",
+            },
+            {
+                "english": "Her hair is both black and beautiful.",
+                "chinese": "她的头发又黑又好看.",
+                "pinyin": "Tā de tóufǎ yòu hēi yòu hǎokàn.",
+            },
+        ],
+    },
 }
