@@ -2511,4 +2511,310 @@ syllabus = {
             },
         ],
     },
+    "unit 24": {
+        "description": "Discuss travel plans, talk about the weather.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/24",
+        "phrases": [
+            {
+                "english": "I will take the 9:30 p.m. flight to London.",
+                "chinese": "我会坐晚上九点半的飞机去伦敦.",
+                "pinyin": "Wǒ huì zuò wǎnshàng jiǔ diǎn bàn de fēijī qù lúndūn.",
+            },
+            {
+                "english": "Is the train station far away from the airport? It's not far, you can walk there.",
+                "chinese": "火车站离机场远不远? 不远，你可以走路去那里.",
+                "pinyin": "Huǒchē zhàn lí jīchǎng yuǎn bù yuǎn? Bù yuǎn, nǐ kěyǐ zǒulù qù nàlǐ.",
+            },
+            {
+                "english": "Have you bought the train ticket?",
+                "chinese": "你买了火车票吗?",
+                "pinyin": "Nǐ mǎile huǒchē piào ma?",
+            },
+            {
+                "english": "It only takes an hour and a half to drive there.",
+                "chinese": "开车去那儿只要一个半小时.",
+                "pinyin": "Kāichē qù nà'er zhǐyào yīgè bàn xiǎoshí.",
+            },
+            {
+                "english": "We need to get on the train now.",
+                "chinese": "我们现在要上火车.",
+                "pinyin": "Wǒmen xiànzài yào shàng huǒchē.",
+            },
+            {
+                "english": "Is the hospital far from here?",
+                "chinese": "医院离这里远吗?",
+                "pinyin": "Yīyuàn lí zhèlǐ yuǎn ma.",
+            },
+            {
+                "english": "His home is not close to the school.",
+                "chinese": "他的家离学校不近.",
+                "pinyin": "Tā de jiā lí xuéxiào bú jìn.",
+            },
+            {
+                "english": "Her office is very close to here.",
+                "chinese": "她的办公室离这里很近.",
+                "pinyin": "Tā de bàngōngshì lí zhèlǐ hěn jìn.",
+            },
+            {
+                "english": "The hotel is too far from the restaurant.",
+                "chinese": "酒店离饭馆太远了.",
+                "pinyin": "Jiǔdiàn lí fànguǎn tài yuǎn le.",
+            },
+            {
+                "english": "Let's get in the car quickly.",
+                "chinese": "快一点儿上车吧.",
+                "pinyin": "Kuài yīdiǎn er shàng chē ba.",
+            },
+            {
+                "english": "Please let me go together with you.",
+                "chinese": "请让我跟你一起去.",
+                "pinyin": "Qǐng ràng wǒ gēn nǐ yīqǐ qù.",
+            },
+            {
+                "english": "My company doesn't allow me to take leave.",
+                "chinese": "我的公司不让我请假.",
+                "pinyin": "Wǒ de gōngsī bù ràng wǒ qǐngjià.",
+            },
+            {
+                "english": "We are now close to the hotel.",
+                "chinese": "我们现在离酒店很近.",
+                "pinyin": "Wǒmen xiànzài lí jiǔdiàn hěn jìn.",
+            },
+            {
+                "english": "Is the airport far from here?",
+                "chinese": "机场离这里远吗?",
+                "pinyin": "Jīchǎng lí zhèlǐ yuǎn ma?",
+            },
+            {
+                "english": "I didn't sleep on the plane.",
+                "chinese": "我在飞机上没有睡觉.",
+                "pinyin": "Wǒ zài fēijī shàng méiyǒu shuìjiào.",
+            },
+            {
+                "english": "Don't get close to me.",
+                "chinese": "别靠近我.",
+                "pinyin": "Bié kàojìn wǒ.",
+            },
+            {
+                "english": "I drive to the company every day.",
+                "chinese": "我每天开车去公司.",
+                "pinyin": "Wǒ měitiān kāichē qù gōngsī.",
+            },
+            {
+                "english": "Stop the car!",
+                "chinese": "停车!",
+                "pinyin": "Tíngchē!",
+            },
+            {
+                "english": "I am tired, I don't want to walk.",
+                "chinese": "我很累, 不想走路.",
+                "pinyin": "Wǒ hěn lèi, bùxiǎng zǒulù.",
+            },
+            {
+                "english": "She already bought the plane ticket.",
+                "chinese": "她已经买了机票.",
+                "pinyin": "Tā yǐjīng mǎile jīpiào.",
+            },
+            {
+                "english": "The plane ticket to Italy is too expensive!",
+                "chinese": "去意大利的机票太贵了!",
+                "pinyin": "Qù yìdàlì de jīpiào tài guìle!",
+            },
+            {
+                "english": "You need to walk to come here.",
+                "chinese": "你们得走路来这儿.",
+                "pinyin": "Nǐmen dé zǒulù lái zhè'er.",
+            },
+            {
+                "english": "I am going to Beijing next month, I need to buy the plane ticket now.",
+                "chinese": "下个月我要去北京, 现在得买机票.",
+                "pinyin": "Xià gè yuè wǒ yào qù běijīng, xiànzài dé mǎi jīpiào.",
+            },
+            {
+                "english": "We need to buy the train tickets.",
+                "chinese": "我们得买火车票.",
+                "pinyin": "Wǒmen dé mǎi huǒchē piào.",
+            },
+            {
+                "english": "You must not be late.",
+                "chinese": "你们一定不可以迟到.",
+                "pinyin": "Nǐmen yīdìng bù kěyǐ chídào.",
+            },
+            {
+                "english": "We are late, what should we do?",
+                "chinese": "我们迟到了, 怎么办?",
+                "pinyin": "Wǒmen chídàole, zěnme bàn?",
+            },
+            {
+                "english": "We arrived late, they did not allow us to board the plane.",
+                "chinese": "我们迟到了, 他们不让我们上飞机.",
+                "pinyin": "Wǒmen chídàole, tāmen bù ràng wǒmen shàng fēijī.",
+            },
+            {
+                "english": "In China, car drive on the right side.",
+                "chinese": "在中国, 汽车靠右边开.",
+                "pinyin": "Zài zhōngguó, qìchē kào yòubiān kāi.",
+            },
+            {
+                "english": "Is the train station far from the airport?",
+                "chinese": "火车站离机场远不远?",
+                "pinyin": "Huǒchē zhàn lí jīchǎng yuǎn bù yuǎn?",
+            },
+            {
+                "english": "How is the weather in Shanghai? It never snows here.",
+                "chinese": "上海的天气怎么样? 这里从来不下雪.",
+                "pinyin": "Shànghǎi de tiānqì zěnme yàng? Zhèlǐ cónglái bu xià xuě.",
+            },
+            {
+                "english": "It's raining outside, take an umbrella when you go out.",
+                "chinese": "外面下着雨, 你出去要带伞.",
+                "pinyin": "Wàimiàn xiàzhe yǔ, nǐ chūqù yào dài sǎn.",
+            },
+            {
+                "english": "It is cold outside.",
+                "chinese": "外面很冷.",
+                "pinyin": "Wàimiàn hěn lěng.",
+            },
+            {
+                "english": "Tomorrow will be cloudy.",
+                "chinese": "明天是阴天.",
+                "pinyin": "Míngtiān shì yīn tiān.",
+            },
+            {
+                "english": "It's very windy now.",
+                "chinese": "现在的风很大.",
+                "pinyin": "Xiànzài de fēng hěn dà.",
+            },
+            {
+                "english": "When it snows, it is beautiful here.",
+                "chinese": "下雪的时候, 这里很漂亮.",
+                "pinyin": "Xià xuě de shíhou, zhèlǐ hěn piàoliang.",
+            },
+            {
+                "english": "When it's cloudy, I like reading books at home.",
+                "chinese": "阴天的时候, 我喜欢在家看书.",
+                "pinyin": "Yīn tiān de shíhou, wǒ xǐhuān zàijiā kànshū.",
+            },
+            {
+                "english": "It's snowing outside. Don't go out to play.",
+                "chinese": "外面下着雪, 别出去玩.",
+                "pinyin": "Wàimiàn xià zhe xuě. bié chūqù wán.",
+            },
+            {
+                "english": "How cold will it be tomorrow?",
+                "chinese": "明天会有多冷?",
+                "pinyin": "Míngtiān huì yǒu duō lěng?",
+            },
+            {
+                "english": "The weather here is nice.",
+                "chinese": "这里的天气很好.",
+                "pinyin": "Zhèlǐ de tiānqì hěn hǎo.",
+            },
+            {
+                "english": "Today's weather is not cold.",
+                "chinese": "今天的天气不冷.",
+                "pinyin": "Jīntiān de tiānqì bù lěng.",
+            },
+            {
+                "english": "It was sunny in Beijing yesterday.",
+                "chinese": "北京昨天是晴天.",
+                "pinyin": "Běijīng zuótiān shì qíngtiān.",
+            },
+            {
+                "english": "It's sunny today, let's go out to play!",
+                "chinese": "今天是晴天, 我们出去玩吧!",
+                "pinyin": "Jīntiān shì qíngtiān, wǒmen chūqù wán ba!",
+            },
+            {
+                "english": "Do you think tomorrow will be a sunny day?",
+                "chinese": "你觉得明天会是晴天吗?",
+                "pinyin": "Nǐ juédé míngtiān huì shì qíngtiān ma?",
+            },
+            {
+                "english": "He likes singing in the rain.",
+                "chinese": "他喜欢在雨里唱歌.",
+                "pinyin": "Tā xǐhuān zài yǔ lǐ chànggē.",
+            },
+            {
+                "english": "It's raining now!",
+                "chinese": "现在下雨了!",
+                "pinyin": "Xiànzài xià yǔle!",
+            },
+            {
+                "english": "We don't like cloudy days.",
+                "chinese": "我们不喜欢阴天.",
+                "pinyin": "Wǒmen bù xǐhuān yīn tiān.",
+            },
+            {
+                "english": "It didn't snow last week.",
+                "chinese": "上星期没有下雪.",
+                "pinyin": "Shàng xīngqí méiyǒu xià xuě.",
+            },
+            {
+                "english": "Did you bring an umbrella?",
+                "chinese": "你有带伞吗?",
+                "pinyin": "Nǐ yǒu dài sǎn ma?",
+            },
+            {
+                "english": "There is no rain right now, we don't need to bring an umbrella.",
+                "chinese": "现在没有雨, 我们不需要带伞.",
+                "pinyin": "Xiànzài méiyǒu yǔ, wǒmen bù xūyào dài sǎn.",
+            },
+            {
+                "english": "It is very windy outside.",
+                "chinese": "外面刮着风.",
+                "pinyin": "Wàimiàn guāzhe fēng.",
+            },
+            {
+                "english": "It will be windy this afternoon.",
+                "chinese": "今天下午会刮风.",
+                "pinyin": "Jīntiān xiàwǔ huì guā fēng.",
+            },
+            {
+                "english": "It may rain this weekend.",
+                "chinese": "周末可能下雨.",
+                "pinyin": "Zhōumò kěnéng xià yǔ.",
+            },
+            {
+                "english": "It will be very windy tomorrow.",
+                "chinese": "明天会刮大风.",
+                "pinyin": "Míngtiān huì guā dàfēng.",
+            },
+            {
+                "english": "It may snow tomorrow.",
+                "chinese": "明天可能会下雪.",
+                "pinyin": "Míngtiān kěnéng huì xià xuě.",
+            },
+            {
+                "english": "If it rains tomorrow, then we won't go out.",
+                "chinese": "如果明天下雨, 我们就不出去.",
+                "pinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bù chūqù..",
+            },
+            {
+                "english": "The weather is nice here.",
+                "chinese": "这里的天气很好.",
+                "pinyin": "Zhèlǐ de tiānqì hěn hǎo.",
+            },
+            {
+                "english": "If it snows on the weekend, then we watch a movie at home.",
+                "chinese": "如果周末下雪, 我们就在家看电影.",
+                "pinyin": "Rúguǒ zhōumò xià xuě, wǒmen jiù zàijiā kàn diànyǐng.",
+            },
+            {
+                "english": "Is tomorrow going to be colder than today?",
+                "chinese": "明天比今天冷吗?",
+                "pinyin": "Míngtiān bǐ jīntiān lěng ma?",
+            },
+            {
+                "english": "It rained last week.",
+                "chinese": "上星期下了雨.",
+                "pinyin": "Shàng xīngqí xiàle yǔ.",
+            },
+            {
+                "english": "The snow yesterday was heavy, we both didn't not go to work.",
+                "chinese": "昨天的雪很大, 我们都没有上班.",
+                "pinyin": "Zuótiān de xuě hěn dà, wǒmen dōu méiyǒu shàngbān.",
+            },
+        ],
+    },
 }
