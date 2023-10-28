@@ -2817,4 +2817,170 @@ syllabus = {
             },
         ],
     },
+    "unit 25": {
+        "description": "Refer to colors, describe people.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/25",
+        "phrases": [
+            {
+                "english": "I don't like the yellow one, I like the white one.",
+                "chinese": "我不喜欢黄的, 我喜欢白的.",
+                "pinyin": "Wǒ bù xǐhuān huáng de, wǒ xǐhuān bái de.",
+            },
+            {
+                "english": "She likes this pair of red shoes.",
+                "chinese": "她喜欢这双红色的鞋子.",
+                "pinyin": "Tā xǐhuān zhè shuāng hóngsè de xiézi.",
+            },
+            {
+                "english": "He doesn't look good in yellow clothes.",
+                "chinese": "他穿黄色的衣服不好看.",
+                "pinyin": "Tā chuān huángsè de yīfú bù hǎokàn.",
+            },
+            {
+                "english": "What colors look good on me?",
+                "chinese": "我穿什么颜色好看?",
+                "pinyin": "Wǒ chuān shénme yánsè hǎokàn?",
+            },
+            {
+                "english": "White clothes are difficult to wash.",
+                "chinese": "白色的衣服很难洗.",
+                "pinyin": "Báisè de yīfú hěn nán xǐ.",
+            },
+            {
+                "english": "Your hat is really pretty!",
+                "chinese": "你的帽子真漂亮!",
+                "pinyin": "Nǐ de màozi zhēn piàoliang!",
+            },
+            {
+                "english": "Although that pair of pants is cheap, but they are not comfortable.",
+                "chinese": "虽然那条裤子很便宜, 但是不舒服.",
+                "pinyin": "Suīrán nà tiáo kùzi hěn piányí, dànshì bú shūfú.",
+            },
+            {
+                "english": "His face turned red.",
+                "chinese": "他的脸红了.",
+                "pinyin": "Tā de liǎnhóngle.",
+            },
+            {
+                "english": "What is this color?",
+                "chinese": "这是什么颜色?",
+                "pinyin": "Zhè shì shénme yánsè?",
+            },
+            {
+                "english": "You look the prettiest in red clothes.",
+                "chinese": "你穿红色的衣服最漂亮.",
+                "pinyin": "Nǐ chuān hóngsè de yīfú zuì piàoliang.",
+            },
+            {
+                "english": "This pair of white shoes is both beautiful and cheap.",
+                "chinese": "这双白色的鞋子又漂亮又便宜.",
+                "pinyin": "Zhè shuāng báisè de xiézi yòu piàoliang yòu piányí.",
+            },
+            {
+                "english": "That pair of yellow shoes is mine.",
+                "chinese": "那双黄色的鞋子是我的.",
+                "pinyin": "Nà shuāng huángsè de xiézi shì wǒ de.",
+            },
+            {
+                "english": "This dress needs to be hand washed.",
+                "chinese": "这条裙子要用手洗.",
+                "pinyin": "Zhè tiáo qúnzi yào yòng shǒuxǐ.",
+            },
+            {
+                "english": "I don't want to wash clothes today.",
+                "chinese": "今天我不想洗衣服.",
+                "pinyin": "Jīntiān wǒ bùxiǎng xǐ yīfú.",
+            },
+            {
+                "english": "I think purple looks the best.",
+                "chinese": "我觉得紫色最好看.",
+                "pinyin": "Wǒ juédé zǐsè zuì hǎo kàn.",
+            },
+            {
+                "english": "I really like that purple dress!",
+                "chinese": "我真喜欢那条紫色的裙子!",
+                "pinyin": "Wǒ zhēn xǐhuān nà tiáo zǐsè de qúnzi!",
+            },
+            {
+                "english": "What is your favorite color?",
+                "chinese": "你最喜欢什么颜色?",
+                "pinyin": "Nǐ zuì xǐhuān shénme yánsè?",
+            },
+            {
+                "english": "Let me introduce you, this is my best friend.",
+                "chinese": "我给你介绍, 这是我最好的朋友.",
+                "pinyin": "Wǒ gěi nǐ jièshào, zhè shì wǒ zuì hǎo de péngyǒu.",
+            },
+            {
+                "english": "He is tall and handsome.",
+                "chinese": "他又高又帅.",
+                "pinyin": "Tā yòu gāo yòu shuài.",
+            },
+            {
+                "english": "My older sister is not only smart, but also beautiful.",
+                "chinese": "我的姐姐不但聪明, 而且漂亮.",
+                "pinyin": "Wǒ de jiějiě bùdàn cōngmíng, érqiě piàoliang.",
+            },
+            {
+                "english": "Although he doesn't like to talk, he likes to smile.",
+                "chinese": "虽然他不喜欢说话, 但是喜欢笑.",
+                "pinyin": "Suīrán tā bù xǐhuān shuōhuà, dànshì xǐhuān xiào.",
+            },
+            {
+                "english": "What are you laughing at?",
+                "chinese": "你们在笑什么?",
+                "pinyin": "Nǐmen zài xiào shénme?",
+            },
+            {
+                "english": "Your friend is handsome. Can you introduce him to me?",
+                "chinese": "你的朋友很帅. 可以给我介绍吗?",
+                "pinyin": "Nǐ de péngyǒu hěn shuài. Kěyǐ gěi wǒ jièshào ma?",
+            },
+            {
+                "english": "Let me introduce you to my best friend.",
+                "chinese": "我给你介绍, 这是我最好的朋友.",
+                "pinyin": "Wǒ gěi nǐ jièshào, zhè shì wǒ zuì hǎo de péngyǒu.",
+            },
+            {
+                "english": "He is handsome, but not a good person.",
+                "chinese": "他很帅, 但是不是一个好人.",
+                "pinyin": "Tā hěn shuài, dànshì bùshì yīgè hǎorén.",
+            },
+            {
+                "english": "You don't need to introduce us, I know her.",
+                "chinese": "你不需要介绍，我认识她.",
+                "pinyin": "Nǐ bù xūyào jièshào, wǒ rènshí tā.",
+            },
+            {
+                "english": "They love talking.",
+                "chinese": "他们很喜欢说话.",
+                "pinyin": "Tāmen hěn xǐhuān shuōhuà.",
+            },
+            {
+                "english": "She enjoys helping others.",
+                "chinese": "她喜欢帮助别人.",
+                "pinyin": "Tā xǐhuān bāngzhù biérén.",
+            },
+            {
+                "english": "How can we be better than other people?",
+                "chinese": "我们怎么样可以比别人好?",
+                "pinyin": "Wǒmen zěnme yàng kěyǐ bǐ biérén hǎo?",
+            },
+            {
+                "english": "He is not only handsome, but also smart.",
+                "chinese": "他不但帅，而且聪明.",
+                "pinyin": "Tā bùdàn shuài, érqiě cōngmíng.",
+            },
+            {
+                "english": "My younger brother is not only tall, but also handsome.",
+                "chinese": "我的弟弟不但高, 而且很帅.",
+                "pinyin": "Wǒ de dìdì bùdàn gāo, érqiě hěn shuài.",
+            },
+            {
+                "english": "I have a smart little bird, it can dance.",
+                "chinese": "我有一只聪明的小鸟, 它会跳舞.",
+                "pinyin": "Wǒ yǒuyī zhǐ cōngmíng de xiǎo niǎo, tā huì tiàowǔ.",
+            },
+        ],
+    },
 }
