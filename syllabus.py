@@ -2983,4 +2983,265 @@ syllabus = {
             },
         ],
     },
+    "unit 26": {
+        "description": "Talk about festivities, discuss sport events.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/26",
+        "phrases": [
+            {
+                "english": "Happy New Year!",
+                "chinese": "新年快乐!",
+                "pinyin": "Xīnnián kuàilè!",
+            },
+            {
+                "english": "Cheers! Happy birthday!",
+                "chinese": "干杯! 生日快乐!",
+                "pinyin": "Gānbēi! Shēngrì kuàilè!",
+            },
+            {
+                "english": "What gift should we give to her?",
+                "chinese": "我们要送什么礼物给她?",
+                "pinyin": "Wǒmen yào sòng shénme lǐwù gěi tā?",
+            },
+            {
+                "english": "Spring Festival is the biggest festival in China.",
+                "chinese": "春节是中国最大的节日.",
+                "pinyin": "Chūnjié shì zhōngguó zuìdà de jiérì.",
+            },
+            {
+                "english": "Will you come to our New Year's party?",
+                "chinese": "你会来我们的新年派对吗?",
+                "pinyin": "Nǐ huì lái wǒmen de xīnnián pàiduì ma?",
+            },
+            {
+                "english": "I want to buy a bottle of French red wine to give to him.",
+                "chinese": "我想买一瓶法国红酒送给他.",
+                "pinyin": "Wǒ xiǎng mǎi yì píng fǎguó hóngjiǔ sòng gěi tā.",
+            },
+            {
+                "english": "We gave a gift to her.",
+                "chinese": "我们送了礼物给她.",
+                "pinyin": "Wǒmen sòng le lǐwù gěi tā.",
+            },
+            {
+                "english": "I think red wine is healthier than beer.",
+                "chinese": "我觉得红酒比啤酒健康.",
+                "pinyin": "Wǒ juédé hóngjiǔ bǐ píjiǔ jiànkāng.",
+            },
+            {
+                "english": "He drank three bottles of Baiju, and he is sleeping now.",
+                "chinese": "他喝了三瓶白酒, 现在正在睡觉.",
+                "pinyin": "Tā hēle sānpíng báijiǔ, xiànzài zhèngzài shuìjiào.",
+            },
+            {
+                "english": "I brought two bottles of Baiju.",
+                "chinese": "我带了两瓶中国白酒.",
+                "pinyin": "Wǒ dàile liǎng píng zhōngguó báijiǔ.",
+            },
+            {
+                "english": "Do you like drinking red wine?",
+                "chinese": "你喜欢喝红酒吗?",
+                "pinyin": "Nǐ xǐhuān hē hóngjiǔ ma?",
+            },
+            {
+                "english": "What is tomorrow festival?",
+                "chinese": "明天是什么节日?",
+                "pinyin": "明天是什么节日?",
+            },
+            {
+                "english": "Cheers! Happy New Year!",
+                "chinese": "干杯! 新年快乐!",
+                "pinyin": "Gānbēi! Xīnnián kuàilè!",
+            },
+            {
+                "english": "What is this year Spring Festival date?",
+                "chinese": "今年春节是几月几号?",
+                "pinyin": "Jīnnián chūnjié shì jǐ yuè jǐ hào?",
+            },
+            {
+                "english": "How do Chinese people spend New Year's?",
+                "chinese": "中国人怎么过新年?",
+                "pinyin": "Zhōngguó rén zěnmeguò xīnnián?",
+            },
+            {
+                "english": "What give cannot be given to Chinese people?",
+                "chinese": "什么礼物不能送给中国人?",
+                "pinyin": "Shénme lǐwù bùnéng sòng gěi zhōngguó rén?",
+            },
+            {
+                "english": "I cannot celebrate Chinese New Year with my family this year.",
+                "chinese": "今年春节我不能跟家人一起过.",
+                "pinyin": "Jīnnián chūnjié wǒ bùnéng gēn jiārén yīqǐguò.",
+            },
+            {
+                "english": "Cheers! Let's drink a little more!",
+                "chinese": "干杯! 多喝一点儿!",
+                "pinyin": "Gānbēi! Duō hè yīdiǎn er!",
+            },
+            {
+                "english": "Happy New Year everyone!",
+                "chinese": "祝大家新年快乐!",
+                "pinyin": "Zhù dàjiā xīnnián kuàilè!",
+            },
+            {
+                "english": "Happy birthday to you!",
+                "chinese": "祝你生日快乐!",
+                "pinyin": "Zhù nǐ shēngrì kuàilè!",
+            },
+            {
+                "english": "How will you celebrate your birthday this year?",
+                "chinese": "今年生日你会怎么过?",
+                "pinyin": "Jīnnián shēngrì nǐ huì zěnmeguò?",
+            },
+            {
+                "english": "Will you come to our New Year's party?",
+                "chinese": "你会来我们的新年派对吗?",
+                "pinyin": "Nǐ huì lái wǒmen de xīnnián pàiduì ma?",
+            },
+            {
+                "english": "In the afternoon we are going to the shop to buy a gift.",
+                "chinese": "下午我们去商店买礼物.",
+                "pinyin": "Xiàwǔ wǒmen qù shāngdiàn mǎi lǐwù.",
+            },
+            {
+                "english": "Chinese people like to wear red clothes during Spring Festival.",
+                "chinese": "中国人在春节喜欢穿红的衣服.",
+                "pinyin": "Zhōngguó rén zài chūnjié xǐhuān chuān hóng de yīfú.",
+            },
+            {
+                "english": "Happy holidays!",
+                "chinese": "节日快乐!",
+                "pinyin": "Jiérì kuàilè!",
+            },
+            {
+                "english": "Your birthday is coming up! What gift would you like?",
+                "chinese": "你的生日快到了! 你想要什么礼物?",
+                "pinyin": "Nǐ de shēngrì kuài dàole! Nǐ xiǎng yào shénme lǐwù?",
+            },
+            {
+                "english": "Happy birthday!",
+                "chinese": "生日快乐!",
+                "pinyin": "Shēngrì kuàilè!",
+            },
+            {
+                "english": "The game is about to start!",
+                "chinese": "比赛快要开始了!",
+                "pinyin": "Bǐsài kuàiyào kāishǐle!",
+            },
+            {
+                "english": "I know we won't lose!",
+                "chinese": "我知道我们不会输!",
+                "pinyin": "Wǒ zhīdào wǒmen bù huì shū!",
+            },
+            {
+                "english": "Come on! You need to be confident!",
+                "chinese": "加油! 你要有信心!",
+                "pinyin": "Jiāyóu! Nǐ yào yǒu xìnxīn!",
+            },
+            {
+                "english": "This weekend she has a table tennis match.",
+                "chinese": "这个周末她有乒乓球比赛.",
+                "pinyin": "Zhège zhōumò tā yǒu pīngpāng qiú bǐsài.",
+            },
+            {
+                "english": "He is going to take part in a basketball competition next year.",
+                "chinese": "他明年要参加篮球比赛.",
+                "pinyin": "Tā míngnián yào cānjiā lánqiú bǐsài.",
+            },
+            {
+                "english": "I want to play tennis, but I caught a cold.",
+                "chinese": "我要打网球, 但是我感冒了.",
+                "pinyin": "Wǒ yào dǎ wǎngqiú, dànshì wǒ gǎnmàole.",
+            },
+            {
+                "english": "My friend can play tennis and can also play volleyball.",
+                "chinese": "我的朋友会打网球, 也会打排球.",
+                "pinyin": "Wǒ de péngyǒu huì dǎ wǎngqiú, yě huì dǎ páiqiú.",
+            },
+            {
+                "english": "I hope you will not be disappointed.",
+                "chinese": "我希望你不会失望.",
+                "pinyin": "Wǒ xīwàng nǐ bù huì shīwàng.",
+            },
+            {
+                "english": "My little sister and I play table tennis every day.",
+                "chinese": "我和我的妹妹每天玩乒乓球.",
+                "pinyin": "Wǒ hé wǒ de mèimei měitiān wán pīngpāng qiú.",
+            },
+            {
+                "english": "We practiced for two months.",
+                "chinese": "我们练习了两个月.",
+                "pinyin": "Wǒmen liànxíle liǎng gè yuè.",
+            },
+            {
+                "english": "We are confident we will win this game.",
+                "chinese": "我们有信心会赢这个比赛.",
+                "pinyin": "Wǒmen yǒu xìnxīn huì yíng zhège bǐsài.",
+            },
+            {
+                "english": "We have a match next month, we need to practice every day now.",
+                "chinese": "我们下个月有比赛, 现在每天要练习.",
+                "pinyin": "Wǒmen xià gè yuè yǒu bǐsài, xiànzài měitiān yào liànxí.",
+            },
+            {
+                "english": "Today we have a match, luckily it is not raining.",
+                "chinese": "今天我们有比赛, 好在没有下雨.",
+                "pinyin": "Jīntiān wǒmen yǒu bǐsài, hǎo zài méiyǒu xià yǔ",
+            },
+            {
+                "english": "I am tired because I played volleyball yesterday.",
+                "chinese": "我很累因为昨天我打了排球.",
+                "pinyin": "Wǒ hěn lèi yīnwèi zuótiān wǒ dǎle páiqiú.",
+            },
+            {
+                "english": "This is my first time taking part in a soccer match.",
+                "chinese": "这是我第一次参加足球比赛.",
+                "pinyin": "Zhè shì wǒ dì yī cì cānjiā zúqiú bǐsài.",
+            },
+            {
+                "english": "Come on, faster!",
+                "chinese": "加油, 快一点儿!",
+                "pinyin": "Jiāyóu, kuài yīdiǎn er!",
+            },
+            {
+                "english": "Do you have time to play tennis?",
+                "chinese": "你有时间打网球吗?",
+                "pinyin": "Nǐ yǒu shíjiān dǎ wǎngqiú ma?",
+            },
+            {
+                "english": "Don't be disappointed, you will win next time!",
+                "chinese": "不要失望, 你下次会赢!",
+                "pinyin": "Bùyào shīwàng, nǐ xià cì huì yíng!",
+            },
+            {
+                "english": "Come on, there's a minute left!",
+                "chinese": "加油, 还有一分钟!",
+                "pinyin": "Jiāyóu, hái yǒu yī fēnzhōng!",
+            },
+            {
+                "english": "Come on!",
+                "chinese": "加油!",
+                "pinyin": "Jiāyóu!",
+            },
+            {
+                "english": "What time does the swimming competition begin?",
+                "chinese": "游泳比赛几点开始?",
+                "pinyin": "Yóuyǒng bǐsài jǐ diǎn kāishǐ?",
+            },
+            {
+                "english": "They lost, I am very disappointed.",
+                "chinese": "他们输了, 我非常失望.",
+                "pinyin": "Tāmen shūle, wǒ fēicháng shīwàng.",
+            },
+            {
+                "english": "My friend lost.",
+                "chinese": "我的朋友输了.",
+                "pinyin": "Wǒ de péngyǒu shūle.",
+            },
+            {
+                "english": "Playing volleyball is my favorite sport.",
+                "chinese": "打排球是我最喜欢的运动.",
+                "pinyin": "Dǎ páiqiú shì wǒ zuì xǐhuān de yùndòng.",
+            },
+        ],
+    },
 }
