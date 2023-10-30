@@ -3244,4 +3244,315 @@ syllabus = {
             },
         ],
     },
+    "unit 27": {
+        "description": "Communicate at school, refer to family members.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/27",
+        "phrases": [
+            {
+                "english": "Excuse me, do you have a pen? I don't have a pen.",
+                "chinese": "请问, 你有没有笔? 我没有笔.",
+                "pinyin": "Qǐngwèn, nǐ yǒu méiyǒu bǐ? Wǒ méiyǒu bǐ.",
+            },
+            {
+                "english": "How many questions are there on the Chinese exam this time?",
+                "chinese": "这次中文考试有多少题?",
+                "pinyin": "Zhè cì zhōngwén kǎoshì yǒu duōshǎo tí?",
+            },
+            {
+                "english": "Excuse me, where's our classroom?",
+                "chinese": "请问, 我们的教室在哪儿?",
+                "pinyin": "Qǐngwèn, wǒmen de jiàoshì zài nǎ'er?",
+            },
+            {
+                "english": "Do you know those classmates?",
+                "chinese": "你认识那些同学吗?",
+                "pinyin": "Nǐ rènshí nàxiē tóngxué ma?",
+            },
+            {
+                "english": "Will you attend class tomorrow?",
+                "chinese": "你明天会上课吗?",
+                "pinyin": "Nǐ míngtiān huì shàngkè ma?",
+            },
+            {
+                "english": "What time does class end?",
+                "chinese": "什么时候下课?",
+                "pinyin": "Shénme shíhòu xiàkè?",
+            },
+            {
+                "english": "We have already finished class.",
+                "chinese": "我们已经下课了.",
+                "pinyin": "Wǒmen yǐjīng xiàkèle.",
+            },
+            {
+                "english": "Who is our science teacher this year?",
+                "chinese": "我们今年的科学老师是谁?",
+                "pinyin": "Wǒmen jīnnián de kēxué lǎoshī shì shéi?",
+            },
+            {
+                "english": "Geography is difficult, there are a lot of things I don't understand.",
+                "chinese": "地理很难, 我不明白的东西很多.",
+                "pinyin": "Dìlǐ hěn nán, wǒ bù míngbái de dōngxī hěnduō.",
+            },
+            {
+                "english": "We will have an English test next Friday.",
+                "chinese": "我们下星期五会有英语考试.",
+                "pinyin": "Wǒmen xià xīngqíwǔ huì yǒu yīngyǔ kǎoshì.",
+            },
+            {
+                "english": "I didn't prepare.",
+                "chinese": "我没有准备.",
+                "pinyin": "Wǒ méiyǒu zhǔnbèi.",
+            },
+            {
+                "english": "There are altogether fifteen questions on the test.",
+                "chinese": "考试一共有十五题.",
+                "pinyin": "Kǎoshì yīgòng yǒu shíwǔ tí.",
+            },
+            {
+                "english": "She is my Chinese class classmate.",
+                "chinese": "她是我的中文课的同学.",
+                "pinyin": "Tā shì wǒ de zhōngwén kè de tóngxué.",
+            },
+            {
+                "english": "Among my classmates, there are five boys and six girls.",
+                "chinese": "我的同学里有五个男孩子, 六个女孩子.",
+                "pinyin": "Wǒ de tóngxué li yǒu wǔ gè nán háizi, liù gè nǚ háizi.",
+            },
+            {
+                "english": "I am sick, so I cannot attend class.",
+                "chinese": "我生病了, 所以我不能上课.",
+                "pinyin": "Wǒ shēngbìngle, suǒyǐ wǒ bùnéng shàngkè.",
+            },
+            {
+                "english": "We don't understand what we read.",
+                "chinese": "我们看不懂.",
+                "pinyin": "Wǒmen kàn bù dǒng.",
+            },
+            {
+                "english": "I don't have class tomorrow afternoon.",
+                "chinese": "明天下午我没有课.",
+                "pinyin": "Míngtiān xiàwǔ wǒ méiyǒu kè.",
+            },
+            {
+                "english": "Your classroom is next to mine.",
+                "chinese": "你的教室在我的旁边.",
+                "pinyin": "Nǐ de jiàoshì zài wǒ de pángbiān.",
+            },
+            {
+                "english": "Science tests are hard.",
+                "chinese": "科学考试很难.",
+                "pinyin": "Kēxué kǎoshì hěn nán.",
+            },
+            {
+                "english": "Tomorrow I have geography class.",
+                "chinese": "我明天有地理课.",
+                "pinyin": "Wǒ míngtiān yǒu dìlǐ kè.",
+            },
+            {
+                "english": "The exam is coming up! We need to start preparing.",
+                "chinese": "快要考试了! 我们要开始准备.",
+                "pinyin": "Kuàiyào kǎoshìle! Wǒmen yào kāishǐ zhǔnbèi.",
+            },
+            {
+                "english": "Sorry, I have a question.",
+                "chinese": "对不起, 我有问题.",
+                "pinyin": "Duìbùqǐ, wǒ yǒu wèntí.",
+            },
+            {
+                "english": "I don't understand this question.",
+                "chinese": "我不明白这个问题.",
+                "pinyin": "Wǒ bù míngbái zhège wèntí.",
+            },
+            {
+                "english": "Whose pen is this?",
+                "chinese": "这是谁的笔?",
+                "pinyin": "Zhè shì shéi de bǐ?",
+            },
+            {
+                "english": "This student really likes geography.",
+                "chinese": "这个学生很喜欢地理.",
+                "pinyin": "Zhège xuéshēng hěn xǐhuān dìlǐ.",
+            },
+            {
+                "english": "Teacher, what time does the class end?",
+                "chinese": "老师, 什么时候下课?",
+                "pinyin": "Lǎoshī, shénme shíhòu xiàkè",
+            },
+            {
+                "english": "Why is there nobody in the classroom?",
+                "chinese": "为什么教室里没有人?",
+                "pinyin": "Wèishéme jiàoshì lǐ méiyǒu rén?",
+            },
+            {
+                "english": "I like art class the most.",
+                "chinese": "我最喜欢美术课.",
+                "pinyin": "Wǒ zuì xǐhuān měishù kè",
+            },
+            {
+                "english": "Are you ready?",
+                "chinese": "你准备好了吗?",
+                "pinyin": "Nǐ zhǔnbèi hǎole ma?",
+            },
+            {
+                "english": "I want to go to the bathroom, I hope the class ends soon!",
+                "chinese": "我想去洗手间, 希望快一点儿下课!",
+                "pinyin": "Wǒ xiǎng qù xǐshǒujiān, xīwàng kuài yīdiǎn er xiàkè!",
+            },
+            {
+                "english": "If you have questions, please call me.",
+                "chinese": "如果你有问题, 请给我打电话.",
+                "pinyin": "Rúguǒ nǐ yǒu wèntí, qǐng gěi wǒ dǎ diànhuà.",
+            },
+            {
+                "english": "Every students needs to attend science class.",
+                "chinese": "每个学生需要上科学课.",
+                "pinyin": "Měi gè xuéshēng xūyào shàng kēxué kè.",
+            },
+            {
+                "english": "Do you understand what the teacher is saying?",
+                "chinese": "你懂老师在说什么吗?",
+                "pinyin": "Nǐ dǒng lǎoshī zài shuō shénme ma?",
+            },
+            {
+                "english": "I can't attend the art class tomorrow.",
+                "chinese": "我明天不能上美术课.",
+                "pinyin": "Wǒ míngtiān bùnéng shàng měishù kè.",
+            },
+            {
+                "english": "This question is difficult.",
+                "chinese": "这个问题很难.",
+                "pinyin": "Zhège wèntí hěn nán.",
+            },
+            {
+                "english": "What time is our Chinese class?",
+                "chinese": "我们几点有汉语课?",
+                "pinyin": "Wǒmen jǐ diǎn yǒu hànyǔ kè?",
+            },
+            {
+                "english": "My grandpa and grandma live in Beijing.",
+                "chinese": "我爷爷和奶奶住在北京.",
+                "pinyin": "Wǒ yéyé hé nǎinai zhù zài běijīng.",
+            },
+            {
+                "english": "My aunt is smart, she is a teacher.",
+                "chinese": "我阿姨很聪明, 她是老师.",
+                "pinyin": "Wǒ āyí hěn cōngmíng, tā shì lǎoshī.",
+            },
+            {
+                "english": "How many siblings do you have?",
+                "chinese": "你有几个兄弟姐妹?",
+                "pinyin": "Nǐ yǒu jǐ gè xiōngdì jiěmèi?",
+            },
+            {
+                "english": "Today is my uncle's birthday.",
+                "chinese": "今天是我叔叔的生日.",
+                "pinyin": "Jīntiān shì wǒ shūshu de shēngrì.",
+            },
+            {
+                "english": "Today is my uncle's birthday.",
+                "chinese": "今天是我叔叔的生日.",
+                "pinyin": "Jīntiān shì wǒ shūshu de shēngrì.",
+            },
+            {
+                "english": "How is your relationship with your parents?",
+                "chinese": "你和你父母的关系怎么样?",
+                "pinyin": "Nǐ hé nǐ fùmǔ de guānxì zěnme yàng?",
+            },
+            {
+                "english": "We have many relatives.",
+                "chinese": "我们有很多亲戚.",
+                "pinyin": "Wǒmen yǒu hěnduō qīnqī.",
+            },
+            {
+                "english": "My older brother's eyes are like our father's.",
+                "chinese": "我哥哥的眼睛像我们爸爸的一样.",
+                "pinyin": "Wǒ gēge de yǎnjīng xiàng wǒmen bàba de yíyàng.",
+            },
+            {
+                "english": "Is that person your uncle?",
+                "chinese": "那个人是不是你叔叔?",
+                "pinyin": "Nàgè rén shì bùshì nǐ shūshu?",
+            },
+            {
+                "english": "My grandfather can speak English.",
+                "chinese": "我爷爷会说英语.",
+                "pinyin": "Wǒ yéyé huì shuō yīngyǔ.",
+            },
+            {
+                "english": "My uncle is a good doctor.",
+                "chinese": "我叔叔是一个很好的医生.",
+                "pinyin": "Wǒ shūshu shì yīgè hěn hǎo de yīshēng.",
+            },
+            {
+                "english": "I have three siblings altogether.",
+                "chinese": "我一共有三个兄弟姐妹.",
+                "pinyin": "Wǒ yīgòng yǒu sān gè xiōngdì jiěmèi.",
+            },
+            {
+                "english": "We will go home to see our parents next week.",
+                "chinese": "我们下星期回家看我们父母.",
+                "pinyin": "Wǒmen xià xīngqí huí jiā kàn wǒmen fùmǔ.",
+            },
+            {
+                "english": "My parents live in the US.",
+                "chinese": "我父母住在美国.",
+                "pinyin": "Wǒ fùmǔ zhù zài měiguó.",
+            },
+            {
+                "english": "My grandma reads the newspaper every day.",
+                "chinese": "我奶奶每天看报纸.",
+                "pinyin": "Wǒ nǎinai měitiān kàn bàozhǐ.",
+            },
+            {
+                "english": "My younger brother is like our mother, he likes wearing yellow clothes.",
+                "chinese": "我弟弟像妈妈一样, 喜欢穿黄衣服.",
+                "pinyin": "Wǒ dìdì xiàng māmā yīyàng, xǐhuān chuān huáng yīfú.",
+            },
+            {
+                "english": "My aunt is going to the US on Saturday evening.",
+                "chinese": "我阿姨星期六晚上会去美国.",
+                "pinyin": "Wǒ āyí xīngqíliù wǎnshàng huì qù měiguó.",
+            },
+            {
+                "english": "Do you have any siblings?",
+                "chinese": "你有没有兄弟姐妹?",
+                "pinyin": "Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+            },
+            {
+                "english": "All our relatives live in Canada.",
+                "chinese": "我们亲戚都住在加拿大.",
+                "pinyin": "Wǒmen qīnqī dōu zhù zài jiānádà.",
+            },
+            {
+                "english": "I ate dinner together with my aunt yesterday.",
+                "chinese": "昨天我和我阿姨一起吃晚饭.",
+                "pinyin": "Zuótiān wǒ hé wǒ āyí yīqǐ chī wǎnfàn.",
+            },
+            {
+                "english": "Do you have a lot of relatives?",
+                "chinese": "你有很多亲戚吗?",
+                "pinyin": "Nǐ yǒu hěnduō qīnqī ma?",
+            },
+            {
+                "english": "My relationship with him is not very good now.",
+                "chinese": "我跟他的关系现在不太好.",
+                "pinyin": "Wǒ gēn tā de guānxì xiànzài bù tài hǎo.",
+            },
+            {
+                "english": "Grandma came to our house this weekend.",
+                "chinese": "奶奶这个周末来了我们家.",
+                "pinyin": "Nǎinai zhège zhōumò láile wǒmen jiā.",
+            },
+            {
+                "english": "I have a good relationship with my friend.",
+                "chinese": "我跟我朋友的关系很好.",
+                "pinyin": "Wǒ gēn wǒ péngyǒu de guānxì hěn hǎo.",
+            },
+            {
+                "english": "My grandpa doesn't have hair.",
+                "chinese": "我爷爷没有头发.",
+                "pinyin": "Wǒ yéyé méiyǒu tóufǎ.",
+            },
+        ],
+    },
 }
