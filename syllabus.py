@@ -3555,4 +3555,225 @@ syllabus = {
             },
         ],
     },
+    "unit 28": {
+        "description": "Discuss Chinese food, talk about seasons.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/28",
+        "phrases": [
+            {
+                "english": "There are meat, vegetables, and fish in the hot pot.",
+                "chinese": "火锅里有肉, 菜和鱼.",
+                "pinyin": "Huǒguō li yǒu ròu, cài hé yú.",
+            },
+            {
+                "english": "Is the dim sum in Hong Kong good?",
+                "chinese": "香港的点心好吃吗?",
+                "pinyin": "Xiānggǎng de diǎnxīn hào chī ma?",
+            },
+            {
+                "english": "Do you like to eat porridge in the morning?",
+                "chinese": "你早上喜欢吃粥吗?",
+                "pinyin": "Nǐ zǎoshang xǐhuān chī zhōu ma?",
+            },
+            {
+                "english": "Would you like to eat hot pot or fried rice?",
+                "chinese": "你想吃火锅还是炒饭?",
+                "pinyin": "Nǐ xiǎng chī huǒguō háishì chǎofàn?",
+            },
+            {
+                "english": "What is inside this bun?",
+                "chinese": "这个包子里有什么?",
+                "pinyin": "Zhège bāozi li yǒu shé me?",
+            },
+            {
+                "english": "Is soy milk really healthy?",
+                "chinese": "豆浆真的健康吗?",
+                "pinyin": "Dòujiāng zhēn de jiànkāng ma?",
+            },
+            {
+                "english": "Which Shanghainese restaurant has the tastiest steamed pork dumplings?",
+                "chinese": "哪家上海饭馆的小笼包最好吃?",
+                "pinyin": "Nǎ jiā shànghǎi fànguǎn de xiǎolóngbāo zuì hào chī?",
+            },
+            {
+                "english": "I can't drink milk, but I can drink soy milk.",
+                "chinese": "我不可以喝牛奶, 但是可以喝豆浆.",
+                "pinyin": "Wǒ bù kěyǐ hē niúnǎi, dànshì kěyǐ hē dòujiāng.",
+            },
+            {
+                "english": "Have you eaten a deep-fried dough stick before?",
+                "chinese": "你吃过油条吗?",
+                "pinyin": "Nǐ chīguò yóutiáo ma?",
+            },
+            {
+                "english": "Do you know which restaurant sells soup dumplings?",
+                "chinese": "你知道哪家饭馆卖小笼包吗?",
+                "pinyin": "Nǐ zhīdào nǎ jiā fànguǎn mài xiǎo lóng bāo ma?",
+            },
+            {
+                "english": "The beef ramen here is the tastiest.",
+                "chinese": "这里的牛肉拉面最好吃.",
+                "pinyin": "Zhèlǐ de niúròu lāmiàn zuì hào chī.",
+            },
+            {
+                "english": "What kind of dim sum do you love?",
+                "chinese": "你爱吃什么点心?",
+                "pinyin": "Nǐ ài chī shénme diǎnxīn?",
+            },
+            {
+                "english": "It is cold, we want to eat hot pot.",
+                "chinese": "天气很冷, 我们想吃火锅.",
+                "pinyin": "Tiānqì hěn lěng, wǒmen xiǎng chī huǒguō.",
+            },
+            {
+                "english": "They love eating Japanese ramen.",
+                "chinese": "她们爱吃日本拉面.",
+                "pinyin": "Tāmen ài chī rìběn lāmiàn.",
+            },
+            {
+                "english": "The bun is hot, I will eat it later.",
+                "chinese": "包子很热, 我等一会儿吃.",
+                "pinyin": "Bāozi hěn rè, wǒ děng yīhuǐ'er chī.",
+            },
+            {
+                "english": "The dim sum from that restaurant is not only tasty, but also inexpensive.",
+                "chinese": "那家饭馆的点心不但好吃, 而且不贵.",
+                "pinyin": "Nà jiā fànguǎn de diǎnxīn bùdàn hào chī, érqiě bù guì.",
+            },
+            {
+                "english": "Can you make fried rice?",
+                "chinese": "你会做炒饭吗?",
+                "pinyin": "Nǐ huì zuò chǎofàn ma?",
+            },
+            {
+                "english": "They have never eaten a deep-fried dough stick.",
+                "chinese": "他们没有吃过油条.",
+                "pinyin": "Tāmen méiyǒu chīguò yóutiáo.",
+            },
+            {
+                "english": "My dad has caught a cold, he wants to eat porridge.",
+                "chinese": "爸爸感冒了, 想吃粥.",
+                "pinyin": "Bàba gǎnmàole, xiǎng chī zhōu.",
+            },
+            {
+                "english": "This bowl of porridge is too hot.",
+                "chinese": "这碗粥太热了.",
+                "pinyin": "Zhè wǎn zhōu tài rèle.",
+            },
+            {
+                "english": "There is a meat in the bun.",
+                "chinese": "包子里有肉.",
+                "pinyin": "Bāozi li yǒu ròu.",
+            },
+            {
+                "english": "I would like to try the soy milk here.",
+                "chinese": "我想试试这里的豆浆.",
+                "pinyin": "Wǒ xiǎng shì shì zhèlǐ de dòujiāng.",
+            },
+            {
+                "english": "Did you know that Spanish cuisine also has deep fried dough sticks?",
+                "chinese": "你知道西班牙菜里也有油条吗?",
+                "pinyin": "Nǐ zhīdào xībānyá cài lǐ yěyǒu yóutiáo ma?",
+            },
+            {
+                "english": "You must try the fried rice here.",
+                "chinese": "你们一定要试试这里的炒饭.",
+                "pinyin": "Nǐmen yīdìng yào shì shì zhèlǐ de chǎofàn.",
+            },
+            {
+                "english": "My little sister likes to eat soup dumplings.",
+                "chinese": "我的妹妹喜欢吃小笼包.",
+                "pinyin": "Wǒ de mèimei xǐhuān chī xiǎo lóng bāo.",
+            },
+            {
+                "english": "Do you like eating Chinese ramen or Japanese ramen?",
+                "chinese": "你喜欢吃中国拉面还是日本拉面?",
+                "pinyin": "Nǐ xǐhuān chī zhōngguó lāmiàn háishì rìběn lāmiàn?",
+            },
+            {
+                "english": "Every year has four seasons.",
+                "chinese": "每年有四个季节.",
+                "pinyin": "Měinián yǒu sì gè jìjié.",
+            },
+            {
+                "english": "What's your favorite season?",
+                "chinese": "你最喜欢什么季节?",
+                "pinyin": "Nǐ zuì xǐhuān shénme jìjié?",
+            },
+            {
+                "english": "She came to Beijing last fall.",
+                "chinese": "她去年秋天来了北京.",
+                "pinyin": "Tā qùnián qiūtiān láile běijīng.",
+            },
+            {
+                "english": "December in Australia is summer.",
+                "chinese": "十二月在澳大利亚是夏天.",
+                "pinyin": "Shí'èr yuè zài àodàlìyǎ shì xiàtiān.",
+            },
+            {
+                "english": "It is hot during the summer in Shanghai.",
+                "chinese": "上海的夏天很热.",
+                "pinyin": "Shànghǎi de xiàtiān hěn rè.",
+            },
+            {
+                "english": "He will go to Japan in two weeks..",
+                "chinese": "他两个星期后会去日本.",
+                "pinyin": "Tā liǎng gè xīngqí hòu huì qù rìběn.",
+            },
+            {
+                "english": "It was spring last year that they went to London.",
+                "chinese": "他们是去年春天去伦敦的.",
+                "pinyin": "Tāmen shì qùnián chūntiān qù lúndūn de.",
+            },
+            {
+                "english": "Winter is arriving soon!",
+                "chinese": "冬天快到了!",
+                "pinyin": "Dōngtiān kuài dàole!",
+            },
+            {
+                "english": "Does it snow here in winter?",
+                "chinese": "这里在冬天下雪吗?",
+                "pinyin": "Zhèlǐ zài dōngtiān xià xuě ma?",
+            },
+            {
+                "english": "Spring is the prettiest.",
+                "chinese": "春天最漂亮.",
+                "pinyin": "Chūntiān zuì piàoliang.",
+            },
+            {
+                "english": "It is neither cold nor hot in fall.",
+                "chinese": "秋天不冷也不热.",
+                "pinyin": "Qiūtiān bù lěng yě bù rè.",
+            },
+            {
+                "english": "My family and I all like fall.",
+                "chinese": "我和我的家人都喜欢秋天.",
+                "pinyin": "Wǒ hé wǒ de jiārén dōu xǐhuān qiūtiān.",
+            },
+            {
+                "english": "Do you like winter?",
+                "chinese": "你喜欢冬天吗?",
+                "pinyin": "Nǐ xǐhuān dōngtiān ma?",
+            },
+            {
+                "english": "It's now getting colder, winter is here.",
+                "chinese": "现在越来越冷, 冬天来了.",
+                "pinyin": "Xiànzài yuè lái yuè lěng, dōngtiān láile.",
+            },
+            {
+                "english": "We do not go to school in the summer.",
+                "chinese": "我们夏天不上学.",
+                "pinyin": "Wǒmen xiàtiān bù shàngxué.",
+            },
+            {
+                "english": "What is the best season to go to Taiwan?",
+                "chinese": "哪个季节去台湾最好?",
+                "pinyin": "Nǎge jìjié qù táiwān zuì hǎo?",
+            },
+            {
+                "english": "It will probably snow tomorrow.",
+                "chinese": "明天大概会下雪.",
+                "pinyin": "Míngtiān dàgài huì xià xuě.",
+            },
+        ],
+    },
 }
