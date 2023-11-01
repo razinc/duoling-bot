@@ -3776,4 +3776,190 @@ syllabus = {
             },
         ],
     },
+    "unit 29": {
+        "description": "Describe places, ask for a refund.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/29",
+        "phrases": [
+            {
+                "english": "Shanghai is a big city.",
+                "chinese": "上海是一个大城市.",
+                "pinyin": "Shànghǎi shì yīgè dà chéngshì.",
+            },
+            {
+                "english": "There is a park near my company.",
+                "chinese": "我公司附近有一个公园.",
+                "pinyin": "Wǒ gōngsī fùjìn yǒu yīgè gōngyuán.",
+            },
+            {
+                "english": "The park is between the library and the school.",
+                "chinese": "公园在图书馆和学校中间.",
+                "pinyin": "Gōngyuán zài túshū guǎn hé xuéxiào zhōngjiān.",
+            },
+            {
+                "english": "Your book is under the television.",
+                "chinese": "你的书在电视下面.",
+                "pinyin": "Nǐ de shū zài diànshì xiàmiàn.",
+            },
+            {
+                "english": "There are too many people here.",
+                "chinese": "这个地方有太多人.",
+                "pinyin": "Zhège dìfāng yǒu tài duō rén.",
+            },
+            {
+                "english": "Every day he runs in the park near his house.",
+                "chinese": "每天他在家附近的公园跑步.",
+                "pinyin": "Měitiān tā zài jiā fùjìn de gōngyuán pǎobù.",
+            },
+            {
+                "english": "The park is near their school.",
+                "chinese": "公园在他们的学校附近.",
+                "pinyin": "Gōngyuán zài tāmen de xuéxiào fùjìn.",
+            },
+            {
+                "english": "The tea from that coffee shop is the best.",
+                "chinese": "那家咖啡馆的茶最好.",
+                "pinyin": "Nà jiā kāfēi guǎn de chá zuì hǎo.",
+            },
+            {
+                "english": "There is a bowl on the table.",
+                "chinese": "桌子上面有碗.",
+                "pinyin": "Zhuōzi shàngmiàn yǒu wǎn.",
+            },
+            {
+                "english": "I am sitting between my father and mother.",
+                "chinese": "我坐在爸爸和妈妈中间.",
+                "pinyin": "Wǒ zuò zài bàba hé māmā zhōngjiān",
+            },
+            {
+                "english": "I don't like big cities.",
+                "chinese": "",
+                "pinyin": "",
+            },
+            {
+                "english": "There is a bird in the tree.",
+                "chinese": "树上面有一只鸟.",
+                "pinyin": "Shù shàngmiàn yǒuyī zhǐ niǎo.",
+            },
+            {
+                "english": "What is under the table?",
+                "chinese": "在桌子下面是什么?",
+                "pinyin": "Zài zhuōzi xiàmiàn shì shénme?",
+            },
+            {
+                "english": "This afternoon I will be preparing for the exam in the library.",
+                "chinese": "我今天下午会在图书馆准备考试.",
+                "pinyin": "Wǒ jīntiān xiàwǔ huì zài túshū guǎn zhǔnbèi kǎoshì.",
+            },
+            {
+                "english": "Above the coffee shop there is a library.",
+                "chinese": "咖啡馆上面有图书馆.",
+                "pinyin": "Kāfēi guǎn shàngmiàn yǒu túshū guǎn.",
+            },
+            {
+                "english": "I will see you tonight at the same place!",
+                "chinese": "今天晚上在一样的地方见!",
+                "pinyin": "Jīntiān wǎnshàng zài yīyàng dì dìfāng jiàn!",
+            },
+            {
+                "english": "Who is the person standing between you?",
+                "chinese": "站在你们中间的人是谁?",
+                "pinyin": "Zhàn zài nǐmen zhōngjiān de rén shì shéi?",
+            },
+            {
+                "english": "Below the library is a coffee shop.",
+                "chinese": "图书馆下面有咖啡馆.",
+                "pinyin": "Túshū guǎn xiàmiàn yǒu kāfēi guǎn.",
+            },
+            {
+                "english": "The teacher lives in the city.",
+                "chinese": "老师住在城市里.",
+                "pinyin": "Lǎoshī zhù zài chéngshì lǐ",
+            },
+            {
+                "english": "You can come return this and get a refund within seven days.",
+                "chinese": "你七天里可以来退货和退款.",
+                "pinyin": "Nǐ qītiān lǐ kěyǐ lái tuìhuò hé tuì kuǎn.",
+            },
+            {
+                "english": "How much did you spend?",
+                "chinese": "你花了多少钱?",
+                "pinyin": "Nǐ huāle duōshǎo qián?",
+            },
+            {
+                "english": "Please give me a bag.",
+                "chinese": "请给我一个袋子.",
+                "pinyin": "Qǐng gěi wǒ yīgè dàizi.",
+            },
+            {
+                "english": "This pair of leather shoes is on sale.",
+                "chinese": "这双皮鞋打折.",
+                "pinyin": "Zhè shuāng píxié dǎzhé.",
+            },
+            {
+                "english": "I want a refund. Sorry, we can't refund it",
+                "chinese": "我要退款. 对不起, 我们不能退款",
+                "pinyin": "Wǒ yào tuì kuǎn. Duìbùqǐ, wǒmen bùnéng tuì kuǎn",
+            },
+            {
+                "english": "We passed by there.",
+                "chinese": "我们经过了那里.",
+                "pinyin": "Wǒmen jīngguòle nàlǐ.",
+            },
+            {
+                "english": "I spent too much time doing this task.",
+                "chinese": "我花了太多时间做这个事情.",
+                "pinyin": "Wǒ huāle tài duō shíjiān zuò zhège shìqíng.",
+            },
+            {
+                "english": "There is an apple in the bag.",
+                "chinese": "袋子里有一个苹果.",
+                "pinyin": "Dàizi li yǒu yīgè píngguǒ.",
+            },
+            {
+                "english": "My older sister spent too much money recently!",
+                "chinese": "我的姐姐最近花太多钱了!",
+                "pinyin": "Wǒ de jiějiě zuìjìn huā tài duō qiánle!",
+            },
+            {
+                "english": "Is this shirt discounted?",
+                "chinese": "这件衬衫打折吗?",
+                "pinyin": "Zhè jiàn chènshān dǎzhé ma?",
+            },
+            {
+                "english": "These shoes are too small, can I return them?",
+                "chinese": "这双鞋子太小，我可以退货吗?",
+                "pinyin": "Zhè shuāng xiézi tài xiǎo, wǒ kěyǐ tuìhuò ma?",
+            },
+            {
+                "english": "I like that pair of brown leather shoes.",
+                "chinese": "我喜欢那双咖啡色的皮鞋.",
+                "pinyin": "Wǒ xǐhuān nà shuāng kāfēisè de píxié.",
+            },
+            {
+                "english": "Are these shoes discounted?",
+                "chinese": "这双鞋子打折吗?",
+                "pinyin": "Zhè shuāng xiézi dǎzhé ma?",
+            },
+            {
+                "english": "I am sorry, you can't return this.",
+                "chinese": "对不起, 你不可以退货.",
+                "pinyin": "Duìbùqǐ, nǐ bù kěyǐ tuìhuò.",
+            },
+            {
+                "english": "I don't have a bag.",
+                "chinese": "我没有袋子.",
+                "pinyin": "Wǒ méiyǒu dàizi.",
+            },
+            {
+                "english": "If there is no discount, I won't buy it.",
+                "chinese": "如果没有打折我不会买.",
+                "pinyin": "Rúguǒ méiyǒu dǎzhé wǒ bù huì mǎi.",
+            },
+            {
+                "english": "Your phone is too old.",
+                "chinese": "你的手机太旧了.",
+                "pinyin": "Nǐ de shǒujī tài jiùle.",
+            },
+        ],
+    },
 }
