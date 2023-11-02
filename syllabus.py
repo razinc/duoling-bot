@@ -3962,4 +3962,170 @@ syllabus = {
             },
         ],
     },
+    "unit 30": {
+        "description": "Talk about habits, describe flavors",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/30",
+        "phrases": [
+            {
+                "english": "He will not pass by here today.",
+                "chinese": "他今天不会经过这里.",
+                "pinyin": "Tā jīntiān bù huì jīngguò zhèlǐ.",
+            },
+            {
+                "english": "He changes girlfriends every year.",
+                "chinese": "他每年都会换女朋友.",
+                "pinyin": "Tā měinián dūhuì huàn nǚ péngyǒu.",
+            },
+            {
+                "english": "My leather shoes are old, I'd like to get a new pair.",
+                "chinese": "我的皮鞋旧了, 我想买一双新的.",
+                "pinyin": "",
+            },
+            {
+                "english": "He does not like the red one, he wants to swap with the white one.",
+                "chinese": "他不喜欢红色的, 他想换成白色的.",
+                "pinyin": "Tā bù xǐhuān hóngsè de, tā xiǎng huàn chéng báisè de.",
+            },
+            {
+                "english": "Sleeping late is not a good habit.",
+                "chinese": "很晚睡觉不是一个好习惯.",
+                "pinyin": "Hěn wǎn shuìjiào bùshì yīgè hǎo xíguàn.",
+            },
+            {
+                "english": "She is taking a shower now.",
+                "chinese": "她现在在洗澡.",
+                "pinyin": "Tā xiànzài zài xǐzǎo.",
+            },
+            {
+                "english": "He always calls me at nine in the morning.",
+                "chinese": "他总是在早上九点给我打电话.",
+                "pinyin": "Tā zǒng shì zài zǎoshang jiǔ diǎn gěi wǒ dǎ diànhuà.",
+            },
+            {
+                "english": "Before eating, we have to wash our hands.",
+                "chinese": "我们吃饭以前, 要洗手.",
+                "pinyin": "Wǒmen chīfàn yǐqián, yào xǐshǒu.",
+            },
+            {
+                "english": "After he finishes eating, he will brush his teeth at once.",
+                "chinese": "他吃完饭, 会马上刷牙.",
+                "pinyin": "Tā chī wán fàn, huì mǎshàng shuāyá.",
+            },
+            {
+                "english": "I like to sing and shower at the same time.",
+                "chinese": "我喜欢一边洗澡一边唱歌.",
+                "pinyin": "Wǒ xǐhuān yìbiān xǐzǎo yìbiān chànggē.",
+            },
+            {
+                "english": "She runs and listens to music at the same time.",
+                "chinese": "她一边跑步一边听音乐.",
+                "pinyin": "Tā yìbiān pǎobù yìbiān tīng yīnyuè.",
+            },
+            {
+                "english": "My father brushes teeth and dances at the same time.",
+                "chinese": "我爸爸一边刷牙一边跳舞.",
+                "pinyin": "Wǒ bàba yìbiān shuāyá yìbiān tiàowǔ.",
+            },
+            {
+                "english": "After eating, you must brush your teeth at once.",
+                "chinese": "吃完以后, 一定要马上刷牙.",
+                "pinyin": "Chī wán yǐhòu, yīdìng yào mǎshàng shuāyá.",
+            },
+            {
+                "english": "I am not used to the weather here.",
+                "chinese": "我不习惯这里的天气.",
+                "pinyin": "Wǒ bù xíguàn zhèlǐ de tiānqì.",
+            },
+            {
+                "english": "After we get off work tomorrow, let's watch a movie together.",
+                "chinese": "明天我们下班以后, 一起看电影吧.",
+                "pinyin": "Míngtiān wǒmen xiàbān yǐhòu, yīqǐ kàn diànyǐng ba.",
+            },
+            {
+                "english": "My habit is to brush my teeth three times a day.",
+                "chinese": "我的刷牙习惯是每天三次.",
+                "pinyin": "Wǒ de shuāyá xíguàn shì měitiān sāncì.",
+            },
+            {
+                "english": "I still have not showered.",
+                "chinese": "我还没洗澡.",
+                "pinyin": "Wǒ hái méi xǐzǎo.",
+            },
+            {
+                "english": "Why are you always looking at your phone?",
+                "chinese": "为什么你总是看手机?",
+                "pinyin": "Wèishéme nǐ zǒng shì kàn shǒujī?",
+            },
+            {
+                "english": "I always go swimming on Saturdays.",
+                "chinese": "我总是在星期六去游泳",
+                "pinyin": "Wǒ zǒng shì zài xīngqíliù qù yóuyǒng.",
+            },
+            {
+                "english": "My younger brother likes to shower and sing at the same time.",
+                "chinese": "我弟弟喜欢一边洗澡一边唱歌.",
+                "pinyin": "Wǒ dìdì xǐhuān yībiān xǐzǎo yībiān chànggē.",
+            },
+            {
+                "english": "It is not a good habit to watch TV and eat at the same time.",
+                "chinese": "一边看电视一边吃饭不是好习惯.",
+                "pinyin": "Yībiān kàn diànshì yībiān chīfàn bùshì hǎo xíguàn.",
+            },
+            {
+                "english": "I have a habit of running and listening to music at the same time.",
+                "chinese": "我习惯一边跑步一边听音乐.",
+                "pinyin": "Wǒ xíguàn yībiān pǎobù yībiān tīng yīnyuè.",
+            },
+            {
+                "english": "Stop dreaming.",
+                "chinese": "别做梦了.",
+                "pinyin": "Bié zuòmèngle.",
+            },
+            {
+                "english": "Can dogs dream?",
+                "chinese": "狗会做梦吗?",
+                "pinyin": "Gǒu huì zuòmèng ma?",
+            },
+            {
+                "english": "I had a dream last night.",
+                "chinese": "我昨天晚上做梦了.",
+                "pinyin": "Wǒ zuótiān wǎnshàng zuòmèngle.",
+            },
+            {
+                "english": "What is she talking about?",
+                "chinese": "她在讲什么?",
+                "pinyin": "Tā zài jiǎng shénme?",
+            },
+            {
+                "english": "This story isn't true.",
+                "chinese": "这个故事不是真的.",
+                "pinyin": "Zhège gùshì bùshì zhēn de.",
+            },
+            {
+                "english": "Can I tell you a story?",
+                "chinese": "我可以讲一个故事给你听吗?",
+                "pinyin": "Wǒ kěyǐ jiǎng yīgè gùshì gěi nǐ tīng ma?",
+            },
+            {
+                "english": "Before the kids go to sleep, their father will tell them stories.",
+                "chinese": "孩子睡觉以前, 他们的爸爸会讲故事.",
+                "pinyin": "Háizi shuìjiào yǐqián, tāmen de bàba huì jiǎng gùshì.",
+            },
+            {
+                "english": "This is his previous girlfriend.",
+                "chinese": "这是他以前的女朋友.",
+                "pinyin": "Zhè shì tā yǐqián de nǚ péngyǒu.",
+            },
+            {
+                "english": "You need to go to sleep at once.",
+                "chinese": "你需要马上睡觉.",
+                "pinyin": "Nǐ xūyào mǎshàng shuìjiào.",
+            },
+            {
+                "english": "I miss my older brother. I want to see him at once.",
+                "chinese": "我想我的哥哥, 想马上见他.",
+                "pinyin": "Wǒ xiǎng wǒ dí gēgē, xiǎng mǎshàng jiàn tā.",
+            },
+        ],
+    },
 }
