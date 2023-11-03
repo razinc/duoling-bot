@@ -4126,6 +4126,11 @@ syllabus = {
                 "chinese": "我想我的哥哥, 想马上见他.",
                 "pinyin": "Wǒ xiǎng wǒ dí gēgē, xiǎng mǎshàng jiàn tā.",
             },
+            {
+                "english": "My family likes eating northern food.",
+                "chinese": "我的家人很喜欢吃北方菜.",
+                "pinyin": "Wǒ de jiārén hěn xǐhuān chī běifāng cài.",
+            },
         ],
     },
 }
