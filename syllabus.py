@@ -4131,6 +4131,11 @@ syllabus = {
                 "chinese": "我的家人很喜欢吃北方菜.",
                 "pinyin": "Wǒ de jiārén hěn xǐhuān chī běifāng cài.",
             },
+            {
+                "english": "Apart from tea, what else do you want to drink?",
+                "chinese": "除了茶, 你还想喝什么?",
+                "pinyin": "Chúle chá, nǐ hái xiǎng hē shénme?",
+            },
         ],
     },
 }
