@@ -4136,6 +4136,11 @@ syllabus = {
                 "chinese": "除了茶, 你还想喝什么?",
                 "pinyin": "Chúle chá, nǐ hái xiǎng hē shénme?",
             },
+            {
+                "english": "Can you make dumplings?",
+                "chinese": "你会做饺子吗?",
+                "pinyin": "Nǐ huì zuò jiǎozi ma?",
+            },
         ],
     },
 }
