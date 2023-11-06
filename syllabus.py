@@ -4141,6 +4141,11 @@ syllabus = {
                 "chinese": "你会做饺子吗?",
                 "pinyin": "Nǐ huì zuò jiǎozi ma?",
             },
+            {
+                "english": "I can't eat spicy food.",
+                "chinese": "我不能吃辣.",
+                "pinyin": "Wǒ bùnéng chī là.",
+            },
         ],
     },
 }
