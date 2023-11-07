@@ -4146,6 +4146,11 @@ syllabus = {
                 "chinese": "我不能吃辣.",
                 "pinyin": "Wǒ bùnéng chī là.",
             },
+            {
+                "english": "Please give me salt.",
+                "chinese": "请给我盐.",
+                "pinyin": "Qǐng gěi wǒ yán.",
+            },
         ],
     },
 }
