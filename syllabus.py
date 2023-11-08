@@ -4151,6 +4151,11 @@ syllabus = {
                 "chinese": "请给我盐.",
                 "pinyin": "Qǐng gěi wǒ yán.",
             },
+            {
+                "english": "This dish is too salty!",
+                "chinese": "这个菜太咸了!",
+                "pinyin": "Zhège cài tài xiánle!",
+            },
         ],
     },
 }
