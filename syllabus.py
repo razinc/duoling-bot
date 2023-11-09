@@ -4156,6 +4156,11 @@ syllabus = {
                 "chinese": "这个菜太咸了!",
                 "pinyin": "Zhège cài tài xiánle!",
             },
+            {
+                "english": "In addition to tea, what else would you like to drink?",
+                "chinese": "除了茶, 你还想喝什么?",
+                "pinyin": "Chúle chá, nǐ hái xiǎng hē shénme?",
+            },
         ],
     },
 }
