@@ -4161,6 +4161,11 @@ syllabus = {
                 "chinese": "请问, 你们有什么其他饮料?",
                 "pinyin": "Qǐngwèn, nǐmen yǒu shénme qítā yǐnliào?",
             },
+            {
+                "english": "This has too much salt.",
+                "chinese": "这个有太多盐.",
+                "pinyin": "Zhège yǒu tài duō yán.",
+            },
         ],
     },
 }
