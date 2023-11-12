@@ -4166,6 +4166,11 @@ syllabus = {
                 "chinese": "这个有太多盐.",
                 "pinyin": "Zhège yǒu tài duō yán.",
             },
+            {
+                "english": "Is Indian cuisine spicy?",
+                "chinese": "印度菜辣吗?",
+                "pinyin": "Yìndù cài là ma?",
+            },
         ],
     },
 }
