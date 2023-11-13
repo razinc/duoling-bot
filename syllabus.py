@@ -4171,6 +4171,11 @@ syllabus = {
                 "chinese": "印度菜辣吗?",
                 "pinyin": "Yìndù cài là ma?",
             },
+            {
+                "english": "What is this? This is extremely bitter!",
+                "chinese": "这是什么? 苦极了!",
+                "pinyin": "Zhè shì shénme? Kǔ jíle!",
+            },
         ],
     },
 }
