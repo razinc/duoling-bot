@@ -4176,6 +4176,11 @@ syllabus = {
                 "chinese": "这是什么? 苦极了!",
                 "pinyin": "Zhè shì shénme? Kǔ jíle!",
             },
+            {
+                "english": "This is extremely spicy, get me some water quickly!",
+                "chinese": "这个辣极了, 快一点儿给我水!",
+                "pinyin": "Zhège là jíle, kuài yīdiǎn er gěi wǒ shuǐ!",
+            },
         ],
     },
 }
