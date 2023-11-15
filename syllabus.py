@@ -4181,6 +4181,11 @@ syllabus = {
                 "chinese": "这个辣极了, 快一点儿给我水!",
                 "pinyin": "Zhège là jíle, kuài yīdiǎn er gěi wǒ shuǐ!",
             },
+            {
+                "english": "Southern food is delicious.",
+                "chinese": "南方菜很好吃.",
+                "pinyin": "Nánfāng cài hěn hào chī.",
+            },
         ],
     },
 }
