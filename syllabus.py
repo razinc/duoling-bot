@@ -3896,9 +3896,9 @@ syllabus = {
                 "pinyin": "Zhè shuāng píxié dǎzhé.",
             },
             {
-                "english": "I want a refund. Sorry, we can't refund it",
-                "chinese": "我要退款. 对不起, 我们不能退款",
-                "pinyin": "Wǒ yào tuì kuǎn. Duìbùqǐ, wǒmen bùnéng tuì kuǎn",
+                "english": "I want a refund. Sorry, we can't refund it.",
+                "chinese": "我要退款. 对不起, 我们不能退款.",
+                "pinyin": "Wǒ yào tuì kuǎn. Duìbùqǐ, wǒmen bùnéng tuì kuǎn.",
             },
             {
                 "english": "We passed by there.",
@@ -4185,6 +4185,11 @@ syllabus = {
                 "english": "Southern food is delicious.",
                 "chinese": "南方菜很好吃.",
                 "pinyin": "Nánfāng cài hěn hào chī.",
+            },
+            {
+                "english": "This cake is too sweet.",
+                "chinese": "这个蛋糕太甜了.",
+                "pinyin": "Zhège dàngāo tài tiánle.",
             },
         ],
     },
