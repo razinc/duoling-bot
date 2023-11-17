@@ -4191,6 +4191,11 @@ syllabus = {
                 "chinese": "这个蛋糕太甜了.",
                 "pinyin": "Zhège dàngāo tài tiánle.",
             },
+            {
+                "english": "Is southern food sweeter than northern food?",
+                "chinese": "南方菜比北方菜甜吗?",
+                "pinyin": "Nánfāng cài bǐ běifāng cài tián ma?",
+            },
         ],
     },
 }
