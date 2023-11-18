@@ -4196,6 +4196,11 @@ syllabus = {
                 "chinese": "南方菜比北方菜甜吗?",
                 "pinyin": "Nánfāng cài bǐ běifāng cài tián ma?",
             },
+            {
+                "english": "Their dumplings are terrible!",
+                "chinese": "他们的饺子很难吃!",
+                "pinyin": "Tāmen de jiǎozi hěn nán chī!",
+            },
         ],
     },
 }
