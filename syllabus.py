@@ -740,9 +740,9 @@ syllabus = {
                 "pinyin": "Nǐmen shōu xìnyòngkǎ ma? Duìbùqǐ, wǒmen bù shōu xìnyòngkǎ, zhǐ shōu xiànjīn.",
             },
             {
-                "english": "Altogether it's 500 yuan. Can this be a bit cheaper",
-                "chinese": "一共五百块. 便宜一点儿，行不行",
-                "pinyin": "Yīgòng wǔbǎi kuài. Piányí yīdiǎn er, xíng bùxíng",
+                "english": "Altogether it's 500 yuan. Can this be a bit cheaper?",
+                "chinese": "一共五百块. 便宜一点儿，行不行?",
+                "pinyin": "Yīgòng wǔbǎi kuài. Piányí yīdiǎn er, xíng bùxíng?",
             },
             {
                 "english": "53,649.",
@@ -4200,6 +4200,11 @@ syllabus = {
                 "english": "Their dumplings are terrible!",
                 "chinese": "他们的饺子很难吃!",
                 "pinyin": "Tāmen de jiǎozi hěn nán chī!",
+            },
+            {
+                "english": "I'm sorry, this chicken is terrible.",
+                "chinese": "对不起, 这个鸡肉很难吃.",
+                "pinyin": "Duìbùqǐ, zhège jīròu hěn nán chī.",
             },
         ],
     },
