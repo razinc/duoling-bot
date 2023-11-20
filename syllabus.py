@@ -4206,6 +4206,11 @@ syllabus = {
                 "chinese": "对不起, 这个鸡肉很难吃.",
                 "pinyin": "Duìbùqǐ, zhège jīròu hěn nán chī.",
             },
+            {
+                "english": "Are Chinese dumplings and Japanese dumplings the same?",
+                "chinese": "中国的饺子和日本的饺子一样吗?",
+                "pinyin": "Zhōngguó de jiǎozi hé rìběn de jiǎozi yīyàng ma?",
+            },
         ],
     },
 }
