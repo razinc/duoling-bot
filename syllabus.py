@@ -4211,6 +4211,11 @@ syllabus = {
                 "chinese": "中国的饺子和日本的饺子一样吗?",
                 "pinyin": "Zhōngguó de jiǎozi hé rìběn de jiǎozi yīyàng ma?",
             },
+            {
+                "english": "We don't have salt.",
+                "chinese": "我们没有盐.",
+                "pinyin": "Wǒmen méiyǒu yán.",
+            },
         ],
     },
 }
