@@ -4216,6 +4216,11 @@ syllabus = {
                 "chinese": "我们没有盐.",
                 "pinyin": "Wǒmen méiyǒu yán.",
             },
+            {
+                "english": "I only like to eat salty food, not sweet food.",
+                "chinese": "我只喜欢吃咸的, 不喜欢甜的.",
+                "pinyin": "Wǒ zhǐ xǐhuān chī xián de, bù xǐhuān tián de.",
+            },
         ],
     },
 }
