@@ -4221,6 +4221,11 @@ syllabus = {
                 "chinese": "我只喜欢吃咸的, 不喜欢甜的.",
                 "pinyin": "Wǒ zhǐ xǐhuān chī xián de, bù xǐhuān tián de.",
             },
+            {
+                "english": "This beef is too salty.",
+                "chinese": "这个牛肉太咸了.",
+                "pinyin": "Zhège niúròu tài xiánle.",
+            },
         ],
     },
 }
