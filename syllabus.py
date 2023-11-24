@@ -4226,6 +4226,11 @@ syllabus = {
                 "chinese": "这个牛肉太咸了.",
                 "pinyin": "Zhège niúròu tài xiánle.",
             },
+            {
+                "english": "The dishes there are expensive and terrible.",
+                "chinese": "那里的菜又贵又难吃.",
+                "pinyin": "Nàlǐ de cài yòu guì yòu nán chī.",
+            },
         ],
     },
 }
