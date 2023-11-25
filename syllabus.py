@@ -4231,6 +4231,16 @@ syllabus = {
                 "chinese": "那里的菜又贵又难吃.",
                 "pinyin": "Nàlǐ de cài yòu guì yòu nán chī.",
             },
+            {
+                "english": "This medicine is bitter.",
+                "chinese": "这个药苦了.",
+                "pinyin": "Zhège yào kǔle.",
+            },
+            {
+                "english": "Where can we get the best dumplings?",
+                "chinese": "哪里的饺子最好吃?",
+                "pinyin": "Nǎlǐ de jiǎozi zuì hào chī?",
+            },
         ],
     },
 }
