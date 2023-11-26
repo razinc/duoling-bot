@@ -4243,4 +4243,15 @@ syllabus = {
             },
         ],
     },
+    "unit 31": {
+        "description": "Talk about people, give directions.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/31",
+        "phrases": [
+            {
+                "english": "What grade are you in this year? I'm a fifth-grade student.",
+                "chinese": "你今年几年级? 我是五年级的学生.",
+                "pinyin": "Nǐ jīnnián jǐ niánjí? Wǒ shì wǔ niánjí de xuéshēng.",
+            },
+        ],
+    },
 }
