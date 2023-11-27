@@ -4252,6 +4252,11 @@ syllabus = {
                 "chinese": "你今年几年级? 我是五年级的学生.",
                 "pinyin": "Nǐ jīnnián jǐ niánjí? Wǒ shì wǔ niánjí de xuéshēng.",
             },
+            {
+                "english": "She was my classmate in middle school.",
+                "chinese": "她是我初中的同学.",
+                "pinyin": "Tā shì wǒ chūzhōng de tóngxué.",
+            },
         ],
     },
 }
