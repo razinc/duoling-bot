@@ -4257,6 +4257,11 @@ syllabus = {
                 "chinese": "她是我初中的同学.",
                 "pinyin": "Tā shì wǒ chūzhōng de tóngxué.",
             },
+            {
+                "english": "Many young people like this game.",
+                "chinese": "很多年轻人喜欢这个游戏.",
+                "pinyin": "Hěnduō niánqīng rén xǐhuān zhège yóuxì.",
+            },
         ],
     },
 }
