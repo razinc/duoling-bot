@@ -4262,6 +4262,11 @@ syllabus = {
                 "chinese": "很多年轻人喜欢这个游戏.",
                 "pinyin": "Hěnduō niánqīng rén xǐhuān zhège yóuxì.",
             },
+            {
+                "english": "Does she wear glasses?",
+                "chinese": "她戴眼镜吗?",
+                "pinyin": "Tā dài yǎnjìng ma?",
+            },
         ],
     },
 }
