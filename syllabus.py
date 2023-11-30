@@ -4267,6 +4267,11 @@ syllabus = {
                 "chinese": "她戴眼镜吗?",
                 "pinyin": "Tā dài yǎnjìng ma?",
             },
+            {
+                "english": "The younger one is my teacher.",
+                "chinese": "比较年轻的是我的老师.",
+                "pinyin": "Bǐjiào niánqīng de shì wǒ de lǎoshī.",
+            },
         ],
     },
 }
