@@ -4272,6 +4272,11 @@ syllabus = {
                 "chinese": "比较年轻的是我的老师.",
                 "pinyin": "Bǐjiào niánqīng de shì wǒ de lǎoshī.",
             },
+            {
+                "english": "She is tall now.",
+                "chinese": "她现在个子很高.",
+                "pinyin": "Tā xiànzài gèzi hěn gāo.",
+            },
         ],
     },
 }
