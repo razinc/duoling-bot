@@ -4277,6 +4277,11 @@ syllabus = {
                 "chinese": "她现在个子很高.",
                 "pinyin": "Tā xiànzài gèzi hěn gāo.",
             },
+            {
+                "english": "Children grow quickly.",
+                "chinese": "孩子长得很快.",
+                "pinyin": "Háizi zhǎng dé hěn kuài.",
+            },
         ],
     },
 }
