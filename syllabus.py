@@ -4287,6 +4287,11 @@ syllabus = {
                 "chinese": "这是我们的小学.",
                 "pinyin": "Zhè shì wǒmen de xiǎoxué.",
             },
+            {
+                "english": "My little sister's school is close to here.",
+                "chinese": "我的妹妹的学校离这里很近.",
+                "pinyin": "Wǒ de mèimei de xuéxiào lí zhèlǐ hěn jìn.",
+            },
         ],
     },
 }
