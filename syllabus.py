@@ -4292,6 +4292,11 @@ syllabus = {
                 "chinese": "我的妹妹的学校离这里很近.",
                 "pinyin": "Wǒ de mèimei de xuéxiào lí zhèlǐ hěn jìn.",
             },
+            {
+                "english": "I don't wear a watch.",
+                "chinese": "我不戴手表.",
+                "pinyin": "Wǒ bù dài shǒubiǎo.",
+            },
         ],
     },
 }
