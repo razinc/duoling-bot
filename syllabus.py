@@ -4298,9 +4298,14 @@ syllabus = {
                 "pinyin": "Wǒ bù dài shǒubiǎo.",
             },
             {
-                "english": "Your parents are young..",
+                "english": "Your parents are young.",
                 "chinese": "你的父母很年轻.",
                 "pinyin": "Nǐ de fùmǔ hěn niánqīng.",
+            },
+            {
+                "english": "Our teacher is not old.",
+                "chinese": "我们的老师不老.",
+                "pinyin": "Wǒmen de lǎoshī bùlǎo.",
             },
         ],
     },
