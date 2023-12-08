@@ -4307,6 +4307,11 @@ syllabus = {
                 "chinese": "我们的老师不老.",
                 "pinyin": "Wǒmen de lǎoshī bùlǎo.",
             },
+            {
+                "english": "The older one is my mother.",
+                "chinese": "比较老的是我的妈妈.",
+                "pinyin": "Bǐjiào lǎo de shì wǒ de māmā.",
+            },
         ],
     },
 }
