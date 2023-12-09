@@ -4312,6 +4312,11 @@ syllabus = {
                 "chinese": "比较老的是我的妈妈.",
                 "pinyin": "Bǐjiào lǎo de shì wǒ de māmā.",
             },
+            {
+                "english": "Many elderly people like going to parks to do exercises.",
+                "chinese": "很多老年人喜欢去公园做运动.",
+                "pinyin": "Hěnduō lǎonián rén xǐhuān qù gōngyuán zuò yùndòng.",
+            },
         ],
     },
 }
