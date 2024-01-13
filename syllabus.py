@@ -4317,6 +4317,11 @@ syllabus = {
                 "chinese": "很多老年人喜欢去公园做运动.",
                 "pinyin": "Hěnduō lǎonián rén xǐhuān qù gōngyuán zuò yùndòng.",
             },
+            {
+                "english": "My classmate is tall.",
+                "chinese": "我的同学个子很高.",
+                "pinyin": "Wǒ de tóngxué gèzi hěn gāo.",
+            },
         ],
     },
 }
