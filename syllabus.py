@@ -4322,6 +4322,11 @@ syllabus = {
                 "chinese": "我的同学个子很高.",
                 "pinyin": "Wǒ de tóngxué gèzi hěn gāo.",
             },
+            {
+                "english": "There are a lot of middle school students here.",
+                "chinese": "这里有很多初中学生.",
+                "pinyin": "Zhè li yǒu hěnduō chūzhōngxuéshēng.",
+            },
         ],
     },
 }
