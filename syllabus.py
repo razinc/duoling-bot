@@ -4327,6 +4327,11 @@ syllabus = {
                 "chinese": "这里有很多初中学生.",
                 "pinyin": "Zhè li yǒu hěnduō chūzhōngxuéshēng.",
             },
+            {
+                "english": "My younger brother is a sixth-grade student in elementary school.",
+                "chinese": "我的弟弟是小学六年级的学生.",
+                "pinyin": "Wǒ de dìdì shì xiǎoxué liù niánjí de xuéshēng.",
+            },
         ],
     },
 }
