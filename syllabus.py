@@ -3979,7 +3979,7 @@ syllabus = {
             {
                 "english": "My leather shoes are old, I'd like to get a new pair.",
                 "chinese": "我的皮鞋旧了, 我想买一双新的.",
-                "pinyin": "",
+                "pinyin": "Wǒ de píxié jiùle, wǒ xiǎng mǎi yīshuāng xīn de.",
             },
             {
                 "english": "He does not like the red one, he wants to swap with the white one.",
@@ -4331,6 +4331,11 @@ syllabus = {
                 "english": "My younger brother is a sixth-grade student in elementary school.",
                 "chinese": "我的弟弟是小学六年级的学生.",
                 "pinyin": "Wǒ de dìdì shì xiǎoxué liù niánjí de xuéshēng.",
+            },
+            {
+                "english": "We need to walk straight ahead.",
+                "chinese": "我们要往前走.",
+                "pinyin": "Wǒmen yào wǎng qián zǒu.",
             },
         ],
     },
