@@ -4337,6 +4337,11 @@ syllabus = {
                 "chinese": "我们要往前走.",
                 "pinyin": "Wǒmen yào wǎng qián zǒu.",
             },
+            {
+                "english": "The airport is located on the city's north side.",
+                "chinese": "机场在城市的北边.",
+                "pinyin": "Jīchǎng zài chéngshì de běibian.",
+            },
         ],
     },
 }
