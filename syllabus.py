@@ -4342,6 +4342,11 @@ syllabus = {
                 "chinese": "机场在城市的北边.",
                 "pinyin": "Jīchǎng zài chéngshì de běibian.",
             },
+            {
+                "english": "I live on Hong Kong's south side.",
+                "chinese": "我住在香港的南边.",
+                "pinyin": "Wǒ zhù zài xiānggǎng de nánbian.",
+            },
         ],
     },
 }
