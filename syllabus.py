@@ -4347,6 +4347,26 @@ syllabus = {
                 "chinese": "我住在香港的南边.",
                 "pinyin": "Wǒ zhù zài xiānggǎng de nánbian.",
             },
+            {
+                "english": "What's your address?",
+                "chinese": "你的地址是什么?",
+                "pinyin": "Nǐ dì dìzhǐ shì shénme?",
+            },
+            {
+                "english": "There are many trees around my house.",
+                "chinese": "我的家周围有很多树.",
+                "pinyin": "Wǒ de jiā zhōuwéi yǒu hěnduō shù.",
+            },
+            {
+                "english": "The park is located in the city's east side.",
+                "chinese": "公园在城市的东边.",
+                "pinyin": "Gōngyuán zài chéngshì de dōngbian.",
+            },
+            {
+                "english": "He went to Germany's west side to see a friend.",
+                "chinese": "他去了德国的西边看朋友.",
+                "pinyin": "Tā qùle déguó de xībian kàn péngyǒu.",
+            },
         ],
     },
 }
