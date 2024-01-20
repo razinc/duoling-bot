@@ -4367,6 +4367,11 @@ syllabus = {
                 "chinese": "他去了德国的西边看朋友.",
                 "pinyin": "Tā qùle déguó de xībian kàn péngyǒu.",
             },
+            {
+                "english": "There is a library on the west side.",
+                "chinese": "西边有图书馆.",
+                "pinyin": "Xībian yǒu túshū guǎn.",
+            },
         ],
     },
 }
