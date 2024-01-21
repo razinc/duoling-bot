@@ -4372,6 +4372,11 @@ syllabus = {
                 "chinese": "西边有图书馆.",
                 "pinyin": "Xībian yǒu túshū guǎn.",
             },
+            {
+                "english": "My mom lives on the east side, my dad lives on the west side..",
+                "chinese": "我妈妈住在东边, 我爸爸住在西边.",
+                "pinyin": "Wǒ māmā zhù zài dōngbian, wǒ bàba zhù zài xībian.",
+            },
         ],
     },
 }
