@@ -4377,6 +4377,11 @@ syllabus = {
                 "chinese": "我妈妈住在东边, 我爸爸住在西边.",
                 "pinyin": "Wǒ māmā zhù zài dōngbian, wǒ bàba zhù zài xībian.",
             },
+            {
+                "english": "First we watch a movie, then we eat dinner.",
+                "chinese": "我们先看电影, 然后吃晚饭.",
+                "pinyin": "Wǒmen xiān kàn diànyǐng, ránhòu chī wǎnfàn.",
+            },
         ],
     },
 }
