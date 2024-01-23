@@ -4382,6 +4382,11 @@ syllabus = {
                 "chinese": "我们先看电影, 然后吃晚饭.",
                 "pinyin": "Wǒmen xiān kàn diànyǐng, ránhòu chī wǎnfàn.",
             },
+            {
+                "english": "First we have to go to the shop, and then go home.",
+                "chinese": "我们要先去商店, 然后回家.",
+                "pinyin": "Wǒmen yào xiān qù shāngdiàn, ránhòu huí jiā.",
+            },
         ],
     },
 }
