@@ -4387,6 +4387,11 @@ syllabus = {
                 "chinese": "我们要先去商店, 然后回家.",
                 "pinyin": "Wǒmen yào xiān qù shāngdiàn, ránhòu huí jiā.",
             },
+            {
+                "english": "First go straight, then turn left.",
+                "chinese": "你先往前走, 然后往左走.",
+                "pinyin": "Nǐ xiān wǎng qián zǒu, ránhòu wǎng zuǒ zǒu.",
+            },
         ],
     },
 }
