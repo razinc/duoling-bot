@@ -4392,6 +4392,11 @@ syllabus = {
                 "chinese": "你先往前走, 然后往左走.",
                 "pinyin": "Nǐ xiān wǎng qián zǒu, ránhòu wǎng zuǒ zǒu.",
             },
+            {
+                "english": "Go to the left.",
+                "chinese": "往左去.",
+                "pinyin": "Wǎng zuǒ qù.",
+            },
         ],
     },
 }
