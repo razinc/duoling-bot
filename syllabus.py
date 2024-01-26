@@ -4397,6 +4397,11 @@ syllabus = {
                 "chinese": "往左去.",
                 "pinyin": "Wǎng zuǒ qù.",
             },
+            {
+                "english": "I travel on the east side of Japan.",
+                "chinese": "我在日本的东边旅游.",
+                "pinyin": "Wǒ zài rìběn de dōngbian lǚyóu.",
+            },
         ],
     },
 }
