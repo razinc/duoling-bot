@@ -4402,6 +4402,11 @@ syllabus = {
                 "chinese": "我在日本的东边旅游.",
                 "pinyin": "Wǒ zài rìběn de dōngbian lǚyóu.",
             },
+            {
+                "english": "Walk back.",
+                "chinese": "往后走.",
+                "pinyin": "Wǎng hòu zǒu.",
+            },
         ],
     },
 }
