@@ -4407,6 +4407,11 @@ syllabus = {
                 "chinese": "往后走.",
                 "pinyin": "Wǎng hòu zǒu.",
             },
+            {
+                "english": "Don't look back!.",
+                "chinese": "别往后看!",
+                "pinyin": "Bié wǎng hòu kàn!",
+            },
         ],
     },
 }
