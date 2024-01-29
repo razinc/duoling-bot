@@ -4408,9 +4408,14 @@ syllabus = {
                 "pinyin": "Wǎng hòu zǒu.",
             },
             {
-                "english": "Don't look back!.",
+                "english": "Don't look back!",
                 "chinese": "别往后看!",
                 "pinyin": "Bié wǎng hòu kàn!",
+            },
+            {
+                "english": "Run to the right!",
+                "chinese": "往右跑!",
+                "pinyin": "Wǎng yòu pǎo!",
             },
         ],
     },
