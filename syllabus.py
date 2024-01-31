@@ -4422,6 +4422,11 @@ syllabus = {
                 "chinese": "我用右手写字和吃饭.",
                 "pinyin": "Wǒ yòng yòushǒu xiězì hé chīfàn.",
             },
+            {
+                "english": "Run to the back!",
+                "chinese": "往后跑!",
+                "pinyin": "Wǎng hòu pǎo!",
+            },
         ],
     },
 }
