@@ -4427,6 +4427,11 @@ syllabus = {
                 "chinese": "往后跑!",
                 "pinyin": "Wǎng hòu pǎo!",
             },
+            {
+                "english": "If you keep walking straight, you will get to the park.",
+                "chinese": "如果你们一直往前走, 就会到公园.",
+                "pinyin": "Rúguǒ nǐmen yīzhí wǎng qián zǒu, jiù huì dào gōngyuán.",
+            },
         ],
     },
 }
