@@ -4432,6 +4432,11 @@ syllabus = {
                 "chinese": "如果你们一直往前走, 就会到公园.",
                 "pinyin": "Rúguǒ nǐmen yīzhí wǎng qián zǒu, jiù huì dào gōngyuán.",
             },
+            {
+                "english": "I live on the north side, but my school is on the south side.",
+                "chinese": "我住在北边, 但是我的学校在南边.",
+                "pinyin": "Wǒ zhù zài běibian, dànshì wǒ de xuéxiào zài nánbian.",
+            },
         ],
     },
 }
