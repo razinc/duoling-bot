@@ -4437,6 +4437,11 @@ syllabus = {
                 "chinese": "我住在北边, 但是我的学校在南边.",
                 "pinyin": "Wǒ zhù zài běibian, dànshì wǒ de xuéxiào zài nánbian.",
             },
+            {
+                "english": "First walk straight ahead, then turn right, and lastly turn left.",
+                "chinese": "先往前走, 然后往右走, 最后往左走.",
+                "pinyin": "Xiān wǎng qián zǒu, ránhòu wǎng yòu zǒu, zuìhòu wǎng zuǒ zǒu.",
+            },
         ],
     },
 }
