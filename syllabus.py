@@ -4442,6 +4442,11 @@ syllabus = {
                 "chinese": "先往前走, 然后往右走, 最后往左走.",
                 "pinyin": "Xiān wǎng qián zǒu, ránhòu wǎng yòu zǒu, zuìhòu wǎng zuǒ zǒu.",
             },
+            {
+                "english": "She works on the northern side of the UK..",
+                "chinese": "她在英国的北边工作.",
+                "pinyin": "Tā zài yīngguó de běibian gōngzuò.",
+            },
         ],
     },
 }
