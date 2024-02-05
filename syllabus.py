@@ -4350,7 +4350,7 @@ syllabus = {
             {
                 "english": "What's your address?",
                 "chinese": "你的地址是什么?",
-                "pinyin": "Nǐ dì dìzhǐ shì shénme?",
+                "pinyin": "Nǐ de dìzhǐ shì shénme?",
             },
             {
                 "english": "There are many trees around my house.",
@@ -4443,9 +4443,14 @@ syllabus = {
                 "pinyin": "Xiān wǎng qián zǒu, ránhòu wǎng yòu zǒu, zuìhòu wǎng zuǒ zǒu.",
             },
             {
-                "english": "She works on the northern side of the UK..",
+                "english": "She works on the northern side of the UK.",
                 "chinese": "她在英国的北边工作.",
                 "pinyin": "Tā zài yīngguó de běibian gōngzuò.",
+            },
+            {
+                "english": "First go to school, then go to the supermarket, and lastly go home.",
+                "chinese": "先去学校, 然后去超市, 最后回家.",
+                "pinyin": "Xiān qù xuéxiào, ránhòu qù chāoshì, zuìhòu huí jiā.",
             },
         ],
     },
