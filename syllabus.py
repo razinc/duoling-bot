@@ -4452,6 +4452,11 @@ syllabus = {
                 "chinese": "先去学校, 然后去超市, 最后回家.",
                 "pinyin": "Xiān qù xuéxiào, ránhòu qù chāoshì, zuìhòu huí jiā.",
             },
+            {
+                "english": "Are you lost?",
+                "chinese": "你迷路了吗?",
+                "pinyin": "Nǐ mílùle ma?",
+            },
         ],
     },
 }
