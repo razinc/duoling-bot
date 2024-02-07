@@ -4457,6 +4457,11 @@ syllabus = {
                 "chinese": "你迷路了吗?",
                 "pinyin": "Nǐ mílùle ma?",
             },
+            {
+                "english": "I think we are lost.",
+                "chinese": "我觉得我们迷路了.",
+                "pinyin": "Wǒ juédé wǒmen mílùle.",
+            },
         ],
     },
 }
