@@ -4462,6 +4462,11 @@ syllabus = {
                 "chinese": "我觉得我们迷路了.",
                 "pinyin": "Wǒ juédé wǒmen mílùle.",
             },
+            {
+                "english": "There is nobody around.",
+                "chinese": "周围没有人.",
+                "pinyin": "Zhōuwéi méiyǒu rén.",
+            },
         ],
     },
 }
