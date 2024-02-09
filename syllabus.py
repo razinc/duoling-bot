@@ -4467,6 +4467,11 @@ syllabus = {
                 "chinese": "周围没有人.",
                 "pinyin": "Zhōuwéi méiyǒu rén.",
             },
+            {
+                "english": "There are not many restaurants around the hotel.",
+                "chinese": "酒店的周围没有很多饭馆.",
+                "pinyin": "Jiǔdiàn de zhōuwéi méiyǒu hěnduō fànguǎn.",
+            },
         ],
     },
 }
