@@ -4472,6 +4472,21 @@ syllabus = {
                 "chinese": "酒店的周围没有很多饭馆.",
                 "pinyin": "Jiǔdiàn de zhōuwéi méiyǒu hěnduō fànguǎn.",
             },
+            {
+                "english": "That kid is lost.",
+                "chinese": "那个孩子迷路了.",
+                "pinyin": "Nàgè háizi mílùle.",
+            },
+            {
+                "english": "This address is wrong.",
+                "chinese": "这个地址是错的.",
+                "pinyin": "Zhège dìzhǐ shì cuò de.",
+            },
+            {
+                "english": "I don't have their address.",
+                "chinese": "我没有他们的地址.",
+                "pinyin": "Wǒ méiyǒu tāmen de dìzhǐ.",
+            },
         ],
     },
 }
