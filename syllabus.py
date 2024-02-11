@@ -4487,6 +4487,21 @@ syllabus = {
                 "chinese": "我没有他们的地址.",
                 "pinyin": "Wǒ méiyǒu tāmen de dìzhǐ.",
             },
+            {
+                "english": "She writes with her left hand.",
+                "chinese": "她写字用左手.",
+                "pinyin": "Tā xiězì yòng zuǒshǒu.",
+            },
+            {
+                "english": "My home is on the park's south side.",
+                "chinese": "我的家在公园的南边.",
+                "pinyin": "Wǒ de jiā zài gōngyuán de nánbian.",
+            },
+            {
+                "english": "There are many restaurants around the hotel.",
+                "chinese": "酒店的周围没有很多饭馆.",
+                "pinyin": "Jiǔdiàn de zhōuwéi méiyǒu hěnduō fànguǎn.",
+            },
         ],
     },
 }
