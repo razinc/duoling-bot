@@ -4504,4 +4504,15 @@ syllabus = {
             },
         ],
     },
+    "unit 32": {
+        "description": "Talk about routines.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/32",
+        "phrases": [
+            {
+                "english": "What time do you normally get off work?",
+                "chinese": "你一般几点下班?",
+                "pinyin": "Nǐ yībān jǐ diǎn xiàbān?",
+            },
+        ],
+    },
 }
