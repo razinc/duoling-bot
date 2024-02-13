@@ -4513,6 +4513,36 @@ syllabus = {
                 "chinese": "你一般几点下班?",
                 "pinyin": "Nǐ yībān jǐ diǎn xiàbān?",
             },
+            {
+                "english": "When do you normally see your family?",
+                "chinese": "你跟家人一般什么时候见面?",
+                "pinyin": "Nǐ gēn jiārén yībān shénme shíhòu jiànmiàn?",
+            },
+            {
+                "english": "I talk to Mom on the Internet every Saturday.",
+                "chinese": "每个星期六, 我会跟妈妈上网聊天.",
+                "pinyin": "Měi gè xīngqíliù, wǒ huì gēn māmā shàngwǎng liáotiān..",
+            },
+            {
+                "english": "I like to go shopping by myself.",
+                "chinese": "我喜欢自己去买东西.",
+                "pinyin": "Wǒ xǐhuān zìjǐ qù mǎi dōngxī.",
+            },
+            {
+                "english": "She sometimes goes traveling alone.",
+                "chinese": "她有时候一个人去旅游.",
+                "pinyin": "Tā yǒu shíhòu yīgè rén qù lǚyóu.",
+            },
+            {
+                "english": "Go by yourself, I don't want to go!",
+                "chinese": "你自己去, 我不想去!",
+                "pinyin": "Nǐ zìjǐ qù, wǒ bùxiǎng qù!",
+            },
+            {
+                "english": "Do you want to live alone or with friends?",
+                "chinese": "你想一个人住还是跟朋友一起住?",
+                "pinyin": "Nǐ xiǎng yígèrén zhù háishì gēn péngyǒu yīqǐ zhù?",
+            },
         ],
     },
 }
