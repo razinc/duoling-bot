@@ -4543,6 +4543,11 @@ syllabus = {
                 "chinese": "你想一个人住还是跟朋友一起住?",
                 "pinyin": "Nǐ xiǎng yígèrén zhù háishì gēn péngyǒu yīqǐ zhù?",
             },
+            {
+                "english": "Who were you chatting with last night?",
+                "chinese": "你昨天晚上 跟谁在聊天?",
+                "pinyin": "Nǐ zuótiān wǎnshàng gēn shéi zài liáotiān?",
+            },
         ],
     },
 }
