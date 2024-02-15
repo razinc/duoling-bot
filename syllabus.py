@@ -4548,6 +4548,11 @@ syllabus = {
                 "chinese": "你昨天晚上 跟谁在聊天?",
                 "pinyin": "Nǐ zuótiān wǎnshàng gēn shéi zài liáotiān?",
             },
+            {
+                "english": "They drink tea and chat at the same time.",
+                "chinese": "他们一边喝茶, 一边聊天.",
+                "pinyin": "Tāmen yībiān hē chá, yībiān liáotiān.",
+            },
         ],
     },
 }
