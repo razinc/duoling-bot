@@ -4558,6 +4558,21 @@ syllabus = {
                 "chinese": "我们什么时候再见面?",
                 "pinyin": "Wǒmen shénme shíhòu zài jiànmiàn?",
             },
+            {
+                "english": "When my friends and I meet up on weekends, we drink beer.",
+                "chinese": "我跟朋友在 周末见面的时候, 会喝啤酒.",
+                "pinyin": "Wǒ gēn péngyǒu zài zhōumò jiànmiàn de shíhòu, huì hē píjiǔ.",
+            },
+            {
+                "english": "She will travel alone this time.",
+                "chinese": "她这次会一个人去旅游.",
+                "pinyin": "Tā zhè cì huì yīgè rén qù lǚyóu.",
+            },
+            {
+                "english": "What do you normally like to do on weekends?",
+                "chinese": "周末你一般喜欢做什么?",
+                "pinyin": "Zhōumò nǐ yībān xǐhuān zuò shénme?",
+            },
         ],
     },
 }
