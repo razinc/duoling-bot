@@ -4573,6 +4573,31 @@ syllabus = {
                 "chinese": "周末你一般喜欢做什么?",
                 "pinyin": "Zhōumò nǐ yībān xǐhuān zuò shénme?",
             },
+            {
+                "english": "Don't forget to bring your passport.",
+                "chinese": "别忘记带护照.",
+                "pinyin": "Bié wàngjì dài hùzhào.",
+            },
+            {
+                "english": "Do we need a tourist visa? We don't need a visa for this place.",
+                "chinese": "我们需要旅游签证吗? 这个地方我们不需要签证.",
+                "pinyin": "Wǒmen xūyào lǚyóu qiānzhèng ma? Zhège dìfāng wǒmen bù xūyào qiānzhèng.",
+            },
+            {
+                "english": "What time does the plane take off?",
+                "chinese": "飞机几点起飞?",
+                "pinyin": "Fēijī jǐ diǎn qǐfēi?",
+            },
+            {
+                "english": "Don't bring too much luggage.",
+                "chinese": "不要带太多行李.",
+                "pinyin": "Bùyào dài tài duō xínglǐ.",
+            },
+            {
+                "english": "We need to go to customs now.",
+                "chinese": "我们现在要去海关.",
+                "pinyin": "Wǒmen xiànzài yào qù hǎiguān.",
+            },
         ],
     },
 }
