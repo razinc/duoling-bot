@@ -4573,6 +4573,12 @@ syllabus = {
                 "chinese": "周末你一般喜欢做什么?",
                 "pinyin": "Zhōumò nǐ yībān xǐhuān zuò shénme?",
             },
+        ],
+    },
+    "unit 33": {
+        "description": "Describe travel needs, discuss language learning.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/",
+        "phrases": [
             {
                 "english": "Don't forget to bring your passport.",
                 "chinese": "别忘记带护照.",
