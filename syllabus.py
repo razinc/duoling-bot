@@ -4604,6 +4604,11 @@ syllabus = {
                 "chinese": "我们现在要去海关.",
                 "pinyin": "Wǒmen xiànzài yào qù hǎiguān.",
             },
+            {
+                "english": "He has two passports.",
+                "chinese": "他有两本护照.",
+                "pinyin": "Tā yǒu liǎng běn hùzhào.",
+            },
         ],
     },
 }
