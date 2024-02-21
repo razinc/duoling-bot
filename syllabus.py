@@ -4609,6 +4609,11 @@ syllabus = {
                 "chinese": "他有两本护照.",
                 "pinyin": "Tā yǒu liǎng běn hùzhào.",
             },
+            {
+                "english": "The plane is taking off soon!",
+                "chinese": "飞机快要起飞了!",
+                "pinyin": "Fēijī kuàiyào qǐfēile!",
+            },
         ],
     },
 }
