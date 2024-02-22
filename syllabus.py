@@ -4614,6 +4614,11 @@ syllabus = {
                 "chinese": "飞机快要起飞了!",
                 "pinyin": "Fēijī kuàiyào qǐfēile!",
             },
+            {
+                "english": "Don't leave me!",
+                "chinese": "别离开我!",
+                "pinyin": "Bié líkāi wǒ!",
+            },
         ],
     },
 }
