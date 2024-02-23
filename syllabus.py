@@ -4619,6 +4619,11 @@ syllabus = {
                 "chinese": "别离开我!",
                 "pinyin": "Bié líkāi wǒ!",
             },
+            {
+                "english": "He left london last year.",
+                "chinese": "他去年离开了伦敦.",
+                "pinyin": "Tā qùnián líkāile lúndūn.",
+            },
         ],
     },
 }
