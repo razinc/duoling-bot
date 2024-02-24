@@ -4624,6 +4624,86 @@ syllabus = {
                 "chinese": "他去年离开了伦敦.",
                 "pinyin": "Tā qùnián líkāile lúndūn.",
             },
+            {
+                "english": "What did you realize? I realized I did not bring my passport.",
+                "chinese": "你发现了什么? 我发现我没有带护照.",
+                "pinyin": "Nǐ fāxiànle shénme? Wǒ fāxiàn wǒ méiyǒu dài hùzhào.",
+            },
+            {
+                "english": "I realized I don't have a tourist visa.",
+                "chinese": "我发现我没有旅游签证.",
+                "pinyin": "Wǒ fāxiàn wǒ méiyǒu lǚyóu qiānzhèng.",
+            },
+            {
+                "english": "Please check one more time.",
+                "chinese": "请再检查一次.",
+                "pinyin": "Qǐng zài jiǎnchá yīcì.",
+            },
+            {
+                "english": "Please check your luggage.",
+                "chinese": "请检查一下你的行李.",
+                "pinyin": "Qǐng jiǎnchá yīxià nǐ de xínglǐ.",
+            },
+            {
+                "english": "That place is not safe.",
+                "chinese": "那个地方不安全.",
+                "pinyin": "Nàgè dìfāng bù ānquán.",
+            },
+            {
+                "english": "Don't go out at night, it is not safe.",
+                "chinese": "晚上不要出去, 不安全.",
+                "pinyin": "Wǎnshàng bùyào chūqù, bù ānquán.",
+            },
+            {
+                "english": "Where is customs?",
+                "chinese": "海关在哪儿?",
+                "pinyin": "Hǎiguān zài nǎ'er?",
+            },
+            {
+                "english": "I almost forgot her birthday.",
+                "chinese": "我几乎忘记了她的生日.",
+                "pinyin": "Wǒ jīhū wàngjìle tā de shēngrì.",
+            },
+            {
+                "english": "I don't know where customs is.",
+                "chinese": "我不知道海关在哪儿.",
+                "pinyin": "Wǒ bù zhīdào hǎiguān zài nǎ'er.",
+            },
+            {
+                "english": "She was almost late.",
+                "chinese": "她几乎迟到了.",
+                "pinyin": "Tā jīhū chídàole.",
+            },
+            {
+                "english": "Where is my passport?",
+                "chinese": "我的护照在哪儿?",
+                "pinyin": "Wǒ de hùzhào zài nǎ'er?",
+            },
+            {
+                "english": "Have you seen my luggage?",
+                "chinese": "你看见了我的行李吗?",
+                "pinyin": "Nǐ kànjiànle wǒ de xínglǐ ma?",
+            },
+            {
+                "english": "What can't we take through the security check?",
+                "chinese": "我们不可以带什么进安全检查?",
+                "pinyin": "Wǒmen bù kěyǐ dài shénme jìn ānquán jiǎnchá?",
+            },
+            {
+                "english": "This is my pasport.",
+                "chinese": "这是我的护照.",
+                "pinyin": "Zhè shì wǒ de hùzhào.",
+            },
+            {
+                "english": "I cannot go because I do not have a visa.",
+                "chinese": "我不能去因为我没有签证.",
+                "pinyin": "Wǒ bùnéng qù yīnwèi wǒ méiyǒu qiānzhèng.",
+            },
+            {
+                "english": "Your father almost forgot to take money with him.",
+                "chinese": "你的爸爸几乎忘记带钱.",
+                "pinyin": "Nǐ de bàba jīhū wàngjì dài qián.",
+            },
         ],
     },
 }
