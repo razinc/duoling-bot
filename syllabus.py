@@ -4704,6 +4704,36 @@ syllabus = {
                 "chinese": "你的爸爸几乎忘记带钱.",
                 "pinyin": "Nǐ de bàba jīhū wàngjì dài qián.",
             },
+            {
+                "english": "How many languages can you speak?",
+                "chinese": "你能说几种语言?",
+                "pinyin": "Nǐ néng shuō jǐ zhǒng yǔyán?",
+            },
+            {
+                "english": "They have been learning Chinese for two years.",
+                "chinese": "他们学中文学了两年了.",
+                "pinyin": "Tāmen xué zhōng wénxuéle liǎng niánle.",
+            },
+            {
+                "english": "He practices writing Chinese characters every day.",
+                "chinese": "他每天练习写汉字.",
+                "pinyin": "Tā měitiān liànxí xiě hànzì.",
+            },
+            {
+                "english": "I want to improve my English proficiency.",
+                "chinese": "我想提高英语水平.",
+                "pinyin": "Wǒ xiǎng tígāo yīngyǔ shuǐpíng.",
+            },
+            {
+                "english": "Which language do you think is the easiest to learn?",
+                "chinese": "你觉得学哪种语言最容易?",
+                "pinyin": "Nǐ juédé xué nǎ zhǒng yǔyán zuì róngyì?",
+            },
+            {
+                "english": "I will study Chinese even harder.",
+                "chinese": "我会更努力学习中文.",
+                "pinyin": "Wǒ huì gèng nǔlì xuéxí zhōngwén.",
+            },
         ],
     },
 }
