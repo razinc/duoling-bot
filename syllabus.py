@@ -4734,6 +4734,11 @@ syllabus = {
                 "chinese": "我会更努力学习中文.",
                 "pinyin": "Wǒ huì gèng nǔlì xuéxí zhōngwén.",
             },
+            {
+                "english": "It's easier said than done.",
+                "chinese": "说比做容易.",
+                "pinyin": "Shuō bǐ zuò róngyì.",
+            },
         ],
     },
 }
