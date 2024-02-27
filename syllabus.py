@@ -4739,6 +4739,11 @@ syllabus = {
                 "chinese": "说比做容易.",
                 "pinyin": "Shuō bǐ zuò róngyì.",
             },
+            {
+                "english": "This job is not easy.",
+                "chinese": "这个工作不容易.",
+                "pinyin": "Zhège gōngzuò bù róngyì.",
+            },
         ],
     },
 }
