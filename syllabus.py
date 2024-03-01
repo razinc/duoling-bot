@@ -4754,6 +4754,11 @@ syllabus = {
                 "chinese": "我认识他很久了.",
                 "pinyin": "Wǒ rènshí tā hěnjiǔle.",
             },
+            {
+                "english": "I have been waiting for you for a long time.",
+                "chinese": "我等你等很久了.",
+                "pinyin": "Wǒ děng nǐ děng hěnjiǔle.",
+            },
         ],
     },
 }
