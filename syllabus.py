@@ -4759,6 +4759,11 @@ syllabus = {
                 "chinese": "我等你等很久了.",
                 "pinyin": "Wǒ děng nǐ děng hěnjiǔle.",
             },
+            {
+                "english": "She works hard every day.",
+                "chinese": "她每天都都很努力工作.",
+                "pinyin": "Tā měitiān dū dōu hěn nǔlì gōngzuò.",
+            },
         ],
     },
 }
