@@ -4764,6 +4764,11 @@ syllabus = {
                 "chinese": "她每天都都很努力工作.",
                 "pinyin": "Tā měitiān dū dōu hěn nǔlì gōngzuò.",
             },
+            {
+                "english": "Tomorrow will be even better.",
+                "chinese": "明天会更好.",
+                "pinyin": "Míngtiān huì gèng hǎo.",
+            },
         ],
     },
 }
