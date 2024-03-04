@@ -4765,9 +4765,14 @@ syllabus = {
                 "pinyin": "Tā měitiān dū dōu hěn nǔlì gōngzuò.",
             },
             {
-                "english": "Tomorrow will be even better.",
+                "english": "Tomorrow will be better.",
                 "chinese": "明天会更好.",
                 "pinyin": "Míngtiān huì gèng hǎo.",
+            },
+            {
+                "english": "Does every character have a story?",
+                "chinese": "每个汉字都有一个故事吗?",
+                "pinyin": "Měi gè hànzì dōu yǒu yīgè gùshì ma?",
             },
         ],
     },
