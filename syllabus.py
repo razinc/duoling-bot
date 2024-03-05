@@ -4774,6 +4774,11 @@ syllabus = {
                 "chinese": "每个汉字都有一个故事吗?",
                 "pinyin": "Měi gè hànzì dōu yǒu yīgè gùshì ma?",
             },
+            {
+                "english": "I think writing Chinese characters is more difficult.",
+                "chinese": "我觉得写汉字更难.",
+                "pinyin": "Wǒ juédé xiě hànzì gèng nán.",
+            },
         ],
     },
 }
