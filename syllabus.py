@@ -4779,6 +4779,11 @@ syllabus = {
                 "chinese": "我觉得写汉字更难.",
                 "pinyin": "Wǒ juédé xiě hànzì gèng nán.",
             },
+            {
+                "english": "I have a Chinese test tomorrow.",
+                "chinese": "明天我有考中文.",
+                "pinyin": "Míngtiān wǒ yǒu kǎo zhōngwén.",
+            },
         ],
     },
 }
