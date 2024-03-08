@@ -4789,6 +4789,11 @@ syllabus = {
                 "chinese": "这次的考试我考得不好.",
                 "pinyin": "Zhè cì de kǎoshì wǒ kǎo dé bù hǎo.",
             },
+            {
+                "english": "Later she went to Taiwan to learn Chinese.",
+                "chinese": "她后来去了台湾学中文.",
+                "pinyin": "Tā hòulái qùle táiwān xué zhōngwén.",
+            },
         ],
     },
 }
