@@ -4794,6 +4794,36 @@ syllabus = {
                 "chinese": "她后来去了台湾学中文.",
                 "pinyin": "Tā hòulái qùle táiwān xué zhōngwén.",
             },
+            {
+                "english": "Her English skills are not bad.",
+                "chinese": "她的英语水平很不错.",
+                "pinyin": "Tā de yīngyǔ shuǐpíng hěn bùcuò.",
+            },
+            {
+                "english": "How do we improve our Chinese proficiency?",
+                "chinese": "我们怎么样提高汉语水平?",
+                "pinyin": "Wǒmen zěnme yàng tígāo hànyǔ shuǐpíng?",
+            },
+            {
+                "english": "Your Spanish proficiency has improved.",
+                "chinese": "你的西班牙语水平提高了.",
+                "pinyin": "Nǐ de xībānyá yǔ shuǐpíng tígāole.",
+            },
+            {
+                "english": "What happened to them afterwards?",
+                "chinese": "他们后来怎么了?",
+                "pinyin": "Tāmen hòulái zěnmeliǎo?",
+            },
+            {
+                "english": "I studied hard and did well on the exam later.",
+                "chinese": "我努力学习, 后来考试考得不错.",
+                "pinyin": "Wǒ nǔlì xuéxí, hòulái kǎoshì kǎo dé bùcuò.",
+            },
+            {
+                "english": "He can speak many languages.",
+                "chinese": "他能说很多种语言.",
+                "pinyin": "Tā néng shuō hěnduō zhǒng yǔyán.",
+            },
         ],
     },
 }
