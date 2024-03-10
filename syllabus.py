@@ -4826,4 +4826,15 @@ syllabus = {
             },
         ],
     },
+    "unit 34": {
+        "description": "Express feelings, communicate at school.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/",
+        "phrases": [
+            {
+                "english": "Don't be nervous! I will help you.",
+                "chinese": "别紧张! 我会帮你.",
+                "pinyin": "Bié jǐnzhāng! Wǒ huì bāng nǐ.",
+            },
+        ],
+    },
 }
