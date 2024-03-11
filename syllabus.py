@@ -4835,6 +4835,11 @@ syllabus = {
                 "chinese": "别紧张! 我会帮你.",
                 "pinyin": "Bié jǐnzhāng! Wǒ huì bāng nǐ.",
             },
+            {
+                "english": "Do you know why they are angry?",
+                "chinese": "你知道他们为什么生气吗?",
+                "pinyin": "Nǐ zhīdào tāmen wèishéme shēngqì ma?",
+            },
         ],
     },
 }
