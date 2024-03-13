@@ -4845,6 +4845,11 @@ syllabus = {
                 "chinese": "为什么你看起来非常生气?",
                 "pinyin": "Wèishéme nǐ kàn qǐlái fēicháng shēngqì?",
             },
+            {
+                "english": "Why do you look nervous?",
+                "chinese": "为什么你看起来很紧张?",
+                "pinyin": "Wèishéme nǐ kàn qǐlái hěn jǐnzhāng?",
+            },
         ],
     },
 }
