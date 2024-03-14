@@ -4850,6 +4850,11 @@ syllabus = {
                 "chinese": "为什么你看起来很紧张?",
                 "pinyin": "Wèishéme nǐ kàn qǐlái hěn jǐnzhāng?",
             },
+            {
+                "english": "Look! That person's hat is strange.",
+                "chinese": "看! 那个人的帽子很奇怪.",
+                "pinyin": "Kàn! Nàgè rén de màozi hěn qíguài.",
+            },
         ],
     },
 }
