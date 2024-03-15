@@ -4855,6 +4855,11 @@ syllabus = {
                 "chinese": "看! 那个人的帽子很奇怪.",
                 "pinyin": "Kàn! Nàgè rén de màozi hěn qíguài.",
             },
+            {
+                "english": "Strange! Why is nobody home?",
+                "chinese": "奇怪! 为什么没有人在家?",
+                "pinyin": "Qíguài! Wèishéme méiyǒu rén zàijiā?",
+            },
         ],
     },
 }
