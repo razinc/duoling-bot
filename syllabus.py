@@ -4860,6 +4860,11 @@ syllabus = {
                 "chinese": "奇怪! 为什么没有人在家?",
                 "pinyin": "Qíguài! Wèishéme méiyǒu rén zàijiā?",
             },
+            {
+                "english": "Don't be sad!",
+                "chinese": "别难过!",
+                "pinyin": "Bié nánguò!",
+            },
         ],
     },
 }
