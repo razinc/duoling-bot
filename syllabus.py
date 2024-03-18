@@ -4870,6 +4870,11 @@ syllabus = {
                 "chinese": "她高兴地笑了!",
                 "pinyin": "Tā gāoxìng de xiàole!",
             },
+            {
+                "english": "My friend left angrily.",
+                "chinese": "我的朋友生气地离开了.",
+                "pinyin": "Wǒ de péngyǒu shēngqì de líkāile.",
+            },
         ],
     },
 }
