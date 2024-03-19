@@ -4875,6 +4875,11 @@ syllabus = {
                 "chinese": "我的朋友生气地离开了.",
                 "pinyin": "Wǒ de péngyǒu shēngqì de líkāile.",
             },
+            {
+                "english": "Why is she crying?",
+                "chinese": "她为什么她在哭?",
+                "pinyin": "Tā wèishéme tā zài kū?",
+            },
         ],
     },
 }
