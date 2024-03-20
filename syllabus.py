@@ -4880,6 +4880,11 @@ syllabus = {
                 "chinese": "她为什么她在哭?",
                 "pinyin": "Tā wèishéme tā zài kū?",
             },
+            {
+                "english": "He cried sadly.",
+                "chinese": "他难过地哭了.",
+                "pinyin": "Tā nánguò de kūle.",
+            },
         ],
     },
 }
