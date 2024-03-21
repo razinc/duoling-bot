@@ -4885,6 +4885,11 @@ syllabus = {
                 "chinese": "他难过地哭了.",
                 "pinyin": "Tā nánguò de kūle.",
             },
+            {
+                "english": "This movie is scary.",
+                "chinese": "这个电影很可怕.",
+                "pinyin": "Zhège diànyǐng hěn kěpà.",
+            },
         ],
     },
 }
