@@ -4890,6 +4890,11 @@ syllabus = {
                 "chinese": "这个电影很可怕.",
                 "pinyin": "Zhège diànyǐng hěn kěpà.",
             },
+            {
+                "english": "I have not seen my parents for a year, I miss them.",
+                "chinese": "我没有见父母一年了, 我想他们.",
+                "pinyin": "Wǒ méiyǒu jiàn fùmǔ yī niánle, wǒ xiǎng tāmen.",
+            },
         ],
     },
 }
