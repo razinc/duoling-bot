@@ -4895,6 +4895,11 @@ syllabus = {
                 "chinese": "我没有见父母一年了, 我想他们.",
                 "pinyin": "Wǒ méiyǒu jiàn fùmǔ yī niánle, wǒ xiǎng tāmen.",
             },
+            {
+                "english": "I miss my older brother very much, I want to cry.",
+                "chinese": "我非常想我的哥哥, 我想哭.",
+                "pinyin": "Wǒ fēicháng xiǎng wǒ dí gēgē, wǒ xiǎng kū.",
+            },
         ],
     },
 }
