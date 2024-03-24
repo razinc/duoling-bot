@@ -4900,6 +4900,11 @@ syllabus = {
                 "chinese": "我非常想我的哥哥, 我想哭.",
                 "pinyin": "Wǒ fēicháng xiǎng wǒ dí gēgē, wǒ xiǎng kū.",
             },
+            {
+                "english": "Not funny!",
+                "chinese": "不好笑!",
+                "pinyin": "Bù hǎoxiào!",
+            },
         ],
     },
 }
