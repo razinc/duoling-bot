@@ -4905,6 +4905,11 @@ syllabus = {
                 "chinese": "不好笑!",
                 "pinyin": "Bù hǎoxiào!",
             },
+            {
+                "english": "That story is funny!",
+                "chinese": "那个故事很好笑!",
+                "pinyin": "Nàgè gùshì hěn hǎoxiào!",
+            },
         ],
     },
 }
