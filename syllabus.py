@@ -4915,6 +4915,11 @@ syllabus = {
                 "chinese": "她经常帮我.",
                 "pinyin": "Tā jīngcháng bāng wǒ.",
             },
+            {
+                "english": "Let me tell you a funny thing.",
+                "chinese": "让我告诉你一件好笑的事情.",
+                "pinyin": "Ràng wǒ gàosù nǐ yī jiàn hǎoxiào de shìqíng.",
+            },
         ],
     },
 }
