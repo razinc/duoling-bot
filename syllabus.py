@@ -4920,6 +4920,11 @@ syllabus = {
                 "chinese": "让我告诉你一件好笑的事情.",
                 "pinyin": "Ràng wǒ gàosù nǐ yī jiàn hǎoxiào de shìqíng.",
             },
+            {
+                "english": "He is often angry.",
+                "chinese": "他经常生气.",
+                "pinyin": "Tā jīngcháng shēngqì.",
+            },
         ],
     },
 }
