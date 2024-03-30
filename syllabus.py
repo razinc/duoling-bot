@@ -4930,6 +4930,11 @@ syllabus = {
                 "chinese": "你最关心什么?",
                 "pinyin": "Nǐ zuì guānxīn shénme?",
             },
+            {
+                "english": "He only cares about his cat.",
+                "chinese": "他只关心他的猫.",
+                "pinyin": "Tā zhǐ guānxīn tā de māo.",
+            },
         ],
     },
 }
