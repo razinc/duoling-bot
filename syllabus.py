@@ -4935,6 +4935,11 @@ syllabus = {
                 "chinese": "他只关心他的猫.",
                 "pinyin": "Tā zhǐ guānxīn tā de māo.",
             },
+            {
+                "english": "Your parents do care about you.",
+                "chinese": "你的父母很关心你.",
+                "pinyin": "Nǐ de fùmǔ hěn guānxīn nǐ.",
+            },
         ],
     },
 }
