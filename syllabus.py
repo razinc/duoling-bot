@@ -4521,7 +4521,7 @@ syllabus = {
             {
                 "english": "I talk to Mom on the Internet every Saturday.",
                 "chinese": "每个星期六, 我会跟妈妈上网聊天.",
-                "pinyin": "Měi gè xīngqíliù, wǒ huì gēn māmā shàngwǎng liáotiān..",
+                "pinyin": "Měi gè xīngqíliù, wǒ huì gēn māmā shàngwǎng liáotiān.",
             },
             {
                 "english": "I like to go shopping by myself.",
@@ -4939,6 +4939,11 @@ syllabus = {
                 "english": "Your parents do care about you.",
                 "chinese": "你的父母很关心你.",
                 "pinyin": "Nǐ de fùmǔ hěn guānxīn nǐ.",
+            },
+            {
+                "english": "Are dogs more affectionate than cats?",
+                "chinese": "狗比猫热情吗?",
+                "pinyin": "狗比猫热情吗?",
             },
         ],
     },
