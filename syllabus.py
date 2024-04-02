@@ -4943,7 +4943,12 @@ syllabus = {
             {
                 "english": "Are dogs more affectionate than cats?",
                 "chinese": "狗比猫热情吗?",
-                "pinyin": "狗比猫热情吗?",
+                "pinyin": "Gǒu bǐ māo rèqíng ma?",
+            },
+            {
+                "english": "I have many affectionate friends.",
+                "chinese": "我有很多热情的朋友.",
+                "pinyin": "Wǒ yǒu hěnduō rèqíng de péngyǒu.",
             },
         ],
     },
