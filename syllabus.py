@@ -4950,6 +4950,11 @@ syllabus = {
                 "chinese": "我有很多热情的朋友.",
                 "pinyin": "Wǒ yǒu hěnduō rèqíng de péngyǒu.",
             },
+            {
+                "english": "I bumped into my teacher at the airport.",
+                "chinese": "我在机场遇到了我的老师.",
+                "pinyin": "Wǒ zài jīchǎng yù dàole wǒ de lǎoshī.",
+            },
         ],
     },
 }
