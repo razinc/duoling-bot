@@ -4955,6 +4955,11 @@ syllabus = {
                 "chinese": "我在机场遇到了我的老师.",
                 "pinyin": "Wǒ zài jīchǎng yù dàole wǒ de lǎoshī.",
             },
+            {
+                "english": "I bumped into my good friend in the park.",
+                "chinese": "我在公园遇到了我的好朋友.",
+                "pinyin": "Wǒ zài gōngyuán yù dàole wǒ de hǎo péngyǒu.",
+            },
         ],
     },
 }
