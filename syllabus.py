@@ -4960,6 +4960,11 @@ syllabus = {
                 "chinese": "我在公园遇到了我的好朋友.",
                 "pinyin": "Wǒ zài gōngyuán yù dàole wǒ de hǎo péngyǒu.",
             },
+            {
+                "english": "Her younger sister looks upset.",
+                "chinese": "她的妹妹看起来很难过.",
+                "pinyin": "Tā de mèimei kàn qǐlái hěn nánguò.",
+            },
         ],
     },
 }
