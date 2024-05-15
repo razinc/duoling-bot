@@ -4965,6 +4965,11 @@ syllabus = {
                 "chinese": "她的妹妹看起来很难过.",
                 "pinyin": "Tā de mèimei kàn qǐlái hěn nánguò.",
             },
+            {
+                "english": "We bumped into him in the hospital, he looked upset.",
+                "chinese": "我们在医院遇到他, 他看起来很难过.",
+                "pinyin": "Wǒmen zài yīyuàn yù dào tā, tā kàn qǐlái hěn nánguò.",
+            },
         ],
     },
 }
