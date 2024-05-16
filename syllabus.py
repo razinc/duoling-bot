@@ -4970,6 +4970,11 @@ syllabus = {
                 "chinese": "我们在医院遇到他, 他看起来很难过.",
                 "pinyin": "Wǒmen zài yīyuàn yù dào tā, tā kàn qǐlái hěn nánguò.",
             },
+            {
+                "english": "My cat often greets me affectionately.",
+                "chinese": "我的猫经常热情地欢迎我.",
+                "pinyin": "Wǒ de māo jīngcháng rèqíng de huānyíng wǒ.",
+            },
         ],
     },
 }
