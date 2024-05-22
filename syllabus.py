@@ -4975,6 +4975,11 @@ syllabus = {
                 "chinese": "我的猫经常热情地欢迎我.",
                 "pinyin": "Wǒ de māo jīngcháng rèqíng de huānyíng wǒ.",
             },
+            {
+                "english": "There is a test tomorrow, I am nervous.",
+                "chinese": "明天有考试, 我很紧张.",
+                "pinyin": "Míngtiān yǒu kǎoshì, wǒ hěn jǐnzhāng.",
+            },
         ],
     },
 }
