@@ -4980,6 +4980,11 @@ syllabus = {
                 "chinese": "明天有考试, 我很紧张.",
                 "pinyin": "Míngtiān yǒu kǎoshì, wǒ hěn jǐnzhāng.",
             },
+            {
+                "english": "She looks strange today.",
+                "chinese": "她今天看起来很奇怪.",
+                "pinyin": "Tā jīntiān kàn qǐlái hěn qíguài.",
+            },
         ],
     },
 }
