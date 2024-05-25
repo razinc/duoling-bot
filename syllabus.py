@@ -4985,6 +4985,11 @@ syllabus = {
                 "chinese": "她今天看起来很奇怪.",
                 "pinyin": "Tā jīntiān kàn qǐlái hěn qíguài.",
             },
+            {
+                "english": "I forgot to take my dog out, so it is angry.",
+                "chinese": "我忘记了带我的狗出去, 所以它很生气.",
+                "pinyin": "Wǒ wàngjìle dài wǒ de gǒu chūqù, suǒyǐ tā hěn shēngqì.",
+            },
         ],
     },
 }
