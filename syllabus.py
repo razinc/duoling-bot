@@ -4990,6 +4990,11 @@ syllabus = {
                 "chinese": "我忘记了带我的狗出去, 所以它很生气.",
                 "pinyin": "Wǒ wàngjìle dài wǒ de gǒu chūqù, suǒyǐ tā hěn shēngqì.",
             },
+            {
+                "english": "This place is too scary!",
+                "chinese": "这个地方太可怕了!",
+                "pinyin": "Zhège dìfāng tài kěpàle!",
+            },
         ],
     },
 }
