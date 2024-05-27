@@ -4995,6 +4995,11 @@ syllabus = {
                 "chinese": "这个地方太可怕了!",
                 "pinyin": "Zhège dìfāng tài kěpàle!",
             },
+            {
+                "english": "Our teacher is scary.",
+                "chinese": "我们的老师很可怕.",
+                "pinyin": "Wǒmen de lǎoshī hěn kěpà.",
+            },
         ],
     },
 }
