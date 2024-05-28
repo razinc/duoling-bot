@@ -5000,6 +5000,11 @@ syllabus = {
                 "chinese": "我们的老师很可怕.",
                 "pinyin": "Wǒmen de lǎoshī hěn kěpà.",
             },
+            {
+                "english": "Whom do you miss the most now?",
+                "chinese": "你现在最想谁?",
+                "pinyin": "Nǐ xiànzài zuì xiǎng shéi?",
+            },
         ],
     },
 }
