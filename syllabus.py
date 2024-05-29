@@ -5005,6 +5005,11 @@ syllabus = {
                 "chinese": "你现在最想谁?",
                 "pinyin": "Nǐ xiànzài zuì xiǎng shéi?",
             },
+            {
+                "english": "She teaches me Chinese.",
+                "chinese": "她教我中文.",
+                "pinyin": "Tā jiào wǒ zhōngwén.",
+            },
         ],
     },
 }
