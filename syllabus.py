@@ -5015,6 +5015,11 @@ syllabus = {
                 "chinese": "一会儿在食堂见!",
                 "pinyin": "Yīhuǐ'er zài shítáng jiàn!",
             },
+            {
+                "english": "She needs to go see the principal now.",
+                "chinese": "她现在要去见校长.",
+                "pinyin": "Tā xiànzài yào qù jiàn xiàozhǎng.",
+            },
         ],
     },
 }
