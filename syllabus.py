@@ -5020,6 +5020,16 @@ syllabus = {
                 "chinese": "她现在要去见校长.",
                 "pinyin": "Tā xiànzài yào qù jiàn xiàozhǎng.",
             },
+            {
+                "english": "Do you know who is the new principal?",
+                "chinese": "你知道新校长是谁吗?",
+                "pinyin": "Nǐ zhīdào xīn xiàozhǎng shì shéi ma?",
+            },
+            {
+                "english": "Our principal has high standards.",
+                "chinese": "我们的校长要求很高.",
+                "pinyin": "Wǒmen de xiàozhǎng yāoqiú hěn gāo.",
+            },
         ],
     },
 }
