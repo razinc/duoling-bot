@@ -5030,6 +5030,11 @@ syllabus = {
                 "chinese": "我们的校长要求很高.",
                 "pinyin": "Wǒmen de xiàozhǎng yāoqiú hěn gāo.",
             },
+            {
+                "english": "How many people are in our class in total?",
+                "chinese": "我们班一共有多少人?",
+                "pinyin": "Wǒmen bān yīgòng yǒu duōshǎo rén?",
+            },
         ],
     },
 }
