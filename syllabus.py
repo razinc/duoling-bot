@@ -5035,6 +5035,11 @@ syllabus = {
                 "chinese": "我们班一共有多少人?",
                 "pinyin": "Wǒmen bān yīgòng yǒu duōshǎo rén?",
             },
+            {
+                "english": "Who is teaching your class this year?",
+                "chinese": "今年谁教你们的班?",
+                "pinyin": "Jīnnián shéi jiào nǐmen de bān?",
+            },
         ],
     },
 }
