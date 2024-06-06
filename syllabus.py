@@ -5040,6 +5040,11 @@ syllabus = {
                 "chinese": "今年谁教你们的班?",
                 "pinyin": "Jīnnián shéi jiào nǐmen de bān?",
             },
+            {
+                "english": "You have too many requests!",
+                "chinese": "你有太多要求!",
+                "pinyin": "Nǐ yǒu tài duō yāoqiú!",
+            },
         ],
     },
 }
