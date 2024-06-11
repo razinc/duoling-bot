@@ -5045,6 +5045,171 @@ syllabus = {
                 "chinese": "你有太多要求!",
                 "pinyin": "Nǐ yǒu tài duō yāoqiú!",
             },
+            {
+                "english": "The cafeteria food is not good.",
+                "pinyin": "食堂的东西不好吃.",
+                "pinyin": "Shítáng de dōngxī bù hào chī.",
+            },
+            {
+                "english": "I will go to high school next year.",
+                "pinyin": "我明年上高中.",
+                "pinyin": "Wǒ míngnián shàng gāozhōng.",
+            },
+            {
+                "english": "She needs to leave now.",
+                "pinyin": "她现在必须要离开.",
+                "pinyin": "Tā xiànzài bìxū yào líkāi.",
+            },
+            {
+                "english": "I still haven't finished my assignments.",
+                "pinyin": "我还没有完成作业.",
+                "pinyin": "Wǒ hái méiyǒu wánchéng zuòyè.",
+            },
+            {
+                "english": "High school homework is hard.",
+                "pinyin": "高中的作业很难.",
+                "pinyin": "Gāozhōng de zuòyè hěn nán.",
+            },
+            {
+                "english": "You must finish your assignments before Friday.",
+                "pinyin": "你们星期五以前必须要完成作业.",
+                "pinyin": "Nǐmen xīngqíwǔ yǐqián bìxū yào wánchéng zuòyè.",
+            },
+            {
+                "english": "I must finish this work today.",
+                "pinyin": "我今天必须要完成这个工作.",
+                "pinyin": "",
+            },
+            {
+                "english": "I forgot to buy paper!",
+                "pinyin": "我忘记买纸了!",
+                "pinyin": "Wǒ jīntiān bìxū yào wánchéng zhège gōngzuò!",
+            },
+            {
+                "english": "Study hard and make progress every day.",
+                "pinyin": "努力学习, 天天向上.",
+                "pinyin": "Nǔlì xuéxí, tiāntiān xiàngshàng.",
+            },
+            {
+                "english": "Sorry, can I borrow the notes from you?",
+                "pinyin": "对不起, 我可以向你借笔记吗?",
+                "pinyin": "Duìbùqǐ, wǒ kěyǐ xiàng nǐ jiè bǐjì ma?",
+            },
+            {
+                "english": "I forgot to take notes today.",
+                "pinyin": "我忘记写今天的笔记.",
+                "pinyin": "Wǒ wàngjì xiě jīntiān de bǐjì.",
+            },
+            {
+                "english": "It is not clear to me.",
+                "pinyin": "我不清楚.",
+                "pinyin": "Wǒ bù qīngchǔ.",
+            },
+            {
+                "english": "What's written on the blackboard? I can't see it clearly.",
+                "pinyin": "黑板上写什么? 我看不清楚.",
+                "pinyin": "Hēibǎn shàng xiě shénme? Wǒ kàn bù qīngchǔ",
+            },
+            {
+                "english": "The words on the blackboard are too small!",
+                "pinyin": "黑板上的字太小了!",
+                "pinyin": "Hēibǎn shàng de zì tài xiǎole.",
+            },
+            {
+                "english": "Where is the gym?",
+                "pinyin": "体育馆在哪儿?",
+                "pinyin": "Tǐyùguǎn zài nǎ'er?",
+            },
+            {
+                "english": "I did not bring my notebook.",
+                "pinyin": "我没有带笔记本.",
+                "pinyin": "Wǒ méiyǒu dài bǐjìběn.",
+            },
+            {
+                "english": "My notebook is missing!",
+                "pinyin": "我的笔记本不见了!",
+                "pinyin": "Wǒ de bǐjìběn bùjiànle",
+            },
+            {
+                "english": "I teach them music.",
+                "pinyin": "我教他们音乐.",
+                "pinyin": "Wǒ jiào tāmen yīnyuè.",
+            },
+            {
+                "english": "Their teacher has high standards.",
+                "pinyin": "他们的老师要求很高.",
+                "pinyin": "",
+            },
+            {
+                "english": "The cafeteria food is not good.",
+                "pinyin": "食堂的东西不好吃.",
+                "pinyin": "",
+            },
+            {
+                "english": "Our principal has high standards.",
+                "pinyin": "我们的校长要求很高.",
+                "pinyin": "",
+            },
+            {
+                "english": "They are in the cafeteria now.",
+                "pinyin": "他们现在在食堂.",
+                "pinyin": "Tāmen xiànzài zài shítáng.",
+            },
+            {
+                "english": "How many people are there in our class in total?",
+                "pinyin": "我们班一共有多少人?",
+                "pinyin": "Wǒmen bān yīgòng yǒu duōshǎo rén?",
+            },
+            {
+                "english": "That is our high school.",
+                "pinyin": "那是我们的高中.",
+                "pinyin": "Nà shì wǒmen de gāozhōng.",
+            },
+            {
+                "english": "What was yesterday's assignment?",
+                "pinyin": "昨天的作业是什么?",
+                "pinyin": "Zuótiān de zuòyè shì shénme?",
+            },
+            {
+                "english": "Can you lend me a pencil?",
+                "pinyin": "可以借我铅笔吗?",
+                "pinyin": "Kěyǐ jiè wǒ qiānbǐ ma?",
+            },
+            {
+                "english": "I take notes on paper.",
+                "pinyin": "我在纸上写笔记.",
+                "pinyin": "Wǒ zài zhǐ shàng xiě bǐjì.",
+            },
+            {
+                "english": "Can you give me a piece of paper?",
+                "pinyin": "可以给我一张纸吗?",
+                "pinyin": "Kěyǐ gěi wǒ yī zhāng zhǐ ma?",
+            },
+            {
+                "english": "She writes with a pencil.",
+                "pinyin": "她用铅笔写字.",
+                "pinyin": "Tā yòng qiānbǐ xiězì.",
+            },
+            {
+                "english": "This gym is too small!",
+                "pinyin": "这个体育馆太小了!",
+                "pinyin": "Zhège tǐyùguǎn tài xiǎole!",
+            },
+            {
+                "english": "We play volleyball in the gym.",
+                "pinyin": "我们在体育馆打排球.",
+                "pinyin": "Wǒmen zài tǐyùguǎn dǎ páiqiú.",
+            },
+            {
+                "english": "There are five boys and five girls in her class.",
+                "pinyin": "她的班有五个男孩子和五个女孩子.",
+                "pinyin": "Tā de bān yǒu wǔ gè nán háizi hé wǔ gè nǚ háizi.",
+            },
+            {
+                "english": "Can I borrow the notebook from you?",
+                "pinyin": "我可以向你借笔记本吗?",
+                "pinyin": "Wǒ kěyǐ xiàng nǐ jiè bǐjìběn ma?",
+            },
         ],
     },
 }
