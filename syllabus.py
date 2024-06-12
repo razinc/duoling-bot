@@ -5210,6 +5210,11 @@ syllabus = {
                 "pinyin": "我可以向你借笔记本吗?",
                 "pinyin": "Wǒ kěyǐ xiàng nǐ jiè bǐjìběn ma?",
             },
+            {
+                "english": "I didn't hear it clearly.",
+                "pinyin": "我没有听清楚.",
+                "pinyin": "Wǒ méiyǒu tīng qīngchǔ.",
+            },
         ],
     },
 }
