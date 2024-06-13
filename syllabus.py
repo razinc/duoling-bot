@@ -5215,6 +5215,31 @@ syllabus = {
                 "pinyin": "我没有听清楚.",
                 "pinyin": "Wǒ méiyǒu tīng qīngchǔ.",
             },
+            {
+                "english": "My dog ate my homework.",
+                "pinyin": "我的狗吃了我的作业.",
+                "pinyin": "Wǒ de gǒu chīle wǒ de zuòyè.",
+            },
+            {
+                "english": "He wants to borrow money from me.",
+                "pinyin": "他想向我借钱.",
+                "pinyin": "Tā xiǎng xiàng wǒ jiè qián.",
+            },
+            {
+                "english": "I forgot to bring pencils.",
+                "pinyin": "我忘记带铅笔了.",
+                "pinyin": "Wǒ wàngjì dài qiānbǐle.",
+            },
+            {
+                "english": "Please write it on the blackboards.",
+                "pinyin": "请写在黑板上.",
+                "pinyin": "Qǐng xiě zài hēibǎn shàng.",
+            },
+            {
+                "english": "You can’t borrow my homework.",
+                "pinyin": "你不可以借我的作业.",
+                "pinyin": "Nǐ bù kěyǐ jiè wǒ de zuòyè.",
+            },
         ],
     },
 }
