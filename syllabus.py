@@ -5242,4 +5242,160 @@ syllabus = {
             },
         ],
     },
+    "unit 35": {
+        "description": "Make plans",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/35",
+        "phrases": [
+            {
+                "english": "My younger brother will go study abroad in the UK next year.",
+                "pinyin": "明年我的弟弟会去英国留学.",
+                "pinyin": "Míngnián wǒ de dìdì huì qù yīngguó liúxué.",
+            },
+            {
+                "english": "I will move to Germany next year.",
+                "pinyin": "我明年会搬去德国.",
+                "pinyin": "Wǒ míngnián huì bān qù déguó.",
+            },
+            {
+                "english": "Please work seriously!",
+                "pinyin": "请认真工作!",
+                "pinyin": "Qǐng rènzhēn gōngzuò!",
+            },
+            {
+                "english": "The weather changes a lot there.",
+                "pinyin": "那里的天气变化很大.",
+                "pinyin": "Nàlǐ de tiānqì biànhuà hěn dà.",
+            },
+            {
+                "english": "What are you all planning to do on the weekend?",
+                "pinyin": "你们周末打算做什么?",
+                "pinyin": "Nǐmen zhōumò dǎsuàn zuò shénme?",
+            },
+            {
+                "english": "Our grandma is not planning to move.",
+                "pinyin": "我们的奶奶不打算搬家.",
+                "pinyin": "Wǒmen de nǎinai bù dǎsuàn bānjiā.",
+            },
+            {
+                "english": "Are you serious?",
+                "pinyin": "你是认真的吗?",
+                "pinyin": "Nǐ shì rènzhēn de ma?",
+            },
+            {
+                "english": "I am afraid of change.",
+                "pinyin": "我害怕变化.",
+                "pinyin": "Wǒ hàipà biànhuà.",
+            },
+            {
+                "english": "Which country would you choose to live in?",
+                "pinyin": "你会选择去哪个国家住?",
+                "pinyin": "Nǐ huì xuǎnzé qù nǎge guójiā zhù?",
+            },
+            {
+                "english": "Will you marry me? I do.",
+                "pinyin": "你愿意和我结婚吗? 我愿意.",
+                "pinyin": "Nǐ yuànyì hé wǒ jiéhūn ma? Wǒ yuànyì.",
+            },
+            {
+                "english": "Do I still have a chance?",
+                "pinyin": "我还有机会吗?",
+                "pinyin": "Wǒ hái yǒu jīhuì ma?",
+            },
+            {
+                "english": "I am going to study abroad in Australia soon!",
+                "pinyin": "我快要去澳大利亚留学了!",
+                "pinyin": "Wǒ kuàiyào qù àodàlìyǎ liúxuéle!",
+            },
+            {
+                "english": "What is the thing that you fear the most?",
+                "pinyin": "你最害怕的事情是什么?",
+                "pinyin": "Nǐ zuì hàipà de shìqíng shì shénme?",
+            },
+            {
+                "english": "My boyfriend has a new job opportunity.",
+                "pinyin": "我男朋友有一个新的工作机会.",
+                "pinyin": "Wǒ nán péngyǒu yǒu yīgè xīn de gōngzuò jīhuì.",
+            },
+            {
+                "english": "Please relax, what are you afraid of?",
+                "pinyin": "请放心, 你害怕什么?",
+                "pinyin": "Qǐng fàngxīn, nǐ hàipà shénme?",
+            },
+            {
+                "english": "Of course we don't want to break up.",
+                "pinyin": "我们当然不想分手.",
+                "pinyin": "Wǒmen dāngrán bùxiǎng fēnshǒu.",
+            },
+            {
+                "english": "They broke up last month.",
+                "pinyin": "他们上个月分手了.",
+                "pinyin": "Tāmen shàng gè yuè fēnshǒule.",
+            },
+            {
+                "english": "Which school is he going to pick?",
+                "pinyin": "他打算选择哪个学校?",
+                "pinyin": "Tā dǎsuàn xuǎnzé nǎge xuéxiào?",
+            },
+            {
+                "english": "This is the best choice.",
+                "pinyin": "这是最好的选择.",
+                "pinyin": "Zhè shì zuì hǎo de xuǎnzé.",
+            },
+            {
+                "english": "Is it expensive to study abroad in the US?",
+                "pinyin": "去美国留学贵吗?",
+                "pinyin": "Qù měiguó liúxué guì ma?",
+            },
+            {
+                "english": "Of course she is serious.",
+                "pinyin": "当然她是认真的.",
+                "pinyin": "Dāngrán tā shì rènzhēn de.",
+            },
+            {
+                "english": "I cannot relax!",
+                "pinyin": "我不能放心!",
+                "pinyin": "Wǒ bùnéng fàngxīn!",
+            },
+            {
+                "english": "I want to break up with him.",
+                "pinyin": "我想跟他分手.",
+                "pinyin": "Wǒ xiǎng gēn tā fēnshǒu.",
+            },
+            {
+                "english": "I do not like changes.",
+                "pinyin": "我不喜欢变化.",
+                "pinyin": "Wǒ bù xǐhuān biànhuà.",
+            },
+            {
+                "english": "Please give me a chance.",
+                "pinyin": "请给我一个机会.",
+                "pinyin": "Qǐng gěi wǒ yīgè jīhuì.",
+            },
+            {
+                "english": "She is not serious!",
+                "pinyin": "她不是认真的!",
+                "pinyin": "Tā bùshì rènzhēn de!",
+            },
+            {
+                "english": "We will get married after we have moved.",
+                "pinyin": "我们搬家了以后会结婚.",
+                "pinyin": "Wǒmen bānjiāle yǐhòu huì jiéhūn.",
+            },
+            {
+                "english": "Please ask him to relax.",
+                "chinese": "请叫他放心.",
+                "pinyin": "Qǐng jiào tā fàngxīn.",
+            },
+            {
+                "english": "Of course, I did not tell him.",
+                "chinese": "我当然没有告诉他.",
+                "pinyin": "Wǒ dāngrán méiyǒu gàosù tā.",
+            },
+            {
+                "english": "I have not been here for three years, a lot has changed.",
+                "chinese": "我三年没有来, 这里的变化很大.",
+                "pinyin": "Wǒ sān nián méiyǒu lái, zhèlǐ de biànhuà hěn dà.",
+            },
+        ],
+    },
 }
