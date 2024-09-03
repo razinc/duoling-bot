@@ -728,4 +728,185 @@ syllabus = {
             },
         ],
     },
+    "unit 61": {
+        "description": "Make vacations plans.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/61",
+        "phrases": [
+            {
+                "english": "It is difficult to get a cab here.",
+                "chinese": "在这里很难打车.",
+                "pinyin": "Zài zhèlǐ hěn nán dǎchē.",
+            },
+            {
+                "english": "They planned this performance for you.",
+                "chinese": "他们为你安排了这个表演.",
+                "pinyin": "Tāmen wèi nǐ ānpáile zhège biǎoyǎn.",
+            },
+            {
+                "english": "Where can we get a cab?",
+                "chinese": "我们可以在哪儿打车?",
+                "pinyin": "Wǒmen kěyǐ zài nǎ'er dǎchē?",
+            },
+            {
+                "english": "What performance are we going to see tonight?",
+                "chinese": "今天晚上我们会去看什么表演?",
+                "pinyin": "Jīntiān wǎnshàng wǒmen huì qù kàn shénme biǎoyǎn?",
+            },
+            {
+                "english": "Is the art museum here?",
+                "chinese": "美术博物馆在这儿吗?",
+                "pinyin": "Měishù bówùguǎn zài zhè'er ma?",
+            },
+            {
+                "english": "We have a lot of activities tomorrow.",
+                "chinese": "我们明天有很多活动.",
+                "pinyin": "Wǒmen míngtiān yǒu hěnduō huódòng.",
+            },
+            {
+                "english": "Could you help me take my luggage for a moment?",
+                "chinese": "你可以帮我拿一拿行李吗?",
+                "pinyin": "Nǐ kěyǐ bāng wǒ ná yī ná xínglǐ ma?",
+            },
+            {
+                "english": "I have jet lag, I am tired now.",
+                "chinese": "我有时差, 现在很累.",
+                "pinyin": "Wǒ yǒu shíchā, xiànzài hěn lèi.",
+            },
+            {
+                "english": "What time will the driver come to pick me up tomorrow morning?",
+                "chinese": "司机明天早上几点来接我?",
+                "pinyin": "Sījī míngtiān zǎoshang jǐ diǎn lái jiē wǒ.",
+            },
+            {
+                "english": "We will take you sightseeing to famous places.",
+                "chinese": "我们会带你去有名的地方观光.",
+                "pinyin": "Wǒmen huì dài nǐ qù yǒumíng dì dìfāng guānguāng.",
+            },
+            {
+                "english": "Their home is by the sea.",
+                "chinese": "她们的家在海边.",
+                "pinyin": "Tāmen de jiā zài hǎibiān.",
+            },
+            {
+                "english": "The hotel's breakfast is free.",
+                "chinese": "酒店的早饭是免费的.",
+                "pinyin": "Jiǔdiàn de zǎofàn shì miǎnfèi de.",
+            },
+            {
+                "english": "What time does the performance start?",
+                "chinese": "表演几点开始?",
+                "pinyin": "Biǎoyǎn jǐ diǎn kāishǐ?",
+            },
+            {
+                "english": "What activities did you plan for us?",
+                "chinese": "你为我们安排了什么活动?",
+                "pinyin": "Nǐ wèi wǒmen ānpáile shénme huódòng?",
+            },
+            {
+                "english": "Be careful!",
+                "chinese": "小心!",
+                "pinyin": "Xiǎoxīn!",
+            },
+            {
+                "english": "Please find a driver for us.",
+                "chinese": "请为我们找一个司机.",
+                "pinyin": "Qǐng wèi wǒmen zhǎo yīgè sījī.",
+            },
+            {
+                "english": "She has jetlag, she does not want to sleep.",
+                "chinese": "她有时差, 不想睡觉.",
+                "pinyin": "Tā yǒu shíchā, bùxiǎng shuìjiào.",
+            },
+            {
+                "english": "Can you come pick me up at the airport?",
+                "chinese": "你能来机场接我吗?",
+                "pinyin": "Nǐ néng lái jīchǎng jiē wǒ ma?",
+            },
+            {
+                "english": "Be careful when you cross the road!",
+                "chinese": "小心过马路!",
+                "pinyin": "Xiǎoxīnguò mǎlù!",
+            },
+            {
+                "english": "The scenery here is beautiful!",
+                "chinese": "这里的风景很漂亮!",
+                "pinyin": "Zhèlǐ de fēngjǐng hěn piàoliang!",
+            },
+            {
+                "english": "The driver will pick you up outside the hotel.",
+                "chinese": "司机会在酒店外面接你们.",
+                "pinyin": "Sījī huì zài jiǔdiàn wài miànjiē nǐmen.",
+            },
+            {
+                "english": "Our hotel is by the sea.",
+                "chinese": "我们的酒店在海边.",
+                "pinyin": "Wǒmen de jiǔdiàn zài hǎibiān.",
+            },
+            {
+                "english": "There are not many people on the street.",
+                "chinese": "街道上没有很多人.",
+                "pinyin": "Jiēdào shàng méiyǒu hěnduō rén.",
+            },
+            {
+                "english": "Don't cross the road here.",
+                "chinese": "别在这里过马路.",
+                "pinyin": "Bié zài zhèlǐguò mǎlù.",
+            },
+            {
+                "english": "I do not know my way around here.",
+                "chinese": "我不认识这里的街道.",
+                "pinyin": "Wǒ bù rènshí zhèlǐ de jiēdào.",
+            },
+            {
+                "english": "There are no traffic lights here.",
+                "chinese": "这里没有红绿灯.",
+                "pinyin": "Zhèlǐ méiyǒu hónglǜdēng.",
+            },
+            {
+                "english": "Is this free?",
+                "chinese": "这是免费的吗?",
+                "pinyin": "Zhè shì miǎnfèi de ma?",
+            },
+            {
+                "english": "Can you read it out loud?",
+                "chinese": "你可以读出来吗?",
+                "pinyin": "Nǐ kěyǐ dú chūlái ma?",
+            },
+            {
+                "english": "Could you help me carry my luggage?",
+                "chinese": "你可以帮我拿行李吗?",
+                "pinyin": "Nǐ kěyǐ bāng wǒ ná xínglǐ ma?",
+            },
+            {
+                "english": "Please take the map out.",
+                "chinese": "请你拿出地图.",
+                "pinyin": "Qǐng nǐ ná chū dìtú.",
+            },
+            {
+                "english": "I don't want to say it out loud.",
+                "chinese": "我不想说出来.",
+                "pinyin": "Wǒ bùxiǎng shuō chūlái.",
+            },
+            {
+                "english": "He will help you to plan it.",
+                "chinese": "他会帮你安排.",
+                "pinyin": "Tā huì bāng nǐ ānpái.",
+            },
+            {
+                "english": "We will visit the history museum on Thursday afternoon.",
+                "chinese": "星期四下午我们会参观历史博物馆.",
+                "pinyin": "星期四下午我们会参观历史博物馆.",
+            },
+            {
+                "english": "First cross the road, then keep walking straight ahead.",
+                "chinese": "先过马路, 然后一直往前走.",
+                "pinyin": "Xiānguò mǎlù, ránhòu yīzhí wǎng qián zǒu.",
+            },
+            {
+                "english": "They want to get a city map.",
+                "chinese": "他们想拿一张城市地图.",
+                "pinyin": "Tāmen xiǎng ná yī zhāng chéngshì dìtú.",
+            },
+        ],
+    },
 }
