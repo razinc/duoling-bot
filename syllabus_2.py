@@ -91,7 +91,7 @@ syllabus = {
             {
                 "english": "We have a conference tomorrow.",
                 "chinese": "我们明天有一个会议.",
-                "pinyin": "",
+                "pinyin": "Wǒmen míngtiān yǒu yīgè huìyì",
             },
             {
                 "english": "Miss Li is our manager.",
@@ -906,6 +906,453 @@ syllabus = {
                 "english": "They want to get a city map.",
                 "chinese": "他们想拿一张城市地图.",
                 "pinyin": "Tāmen xiǎng ná yī zhāng chéngshì dìtú.",
+            },
+        ],
+    },
+    "unit 62": {
+        "description": "Discuss communication",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/62",
+        "phrases": [
+            {
+                "english": "You have to log in first.",
+                "chinese": "你要先登录.",
+                "pinyin": "Nǐ yào xiān dēnglù.",
+            },
+            {
+                "english": "I will send you photos.",
+                "chinese": "我会给你发照片.",
+                "pinyin": "Wǒ huì gěi nǐ fā zhàopiàn.",
+            },
+            {
+                "english": "Don't send me text messages again.",
+                "chinese": "别再给我发短信.",
+                "pinyin": "Bié zài gěi wǒ fā duǎnxìn.",
+            },
+            {
+                "english": "Where did she just go?",
+                "chinese": "她刚才去了哪儿?",
+                "pinyin": "Tā gāngcái qùle nǎ'er?",
+            },
+            {
+                "english": "What did you just say?",
+                "chinese": "你刚才说了什么?",
+                "pinyin": "Nǐ gāngcái shuōle shénme?",
+            },
+            {
+                "english": "Have you read the email?",
+                "chinese": "你们看了电子邮件吗?",
+                "pinyin": "Nǐmen kànle diànzǐ yóujiàn ma?",
+            },
+            {
+                "english": "I just sent you an email.",
+                "chinese": "我刚才给你发了电子邮件.",
+                "pinyin": "Wǒ gāngcái gěi nǐ fāle diànzǐ yóujiàn.",
+            },
+            {
+                "english": "He will return your call at once.",
+                "chinese": "他会马上回你的电话.",
+                "pinyin": "Tā huì mǎshàng huí nǐ de diànhuà.",
+            },
+            {
+                "english": "I still have not replied to your email, sorry!",
+                "chinese": "我还没有回你的电子邮件,对不起!",
+                "pinyin": "Wǒ hái méiyǒu huí nǐ de diànzǐ yóujiàn, duìbùqǐ!",
+            },
+            {
+                "english": "I just sent you a text message.",
+                "chinese": "我刚才给你发了一个短信.",
+                "pinyin": "Wǒ gāngcái gěi nǐ fāle yīgè duǎnxìn.",
+            },
+            {
+                "english": "What is today's meeting mainly about?",
+                "chinese": "今天的会议主要是关于什么?",
+                "pinyin": "Jīntiān de huìyì zhǔyào shi guānyú shénme?",
+            },
+            {
+                "english": "What is this movie about?",
+                "chinese": "这个电影是关于什么的?",
+                "pinyin": "Zhège diànyǐng shì guānyú shénme de?",
+            },
+            {
+                "english": "There is no signal here.",
+                "chinese": "这里没有信号.",
+                "pinyin": "Zhèlǐ méiyǒu xìnhào.",
+            },
+            {
+                "english": "I don't want to discuss work.",
+                "chinese": "我不想谈工作.",
+                "pinyin": "Wǒ bùxiǎng tán gōngzuò.",
+            },
+            {
+                "english": "I forgot the password.",
+                "chinese": "我忘记了密码.",
+                "pinyin": "Wǒ wàngjìle mìmǎ.",
+            },
+            {
+                "english": "What were you discussing just now?",
+                "chinese": "你们刚才在谈什么?",
+                "pinyin": "Nǐmen gāngcái zài tán shénme?",
+            },
+            {
+                "english": "I am busy these days.",
+                "chinese": "我这段时间很忙.",
+                "pinyin": "Wǒ zhè duàn shíjiān hěn máng.",
+            },
+            {
+                "english": "Actually, I don't love you anymore.",
+                "chinese": "其实, 我不爱你了.",
+                "pinyin": "Qíshí, wǒ bù ài nǐle.",
+            },
+            {
+                "english": "For the past three months, I was working in Germany.",
+                "chinese": "过去三个月我在德国工作.",
+                "pinyin": "Guòqù sān gè yuè wǒ zài déguó gōngzuò.",
+            },
+            {
+                "english": "We discussed a lot of things.",
+                "chinese": "我们谈了很多事情.",
+                "pinyin": "Wǒmen tánle hěnduō shìqíng.",
+            },
+            {
+                "english": "I actually still have not read your text message.",
+                "chinese": "我其实还没有看你的短信.",
+                "pinyin": "Wǒ qíshí hái méiyǒu kàn nǐ de duǎnxìn.",
+            },
+            {
+                "english": "Do you agree?",
+                "chinese": "你同意吗?",
+                "pinyin": "Nǐ tóngyì ma?",
+            },
+            {
+                "english": "I got promoted!",
+                "chinese": "我升职了!",
+                "pinyin": "Wǒ shēng zhíle!",
+            },
+            {
+                "english": "My manager agreed to get me promoted.",
+                "chinese": "我的经理同意让我升职.",
+                "pinyin": "Wǒ de jīnglǐ tóngyì ràng wǒ shēng zhí.",
+            },
+            {
+                "english": "What time is your interview?",
+                "chinese": "你的面试是几点?",
+                "pinyin": "Nǐ de miànshì shì jǐ diǎn?",
+            },
+            {
+                "english": "I need to prepare for this interview.",
+                "chinese": "我要为这个面试准备.",
+                "pinyin": "Wǒ yào wèi zhège miànshì zhǔnbèi.",
+            },
+            {
+                "english": "The manager is happy with your work.",
+                "chinese": "经理很满意你的工作.",
+                "pinyin": "Jīnglǐ hěn mǎnyì nǐ de gōngzuò.",
+            },
+            {
+                "english": "I have an interview tomorrow.",
+                "chinese": "我明天有一个面试.",
+                "pinyin": "Wǒ míngtiān yǒu yīgè miànshì.",
+            },
+            {
+                "english": "We made this decision based on what everyone needs.",
+                "chinese": "根据大家的需要, 我们做出了这个决定.",
+                "pinyin": "Gēnjù dàjiā de xūyào, wǒmen zuò chūle zhège juédìng.",
+            },
+            {
+                "english": "I don't agree with this decision.",
+                "chinese": "我不同意这个决定.",
+                "pinyin": "Wǒ bù tóngyì zhège juédìng.",
+            },
+            {
+                "english": "The company is not happy with my decision.",
+                "chinese": "公司不满意我的决定.",
+                "pinyin": "Gōngsī bù mǎnyì wǒ de juédìng.",
+            },
+            {
+                "english": "What time is our meeting?",
+                "chinese": "我们几点开会?",
+                "pinyin": "Wǒmen jǐ diǎn kāihuì?",
+            },
+            {
+                "english": "I need to go on a business trip tomorrow.",
+                "chinese": "我明天要出差.",
+                "pinyin": "Wǒ míngtiān yào chūchāi.",
+            },
+            {
+                "english": "When is your business trip?",
+                "chinese": "你什么时候要出差?",
+                "pinyin": "Nǐ shénme shíhòu yào chūchāi?",
+            },
+            {
+                "english": "I have a meeting with my boss tomorrow.",
+                "chinese": "我明天跟老板开会.",
+                "pinyin": "Wǒ míngtiān gēn lǎobǎn kāihuì.",
+            },
+            {
+                "english": "The company is happy with his performance.",
+                "chinese": "公司很满意他的表现.",
+                "pinyin": "Gōngsī hěn mǎnyì tā de biǎoxiàn.",
+            },
+            {
+                "english": "Your recent performance is not good, you are often late.",
+                "chinese": "你最近的表现不太好, 经常迟到.",
+                "pinyin": "Nǐ zuìjìn de biǎoxiàn bù tài hǎo, jīngcháng chídào.",
+            },
+            {
+                "english": "I think this is not my fault.",
+                "chinese": "我认为这不是我的错.",
+                "pinyin": "Wǒ rènwéi zhè bùshì wǒ de cuò.",
+            },
+            {
+                "english": "What do you think of her performance?",
+                "chinese": "你认为她的表演怎么样?",
+                "pinyin": "Nǐ rènwéi tā de biǎoyǎn zěnme yàng?",
+            },
+            {
+                "english": "This job is tricky, I don't want to do it.",
+                "chinese": "这个工作很麻烦, 我不想做.",
+                "pinyin": "Zhège gōngzuò hěn máfan, wǒ bùxiǎng zuò.",
+            },
+            {
+                "english": "Our boss is annoying.",
+                "chinese": "我们的老板很麻烦.",
+                "pinyin": "Wǒmen de lǎobǎn hěn máfan.",
+            },
+            {
+                "english": "Sorry to have bothered you!",
+                "chinese": "麻烦您了!",
+                "pinyin": "Máfan nínle!",
+            },
+            {
+                "english": "I have meetings every day, I'm very tired!",
+                "chinese": "我每天开会, 非常累!",
+                "pinyin": "Wǒ měitiān kāihuì, fēicháng lèi!",
+            },
+            {
+                "english": "Why did you not call me back in the past three days?",
+                "chinese": "过去三天没为什么你不回我的电话?",
+                "pinyin": "Guòqù sān tiān méi wèishéme nǐ bù huí wǒ de diànhuà?",
+            },
+            {
+                "english": "We all like our boss.",
+                "chinese": "我们都喜欢我们的老板.",
+                "pinyin": "Wǒmen dōu xǐhuān wǒmen de lǎobǎn.",
+            },
+            {
+                "english": "He thinks the decision I made is good.",
+                "chinese": "他认为我的决定很好.",
+                "pinyin": "Tā rènwéi wǒ de juédìng hěn hǎo.",
+            },
+            {
+                "english": "She will make this decision with colleagues.",
+                "chinese": "她会跟同​​事一起做这个决定.",
+                "pinyin": "Tā huì gēn tóng​​shì yīqǐ zuò zhège juédìng.",
+            },
+        ],
+    },
+    "unit 63": {
+        "description": "Discuss Festivals",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/63",
+        "phrases": [
+            {
+                "english": "Congratulations on your promotion!",
+                "chinese": "恭喜你升职了!",
+                "pinyin": "Gōngxǐ nǐ shēng zhíle!",
+            },
+            {
+                "english": "I like rowing boats.",
+                "chinese": "我喜欢划船.",
+                "pinyin": "Wǒ xǐhuān huáchuán.",
+            },
+            {
+                "english": "Next month there will be a reunion at my school.",
+                "chinese": "下个月我的学校有聚会.",
+                "pinyin": "Xià gè yuè wǒ de xuéxiào yǒu jùhuì.",
+            },
+            {
+                "english": "Can you make tofu pudding?",
+                "chinese": "你会做豆花吗?",
+                "pinyin": "Nǐ huì zuò dòuhuā ma.",
+            },
+            {
+                "english": "What do I have to wear for tomorrow's gathering?",
+                "chinese": "明天的聚会我要穿什么?",
+                "pinyin": "Míngtiān de jùhuì wǒ yào chuān shénme?",
+            },
+            {
+                "english": "Does bubble milk tea taste good?",
+                "chinese": "珍珠奶茶好喝吗?",
+                "pinyin": "Zhēnzhū nǎichá hǎo hē ma.",
+            },
+            {
+                "english": "What date is the Dragon Boat Festival this year?",
+                "chinese": "今年端午节几月几号.",
+                "pinyin": "Jīnnián duānwǔ jié jǐ yuè jǐ hào?",
+            },
+            {
+                "english": "These glutinous rice balls are too sweet!",
+                "chinese": "这些汤圆太甜了!",
+                "pinyin": "Zhèxiē tāngyuán tài tiánle!",
+            },
+            {
+                "english": "Have you ever drunk Taiwanese bubble milk tea?",
+                "chinese": "你喝过台湾的珍珠奶茶吗?",
+                "pinyin": "Nǐ hēguò táiwān de zhēnzhū nǎichá ma?",
+            },
+            {
+                "english": "Dragon Boat Festival is my favorite festival.",
+                "chinese": "端午节是我最爱的节日.",
+                "pinyin": "Duānwǔ jié shì wǒ zuì ài de jiérì.",
+            },
+            {
+                "english": "Please give me a bowl of hot tofu pudding.",
+                "chinese": "请给我一碗热豆花.",
+                "pinyin": "Qǐng gěi wǒ yī wǎn rè dòuhuā.",
+            },
+            {
+                "english": "There are vegetables and meat in the spring rolls.",
+                "chinese": "春卷里有蔬菜和肉.",
+                "pinyin": "Chūnjuǎn li yǒu shūcài hé ròu.",
+            },
+            {
+                "english": "May you be prosperous!",
+                "chinese": "恭喜发财!",
+                "pinyin": "Gōngxǐ fācái!",
+            },
+            {
+                "english": "May you be prosperous! Give me a red envelope!",
+                "chinese": "恭喜发财! 红包拿来!",
+                "pinyin": "Gōngxǐ fācái! Hóngbāo ná lái!",
+            },
+            {
+                "english": "We want five steamed buns.",
+                "chinese": "我们要五个馒头.",
+                "pinyin": "Wǒmen yào wǔ gè mántou.",
+            },
+            {
+                "english": "Your eyes are round.",
+                "chinese": "你的眼睛很圆.",
+                "pinyin": "Nǐ de yǎnjīng hěn yuán.",
+            },
+            {
+                "english": "The moon is the roundest during Mid-Autumn Festival.",
+                "chinese": "中秋节的月亮最圆.",
+                "pinyin": "Zhōngqiū jié de yuèliàng zuì yuán.",
+            },
+            {
+                "english": "Have you ever eaten a sticky rice dumpling?",
+                "chinese": "你吃过粽子吗?",
+                "pinyin": "Nǐ chīguò zòngzi ma?",
+            },
+            {
+                "english": "Why do we eat sticky rice dumplings at Dragon Boat Festival?",
+                "chinese": "为什么我们在端午节吃粽子?",
+                "pinyin": "Wèishéme wǒmen zài duānwǔ jié chī zòngzi?",
+            },
+            {
+                "english": "Thank you for your red envelope.",
+                "chinese": "谢谢你的红包.",
+                "pinyin": "Xièxiè nǐ de hóngbāo.",
+            },
+            {
+                "english": "This bowl of hot and sour soup is too spicy!",
+                "chinese": "这碗酸辣汤太辣了!",
+                "pinyin": "Zhè wǎn suān là tāng tài làle!",
+            },
+            {
+                "english": "Is hot and sour soup a Beijing dish?",
+                "chinese": "酸辣汤是北京菜吗?",
+                "pinyin": "Suān là tāng shì běijīng cài ma?",
+            },
+            {
+                "english": "We only want a half of Peking duck.",
+                "chinese": "我们只要半只北京烤鸭.",
+                "pinyin": "Wǒmen zhǐyào bàn zhǐ běijīng kǎoyā.",
+            },
+            {
+                "english": "Can you see the animal on the moon?",
+                "chinese": "你能看见月亮上的动物吗?",
+                "pinyin": "Nǐ néng kànjiàn yuèliàng shàng de dòngwù ma?",
+            },
+            {
+                "english": "I will take part in the dragon boat competition next year.",
+                "chinese": "我明年会参加划龙舟比赛.",
+                "pinyin": "Wǒ míngnián huì cānjiā huà lóngzhōu bǐsài.",
+            },
+            {
+                "english": "We eat glutinous rice balls during Spring Festival.",
+                "chinese": "我们在春节的时候会吃汤圆.",
+                "pinyin": "Wǒmen zài chūnjié de shíhòu huì chī tāngyuán.",
+            },
+            {
+                "english": "What is the difference between steamed buns and buns?",
+                "chinese": "馒头和包子有什么不一样?",
+                "pinyin": "Mántou hé bāozi yǒu shé me bù yīyàng?",
+            },
+            {
+                "english": "My friend and I both love eating braised pork rice.",
+                "chinese": "我和朋友都喜欢吃卤肉饭.",
+                "pinyin": "Wǒ hé péngyǒu dōu xǐhuān chī lǔ ròu fàn.",
+            },
+            {
+                "english": "Congratulations!",
+                "chinese": "恭喜!",
+                "pinyin": "Gōngxǐ!",
+            },
+            {
+                "english": "Her mom can make Kung Pao chicken.",
+                "chinese": "她的妈妈会做宫保鸡丁.",
+                "pinyin": "Tā de māmā huì zuò gōng bǎo jī dīng.",
+            },
+            {
+                "english": "These are the sticky rice dumplings made by my grandma.",
+                "chinese": "这是我奶奶做的粽子.",
+                "pinyin": "Zhè shì wǒ nǎinai zuò de zòngzi.",
+            },
+            {
+                "english": "Is Mid-Autumn Festival more important than Spring Festival?",
+                "chinese": "中秋节比春节重要吗?",
+                "pinyin": "Zhōngqiū jié bǐ chūnjié zhòngyào ma?",
+            },
+            {
+                "english": "There is pork in the braised pork rice.",
+                "chinese": "卤肉饭里有猪肉.",
+                "pinyin": "Lǔ ròu fàn li yǒu zhūròu.",
+            },
+            {
+                "english": "We did not finish eating this Peking duck.",
+                "chinese": "我们没吃完这只北京烤鸭.",
+                "pinyin": "Wǒmen méi chī wán zhè zhǐ běijīng kǎoyā.",
+            },
+            {
+                "english": "Have you rowed a dragon boat before?",
+                "chinese": "你划过龙舟吗?",
+                "pinyin": "Nǐ huàguò lóngzhōu ma?",
+            },
+            {
+                "english": "It is cold, I want to eat hot and sour soup.",
+                "chinese": "天气冷了, 我想喝酸辣汤.",
+                "pinyin": "Tiānqì lěngle, wǒ xiǎng hē suān là tāng.",
+            },
+            {
+                "english": "He ate thirty glutinous rice balls.",
+                "chinese": "他吃了三十个汤圆.",
+                "pinyin": "Tā chīle sānshí gè tāngyuán.",
+            },
+            {
+                "english": "Kung Pao chicken is his favorite Chinese dish.",
+                "chinese": "宫保鸡丁是他最喜欢的中国菜.",
+                "pinyin": "Gōng bǎo jī dīng shì tā zuì xǐhuān de zhōngguó cài.",
+            },
+            {
+                "english": "The moon is round, the mooncake is sweet.",
+                "chinese": "月亮很圆, 月饼很甜.",
+                "pinyin": "Yuèliàng hěn yuán, yuèbǐng hěn tián.",
+            },
+            {
+                "english": "There is money in the red envelope.",
+                "chinese": "红包里有钱.",
+                "pinyin": "Hóngbāo li yǒu qián.",
             },
         ],
     },
