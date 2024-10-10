@@ -1356,4 +1356,336 @@ syllabus = {
             },
         ],
     },
+    "unit 64": {
+        "description": "Use internet slang.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/64",
+        "phrases": [
+            {
+                "english": "I want more fans.",
+                "chinese": "我想有更多的粉丝.",
+                "pinyin": "Wǒ xiǎng yǒu gèng duō de fěnsī.",
+            },
+            {
+                "english": "This provincial tycoon only buys expensive stuff.",
+                "chinese": "这个土豪只买贵的东西.",
+                "pinyin": "Zhège tǔháo zhǐ mǎi guì de dōngxī.",
+            },
+            {
+                "english": "I want to forward this to my friends.",
+                "chinese": "我要把这个转发给朋友.",
+                "pinyin": "Wǒ yào bǎ zhège zhuǎnfā gěi péngyǒu.",
+            },
+            {
+                "english": "I added you as a friend.",
+                "chinese": "我加了你好友.",
+                "pinyin": "Wǒ jiāle nǐ hǎoyǒu.",
+            },
+            {
+                "english": "I don't want to share this piece of cake with you.",
+                "chinese": "我不想跟你分享这块蛋糕.",
+                "pinyin": "Wǒ bùxiǎng gēn nǐ fēnxiǎng zhè kuài dàngāo.",
+            },
+            {
+                "english": "I have been learning Chinese for a year, I'm still a beginner.",
+                "chinese": "我学中文学了一年了, 还是菜鸟.",
+                "pinyin": "Wǒ xué zhōng wénxuéle yī niánle, háishì càiniǎo.",
+            },
+            {
+                "english": "Please forward it to me.",
+                "chinese": "请转发给我.",
+                "pinyin": "Qǐng zhuǎnfā gěi wǒ.",
+            },
+            {
+                "english": "I scroll through Weibo every day.",
+                "chinese": "我每天刷微博.",
+                "pinyin": "Wǒ měitiān shuā wēi bó.",
+            },
+            {
+                "english": "Please give me a like.",
+                "chinese": "请给我一个赞.",
+                "pinyin": "Qǐng gěi wǒ yīgè zàn.",
+            },
+            {
+                "english": "Can we chat on WeChat?",
+                "chinese": "我们可以微信上聊天吗?",
+                "pinyin": "Wǒmen kěyǐ wēixìn shàng liáotiān ma?",
+            },
+            {
+                "english": "Do you have a Weibo account?",
+                "chinese": "你有微博吗?",
+                "pinyin": "Nǐ yǒu wēi bó ma?",
+            },
+            {
+                "english": "What does an otaku like to do?",
+                "chinese": "宅男喜欢做什么?",
+                "pinyin": "Zháinán xǐhuān zuò shénme?",
+            },
+            {
+                "english": "He is tall, rich and handsome, but he's not smart.",
+                "chinese": "虽然他是一个高富帅, 但是不聪明.",
+                "pinyin": "Suīrán tā shì yīgè gāofù shuài, dànshì bù cōngmíng.",
+            },
+            {
+                "english": "He is not tall, rich and handsome, but I love him.",
+                "chinese": "他不是高富帅, 但是我爱他.",
+                "pinyin": "Tā bùshì gāofù shuài, dànshì wǒ ài tā.",
+            },
+            {
+                "english": "I'm a foodie. I like to eat different foods every day.",
+                "chinese": "我是吃货. 我喜欢每天吃不一样的菜.",
+                "pinyin": "Wǒ shì chīhuò. Wǒ xǐhuān měitiān chī bù yīyàng de cài.",
+            },
+            {
+                "english": 'Look at his face, it looks like a "jiong" character.',
+                "chinese": '你看他的脸, 像一个"囧"字一样.',
+                "pinyin": 'Nǐ kàn tā de liǎn, xiàng yīgè "jiǒng" zì yīyàng.',
+            },
+            {
+                "english": 'What does the "jiong" character mean?',
+                "chinese": '"囧"字是什么意思?',
+                "pinyin": '"Jiǒng" zì shì shénme yìsi?',
+            },
+            {
+                "english": "She has one million fans.",
+                "chinese": "她有一百万个粉丝.",
+                "pinyin": "Tā yǒu yībǎi wàn gè fěnsī.",
+            },
+            {
+                "english": "Please add me to your friend list.",
+                "chinese": "请加我好友.",
+                "pinyin": "Qǐng jiā wǒ hǎoyǒu.",
+            },
+            {
+                "english": "I am scrolling through my WeChat Moments.",
+                "chinese": "我在刷我的微信朋友圈.",
+                "pinyin": "Wǒ zài shuā wǒ de wéi xìn péngyǒu quān.",
+            },
+            {
+                "english": "He is an otaku, he only loves to stay home and play computer games.",
+                "chinese": "他是宅男, 只爱在家里玩电脑游戏.",
+                "pinyin": "Tā shì zháinán, zhǐ ài zài jiālǐ wán diànnǎo yóuxì.",
+            },
+            {
+                "english": "Please share this photo with your friends.",
+                "chinese": "请跟你的朋友分享这张照片.",
+                "pinyin": "Qǐng gēn nǐ de péngyǒu fēnxiǎng zhè zhāng zhàopiàn.",
+            },
+            {
+                "english": "I just followed her on Weibo.",
+                "chinese": "我刚才在微博上关注了她.",
+                "pinyin": "Wǒ gāngcái zài wēi bó shàng guānzhùle tā.",
+            },
+            {
+                "english": "My friend and I are booth foodies.",
+                "chinese": "我和我的朋友都是吃货.",
+                "pinyin": "Wǒ hé wǒ de péngyǒu dōu shì chīhuò.",
+            },
+            {
+                "english": "Her eyes are so big, did she use the Meitu app?",
+                "chinese": "她的眼睛真大, 是用了美图应用吗?",
+                "pinyin": "Tā de yǎnjīng zhēn dà, shì yòngle měi tú yìngyòng ma?",
+            },
+            {
+                "english": "This panda is so cute!",
+                "chinese": "这只熊猫太萌了!",
+                "pinyin": "Zhè zhǐ xióngmāo tài méngle!",
+            },
+            {
+                "english": "First take a selfie, then use the Meitu app.",
+                "chinese": "先自拍, 然后用美图应用.",
+                "pinyin": "先自拍, 然后用美图应用.",
+            },
+            {
+                "english": "Have you read these comments?",
+                "chinese": "你看了这些评论吗?",
+                "pinyin": "Nǐ kànle zhèxiē pínglùn ma?",
+            },
+            {
+                "english": "Please help me, I am a beginner.",
+                "chinese": "请帮助我, 我是菜鸟.",
+                "pinyin": "Qǐng bāngzhù wǒ, wǒ shì càiniǎo.",
+            },
+            {
+                "english": "Why do people like taking selfies?",
+                "chinese": "为什么人喜欢自拍?",
+                "pinyin": "Wèishéme rén xǐhuān zìpāi?",
+            },
+            {
+                "english": "Your younger sister is really cute!",
+                "chinese": "你的妹妹真萌!",
+                "pinyin": "Nǐ de mèimei zhēn méng!",
+            },
+            {
+                "english": "Please follow me!",
+                "chinese": "请关注我!",
+                "pinyin": "Qǐng guānzhù wǒ!",
+            },
+            {
+                "english": 'Please click "like" below!',
+                "chinese": "请在下面点赞!",
+                "pinyin": ".",
+            },
+            {
+                "english": "I don't agree with the above comment.",
+                "chinese": "我不同意上面的评论.",
+                "pinyin": ".",
+            },
+            {
+                "english": "How many fans do you have on Weibo?",
+                "chinese": "你在微博上有多少个粉丝?",
+                "pinyin": ".",
+            },
+            {
+                "english": "That beautiful girl does not want to talk to me.",
+                "chinese": "那个美眉不想跟我说话.",
+                "pinyin": ".",
+            },
+        ],
+    },
+    "unit 65": {
+        "description": "Refer to business documents.",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/65",
+        "phrases": [
+            {
+                "english": "Have you read the contract I sent you?",
+                "chinese": "你看了我给发你的合同吗?",
+                "pinyin": "Nǐ kànle wǒ gěi fā nǐ de hétóng ma?",
+            },
+            {
+                "english": "Please sign here.",
+                "chinese": "请在这儿签名.",
+                "pinyin": "Qǐng zài zhè'er qiānmíng.",
+            },
+            {
+                "english": "Our capital is one hundred thousand yuan.",
+                "chinese": "我们的资本是十万元.",
+                "pinyin": "Wǒmen de zīběn shì shí wàn yuán.",
+            },
+            {
+                "english": "The project has finally come to an end.",
+                "chinese": "这个项目终于结束了.",
+                "pinyin": "Zhège xiàngmù zhōngyú jiéshùle.",
+            },
+            {
+                "english": "Our budget is not high.",
+                "chinese": "我们的预算不高.",
+                "pinyin": "Wǒmen de yùsuàn bù gāo.",
+            },
+            {
+                "english": "The cost of this advertisement is low.",
+                "chinese": "这个广告的费用很低.",
+                "pinyin": "Zhège guǎnggào de fèiyòng hěn dī.",
+            },
+            {
+                "english": "Please take a look at this agreement.",
+                "chinese": "请看一下这张协议.",
+                "pinyin": "Qǐng kàn yīxià zhè zhāng xiéyì.",
+            },
+            {
+                "english": "I finished reading that report.",
+                "chinese": "我看完了那个报告.",
+                "pinyin": "Wǒ kàn wánle nàgè bàogào.",
+            },
+            {
+                "english": "What is the next project?",
+                "chinese": "下一个项目是什么?",
+                "pinyin": "Xià yīgè xiàngmù shì shénme?",
+            },
+            {
+                "english": "I have to report to my boss on my work every month.",
+                "chinese": "我每个月都要向老板汇报工作.",
+                "pinyin": "Wǒ měi gè yuè dōu yào xiàng lǎobǎn huìbào gōngzuò.",
+            },
+            {
+                "english": "We still have not seen the agreement.",
+                "chinese": "我们还没看过协议.",
+                "pinyin": "Wǒmen hái méi kànguò xiéyì.",
+            },
+            {
+                "english": "That advertisement is funny.",
+                "chinese": "那个广告很好笑.",
+                "pinyin": "Nàgè guǎnggào hěn hǎoxiào.",
+            },
+            {
+                "english": "Please leave as soon as possible!",
+                "chinese": "请尽快离开!",
+                "pinyin": "Qǐng jǐnkuài líkāi.",
+            },
+            {
+                "english": "The living cost in this city is not low.",
+                "chinese": "住在这个城市的费用不低.",
+                "pinyin": "Zhù zài zhège chéngshì de fèiyòng bù dī.",
+            },
+            {
+                "english": "Is the cost of studying abroad in Australia high?",
+                "chinese": "去澳大利亚的留学费用高吗?",
+                "pinyin": "Qù àodàlìyǎ de liúxué fèiyòng gāo ma?",
+            },
+            {
+                "english": "Is this your signature?",
+                "chinese": "这是你的签名吗?",
+                "pinyin": "Zhè shì nǐ de qiānmíng ma?",
+            },
+            {
+                "english": "Can you give me an English receipt?",
+                "chinese": "可以给我英语收据吗?",
+                "pinyin": "Kěyǐ gěi wǒ yīngyǔ shōujù ma?",
+            },
+            {
+                "english": "How much does a driver cost for a day?",
+                "chinese": "司机一天的费用多少?",
+                "pinyin": "Sījī yītiān de fèiyòng duōshǎo?",
+            },
+            {
+                "english": "The budget for that project is too low.",
+                "chinese": "那个项目的预算太低.",
+                "pinyin": "Nàgè xiàngmù dì yùsuàn tài dī.",
+            },
+            {
+                "english": "What is the budget for this advertisement?",
+                "chinese": "这个广告的预算是多少?",
+                "pinyin": "Zhège guǎnggào de yùsuàn shì duōshǎo?",
+            },
+            {
+                "english": "That project is too difficult.",
+                "chinese": "那个项目太难了.",
+                "pinyin": "Nàgè xiàngmù tài nánle.",
+            },
+            {
+                "english": "The capital for our project is one hundred thousand yuan.",
+                "chinese": "我们的项目的资本是十万元.",
+                "pinyin": "Wǒmen de xiàngmù dì zīběn shì shí wàn yuán.",
+            },
+            {
+                "english": "How much capital does your company have?",
+                "chinese": "你们公司的资本是多少?",
+                "pinyin": "Nǐmen gōngsī de zīběn shì duōshǎo?",
+            },
+            {
+                "english": "Travel costs cannot be reimbursed.",
+                "chinese": "旅游费用不可以报销.",
+                "pinyin": "Lǚyóu fèiyòng bù kěyǐ bàoxiāo.",
+            },
+            {
+                "english": "What is written in the contract?",
+                "chinese": "合同上写了什么?",
+                "pinyin": "Hétóng shàng xiěle shénme?",
+            },
+            {
+                "english": "Can this be reimbursed?",
+                "chinese": "这个可以报销吗?",
+                "pinyin": "Zhège kěyǐ bàoxiāo ma?",
+            },
+            {
+                "english": "Please finish writing the report as soon as possible.",
+                "chinese": "请尽快把报告写完.",
+                "pinyin": "Qǐng jǐnkuài bǎ bàogào xiě wán.",
+            },
+            {
+                "english": "Please give me a receipt.",
+                "chinese": "请给我收据.",
+                "pinyin": "Qǐng gěi wǒ shōujù.",
+            },
+        ],
+    },
 }
