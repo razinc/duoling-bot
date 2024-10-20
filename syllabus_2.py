@@ -1688,4 +1688,270 @@ syllabus = {
             },
         ],
     },
+    "unit 66": {
+        "description": "Discuss business",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/66",
+        "phrases": [
+            {
+                "english": "How much is the consultation fee?",
+                "chinese": "咨询的费用是多少?",
+                "pinyin": "Zīxún de fèiyòng shì duōshǎo?",
+            },
+            {
+                "english": "We need to collaborate.",
+                "chinese": "我们需要合作.",
+                "pinyin": "Wǒmen xūyào hézuò.",
+            },
+            {
+                "english": "Thank you very much!",
+                "chinese": "非常感謝!",
+                "pinyin": "Fēicháng gǎnxiè!",
+            },
+            {
+                "english": "When did this accident happen?",
+                "chinese": "这个意外是在什么时候发生的?",
+                "pinyin": "Zhège yìwài shì zài shénme shíhòu fāshēng de?",
+            },
+            {
+                "english": "She stole my money.",
+                "chinese": "她偷了我的钱.",
+                "pinyin": "Tā tōule wǒ de qián.",
+            },
+            {
+                "english": "Is there a risk free investment?",
+                "chinese": "有没有风险的投资吗?",
+                "pinyin": "Yǒu méiyǒu fēngxiǎn de tóuzī ma?",
+            },
+            {
+                "english": "What do you want to invest in?",
+                "chinese": "你想投资什么?",
+                "pinyin": "Nǐ xiǎng tóuzī shénme?",
+            },
+            {
+                "english": "Hope we can work well together.",
+                "chinese": "希望我们合作愉快.",
+                "pinyin": "Xīwàng wǒmen hézuò yúkuài.",
+            },
+            {
+                "english": "Don't worry! It is not serious.",
+                "chinese": "别担心! 不严重.",
+                "pinyin": "Bié dānxīn! Bù yánzhòng.",
+            },
+            {
+                "english": "Both of my parents are lawyers.",
+                "chinese": "我的父母都是律师.",
+                "pinyin": "Wǒ de fùmǔ dōu shì lǜshī.",
+            },
+            {
+                "english": "When will the police arrive?",
+                "chinese": "警察什么时候会到?",
+                "pinyin": "Jǐngchá shénme shíhòu huì dào?",
+            },
+            {
+                "english": "An accident happened here yesterday.",
+                "chinese": "昨天这里发生了意外.",
+                "pinyin": "Zuótiān zhèlǐ fāshēngle yìwài.",
+            },
+            {
+                "english": "Have a good weekend!",
+                "chinese": "周末愉快!",
+                "pinyin": "Zhōumò yúkuài!",
+            },
+            {
+                "english": "I want to be a police officer.",
+                "chinese": "我想做一个警察.",
+                "pinyin": "Wǒ xiǎng zuò yīgè jǐngchá.",
+            },
+            {
+                "english": "We need to keep the office clean.",
+                "chinese": "我们要保持办公室干净.",
+                "pinyin": "Wǒmen yào bǎochí bàngōngshì gānjìng.",
+            },
+            {
+                "english": "I have plans tonight.",
+                "chinese": "我今天晚上有事.",
+                "pinyin": "Wǒ jīntiān wǎnshàng yǒushì.",
+            },
+            {
+                "english": "Do you think this is an accident?",
+                "chinese": "你觉得这是一个意外吗?",
+                "pinyin": "Nǐ juédé zhè shì yīgè yìwài ma?",
+            },
+            {
+                "english": "Did you call the police?",
+                "chinese": "你报警了吗?",
+                "pinyin": "Nǐ bàojǐngle ma?",
+            },
+            {
+                "english": "Someone stole my things.",
+                "chinese": "有人偷了我的东西.",
+                "pinyin": "Yǒurén tōule wǒ de dōngxī.",
+            },
+            {
+                "english": "This is a serious problem.",
+                "chinese": "这是一个很严重的问题.",
+                "pinyin": "Zhè shì yīgè hěn yánzhòng de wèntí.",
+            },
+            {
+                "english": "Regarding the copyright issue, you need to ask a lawyer.",
+                "chinese": "版权的问题, 你要问律师.",
+                "pinyin": "Bǎnquán de wèntí, nǐ yào wèn lǜshī.",
+            },
+            {
+                "english": "He works at an insurance company.",
+                "chinese": "他在保险公司工作.",
+                "pinyin": "Tā zài bǎoxiǎn gōngsī gōngzuò.",
+            },
+            {
+                "english": "What are the risks of this project?",
+                "chinese": "这个项目有什么风险?",
+                "pinyin": "Zhège xiàngmù yǒu shé me fēngxiǎn?",
+            },
+            {
+                "english": "Are you hurt?",
+                "chinese": "你有没有受伤?",
+                "pinyin": "Nǐ yǒu méiyǒu shòushāng?",
+            },
+            {
+                "english": "Help me! Quick!",
+                "chinese": "救命! 快!",
+                "pinyin": "Jiùmìng! Kuài!.",
+            },
+            {
+                "english": 'No need for the "honorable", my last name is Wang.',
+                "chinese": "免贵, 我姓王.",
+                "pinyin": "Miǎn guì, wǒ xìng wáng.",
+            },
+            {
+                "english": "Please keep quiet.",
+                "chinese": "请保持安静.",
+                "pinyin": "Qǐng bǎochí ānjìng.",
+            },
+            {
+                "english": "Thanks for your hard work.",
+                "chinese": "辛苦你了.",
+                "pinyin": "Xīnkǔ nǐle.",
+            },
+            {
+                "english": "Thank you everyone for helping me.",
+                "chinese": "感谢大家对我的帮助.",
+                "pinyin": "Gǎnxiè dàjiā duì wǒ de bāngzhù.",
+            },
+            {
+                "english": "I bought travel insurance.",
+                "chinese": "我买了旅游保险.",
+                "pinyin": "Wǒ mǎile lǚyóu bǎoxiǎn.",
+            },
+            {
+                "english": "He stole my computer.",
+                "chinese": "他偷了我的电脑.",
+                "pinyin": "Tā tōule wǒ de diànnǎo.",
+            },
+            {
+                "english": "I need to find a lawyer.",
+                "chinese": "我要找一个律师.",
+                "pinyin": "Wǒ yào zhǎo yīgè lǜshī.",
+            },
+            {
+                "english": "Did you buy insurance?",
+                "chinese": "你们有没有买保险?",
+                "pinyin": "Nǐmen yǒu méiyǒu mǎi bǎoxiǎn.",
+            },
+            {
+                "english": "Help!",
+                "chinese": "救命!",
+                "pinyin": "Jiùmìng!",
+            },
+            {
+                "english": "This investment has high risk.",
+                "chinese": "这个投资的风险很高.",
+                "pinyin": "Zhège tóuzī de fēngxiǎn hěn gāo.",
+            },
+            {
+                "english": "What happened?",
+                "chinese": "发生了什么?",
+                "pinyin": "Fāshēngle shénme?",
+            },
+            {
+                "english": "How should we collaborate?",
+                "chinese": "我们应该怎么样合作?",
+                "pinyin": "Wǒmen yīnggāi zěnme yàng hézuò?",
+            },
+            {
+                "english": "Hope we keep in touch more often in the future.",
+                "chinese": "希望我们以后多联系.",
+                "pinyin": "Xīwàng wǒmen yǐhòu duō liánxì.",
+            },
+            {
+                "english": "Please keep in touch.",
+                "chinese": "请保持联系.",
+                "pinyin": "Qǐng bǎochí liánxì.",
+            },
+            {
+                "english": "His job is hard.",
+                "chinese": "他的工作很辛苦.",
+                "pinyin": "Tā de gōngzuò hěn xīnkǔ.",
+            },
+            {
+                "english": "Excuse me, what is your honorable last name?",
+                "chinese": "请问, 您贵姓?",
+                "pinyin": "Qǐngwèn, nín guìxìng?",
+            },
+            {
+                "english": "The police are here!",
+                "chinese": "警察到了!",
+                "pinyin": "Jǐngchá dàole!",
+            },
+            {
+                "english": "I know you are suffering.",
+                "chinese": "我知道你很辛苦.",
+                "pinyin": "Wǒ zhīdào nǐ hěn xīnkǔ.",
+            },
+            {
+                "english": "Please call an ambulance for me.",
+                "chinese": "请帮我叫救护车.",
+                "pinyin": "Qǐng bāng wǒ jiào jiùhù chē.",
+            },
+            {
+                "english": "Help! I am injured!",
+                "chinese": "救命! 我受伤了!",
+                "pinyin": "Jiùmìng! Wǒ shòushāngle!",
+            },
+            {
+                "english": "He had a serious accident and is in the hospital now.",
+                "chinese": "他发生了严重的意外, 现在在医院.",
+                "pinyin": "Tā fāshēngle yánzhòng de yìwài, xiànzài zài yīyuàn.",
+            },
+            {
+                "english": "The ambulance is here.",
+                "chinese": "救护车到了.",
+                "pinyin": "Jiùhù chē dàole.",
+            },
+            {
+                "english": "We will contact you.",
+                "chinese": "我们会跟你联系.",
+                "pinyin": "Wǒmen huì gēn nǐ liánxì.",
+            },
+            {
+                "english": "I want to thank my friends.",
+                "chinese": "我想感谢我的朋友.",
+                "pinyin": "Wǒ xiǎng gǎnxiè wǒ de péngyǒu.",
+            },
+            {
+                "english": "Her head is injured.",
+                "chinese": "她的头受伤了.",
+                "pinyin": "Tā de tóu shòushāngle.",
+            },
+            {
+                "english": "Please don't call the police!",
+                "chinese": "请别报警!",
+                "pinyin": "Qǐng bié bàojǐng.",
+            },
+            {
+                "english": "Excuse me, may I ask where your honorable's company is?",
+                "chinese": "请问贵公司在哪里?",
+                "pinyin": "Qǐngwèn guì gōngsī zài nǎlǐ.",
+            },
+        ],
+    },
 }
