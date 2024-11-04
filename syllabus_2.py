@@ -1954,4 +1954,315 @@ syllabus = {
             },
         ],
     },
+    "unit 67": {
+        "description": "Talk to coworkers",
+        "guide_book": "https://www.duolingo.com/guidebook/zh/67",
+        "phrases": [
+            {
+                "english": "The temperature outside is very high.",
+                "chinese": "外面的温度非常高.",
+                "pinyin": "Wàimiàn de wēndù fēicháng gāo.",
+            },
+            {
+                "english": "Don't put too much pressure on him.",
+                "chinese": "别给他太大压力.",
+                "pinyin": "Bié gěi tā tài dà yālì.",
+            },
+            {
+                "english": "What is the temperature now?",
+                "chinese": "现在几度?",
+                "pinyin": "Xiànzài jǐ dù?",
+            },
+            {
+                "english": "Duo is a smart owl.",
+                "chinese": "多儿是一只很聪明的猫头鹰.",
+                "pinyin": "Duō er shì yī zhǐ hěn cōngmíng de māotóuyīng.",
+            },
+            {
+                "english": "What is the low temperature for tomorrow?",
+                "chinese": "明天最低几度?",
+                "pinyin": "Míngtiān zuìdī jǐ dù?",
+            },
+            {
+                "english": "Don't give up! Come on!",
+                "chinese": "别放弃! 加油!",
+                "pinyin": "Bié fàngqì! Jiāyóu!.",
+            },
+            {
+                "english": "Apologies, please forgive us.",
+                "chinese": "抱歉, 请原谅我们.",
+                "pinyin": "Bàoqiàn, qǐng yuánliàng wǒmen.",
+            },
+            {
+                "english": "We all love this cute owl.",
+                "chinese": "我们都爱这只可爱的猫头鹰.",
+                "pinyin": "Wǒmen dōu ài zhè zhǐ kě'ài de māotóuyīng.",
+            },
+            {
+                "english": "Which animals have green feathers?",
+                "chinese": "什么动物有绿色的羽毛?",
+                "pinyin": "Shénme dòngwù yǒu lǜsè de yǔmáo?",
+            },
+            {
+                "english": "During the summer, I like to go to cool places.",
+                "chinese": "在夏天, 我喜欢去凉快的地方.",
+                "pinyin": "Zài xiàtiān, wǒ xǐhuān qù liángkuai dì dìfāng.",
+            },
+            {
+                "english": "We have no bonus this year.",
+                "chinese": "今年我们没有奖金.",
+                "pinyin": "Jīnnián wǒmen méiyǒu jiǎngjīn.",
+            },
+            {
+                "english": "My apologies! I can't help you this time.",
+                "chinese": "抱歉! 这次我不能帮你.",
+                "pinyin": "Bàoqiàn! Zhè cì wǒ bùnéng bāng nǐ.",
+            },
+            {
+                "english": "The weather in the fall is cool.",
+                "chinese": "秋天的天气很凉快.",
+                "pinyin": "Qiūtiān de tiānqì hěn liángkuai.",
+            },
+            {
+                "english": "He has an orange mouth.",
+                "chinese": "他有橙色的嘴巴.",
+                "pinyin": "Tā yǒu chéngsè de zuǐbā.",
+            },
+            {
+                "english": "If you give up, Duo will be very upset.",
+                "chinese": "如果你放弃, 多儿会非常难过.",
+                "pinyin": "Rúguǒ nǐ fàngqì, duō er huì fēicháng nánguò.",
+            },
+            {
+                "english": "This shop has good business.",
+                "chinese": "这家商店的生意很好.",
+                "pinyin": "Zhè jiā shāngdiàn de shēngyì hěn hǎo.",
+            },
+            {
+                "english": "The temperature now is approximately 15 degrees.",
+                "chinese": "现在的温度大约是十五度.",
+                "pinyin": "Xiànzài de wēndù dàyuē shì shíwǔ dù.",
+            },
+            {
+                "english": "Please remind her to take medicines.",
+                "chinese": "请提醒她吃药.",
+                "pinyin": "Qǐng tíxǐng tā chī yào.",
+            },
+            {
+                "english": "The temperature in the office is too low, many people are sick.",
+                "chinese": "办公室里的温度太低, 很多人都生病了.",
+                "pinyin": "Bàngōngshì lǐ de wēndù tài dī, hěnduō rén dōu shēngbìngle.",
+            },
+            {
+                "english": "The weather now is dry and also cool.",
+                "chinese": "现在的天气很干燥也很凉快.",
+                "pinyin": "Xiànzài de tiānqì hěn gānzào yě hěn liángkuai.",
+            },
+            {
+                "english": "He also needs to work overtime tonight.",
+                "chinese": "他今天晚上也要加班.",
+                "pinyin": "Tā jīntiān wǎnshàng yě yào jiābān.",
+            },
+            {
+                "english": "I need to discuss something with you.",
+                "chinese": "我要跟你商量一件事情.",
+                "pinyin": "Wǒ yào gēn nǐ shāngliáng yī jiàn shìqíng.",
+            },
+            {
+                "english": "This job has a high salary, but is a lot of pressure.",
+                "chinese": "这个工作工资高, 但是压力很大.",
+                "pinyin": "Zhège gōngzuò gōngzī gāo, dànshì yālì hěn dà.",
+            },
+            {
+                "english": "He will definitely not forgive you.",
+                "chinese": "他一定不会原谅你.",
+                "pinyin": "Tā yīdìng bù huì yuánliàng nǐ.",
+            },
+            {
+                "english": "My boss didn't pay my salary last month.",
+                "chinese": "我的老板上个月没有给我工资.",
+                "pinyin": "Wǒ de lǎobǎn shàng gè yuè méiyǒu gěi wǒ gōngzī.",
+            },
+            {
+                "english": "Duo ate an orange today.",
+                "chinese": "多儿今天吃了一个橙.",
+                "pinyin": "Duō er jīntiān chīle yīgè chéng.",
+            },
+            {
+                "english": "Do you need my opinion?",
+                "chinese": "你需要我的意见吗?",
+                "pinyin": "Nǐ xūyào wǒ de yìjiàn ma.",
+            },
+            {
+                "english": "I would like to discuss it with the boss first.",
+                "chinese": "我想先跟老板商量一下.",
+                "pinyin": "Wǒ xiǎng xiān gēn lǎobǎn shāngliáng yīxià.",
+            },
+            {
+                "english": "If you are lazy, Duo will cry.",
+                "chinese": "如果你很懒, 多儿会哭.",
+                "pinyin": "Rúguǒ nǐ hěn lǎn, duō er huì kū.",
+            },
+            {
+                "english": "That little bird has red feathers.",
+                "chinese": "那只小鸟有红色的羽毛.",
+                "pinyin": "Nà zhǐ xiǎo niǎo yǒu hóngsè de yǔmáo.",
+            },
+            {
+                "english": "I think you misunderstood her.",
+                "chinese": "我觉得你误会她了.",
+                "pinyin": "Wǒ juédé nǐ wùhuì tāle.",
+            },
+            {
+                "english": "Whose responsibility is this?",
+                "chinese": "这是谁的责任?",
+                "pinyin": "Zhè shì shéi de zérèn?",
+            },
+            {
+                "english": "Our business is not good now.",
+                "chinese": "现在我们的生意不好.",
+                "pinyin": "Xiànzài wǒmen de shēngyì bù hǎo?",
+            },
+            {
+                "english": "What are the responsibilities of a parent?",
+                "chinese": "父母的责任是什么?",
+                "pinyin": "Fùmǔ de zérèn shì shénme?",
+            },
+            {
+                "english": "This is a misunderstanding!",
+                "chinese": "这是一个误会!",
+                "pinyin": "Zhè shì yīgè wùhuì!",
+            },
+            {
+                "english": "I am under a lot of pressure at work recently.",
+                "chinese": "最近我的工作压力很大.",
+                "pinyin": "Zuìjìn wǒ de gōngzuò yālì hěn dà.",
+            },
+            {
+                "english": "I don't have an opinion.",
+                "chinese": "我没有意见.",
+                "pinyin": "Wǒ méiyǒu yìjiàn.",
+            },
+            {
+                "english": "Duo doesn't like lazy people.",
+                "chinese": "多儿不喜欢懒的人.",
+                "pinyin": "Duō er bu xǐhuān lǎn de rén.",
+            },
+            {
+                "english": "Tomorrow will be warmer than today.",
+                "chinese": "明天会比今天暖和.",
+                "pinyin": "Míngtiān huì bǐ jīntiān nuǎnhuo.",
+            },
+            {
+                "english": "The weather is dry, you need to drink more water.",
+                "chinese": "天气很干燥, 你要多喝水.",
+                "pinyin": "Tiānqì hěn gānzào, nǐ yào duō hē shuǐ.",
+            },
+            {
+                "english": "How much was the bonus last year?",
+                "chinese": "去年的奖金是多少?",
+                "pinyin": "Qùnián de jiǎngjīn shì duōshǎo?",
+            },
+            {
+                "english": "He likes to send you emails to encourage you to study.",
+                "chinese": "他喜欢给你发电子邮件, 鼓励你学习.",
+                "pinyin": "Tā xǐhuān gěi nǐ fā diànzǐ yóujiàn, gǔlì nǐ xuéxí.",
+            },
+            {
+                "english": "This is my fault, please forgive me.",
+                "chinese": "这是我的错, 请原谅我.",
+                "pinyin": "Zhè shì wǒ de cuò, qǐng yuánliàng wǒ.",
+            },
+            {
+                "english": "Duo encourages us to study every day.",
+                "chinese": "多儿鼓励我们每天学习.",
+                "pinyin": "Duō er gǔlì wǒmen měitiān xuéxí.",
+            },
+            {
+                "english": "That shirt is approximately five hundred yuan.",
+                "chinese": "那件衬衫大约五百块.",
+                "pinyin": "Nà jiàn chènshān dàyuē wǔbǎi kuài.",
+            },
+            {
+                "english": "Duo is an owl, he's seven years old this year.",
+                "chinese": "多儿是一只猫头鹰, 今年七岁.",
+                "pinyin": "Duō er shì yī zhǐ māotóuyīng, jīnnián qī suì.",
+            },
+            {
+                "english": "I will discuss this matter with my wife.",
+                "chinese": "我会跟我的妻子商量这件事情.",
+                "pinyin": "Wǒ huì gēn wǒ de qī zǐ shāngliáng zhè jiàn shìqíng.",
+            },
+            {
+                "english": "She is approximately forty.",
+                "chinese": "她大约四十岁.",
+                "pinyin": "Tā dàyuē sìshí suì.",
+            },
+            {
+                "english": "Duo has green feathers.",
+                "chinese": "多儿有绿色的羽毛.",
+                "pinyin": "Duō er yǒu lǜsè de yǔmáo.",
+            },
+            {
+                "english": "Duo lives in Duolingo.",
+                "chinese": "多儿住在多邻国.",
+                "pinyin": "Duō er zhù zài duō lín guó.",
+            },
+            {
+                "english": "You misunderstood me.",
+                "chinese": "你误会我了.",
+                "pinyin": "Nǐ wùhuì wǒle.",
+            },
+            {
+                "english": "Who likes to send you email reminders?",
+                "chinese": "谁喜欢给你发提醒电子邮件?",
+                "pinyin": "Shéi xǐhuān gěi nǐ fā tíxǐng diànzǐ yóujiàn.",
+            },
+            {
+                "english": "This is not my responsibility.",
+                "chinese": "这不是我的责任.",
+                "pinyin": "Zhè bùshì wǒ de zérèn.",
+            },
+            {
+                "english": "He also has small orange feet.",
+                "chinese": "他也有橙色的小脚.",
+                "pinyin": "Tā yěyǒu chéngsè de xiǎojiǎo.",
+            },
+            {
+                "english": "I like warm weather.",
+                "chinese": "我喜欢暖和的天气.",
+                "pinyin": "Wǒ xǐhuān nuǎnhuo de tiānqì.",
+            },
+            {
+                "english": "She worked overtime yesterday and only came back late.",
+                "chinese": "她昨天加班, 很晚才回来.",
+                "pinyin": "Tā zuótiān jiābān, hěn wǎn cái huílái.",
+            },
+            {
+                "english": "Do you like dry weather?",
+                "chinese": "你喜欢干燥的天气吗?",
+                "pinyin": "Nǐ xǐhuān gānzào de tiānqì ma?",
+            },
+            {
+                "english": "When does the company pay bonuses?",
+                "chinese": "公司什么时候发奖金?",
+                "pinyin": "Gōngsī shénme shíhòu fā jiǎngjīn?",
+            },
+            {
+                "english": "What is your opinion regarding this matter?",
+                "chinese": "你对这件事情有什么意见?",
+                "pinyin": "Nǐ duì zhè jiàn shìqíng yǒu shé me yìjiàn.",
+            },
+            {
+                "english": "Duo encourages us to never give up on learning.",
+                "chinese": "多儿鼓励我们从不放弃学习.",
+                "pinyin": "Duō er gǔlì wǒmen cóng bù fàngqì xuéxí.",
+            },
+            {
+                "english": "It is warm today, let's go out!",
+                "chinese": "今天很暖和, 我们出去吧!",
+                "pinyin": "Jīntiān hěn nuǎnhuo, wǒmen chūqù ba!",
+            },
+        ],
+    },
 }
